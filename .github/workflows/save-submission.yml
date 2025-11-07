@@ -1,0 +1,45 @@
+name: Save Form Submission
+
+# Triggered by repository_dispatch event from the serverless function
+on:
+  repository_dispatch:
+    types: [form_submission]
+
+jobs:
+  save-submission:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up submission data
+        run: |
+          # Create submissions directory if it doesn't exist
+          mkdir -p submissions
+          
+          # Generate unique filename with timestamp
+          FILENAME="submission_$(date +%Y%m%d_%H%M%S).json"
+          
+          # Save the submission data
+          echo '${{ toJson(github.event.client_payload) }}' > submissions/$FILENAME
+          
+          echo "Saved submission to submissions/$FILENAME"
+      
+      - name: Commit and push submission
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add submissions/
+          git commit -m "Add new form submission $(date +%Y-%m-%d\ %H:%M:%S)"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Generate summary
+        run: |
+          echo "✅ Form submission saved successfully!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Submission Details:**" >> $GITHUB_STEP_SUMMARY
+          echo "- Timestamp: $(date)" >> $GITHUB_STEP_SUMMARY
+          echo "- Communication Style: ${{ github.event.client_payload.communicationStyle }}" >> $GITHUB_STEP_SUMMARY
