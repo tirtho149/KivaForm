@@ -57,7 +57,7 @@
       const [isSubmitting, setIsSubmitting] = useState(false);
 
       // Google Apps Script Web App URL
-      const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyzZ5NY5GOKD3Uj4ufk_pYAAcSvTqvo2iuWJGvMRvEDa3wh8XxTaTHrNweilWAnlOZgzA/exec';
+      const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyh999bwYvEFyB77ipR8L3LLQPFhWiTl62gX72iEdxdl2vTMO0Gr1Q97XdU4jRj3nmeRw/exec';
 
       const assessmentCategories = {
         'Credibility': 'Appeals based on source expertise, trustworthiness, and authority',
@@ -210,11 +210,7 @@
                             onChange={(e) => handleChange(`${category}Credibility`, e.target.value)}
                             className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
                           >
-                            <option value="">
-                              {category === 'economic' && 'Financial viability, cost-effectiveness, economic benefits'}
-                              {category === 'environmental' && 'Ecological impact, resource conservation, protection'}
-                              {category === 'social' && 'Community welfare, equity, social responsibility'}
-                            </option>
+                            <option value="">Select rating...</option>
                             {Object.entries(ratingDescriptions).map(([value, label]) => (
                               <option key={value} value={value}>{value} - {label}</option>
                             ))}
@@ -238,11 +234,7 @@
                             onChange={(e) => handleChange(`${category}Emotional`, e.target.value)}
                             className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
                           >
-                            <option value="">
-                              {category === 'economic' && 'Financial viability, cost-effectiveness, economic benefits'}
-                              {category === 'environmental' && 'Ecological impact, resource conservation, protection'}
-                              {category === 'social' && 'Community welfare, equity, social responsibility'}
-                            </option>
+                            <option value="">Select rating...</option>
                             {Object.entries(ratingDescriptions).map(([value, label]) => (
                               <option key={value} value={value}>{value} - {label}</option>
                             ))}
@@ -266,11 +258,7 @@
                             onChange={(e) => handleChange(`${category}Logic`, e.target.value)}
                             className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
                           >
-                            <option value="">
-                              {category === 'economic' && 'Financial viability, cost-effectiveness, economic benefits'}
-                              {category === 'environmental' && 'Ecological impact, resource conservation, protection'}
-                              {category === 'social' && 'Community welfare, equity, social responsibility'}
-                            </option>
+                            <option value="">Select rating...</option>
                             {Object.entries(ratingDescriptions).map(([value, label]) => (
                               <option key={value} value={value}>{value} - {label}</option>
                             ))}
@@ -294,11 +282,7 @@
                             onChange={(e) => handleChange(`${category}Timing`, e.target.value)}
                             className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
                           >
-                            <option value="">
-                              {category === 'economic' && 'Financial viability, cost-effectiveness, economic benefits'}
-                              {category === 'environmental' && 'Ecological impact, resource conservation, protection'}
-                              {category === 'social' && 'Community welfare, equity, social responsibility'}
-                            </option>
+                            <option value="">Select rating...</option>
                             {Object.entries(ratingDescriptions).map(([value, label]) => (
                               <option key={value} value={value}>{value} - {label}</option>
                             ))}
