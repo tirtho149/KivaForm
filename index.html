@@ -15,7 +15,7 @@
   <script type="text/babel">
     const { useState } = React;
 
-    // Lucide Icons as inline SVG
+    // Icons
     const AlertCircle = () => (
       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
         <circle cx="12" cy="12" r="10"></circle>
@@ -37,26 +37,58 @@
       </svg>
     );
 
-    const SustainabilityForm = () => {
-      const [formData, setFormData] = useState({
-        economicCredibility: '',
-        environmentalCredibility: '',
-        socialCredibility: '',
-        economicEmotional: '',
-        environmentalEmotional: '',
-        socialEmotional: '',
-        economicLogic: '',
-        environmentalLogic: '',
-        socialLogic: '',
-        economicTiming: '',
-        environmentalTiming: '',
-        socialTiming: ''
-      });
+    const ChevronLeft = () => (
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <polyline points="15 18 9 12 15 6"></polyline>
+      </svg>
+    );
 
+    const ChevronRight = () => (
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <polyline points="9 18 15 12 9 6"></polyline>
+      </svg>
+    );
+
+    const SustainabilityForm = () => {
+      const [currentPage, setCurrentPage] = useState(0); // 0 = evaluator info, 1-5 = samples
+      const [evaluatorId, setEvaluatorId] = useState('');
       const [status, setStatus] = useState({ type: '', message: '' });
       const [isSubmitting, setIsSubmitting] = useState(false);
+      
+      // Store ratings for all 5 samples
+      const [samplesData, setSamplesData] = useState([
+        { // Sample 1
+          economicCredibility: '', environmentalCredibility: '', socialCredibility: '',
+          economicEmotional: '', environmentalEmotional: '', socialEmotional: '',
+          economicLogic: '', environmentalLogic: '', socialLogic: '',
+          economicTiming: '', environmentalTiming: '', socialTiming: ''
+        },
+        { // Sample 2
+          economicCredibility: '', environmentalCredibility: '', socialCredibility: '',
+          economicEmotional: '', environmentalEmotional: '', socialEmotional: '',
+          economicLogic: '', environmentalLogic: '', socialLogic: '',
+          economicTiming: '', environmentalTiming: '', socialTiming: ''
+        },
+        { // Sample 3
+          economicCredibility: '', environmentalCredibility: '', socialCredibility: '',
+          economicEmotional: '', environmentalEmotional: '', socialEmotional: '',
+          economicLogic: '', environmentalLogic: '', socialLogic: '',
+          economicTiming: '', environmentalTiming: '', socialTiming: ''
+        },
+        { // Sample 4
+          economicCredibility: '', environmentalCredibility: '', socialCredibility: '',
+          economicEmotional: '', environmentalEmotional: '', socialEmotional: '',
+          economicLogic: '', environmentalLogic: '', socialLogic: '',
+          economicTiming: '', environmentalTiming: '', socialTiming: ''
+        },
+        { // Sample 5
+          economicCredibility: '', environmentalCredibility: '', socialCredibility: '',
+          economicEmotional: '', environmentalEmotional: '', socialEmotional: '',
+          economicLogic: '', environmentalLogic: '', socialLogic: '',
+          economicTiming: '', environmentalTiming: '', socialTiming: ''
+        }
+      ]);
 
-      // Google Apps Script Web App URL
       const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyh999bwYvEFyB77ipR8L3LLQPFhWiTl62gX72iEdxdl2vTMO0Gr1Q97XdU4jRj3nmeRw/exec';
 
       const assessmentCategories = {
@@ -73,261 +105,416 @@
       };
 
       const ratingDescriptions = {
-        '1': 'Very Weak',
-        '2': 'Weak',
-        '3': 'Strong',
-        '4': 'Very Strong'
+        '1': 'Highly ineffective',
+        '2': 'Somewhat ineffective',
+        '3': 'Somewhat effective',
+        '4': 'Highly effective'
       };
 
-      const handleChange = (field, value) => {
-        setFormData(prev => ({ ...prev, [field]: value }));
+      const handleSampleChange = (sampleIndex, field, value) => {
+        const newSamplesData = [...samplesData];
+        newSamplesData[sampleIndex][field] = value;
+        setSamplesData(newSamplesData);
       };
 
-      const handleSubmit = async () => {
+      const validateEvaluatorPage = () => {
+        if (!evaluatorId.trim()) {
+          setStatus({ type: 'error', message: 'Please enter your email address' });
+          return false;
+        }
+        // Basic email validation
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        if (!emailRegex.test(evaluatorId)) {
+          setStatus({ type: 'error', message: 'Please enter a valid email address' });
+          return false;
+        }
+        return true;
+      };
+
+      const validateCurrentSample = () => {
+        const sampleIndex = currentPage - 1;
+        const sample = samplesData[sampleIndex];
+        const emptyFields = Object.entries(sample).filter(([_, value]) => !value);
+        
+        if (emptyFields.length > 0) {
+          setStatus({ type: 'error', message: `Please complete all ratings for Pitch ${currentPage}` });
+          return false;
+        }
+        return true;
+      };
+
+      const handleNext = () => {
+        setStatus({ type: '', message: '' });
+        
+        if (currentPage === 0) {
+          if (validateEvaluatorPage()) {
+            setCurrentPage(1);
+          }
+        } else if (currentPage < 5) {
+          if (validateCurrentSample()) {
+            setCurrentPage(currentPage + 1);
+          }
+        }
+      };
+
+      const handleBack = () => {
+        setStatus({ type: '', message: '' });
+        if (currentPage > 0) {
+          setCurrentPage(currentPage - 1);
+        }
+      };
+
+      const handleSubmitAll = async () => {
+        if (!validateCurrentSample()) return;
+
         setIsSubmitting(true);
         setStatus({ type: '', message: '' });
 
-        // Validate all fields are filled
-        const emptyFields = Object.entries(formData).filter(([_, value]) => !value);
-        if (emptyFields.length > 0) {
-          setStatus({ 
-            type: 'error', 
-            message: 'Please fill in all fields before submitting.' 
-          });
-          setIsSubmitting(false);
-          return;
-        }
-
         try {
-          const submission = {
-            timestamp: new Date().toISOString(),
-            ratings: {
-              credibility: {
-                economic: formData.economicCredibility,
-                environmental: formData.environmentalCredibility,
-                social: formData.socialCredibility
-              },
-              emotionalAppeal: {
-                economic: formData.economicEmotional,
-                environmental: formData.environmentalEmotional,
-                social: formData.socialEmotional
-              },
-              logic: {
-                economic: formData.economicLogic,
-                environmental: formData.environmentalLogic,
-                social: formData.socialLogic
-              },
-              timing: {
-                economic: formData.economicTiming,
-                environmental: formData.environmentalTiming,
-                social: formData.socialTiming
+          // Submit all 5 samples
+          for (let i = 0; i < 5; i++) {
+            const submission = {
+              timestamp: new Date().toISOString(),
+              evaluatorId: evaluatorId,
+              sampleNumber: i + 1,
+              ratings: {
+                credibility: {
+                  economic: samplesData[i].economicCredibility,
+                  environmental: samplesData[i].environmentalCredibility,
+                  social: samplesData[i].socialCredibility
+                },
+                emotionalAppeal: {
+                  economic: samplesData[i].economicEmotional,
+                  environmental: samplesData[i].environmentalEmotional,
+                  social: samplesData[i].socialEmotional
+                },
+                logic: {
+                  economic: samplesData[i].economicLogic,
+                  environmental: samplesData[i].environmentalLogic,
+                  social: samplesData[i].socialLogic
+                },
+                timing: {
+                  economic: samplesData[i].economicTiming,
+                  environmental: samplesData[i].environmentalTiming,
+                  social: samplesData[i].socialTiming
+                }
               }
-            }
-          };
+            };
 
-          const response = await fetch(APPS_SCRIPT_URL, {
-            method: 'POST',
-            mode: 'no-cors',
-            headers: {
-              'Content-Type': 'application/json',
-            },
-            body: JSON.stringify(submission)
-          });
+            await fetch(APPS_SCRIPT_URL, {
+              method: 'POST',
+              mode: 'no-cors',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify(submission)
+            });
+          }
 
-          // Note: With no-cors mode, we can't read the response
-          // But if we get here without error, it likely worked
           setStatus({ 
             type: 'success', 
-            message: 'Form submitted successfully! Your response has been recorded in the Google Sheet.' 
+            message: 'All 5 loan pitches submitted successfully! Thank you for your analysis.' 
           });
           
-          // Reset form
-          setFormData({
-            economicCredibility: '',
-            environmentalCredibility: '',
-            socialCredibility: '',
-            economicEmotional: '',
-            environmentalEmotional: '',
-            socialEmotional: '',
-            economicLogic: '',
-            environmentalLogic: '',
-            socialLogic: '',
-            economicTiming: '',
-            environmentalTiming: '',
-            socialTiming: ''
-          });
+          // Reset form after 3 seconds
+          setTimeout(() => {
+            setCurrentPage(0);
+            setEvaluatorId('');
+            setSamplesData([
+              { economicCredibility: '', environmentalCredibility: '', socialCredibility: '',
+                economicEmotional: '', environmentalEmotional: '', socialEmotional: '',
+                economicLogic: '', environmentalLogic: '', socialLogic: '',
+                economicTiming: '', environmentalTiming: '', socialTiming: '' },
+              { economicCredibility: '', environmentalCredibility: '', socialCredibility: '',
+                economicEmotional: '', environmentalEmotional: '', socialEmotional: '',
+                economicLogic: '', environmentalLogic: '', socialLogic: '',
+                economicTiming: '', environmentalTiming: '', socialTiming: '' },
+              { economicCredibility: '', environmentalCredibility: '', socialCredibility: '',
+                economicEmotional: '', environmentalEmotional: '', socialEmotional: '',
+                economicLogic: '', environmentalLogic: '', socialLogic: '',
+                economicTiming: '', environmentalTiming: '', socialTiming: '' },
+              { economicCredibility: '', environmentalCredibility: '', socialCredibility: '',
+                economicEmotional: '', environmentalEmotional: '', socialEmotional: '',
+                economicLogic: '', environmentalLogic: '', socialLogic: '',
+                economicTiming: '', environmentalTiming: '', socialTiming: '' },
+              { economicCredibility: '', environmentalCredibility: '', socialCredibility: '',
+                economicEmotional: '', environmentalEmotional: '', socialEmotional: '',
+                economicLogic: '', environmentalLogic: '', socialLogic: '',
+                economicTiming: '', environmentalTiming: '', socialTiming: '' }
+            ]);
+            setStatus({ type: '', message: '' });
+          }, 3000);
 
         } catch (error) {
-          setStatus({ 
-            type: 'error', 
-            message: 'Failed to submit form. Please try again.' 
-          });
+          setStatus({ type: 'error', message: 'Failed to submit. Please try again.' });
         } finally {
           setIsSubmitting(false);
         }
       };
 
+      // Evaluator Info Page
+      if (currentPage === 0) {
+        return (
+          <div className="min-h-screen bg-gradient-to-br from-green-50 to-blue-50 p-4 md:p-8">
+            <div className="max-w-2xl mx-auto bg-white rounded-xl shadow-lg p-8">
+              <h1 className="text-3xl font-bold text-gray-800 mb-2">
+                Kiva Loan Pitch Analysis
+              </h1>
+              <p className="text-gray-600 mb-6">
+                This activity is designed to help you apply key marketing principles by analyzing real-world loan pitches from the microlending platform Kiva. Each pitch presents a case for funding a small business, using different persuasive strategies—such as logical reasoning, emotional appeals, credibility, urgency, and clarity—to connect with potential lenders.
+              </p>
+
+              <div className="space-y-6">
+                <div>
+                  <label className="block text-lg font-semibold text-gray-800 mb-3">
+                    Write your email below:
+                  </label>
+                  <input
+                    type="email"
+                    value={evaluatorId}
+                    onChange={(e) => setEvaluatorId(e.target.value)}
+                    placeholder="your.email@example.com"
+                    className="w-full p-4 border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent text-lg"
+                  />
+                </div>
+
+                <div className="bg-blue-50 p-6 rounded-lg">
+                  <h3 className="font-semibold text-lg mb-2">Assessment Scale:</h3>
+                  <ul className="list-disc list-inside space-y-2 text-gray-700">
+                    <li><strong>Highly effective</strong></li>
+                    <li><strong>Somewhat effective</strong></li>
+                    <li><strong>Somewhat ineffective</strong></li>
+                    <li><strong>Highly ineffective</strong></li>
+                  </ul>
+                  <p className="mt-4 text-gray-700">You will evaluate 5 different loan pitches using these criteria.</p>
+                </div>
+
+                {status.message && (
+                  <div className={`flex items-start gap-2 p-4 rounded-lg ${
+                    status.type === 'success' ? 'bg-green-50 text-green-800' : 'bg-red-50 text-red-800'
+                  }`}>
+                    <div className="flex-shrink-0 mt-0.5">
+                      {status.type === 'success' ? <CheckCircle /> : <AlertCircle />}
+                    </div>
+                    <span>{status.message}</span>
+                  </div>
+                )}
+
+                <button
+                  onClick={handleNext}
+                  className="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-4 px-6 rounded-lg transition-colors flex items-center justify-center gap-2"
+                >
+                  Start Analysis
+                  <ChevronRight />
+                </button>
+              </div>
+            </div>
+          </div>
+        );
+      }
+
+      // Sample Evaluation Pages (1-5)
+      const sampleIndex = currentPage - 1;
+      const currentSample = samplesData[sampleIndex];
+
       return (
         <div className="min-h-screen bg-gradient-to-br from-green-50 to-blue-50 p-4 md:p-8">
           <div className="max-w-5xl mx-auto bg-white rounded-xl shadow-lg p-6 md:p-8">
-            <h1 className="text-3xl font-bold text-gray-800 mb-2">
-              Sustainability Communication Assessment
-            </h1>
-            <p className="text-gray-600 mb-8">
-              Rate the effectiveness of communication strategies across different sustainability dimensions
+            {/* Header with Progress */}
+            <div className="mb-6">
+              <div className="flex items-center justify-between mb-4">
+                <div>
+                  <h1 className="text-3xl font-bold text-gray-800">
+                    Pitch {currentPage} of 5
+                  </h1>
+                  <p className="text-gray-600">Email: {evaluatorId}</p>
+                </div>
+                <div className="text-right">
+                  <div className="text-sm text-gray-600 mb-1">Progress</div>
+                  <div className="text-2xl font-bold text-blue-600">{currentPage}/5</div>
+                </div>
+              </div>
+              
+              {/* Progress Bar */}
+              <div className="w-full bg-gray-200 rounded-full h-2">
+                <div 
+                  className="bg-blue-600 h-2 rounded-full transition-all duration-300"
+                  style={{ width: `${(currentPage / 5) * 100}%` }}
+                ></div>
+              </div>
+            </div>
+
+            <p className="text-gray-600 mb-6">
+              Use the following four-point scale to assess each pitch based on the persuasive strategies used.
             </p>
 
-            <div className="space-y-8">
-              {/* Rating Grid */}
-              <div className="overflow-x-auto">
-                <table className="w-full border-collapse">
-                  <thead>
-                    <tr className="bg-gray-100">
-                      <th className="border-2 border-gray-300 p-4 text-left font-semibold">
-                        Assessment Category
+            {/* Rating Table */}
+            <div className="overflow-x-auto mb-6">
+              <table className="w-full border-collapse">
+                <thead>
+                  <tr className="bg-gray-100">
+                    <th className="border-2 border-gray-300 p-4 text-left font-semibold">
+                      Assessment Category
+                    </th>
+                    {Object.entries(sustainabilityCategories).map(([category, description]) => (
+                      <th key={category} className="border-2 border-gray-300 p-4 text-center relative group">
+                        <div className="font-semibold mb-1 cursor-help">{category}</div>
+                        <div className="absolute left-1/2 transform -translate-x-1/2 top-full mt-2 w-64 bg-gray-800 text-white text-xs p-3 rounded-lg shadow-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-10">
+                          {description}
+                          <div className="absolute bottom-full left-1/2 transform -translate-x-1/2 border-8 border-transparent border-b-gray-800"></div>
+                        </div>
                       </th>
-                      {Object.entries(sustainabilityCategories).map(([category, description]) => (
-                        <th key={category} className="border-2 border-gray-300 p-4 text-center relative group">
-                          <div className="font-semibold mb-1 cursor-help">{category}</div>
-                          <div className="absolute left-1/2 transform -translate-x-1/2 top-full mt-2 w-64 bg-gray-800 text-white text-xs p-3 rounded-lg shadow-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-10">
-                            {description}
-                            <div className="absolute bottom-full left-1/2 transform -translate-x-1/2 border-8 border-transparent border-b-gray-800"></div>
-                          </div>
-                        </th>
-                      ))}
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {/* Credibility Row */}
-                    <tr className="hover:bg-gray-50">
-                      <td className="border-2 border-gray-300 p-4 font-medium bg-gray-50 relative group">
-                        <div className="font-semibold text-lg cursor-help">Credibility</div>
-                        <div className="absolute left-full ml-2 top-1/2 transform -translate-y-1/2 w-72 bg-gray-800 text-white text-sm p-3 rounded-lg shadow-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-10">
-                          {assessmentCategories['Credibility']}
-                          <div className="absolute right-full top-1/2 transform -translate-y-1/2 border-8 border-transparent border-r-gray-800"></div>
-                        </div>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody>
+                  {/* Credibility Row */}
+                  <tr className="hover:bg-gray-50">
+                    <td className="border-2 border-gray-300 p-4 font-medium bg-gray-50 relative group">
+                      <div className="font-semibold text-lg cursor-help">Credibility</div>
+                      <div className="absolute left-full ml-2 top-1/2 transform -translate-y-1/2 w-72 bg-gray-800 text-white text-sm p-3 rounded-lg shadow-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-10">
+                        {assessmentCategories['Credibility']}
+                        <div className="absolute right-full top-1/2 transform -translate-y-1/2 border-8 border-transparent border-r-gray-800"></div>
+                      </div>
+                    </td>
+                    {['economic', 'environmental', 'social'].map((category) => (
+                      <td key={category} className="border-2 border-gray-300 p-4">
+                        <select
+                          value={currentSample[`${category}Credibility`]}
+                          onChange={(e) => handleSampleChange(sampleIndex, `${category}Credibility`, e.target.value)}
+                          className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
+                        >
+                          <option value="">Select rating...</option>
+                          {Object.entries(ratingDescriptions).map(([value, label]) => (
+                            <option key={value} value={value}>{value} - {label}</option>
+                          ))}
+                        </select>
                       </td>
-                      {['economic', 'environmental', 'social'].map((category) => (
-                        <td key={category} className="border-2 border-gray-300 p-4">
-                          <select
-                            value={formData[`${category}Credibility`]}
-                            onChange={(e) => handleChange(`${category}Credibility`, e.target.value)}
-                            className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
-                          >
-                            <option value="">Select rating...</option>
-                            {Object.entries(ratingDescriptions).map(([value, label]) => (
-                              <option key={value} value={value}>{value} - {label}</option>
-                            ))}
-                          </select>
-                        </td>
-                      ))}
-                    </tr>
+                    ))}
+                  </tr>
 
-                    {/* Emotional Appeal Row */}
-                    <tr className="hover:bg-gray-50">
-                      <td className="border-2 border-gray-300 p-4 font-medium bg-gray-50 relative group">
-                        <div className="font-semibold text-lg cursor-help">Emotional Appeal</div>
-                        <div className="absolute left-full ml-2 top-1/2 transform -translate-y-1/2 w-72 bg-gray-800 text-white text-sm p-3 rounded-lg shadow-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-10">
-                          {assessmentCategories['Emotional Appeal']}
-                          <div className="absolute right-full top-1/2 transform -translate-y-1/2 border-8 border-transparent border-r-gray-800"></div>
-                        </div>
+                  {/* Emotional Appeal Row */}
+                  <tr className="hover:bg-gray-50">
+                    <td className="border-2 border-gray-300 p-4 font-medium bg-gray-50 relative group">
+                      <div className="font-semibold text-lg cursor-help">Emotional Appeal</div>
+                      <div className="absolute left-full ml-2 top-1/2 transform -translate-y-1/2 w-72 bg-gray-800 text-white text-sm p-3 rounded-lg shadow-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-10">
+                        {assessmentCategories['Emotional Appeal']}
+                        <div className="absolute right-full top-1/2 transform -translate-y-1/2 border-8 border-transparent border-r-gray-800"></div>
+                      </div>
+                    </td>
+                    {['economic', 'environmental', 'social'].map((category) => (
+                      <td key={category} className="border-2 border-gray-300 p-4">
+                        <select
+                          value={currentSample[`${category}Emotional`]}
+                          onChange={(e) => handleSampleChange(sampleIndex, `${category}Emotional`, e.target.value)}
+                          className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
+                        >
+                          <option value="">Select rating...</option>
+                          {Object.entries(ratingDescriptions).map(([value, label]) => (
+                            <option key={value} value={value}>{value} - {label}</option>
+                          ))}
+                        </select>
                       </td>
-                      {['economic', 'environmental', 'social'].map((category) => (
-                        <td key={category} className="border-2 border-gray-300 p-4">
-                          <select
-                            value={formData[`${category}Emotional`]}
-                            onChange={(e) => handleChange(`${category}Emotional`, e.target.value)}
-                            className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
-                          >
-                            <option value="">Select rating...</option>
-                            {Object.entries(ratingDescriptions).map(([value, label]) => (
-                              <option key={value} value={value}>{value} - {label}</option>
-                            ))}
-                          </select>
-                        </td>
-                      ))}
-                    </tr>
+                    ))}
+                  </tr>
 
-                    {/* Logic Row */}
-                    <tr className="hover:bg-gray-50">
-                      <td className="border-2 border-gray-300 p-4 font-medium bg-gray-50 relative group">
-                        <div className="font-semibold text-lg cursor-help">Logic</div>
-                        <div className="absolute left-full ml-2 top-1/2 transform -translate-y-1/2 w-72 bg-gray-800 text-white text-sm p-3 rounded-lg shadow-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-10">
-                          {assessmentCategories['Logic']}
-                          <div className="absolute right-full top-1/2 transform -translate-y-1/2 border-8 border-transparent border-r-gray-800"></div>
-                        </div>
+                  {/* Logic Row */}
+                  <tr className="hover:bg-gray-50">
+                    <td className="border-2 border-gray-300 p-4 font-medium bg-gray-50 relative group">
+                      <div className="font-semibold text-lg cursor-help">Logic</div>
+                      <div className="absolute left-full ml-2 top-1/2 transform -translate-y-1/2 w-72 bg-gray-800 text-white text-sm p-3 rounded-lg shadow-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-10">
+                        {assessmentCategories['Logic']}
+                        <div className="absolute right-full top-1/2 transform -translate-y-1/2 border-8 border-transparent border-r-gray-800"></div>
+                      </div>
+                    </td>
+                    {['economic', 'environmental', 'social'].map((category) => (
+                      <td key={category} className="border-2 border-gray-300 p-4">
+                        <select
+                          value={currentSample[`${category}Logic`]}
+                          onChange={(e) => handleSampleChange(sampleIndex, `${category}Logic`, e.target.value)}
+                          className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
+                        >
+                          <option value="">Select rating...</option>
+                          {Object.entries(ratingDescriptions).map(([value, label]) => (
+                            <option key={value} value={value}>{value} - {label}</option>
+                          ))}
+                        </select>
                       </td>
-                      {['economic', 'environmental', 'social'].map((category) => (
-                        <td key={category} className="border-2 border-gray-300 p-4">
-                          <select
-                            value={formData[`${category}Logic`]}
-                            onChange={(e) => handleChange(`${category}Logic`, e.target.value)}
-                            className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
-                          >
-                            <option value="">Select rating...</option>
-                            {Object.entries(ratingDescriptions).map(([value, label]) => (
-                              <option key={value} value={value}>{value} - {label}</option>
-                            ))}
-                          </select>
-                        </td>
-                      ))}
-                    </tr>
+                    ))}
+                  </tr>
 
-                    {/* Timing Row */}
-                    <tr className="hover:bg-gray-50">
-                      <td className="border-2 border-gray-300 p-4 font-medium bg-gray-50 relative group">
-                        <div className="font-semibold text-lg cursor-help">Timing</div>
-                        <div className="absolute left-full ml-2 top-1/2 transform -translate-y-1/2 w-72 bg-gray-800 text-white text-sm p-3 rounded-lg shadow-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-10">
-                          {assessmentCategories['Timing']}
-                          <div className="absolute right-full top-1/2 transform -translate-y-1/2 border-8 border-transparent border-r-gray-800"></div>
-                        </div>
+                  {/* Timing Row */}
+                  <tr className="hover:bg-gray-50">
+                    <td className="border-2 border-gray-300 p-4 font-medium bg-gray-50 relative group">
+                      <div className="font-semibold text-lg cursor-help">Timing</div>
+                      <div className="absolute left-full ml-2 top-1/2 transform -translate-y-1/2 w-72 bg-gray-800 text-white text-sm p-3 rounded-lg shadow-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-10">
+                        {assessmentCategories['Timing']}
+                        <div className="absolute right-full top-1/2 transform -translate-y-1/2 border-8 border-transparent border-r-gray-800"></div>
+                      </div>
+                    </td>
+                    {['economic', 'environmental', 'social'].map((category) => (
+                      <td key={category} className="border-2 border-gray-300 p-4">
+                        <select
+                          value={currentSample[`${category}Timing`]}
+                          onChange={(e) => handleSampleChange(sampleIndex, `${category}Timing`, e.target.value)}
+                          className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
+                        >
+                          <option value="">Select rating...</option>
+                          {Object.entries(ratingDescriptions).map(([value, label]) => (
+                            <option key={value} value={value}>{value} - {label}</option>
+                          ))}
+                        </select>
                       </td>
-                      {['economic', 'environmental', 'social'].map((category) => (
-                        <td key={category} className="border-2 border-gray-300 p-4">
-                          <select
-                            value={formData[`${category}Timing`]}
-                            onChange={(e) => handleChange(`${category}Timing`, e.target.value)}
-                            className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
-                          >
-                            <option value="">Select rating...</option>
-                            {Object.entries(ratingDescriptions).map(([value, label]) => (
-                              <option key={value} value={value}>{value} - {label}</option>
-                            ))}
-                          </select>
-                        </td>
-                      ))}
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
+                    ))}
+                  </tr>
+                </tbody>
+              </table>
+            </div>
 
-              {/* Status Messages */}
-              {status.message && (
-                <div className={`flex items-start gap-2 p-4 rounded-lg ${
-                  status.type === 'success' ? 'bg-green-50 text-green-800' : 'bg-red-50 text-red-800'
-                }`}>
-                  <div className="flex-shrink-0 mt-0.5">
-                    {status.type === 'success' ? <CheckCircle /> : <AlertCircle />}
-                  </div>
-                  <span className="break-words">{status.message}</span>
+            {/* Status Messages */}
+            {status.message && (
+              <div className={`flex items-start gap-2 p-4 rounded-lg mb-6 ${
+                status.type === 'success' ? 'bg-green-50 text-green-800' : 'bg-red-50 text-red-800'
+              }`}>
+                <div className="flex-shrink-0 mt-0.5">
+                  {status.type === 'success' ? <CheckCircle /> : <AlertCircle />}
                 </div>
-              )}
+                <span>{status.message}</span>
+              </div>
+            )}
 
-              {/* Submit Button */}
+            {/* Navigation Buttons */}
+            <div className="flex gap-4">
               <button
-                onClick={handleSubmit}
-                disabled={isSubmitting}
-                className="w-full bg-blue-600 hover:bg-blue-700 disabled:bg-gray-400 text-white font-semibold py-4 px-6 rounded-lg transition-colors flex items-center justify-center gap-2"
+                onClick={handleBack}
+                className="flex-1 bg-gray-200 hover:bg-gray-300 text-gray-800 font-semibold py-4 px-6 rounded-lg transition-colors flex items-center justify-center gap-2"
               >
-                {isSubmitting ? (
-                  <>
-                    <Loader2 />
-                    Submitting...
-                  </>
-                ) : (
-                  'Submit Assessment'
-                )}
+                <ChevronLeft />
+                Back
               </button>
+              
+              {currentPage < 5 ? (
+                <button
+                  onClick={handleNext}
+                  className="flex-1 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-4 px-6 rounded-lg transition-colors flex items-center justify-center gap-2"
+                >
+                  Next Pitch
+                  <ChevronRight />
+                </button>
+              ) : (
+                <button
+                  onClick={handleSubmitAll}
+                  disabled={isSubmitting}
+                  className="flex-1 bg-green-600 hover:bg-green-700 disabled:bg-gray-400 text-white font-semibold py-4 px-6 rounded-lg transition-colors flex items-center justify-center gap-2"
+                >
+                  {isSubmitting ? (
+                    <>
+                      <Loader2 />
+                      Submitting All Pitches...
+                    </>
+                  ) : (
+                    'Submit All Pitches'
+                  )}
+                </button>
+              )}
             </div>
           </div>
         </div>
