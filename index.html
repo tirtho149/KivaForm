@@ -39,7 +39,6 @@
 
     const SustainabilityForm = () => {
       const [formData, setFormData] = useState({
-        communicationStyle: '',
         economicCredibility: '',
         environmentalCredibility: '',
         socialCredibility: '',
@@ -57,12 +56,12 @@
       const [status, setStatus] = useState({ type: '', message: '' });
       const [isSubmitting, setIsSubmitting] = useState(false);
 
-      // REPLACE THIS with your Google Apps Script Web App URL
-      const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzE5iACwn5dxh24fvCJQ79V6JYLnUG6hBUOWAH573pCXWdT0yghH4616jsh7RpGEeDC/exec';
+      // Google Apps Script Web App URL
+      const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyh999bwYvEFyB77ipR8L3LLQPFhWiTl62gX72iEdxdl2vTMO0Gr1Q97XdU4jRj3nmeRw/exec';
 
-      const communicationStyles = {
+      const assessmentCategories = {
         'Credibility': 'Appeals based on source expertise, trustworthiness, and authority',
-        'Emotional appeal': 'Appeals to emotions, values, and personal connections',
+        'Emotional Appeal': 'Appeals to emotions, values, and personal connections',
         'Logic': 'Appeals based on rational arguments, data, and evidence',
         'Timing': 'Strategic timing of message delivery for maximum impact'
       };
@@ -99,30 +98,9 @@
           return;
         }
 
-        // Check if Apps Script URL is configured
-        if (APPS_SCRIPT_URL === 'YOUR_APPS_SCRIPT_URL_HERE') {
-          setStatus({ 
-            type: 'error', 
-            message: 'Please configure the Google Apps Script URL in the code. See instructions in the console.' 
-          });
-          console.log('%c📝 Setup Instructions:', 'color: blue; font-size: 16px; font-weight: bold;');
-          console.log('1. Copy the Apps Script code provided');
-          console.log('2. Create a new Google Spreadsheet');
-          console.log('3. Go to Extensions > Apps Script');
-          console.log('4. Paste the code and save');
-          console.log('5. Click Deploy > New deployment');
-          console.log('6. Select "Web app" type');
-          console.log('7. Set "Execute as" to "Me"');
-          console.log('8. Set "Who has access" to "Anyone"');
-          console.log('9. Copy the Web App URL and paste it in this file');
-          setIsSubmitting(false);
-          return;
-        }
-
         try {
           const submission = {
             timestamp: new Date().toISOString(),
-            communicationStyle: formData.communicationStyle,
             ratings: {
               credibility: {
                 economic: formData.economicCredibility,
@@ -165,7 +143,6 @@
           
           // Reset form
           setFormData({
-            communicationStyle: '',
             economicCredibility: '',
             environmentalCredibility: '',
             socialCredibility: '',
@@ -183,7 +160,7 @@
         } catch (error) {
           setStatus({ 
             type: 'error', 
-            message: 'Failed to submit form. Please check your Apps Script URL configuration.' 
+            message: 'Failed to submit form. Please try again.' 
           });
         } finally {
           setIsSubmitting(false);
@@ -201,25 +178,6 @@
             </p>
 
             <div className="space-y-8">
-              {/* Communication Style Selection */}
-              <div className="bg-blue-50 p-6 rounded-lg">
-                <label className="block text-lg font-semibold text-gray-800 mb-3">
-                  Communication Style
-                </label>
-                <select
-                  value={formData.communicationStyle}
-                  onChange={(e) => handleChange('communicationStyle', e.target.value)}
-                  className="w-full p-3 border-2 border-blue-200 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                >
-                  <option value="">Select a communication style...</option>
-                  {Object.entries(communicationStyles).map(([style, description]) => (
-                    <option key={style} value={style} title={description}>
-                      {style} - {description}
-                    </option>
-                  ))}
-                </select>
-              </div>
-
               {/* Rating Grid */}
               <div className="overflow-x-auto">
                 <table className="w-full border-collapse">
@@ -239,10 +197,10 @@
                   <tbody>
                     {/* Credibility Row */}
                     <tr className="hover:bg-gray-50">
-                      <td className="border-2 border-gray-300 p-4 font-medium">
-                        <div>Credibility</div>
-                        <div className="text-xs text-gray-600 mt-1">
-                          Rate 1-4 (1=Very Weak, 4=Very Strong)
+                      <td className="border-2 border-gray-300 p-4 font-medium bg-gray-50">
+                        <div className="font-semibold text-lg">Credibility</div>
+                        <div className="text-sm text-gray-600 mt-2 italic">
+                          {assessmentCategories['Credibility']}
                         </div>
                       </td>
                       {['economic', 'environmental', 'social'].map((category) => (
@@ -252,7 +210,11 @@
                             onChange={(e) => handleChange(`${category}Credibility`, e.target.value)}
                             className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
                           >
-                            <option value="">Select...</option>
+                            <option value="">
+                              {category === 'economic' && 'Financial viability, cost-effectiveness, economic benefits'}
+                              {category === 'environmental' && 'Ecological impact, resource conservation, protection'}
+                              {category === 'social' && 'Community welfare, equity, social responsibility'}
+                            </option>
                             {Object.entries(ratingDescriptions).map(([value, label]) => (
                               <option key={value} value={value}>{value} - {label}</option>
                             ))}
@@ -263,10 +225,10 @@
 
                     {/* Emotional Appeal Row */}
                     <tr className="hover:bg-gray-50">
-                      <td className="border-2 border-gray-300 p-4 font-medium">
-                        <div>Emotional Appeal</div>
-                        <div className="text-xs text-gray-600 mt-1">
-                          Rate 1-4 (1=Very Weak, 4=Very Strong)
+                      <td className="border-2 border-gray-300 p-4 font-medium bg-gray-50">
+                        <div className="font-semibold text-lg">Emotional Appeal</div>
+                        <div className="text-sm text-gray-600 mt-2 italic">
+                          {assessmentCategories['Emotional Appeal']}
                         </div>
                       </td>
                       {['economic', 'environmental', 'social'].map((category) => (
@@ -276,7 +238,11 @@
                             onChange={(e) => handleChange(`${category}Emotional`, e.target.value)}
                             className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
                           >
-                            <option value="">Select...</option>
+                            <option value="">
+                              {category === 'economic' && 'Financial viability, cost-effectiveness, economic benefits'}
+                              {category === 'environmental' && 'Ecological impact, resource conservation, protection'}
+                              {category === 'social' && 'Community welfare, equity, social responsibility'}
+                            </option>
                             {Object.entries(ratingDescriptions).map(([value, label]) => (
                               <option key={value} value={value}>{value} - {label}</option>
                             ))}
@@ -287,10 +253,10 @@
 
                     {/* Logic Row */}
                     <tr className="hover:bg-gray-50">
-                      <td className="border-2 border-gray-300 p-4 font-medium">
-                        <div>Logic</div>
-                        <div className="text-xs text-gray-600 mt-1">
-                          Rate 1-4 (1=Very Weak, 4=Very Strong)
+                      <td className="border-2 border-gray-300 p-4 font-medium bg-gray-50">
+                        <div className="font-semibold text-lg">Logic</div>
+                        <div className="text-sm text-gray-600 mt-2 italic">
+                          {assessmentCategories['Logic']}
                         </div>
                       </td>
                       {['economic', 'environmental', 'social'].map((category) => (
@@ -300,7 +266,11 @@
                             onChange={(e) => handleChange(`${category}Logic`, e.target.value)}
                             className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
                           >
-                            <option value="">Select...</option>
+                            <option value="">
+                              {category === 'economic' && 'Financial viability, cost-effectiveness, economic benefits'}
+                              {category === 'environmental' && 'Ecological impact, resource conservation, protection'}
+                              {category === 'social' && 'Community welfare, equity, social responsibility'}
+                            </option>
                             {Object.entries(ratingDescriptions).map(([value, label]) => (
                               <option key={value} value={value}>{value} - {label}</option>
                             ))}
@@ -311,10 +281,10 @@
 
                     {/* Timing Row */}
                     <tr className="hover:bg-gray-50">
-                      <td className="border-2 border-gray-300 p-4 font-medium">
-                        <div>Timing</div>
-                        <div className="text-xs text-gray-600 mt-1">
-                          Rate 1-4 (1=Very Weak, 4=Very Strong)
+                      <td className="border-2 border-gray-300 p-4 font-medium bg-gray-50">
+                        <div className="font-semibold text-lg">Timing</div>
+                        <div className="text-sm text-gray-600 mt-2 italic">
+                          {assessmentCategories['Timing']}
                         </div>
                       </td>
                       {['economic', 'environmental', 'social'].map((category) => (
@@ -324,7 +294,11 @@
                             onChange={(e) => handleChange(`${category}Timing`, e.target.value)}
                             className="w-full p-2 border-2 border-gray-200 rounded focus:ring-2 focus:ring-blue-500"
                           >
-                            <option value="">Select...</option>
+                            <option value="">
+                              {category === 'economic' && 'Financial viability, cost-effectiveness, economic benefits'}
+                              {category === 'environmental' && 'Ecological impact, resource conservation, protection'}
+                              {category === 'social' && 'Community welfare, equity, social responsibility'}
+                            </option>
                             {Object.entries(ratingDescriptions).map(([value, label]) => (
                               <option key={value} value={value}>{value} - {label}</option>
                             ))}
