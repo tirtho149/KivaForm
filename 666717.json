@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 666717,
+                "name": "Seanghai's Group",
+                "loanAmount": "225.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-02-07T23:00:02Z",
+                "disbursalDate": "2014-01-09T08:00:00Z",
+                "plannedExpirationDate": "2014-03-09T23:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "To buy necessary materials to make jewelry.",
+                "description": "Seanghai is 32 years old and a resident of Kampong Cham province. She is a mother of three kids. To strive for a living, she does rice cropping as the main source of income. To supplement the family’s income, her husband can help her to earn extra income by working as a goldsmith. She has been involved in her current business for several years. This is the second microloan for Seanghai with VisionFund (Kiva’s partner). She has managed to use her past loan wisely to improve her livelihood. For this cycle, she formed a group of two to get a new loan of 400,000 KHR each. As the leader, she will spend her entire loan portion to support her husband's business by purchasing necessary materials to make jewelry. She hopes to support her husband's business promptly.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Fabrics"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 2,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/666717.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 8,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Crafts"
+                },
+                "sector": {
+                    "name": "Arts"
+                },
+                "partnerName": "VisionFund Cambodia"
+            }
+        }
+    }
+}

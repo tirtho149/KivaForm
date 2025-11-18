@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 688052,
+                "name": "Henry",
+                "loanAmount": "250.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-03-25T13:40:04Z",
+                "disbursalDate": "2014-03-05T08:00:00Z",
+                "plannedExpirationDate": "2014-04-24T13:40:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy vegetables, onions, tomatoes, etc.",
+                "description": "Henry is 27 years old from Nyandarua South and is married. He has one child who is in school.\r\n\r\nHenry has a green grocery business that he has been doing for the past 3 years. He has applied for his second loan from VisionFund Kenya to enable him to buy more vegetables, tomatoes and onions to add to his stock. He is optimistic that his business will do well after the loan.\r\n\r\nHe hopes to expand his business in the near future.",
+                "tags": [
+                    "volunteer_pick",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/688052.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 3,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Grocery Store"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "VisionFund Kenya"
+            }
+        }
+    }
+}

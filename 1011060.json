@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1011060,
+                "name": "Zaven",
+                "loanAmount": "2900.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2016-01-22T00:30:02Z",
+                "disbursalDate": "2015-12-22T08:00:00Z",
+                "plannedExpirationDate": "2016-02-21T00:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to solve his health problem, finally.",
+                "description": "Zaven is 51 years old, and he lives in Ddmashen village of Gegharkunik region. For several years, Zaven worked as a driver, but now he has given that up, and his only occupation is farming. He lives with his wife and son. All the family takes care of the farm and the cattle in it, since the farm is the only constant source of income for their everyday needs.<br /><br />Zaven is hardworking and a clever farmer, but lately he is less active in his daily work and very often experiences unhealthy feelings. Zaven will be so happy to receive this loan of 1,400,000 Armenian drams. He will use it in order to solve his health problem, finally.",
+                "tags": [
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Elderly",
+                    "#Health and Sanitation"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1011060.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 18,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Medical Expenses"
+                },
+                "sector": {
+                    "name": "Health"
+                },
+                "partnerName": "Nor Horizon"
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2297152,
+                "name": "Jypariza",
+                "loanAmount": "2950.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-12-28T15:50:09Z",
+                "disbursalDate": "2021-12-17T08:00:00Z",
+                "plannedExpirationDate": "2022-02-11T15:50:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy dairy cows in order to increase the volume of organic milk sales.",
+                "description": "Jypariza sends greetings from Kara-Buura. She is grateful to Kiva’s lenders for the financial support she received to increase her herd of livestock. She would be grateful if they would give her another loan, and she promises to pay it back well. She is seeking another loan of 250,000 to buy more dairy cows for fattening and selling organic milk.<br /><br />Jypariza is a hardworking, married 21-year-old woman with two children. She is involved in agriculture and raising cattle as her main economic activity. She started her business in 2018 to increase her family’s income. Jypariza intends to develop her business and save up to buy more cattle.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It allows farmers to increase production and income in a guaranteed value chain.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2297152.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 87,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Dairy"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

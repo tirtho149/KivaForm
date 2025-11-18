@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1072791,
+                "name": "Carlos",
+                "loanAmount": "575.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-05-24T13:50:10Z",
+                "disbursalDate": "2016-06-29T07:00:00Z",
+                "plannedExpirationDate": "2016-06-23T13:50:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy resources that allow him to improve the nutrition of his coffee plants that translates into better production and quality of his coffee.",
+                "description": "Carlos is a coffee producer with 25 years experience in this role. At his 44 years of age, he has harvested up to 90qq of coffee on his small farm of 1.46 HA and this is thanks to the technified management and the proper administration of the loans he receives. Carlos hopes to create a stable source of income for his 3 children. This wish motivates him daily to improve his farm.<br /><br />Currently, he is requesting a loan that will shorten the gap to achieve his goal. For this, he hopes to acquire resources that allow him to improve the nutrition of his coffee crops that translates into better production and quality of his coffee.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It allows farmers to plant trees needed to shade coffee plants.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1072791.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 21,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "PAC"
+            }
+        }
+    }
+}

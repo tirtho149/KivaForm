@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2738710,
+                "name": "Vosabeci",
+                "loanAmount": "1125.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-03-14T09:30:21Z",
+                "disbursalDate": "2024-02-27T08:00:00Z",
+                "plannedExpirationDate": "2024-04-18T09:30:21Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fishing nets and crab traps/baskets and to pay a deposit for her boat.",
+                "description": "Seafood, specifically crab, is very popular among Fijians. Vosabeci understands the demand for seafood, as she has been operating her seafood business since 2022. <br /><br />Today, she is in need of a loan to help her expand her business and upgrade her equipment so that she may obtain her catches at a faster rate. She plans to purchase fishing nets and crab traps and put a deposit on a boat and improved equipment that she requires. <br /><br />She is excited to offer better services to her customers and hopes to earn an increased income from her sales.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women with credit in a country where alternative financing is extremely scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2738710.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "FJ",
+                        "name": "Fiji"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 33,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fishing"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Fiji"
+            }
+        }
+    }
+}

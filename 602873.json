@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 602873,
+                "name": "Paul",
+                "loanAmount": "1150.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-09-06T17:00:02Z",
+                "disbursalDate": "2013-08-06T07:00:00Z",
+                "plannedExpirationDate": "2013-10-06T17:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy sugar, milk, rice, soap, and flour to use in his hotel and sell.",
+                "description": "Paul is 53 years old. He is married with seven adult children. For the past six years, he had run a shop and hotel business. Paul is also a farmer. He earns 50,000 KES each month. \r\n\r\nPaul is requesting a loan to add more stock such as sugar, milk, rice, soap, and flour to sell and also use in his hotel business. He will use the anticipated profit from his loan to expand his hotel by buying more utensils and chairs. This is his sixth loan with KADET LTD. In future, Paul hopes to install electricity in his home compound.\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Inspiring Story",
+                    "#Repeat Borrower",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/602873.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Hotel"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "VisionFund Kenya"
+            }
+        }
+    }
+}

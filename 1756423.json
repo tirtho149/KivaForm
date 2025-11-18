@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1756423,
+                "name": "Anahit",
+                "loanAmount": "2200.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2019-05-05T06:30:08Z",
+                "disbursalDate": "2019-04-05T07:00:00Z",
+                "plannedExpirationDate": "2019-06-04T06:30:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to diversify the farm with 4 bulls, and to repay credit liabilities, and thereby get a chance to start a better life and increase the quality of sold agri-products.",
+                "description": "Get to know Anahit, an experienced farmer from Noyemberyan town. She lives with her husband, two sons, daughter-in-law and 1-year-old granddaughter in an area considered to be a conflict zone. Although they meet many uncertainties and difficulties with infrastructure, they never lose hope for a sustainable future. The family owns a truly inspiring farm of cows, heifers, bulls, piglets, chickens, and geese. Anahit also cultivates a garden of fruit trees, such as plums, figs, and cornel. They trade all the gathered products in the nearby villages, and this has been their main income source for more than 12 years.<br /><br />Anahit applied for financial support with an aim to develop and enlarge the farm. The provided loan will be spent to diversify the farm with 4 bulls, and to repay credit liabilities. This financial help is a chance to start a better life and increase the quality of sold agri-products. Anahit is full of hope and will work hard to achieve her goals in creating a sustainable living.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Elderly",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports clients who were rejected by other lending institutions.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1756423.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 21,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "SEF International"
+            }
+        }
+    }
+}

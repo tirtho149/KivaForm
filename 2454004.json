@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2454004,
+                "name": "Héctor Antonio",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-10-07T06:40:17Z",
+                "disbursalDate": "2022-09-10T07:00:00Z",
+                "plannedExpirationDate": "2022-11-11T07:40:17Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy farming supplies, such as compost and fertilizers, for his corn crop to improve his harvest.",
+                "description": "Héctor is 53 years old, married, and has four children, two of whom are dependents.  His partner takes care of the household duties.  <br /><br />Héctor has worked in agriculture for approximately 10 years.  In order to reach the parcel of land where he works every day, he must walk one kilometer from his house.  Occasionally, he works as a mechanic.  <br /><br />Héctor will use this loan to buy needed supplies, such as compost and fertilizers, for his corn crop so that he can improve his harvest.  He dreams of providing the best for his family, having good health, and being able to work.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It enables farmers to plant basic grains to feed their families.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2454004.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

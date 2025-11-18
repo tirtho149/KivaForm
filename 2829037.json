@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2829037,
+                "name": "Barsbold",
+                "loanAmount": "2075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-08-12T19:20:28Z",
+                "disbursalDate": "2024-07-17T07:00:00Z",
+                "plannedExpirationDate": "2024-09-16T19:20:28Z",
+                "distributionModel": "fieldPartner",
+                "use": "to transport his raw materials for this expansion, so he can get a car with this loan.",
+                "description": "The person in this photo is Barsbold. He is 26 years old, married, and has 2 children. He has been buying secondary raw materials such as copper, iron, and alloys from people for 2 years and supplying them to large factories. He started this business with his wife, and they decided to start this business because they have a real desire to keep the environment clean and reduce waste in nature. <br /><br />He plans to expand his business and buy raw materials from further afield. He needs a truck to transport his raw materials for this expansion, so he will get a car with this loan.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Repair Renew Replace"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "This loan will support the creation of new businesses and self-employment in poor communities.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2829037.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MN",
+                        "name": "Mongolia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 132,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Recycled Materials"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "VisionFund Mongolia"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1910603,
+                "name": "Elfas' Group",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-01-13T08:10:09Z",
+                "disbursalDate": "2020-01-28T08:00:00Z",
+                "plannedExpirationDate": "2020-02-12T08:10:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a solar light, as well as hybrid seeds and fertilizer to improve harvests of maize.",
+                "description": "Elfas is 61 years old and is often referred to as a really experienced farmer. As a group leader, he is representing his group in Mumias District, formed by 12 farmers, including himself.<br /><br />Elfas has been a farmer for more than 20 years, and has worked with One Acre Fund for a while now, having joined for the first time in 2017 because he wanted to earn enough to feed his family. Not only will he get maize seeds and fertilizer with his loan, but also a solar light in order to have light during dark hours for his children to be able to study. He decided that he will use the profits he gains from this year’s harvest to send his children to school.<br /><br />With this loan, Elfas' Group will receive a total of 7 solar lights as well as farming inputs to plant a total of 5.5 acres.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Schooling",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 12,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1910603.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

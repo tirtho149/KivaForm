@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 882719,
+                "name": "Ameliza",
+                "loanAmount": "350.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-05-11T17:40:04Z",
+                "disbursalDate": "2015-04-30T07:00:00Z",
+                "plannedExpirationDate": "2015-06-10T17:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase more groceries like canned goods, noodles, and personal care products.",
+                "description": "Ameliza is a hardworking woman entrepreneur with one child.\r\n\r\nShe runs a general store in the Philippines and requested a PHP 15,000 loan through NWTF to purchase more groceries like canned goods, noodles, and personal care products.\r\n\r\nShe industriously earns additional income through other business ventures like farming rice and pig fattening.\r\n\r\nAmeliza dreams that one day, she will be able to build and expand her business to secure the future of her family.\r\n",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/882719.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "General Store"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

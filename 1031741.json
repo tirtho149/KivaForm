@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1031741,
+                "name": "Fernando",
+                "loanAmount": "2850.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-03-05T22:50:06Z",
+                "disbursalDate": "2016-04-05T07:00:00Z",
+                "plannedExpirationDate": "2016-04-04T22:50:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to invest in a bulk purchase of alpaca wool.",
+                "description": "Fernando is a weaver from Peru who specializes in alpaca apparel. He would like to invest in a bulk purchase of alpaca wool. Fernando has been selling through NOVICA since 2011. This is his story:<br /><br />\"My artistic origins come from my family. My uncles worked in textiles and little by little they introduced me to this world. I love being able to translate materials into beautiful designs. My work means everything to me: it's what I love and cherish, and I love the fact that I can provide for my family thanks to it.\"<br /><br />\"Many thanks for this tremendous support that you offer me. This microcredit will allow me to purchase a large amount of good quality wool and keep up a solid inventory of finished pieces.\"<br /><br />Use the link below to view Fernando's alpaca apparel on the NOVICA site:<br /><br />http://www.novica.com/kiva/7883",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Unique",
+                    "#Interesting Photo",
+                    "#Fabrics",
+                    "#Repeat Borrower",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1031741.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 92,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Knitting"
+                },
+                "sector": {
+                    "name": "Arts"
+                },
+                "partnerName": "Novica"
+            }
+        }
+    }
+}

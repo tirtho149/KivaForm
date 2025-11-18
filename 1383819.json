@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1383819,
+                "name": "Manuel",
+                "loanAmount": "2425.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-09-30T01:00:11Z",
+                "disbursalDate": "2017-12-24T08:00:00Z",
+                "plannedExpirationDate": "2017-10-30T01:00:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "to replace his biodigester to improve his cows' manure disposal.",
+                "description": "Manuel is a rancher in Limón, Costa Rica. He makes a living raising calves and milk cows. He gets his income from selling calves and cheese. Now is the time to grow and develop his farm with more milk cows and by adding pigs. <br /><br />He hopes that this change will be environmentally sustainable. He needs to replace his current biodigester, which died, for a system with a larger capacity. This treatment system allows him to adequately manage his animals' manure, reducing bad odors, flies, and his carbon footprint.<br /><br />The biogas that the biodigester produces will be utilized to pasteurize the milk and improve the safety of his cheese. Additionally, the biogas will be used to cook his household food and boil water. Manuel commits to adding three oxidation pools, which would complete the treatment system and generate bio-fertilizer. In this way, he will be able to irrigate the pastures he harvests in order to improve his animals' food. Manuel's vision is that his farm would operate as a productive, environmentally sustainable cycle.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Biz Durable Asset",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It gives farmers a green energy alternative.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1383819.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CR",
+                        "name": "Costa Rica"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 63,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Energy"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Viogaz"
+            }
+        }
+    }
+}

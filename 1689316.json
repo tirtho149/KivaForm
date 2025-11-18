@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1689316,
+                "name": "Magdy",
+                "loanAmount": "575.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-01-19T18:50:04Z",
+                "disbursalDate": "2018-12-19T08:00:00Z",
+                "plannedExpirationDate": "2019-02-18T18:50:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to expand his project which is in the field of bees and honey.",
+                "description": "Magdy is 28, married. He is the only source of the income for he and his elderly parents. He wants to expand his project which is in the field of bees and honey and he has a shop in the village, but the income is small. <br /><br />Assisted by his wife, he wants to invest in more bee colonies  and beehives to produce great amounts of honey. process it and package to increase the income of the family.  He can also help his parents in their life expenses.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "Young entrepreneurs will receive funding, finance and business coaching.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1689316.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EG",
+                        "name": "Egypt"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 22,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beekeeping"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Together Association for Development and Environment (TADE)"
+            }
+        }
+    }
+}

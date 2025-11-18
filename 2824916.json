@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2824916,
+                "name": "Moses' Group",
+                "loanAmount": "1650.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-08-03T18:50:30Z",
+                "disbursalDate": "2024-07-22T07:00:00Z",
+                "plannedExpirationDate": "2024-09-07T18:50:30Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer for the cultivation of maize.",
+                "description": "This season is not the first one that Moses is working alongside One Acre Fund. He has been a member for a few years now, having joined the program in 2014. Although he is the only person featured in the above picture, he is actually representing his group of 10 farmers in Malakisi Duka Zone District, Kenya. (Others in the group were unavailable during profile collections.)<br /><br />Moses is often described by his community as a very hardworking individual. He decided to be the one to represent his group because he wanted to help more farmers. Like many of his fellow farmers, Moses decided he wanted to be part of the One Acre Fund community in order to get the best quality fertilizer and hybrid seeds. He hopes to use the profits from this year’s harvest to buy a cow.<br /><br />This loan will not only help Moses, but the whole group, who will receive maize seeds and fertilizer to plant a total of 7.5 acres of land. Additionally, one of the farmers in the group will purchase a solar light.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 10,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2824916.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 107,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

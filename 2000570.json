@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2000570,
+                "name": "Proscovia",
+                "loanAmount": "1100.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-08-12T19:10:16Z",
+                "disbursalDate": "2020-07-16T07:00:00Z",
+                "plannedExpirationDate": "2020-09-26T19:10:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy banana stems and farm inputs to boost production.",
+                "description": "Proscovia is a repeat borrower with UGAFODE Microfinance. She is married and a resident of Nyabicerere, Ishaka district. She has three kids; only two are school-going. <br /><br />She is a qualified primary teacher, making her a salary earner, and is also a farmer — mainly in banana growing and selling. She supplies these bananas to the nearby local market and neighboring districts. She is a resourceful lady in the society in the way that she employs community members for casual labor. <br /><br />She is, however, financially constrained because she is no longer earning a salary since schools were closed due to the pandemic, and her farm needs to be restructured.<br /><br />For this reason she is seeking a loan to buy fertilizers, manure, mulches and banana stems for replanting to increase her production levels.<br /><br />She believes that with these funds, she will be able to regain her financial status. Thank you, funders.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2000570.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 31,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 644742,
+                "name": "Xuraman",
+                "loanAmount": "1550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-12-13T15:30:01Z",
+                "disbursalDate": "2013-11-19T08:00:00Z",
+                "plannedExpirationDate": "2014-02-11T15:30:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy farming supplies.",
+                "description": "Xuraman is 49 years old, married, and is an IDP (internally displaced person) living with her family in the Bilasuvar IDP Settlement. She moved from the city of Fuzuli. Xuraman could not get a higher education and because of that decided to start her own business. She chose farming, growing fruits and vegetables in her own yard. Her husband  helps her with the farming. \r\n\r\nXuraman wants to expand her business. The amount of products she sells is not enough to cover the high demand so she would like to grow more fruits and vegetables to increase her turnover as well as improve the living conditions of her family. She is requesting her third loan for 1,200 AZN, which she will use  to buy farming supplies. ",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Refugee"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/644742.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AZ",
+                        "name": "Azerbaijan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 47,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Aqroinvest Credit Union"
+            }
+        }
+    }
+}

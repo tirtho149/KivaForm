@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 918907,
+                "name": "Olya",
+                "loanAmount": "1325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-07-21T21:50:03Z",
+                "disbursalDate": "2015-06-22T07:00:00Z",
+                "plannedExpirationDate": "2015-08-20T21:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more piglets for her farm and also some fodder for the farm cattle.",
+                "description": "This young lady’s name is Olya and she is 24 years old. She has vocational medical education and for 5 years she has worked at Ijevan city’s hospital as a midwife. At the same time in the frontier village Achajur of Tavush region, where she lives with her parents and small brother, she is engaged in farming and agricultural works. \r\n\r\nOn the farm with the help of her father she takes care of their farm cattle such as pigs, piglets and chickens. From her farm with her mother Olya sells their land’s goods; persimmon, cherry, apple, fig and also beans, cucumber.  Olya is very strong willed young lady who just does her best to help her parents to overcome their family’s financial hardships that they have now. \r\n\r\nThis loan Olya asks for the purchase of more piglets for her farm and also some fodder for the farm cattle. ",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Single",
+                    "#Health and Sanitation",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/918907.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 48,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pigs"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Nor Horizon"
+            }
+        }
+    }
+}

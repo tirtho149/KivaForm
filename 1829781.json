@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1829781,
+                "name": "Manal's Group",
+                "loanAmount": "2125.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-09-05T22:30:08Z",
+                "disbursalDate": "2019-08-26T07:00:00Z",
+                "plannedExpirationDate": "2019-10-05T22:30:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy goats to use their milk to make cheese and dairy products.",
+                "description": "Manal has goats. These goats are the source of milk for her dairy-product making business. Goat cheese is a famous food in her world. She was able to find a good recipe that is selling itself. Her husband Issa is her support system. He is very helpful and useful. Her business is progressing because of her hard work and good spirits. A loan will help her get more goats because she has the capacity to make more dairy products.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 2,
+                "whySpecial": "It increases access to finances to the highest poverty communities in Jordan.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1829781.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "JO",
+                        "name": "Jordan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 80,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cheese Making"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "National Microfinance Bank"
+            }
+        }
+    }
+}

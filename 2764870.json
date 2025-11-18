@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2764870,
+                "name": "Joyce",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-04-23T00:30:22Z",
+                "disbursalDate": "2024-04-17T07:00:00Z",
+                "plannedExpirationDate": "2024-05-28T00:30:22Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase modern farm inputs such as certified seeds and organic fertilizers in order to improve the quality of her output.",
+                "description": "In the rolling hills of Litein, Joyce, a dedicated smallholder farmer, tends to her land with unwavering determination. Despite the challenges that come with farming, Joyce's passion for agriculture drives her to excel in her field. With several years of hands-on experience, she has honed her skills and developed a deep understanding of the land.<br /><br />Joyce's dream is to see her farm thrive and provide a sustainable livelihood for her family. To achieve this goal, she recognizes the importance of investing in modern farm inputs such as high-quality seeds and fertilizers. With these resources, Joyce aims to enhance her crop production and ensure a plentiful harvest year after year.<br /><br />Her resilience and commitment to her craft make Joyce a deserving candidate for financial support. With a loan, she can further her agricultural endeavors and continue to contribute to the prosperity of her community in Litein.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals, farm inputs and farming equipment.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2764870.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

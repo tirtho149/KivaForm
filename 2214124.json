@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2214124,
+                "name": "Alice",
+                "loanAmount": "200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-07-27T13:30:11Z",
+                "disbursalDate": "2021-07-26T07:00:00Z",
+                "plannedExpirationDate": "2021-08-26T13:30:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "to gain access to cost-efficient organic fertilizer for her corn farm and use the profits from her farm to improve her life.",
+                "description": "Alice (61) and her family live and work on a farm in the Kericho area, which is situated in the fertile Rift Valley province of Kenya. She keeps dairy cows and grows crops both for sale and for consumption. She sells her farm produce both at the local market and to companies.<br /><br />The biggest growth constraint for Alice is lack of access to capital to buy agricultural inputs necessary to increase her farm’s productivity. She lives in a part of Kenya where there are no banks. She is seeking a loan to buy improved seeds, fertilizers and other important inputs that control weeds and pests.<br /><br />With your lending, Alice will be able to access capital to buy important farm inputs that will increase her farm’s productivity and family income.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals, farm inputs and farming equipment.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2214124.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 8,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

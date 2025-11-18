@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1098994,
+                "name": "Rodrigo",
+                "loanAmount": "1700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-06-19T14:30:06Z",
+                "disbursalDate": "2016-06-13T07:00:00Z",
+                "plannedExpirationDate": "2016-07-19T14:30:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "for buying tools to improve his farm work and manure for the fields.",
+                "description": "Rodrigo is 41 years old; he is married and has three childrens. He lives in Chulucanas, Piura - Perú and grows organic mangoes.\r\n \r\nRodrigo needs US$ 1700 as a loan for buying tools to improve his farm work, and manure for the fields to increase the organic mango production. With the income, he will improve his children’s education by buying a computer.\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps farmers convert to organic methods and scale their organic farms.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1098994.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 63,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Fairtrasa Peru S.A."
+            }
+        }
+    }
+}

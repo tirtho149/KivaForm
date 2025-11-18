@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1055824,
+                "name": "Mohamad",
+                "loanAmount": "575.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-04-22T18:00:02Z",
+                "disbursalDate": "2016-03-26T07:00:00Z",
+                "plannedExpirationDate": "2016-05-22T18:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay  his children's school fees.",
+                "description": "Mohamad is a 45-year-old Lebanese married man, living with his wife and four school-aged children. He has been working independently since 2013 in the agriculture field and his wife owns a clothes shop. <br /><br />Due to a bad financial situation, Mohamad seeks a loan from Kiva partner, Vitas s.a.l., to pay  his children's school fees, with the aim of ensuring them a good education.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps students pay tuition and school expenses.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1055824.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "LB",
+                        "name": "Lebanon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 22,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Primary/secondary school costs"
+                },
+                "sector": {
+                    "name": "Education"
+                },
+                "partnerName": "Vitas - Lebanon"
+            }
+        }
+    }
+}

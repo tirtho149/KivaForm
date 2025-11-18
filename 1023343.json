@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1023343,
+                "name": "Rexhep",
+                "loanAmount": "1125.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-02-19T21:00:12Z",
+                "disbursalDate": "2016-01-21T08:00:00Z",
+                "plannedExpirationDate": "2016-03-20T21:00:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to plant more vegetables and get ready for the spring season where he will generate most of his income.",
+                "description": "Rexhep wants to thank all of the lenders for the previous loan. He is still involved in agriculture, based on family and cultural tradition. He loves his job very much, working in the fields and tending to his garden. He works hard to provide his family what they need, especially as his wife stays home to care for the house and kids and is not able to earn any income herself to help. <br /><br />Now he is asking for a second loan to be able to purchase everything he needs to plant more vegetables and get ready for the spring season where he will generate most of his income. He hopes that he will be able to produce so many vegetables and crops that he will have to hire an employee and create jobs for others in his community. He is very grateful for the lenders and their support.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports the social and economic well being of low-income families.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1023343.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "XK",
+                        "name": "Kosovo"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 42,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "KosInvest"
+            }
+        }
+    }
+}

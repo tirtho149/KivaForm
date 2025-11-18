@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2323118,
+                "name": "Leonora",
+                "loanAmount": "275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-02-19T20:40:10Z",
+                "disbursalDate": "2022-01-26T08:00:00Z",
+                "plannedExpirationDate": "2022-03-26T19:40:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase clothes to sell.",
+                "description": "Leonora is a married woman with six children. She is a very hardworking entrepreneur.<br /><br />Leonora has a buy-and-sell RTW business in the Philippines. She requested a 13,000 PHP loan amount through NWTF to purchase clothes to sell.<br /><br />Leonora has been in this business for 15 years. She would like to build and expand her business to secure the future of her family.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps this borrower grow their business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2323118.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Clothing"
+                },
+                "sector": {
+                    "name": "Clothing"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

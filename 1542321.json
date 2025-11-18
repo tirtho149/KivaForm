@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1542321,
+                "name": "John",
+                "loanAmount": "1125.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2018-06-05T19:20:06Z",
+                "disbursalDate": "2018-07-15T07:00:00Z",
+                "plannedExpirationDate": "2018-07-05T19:20:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizers and seed in order to get a good harvest and earn more money.",
+                "description": "John is married and lives with his family in a simple mud house in a small village in Kaduna state. In his community, farming is the primary occupation and, like many hardworking smallholders, he dreams of expanding his farm business.<br /><br />John is returning to work with Babban Gona this season as he will get access to better-yielding seeds, fertilizers and other essential farm inputs that will boost his yield and increase his income. This loan will also help him earn up to 3 times in net income from selling his maize. Since he first joined Babban Gona in 2015, his happiest memory was sending his children to school.<br /><br />With lenders’ support to grow his farming business, John is looking forward to an abundant harvest. John plans to use the profits from this season’s harvest to pay his children's school fees.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports smallholder farmers and helps them increase yields.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1542321.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NG",
+                        "name": "Nigeria"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Babban Gona Farmers Organization"
+            }
+        }
+    }
+}

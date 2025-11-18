@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 631261,
+                "name": "Mercedes",
+                "loanAmount": "375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-11-14T05:40:02Z",
+                "disbursalDate": "2013-10-14T07:00:00Z",
+                "plannedExpirationDate": "2014-01-13T05:40:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy feed.",
+                "description": "Mercedes is 43, lives with his family in the district of La Matanza, two hours from the city of Morropon, where its population's activity is the trade of small animals and farming land with carob trees, located in the North Coast of Peru.\r\n\r\nHe provides transportation services, taking customers from nearby areas to his community, he also works as a construction worker. He has a very close family, his wife supports him by helping in the trade of small animals.\r\n\r\nHe is requesting a loan of 1,000 PEN to buy feed, and this way have better products to offer his customers and generate more income for his family.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/631261.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Rickshaw"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "Edpyme Alternativa"
+            }
+        }
+    }
+}

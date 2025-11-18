@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1755475,
+                "name": "Jesus",
+                "loanAmount": "425.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-05-07T12:00:09Z",
+                "disbursalDate": "2019-04-15T07:00:00Z",
+                "plannedExpirationDate": "2019-06-06T12:00:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for fertilizers, compost, and the cost of labor for weeding and application of the materials.",
+                "description": "Jesús is 63 years old. He is married and has a child. He lives with his child and his wife in the municipality of San Luis, which adjoins La Flecha, Santa Barbara. For nine years, he has been earning a living growing basic grains and coffee. He operates this business in an agricultural zone near his house. He sells the production to brokers in the same area. He worked previously as a day laborer.<br /><br />Jesús wants to invest in his crops and is requesting his fourth loan from ODEF, in the amount of 10,000 HNL, which he will invest in fertilizers, compost, and paying labor costs for weeding and application of the materials. With the loan, he hopes to provide a good treatment to his crops in order to improve his production and his income. His goal is to purchase cattle to sell to earn more income.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Job Creator",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It allows smallholder farmers to purchase inputs to improve yields on favorable terms.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1755475.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HN",
+                        "name": "Honduras"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Organizacion de Desarrollo Empresarial Femenino (ODEF)"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 605595,
+                "name": "Keko",
+                "loanAmount": "925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-09-14T19:40:03Z",
+                "disbursalDate": "2013-08-14T07:00:00Z",
+                "plannedExpirationDate": "2013-10-14T19:40:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy livestock for resale.",
+                "description": "Keko is 56 years old and a father of five children. He is a livestock trader in the Olopito area. He has been running the business for the past 10 years, making a monthly income of KES 28,000.\r\n\r\nKeko has borrowed his eleventh loan of KES 80,000 from KADET, which he intends to use to purchase more livestock for resale. The anticipated profit will be reinvested to boost business as well as to diversify into farming. His hope is to improve his family's living standards.\r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Elderly",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/605595.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 29,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Animal Sales"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Kenya"
+            }
+        }
+    }
+}

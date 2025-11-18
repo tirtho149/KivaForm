@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1019563,
+                "name": "Enrique Geovani",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-02-09T00:30:03Z",
+                "disbursalDate": "2016-01-28T08:00:00Z",
+                "plannedExpirationDate": "2016-03-10T00:30:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seeds. fertilizer, manure, pest control to improve the land.",
+                "description": "Enrique at 39 years of age lives in his own house with his wife and daughter. He has worked growing corn and beans for 19 years and sells his product in the surrounding towns. With the profits from his sales, he manages to pay some of the household expenses. He is requesting a loan to buy seeds, fertilizer, manure and pest control to improve the land that is shown in the photograph. Then he can continue with his crops as they generate good profits.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It serves farmers located near dangerous geographical regions.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1019563.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Apoyo Integral"
+            }
+        }
+    }
+}

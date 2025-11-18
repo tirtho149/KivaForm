@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1008878,
+                "name": "Enos",
+                "loanAmount": "1150.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-01-17T05:10:03Z",
+                "disbursalDate": "2016-01-11T08:00:00Z",
+                "plannedExpirationDate": "2016-02-16T05:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy clothes to sell.",
+                "description": "Enos is a 48-year-old man with three children, living in Hoima, Uganda. After realizing the lucrative nature of agricultural produce trade, he decided to venture into it in 2008 and says he does not regret his decision. Enos also sells clothes in order to get additional income, and he takes pride in his customer care. Price fluctuation and limited capital to expand his businesses are Enos' major challenges. His dream is to own a food store in town. Enos is requesting a loan to buy clothes to sell.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It targets extremely rural populations.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1008878.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 46,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Clothing Sales"
+                },
+                "sector": {
+                    "name": "Clothing"
+                },
+                "partnerName": "HOFOKAM"
+            }
+        }
+    }
+}

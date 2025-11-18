@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1985292,
+                "name": "Famille Sinunvayo Group",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-07-19T17:10:09Z",
+                "disbursalDate": "2020-06-17T07:00:00Z",
+                "plannedExpirationDate": "2020-09-02T17:10:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to rent pineapple fields for production and sales.",
+                "description": "With the prior loan, Bienfait sent his children to school; the rest of the loan was allocated to the rental of a pineapple field.<br /><br />This business being the lifeblood of his family, he plans once again to rent a field of pineapples for harvesting, so that he can take care of education and other expenses of his family.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 2,
+                "whySpecial": "It helps rural farmers benefit from the latest agricultural research.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1985292.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CD",
+                        "name": "Congo (DRC)"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 20,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Land Rental"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Programme d'Appui aux Initiatives de Développement Economique au Kivu (PAIDEK)"
+            }
+        }
+    }
+}

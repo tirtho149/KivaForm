@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1228792,
+                "name": "Clementina",
+                "loanAmount": "975.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-01-31T01:20:02Z",
+                "disbursalDate": "2016-12-29T08:00:00Z",
+                "plannedExpirationDate": "2017-03-02T01:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seeds, compost, and other supplies so that her family can continue farming.",
+                "description": "Sra. Clementina is married and a mother to her family.  She works as vegetable vendor at the fairs.  Her husband and children are vegetable farmers while she is responsible for selling what they produce.  <br /><br />Clementina is a very active individual who greatly wants to get ahead.  She is a hardworking and responsible person when it comes to her commitments.  <br /><br />Clementina is requesting a loan in order to buy seeds, compost, and other supplies so that her family can continue farming.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps reach the underserved",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1228792.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PY",
+                        "name": "Paraguay"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 26,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Fundación Paraguaya"
+            }
+        }
+    }
+}

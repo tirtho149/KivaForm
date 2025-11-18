@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1375110,
+                "name": "Ahmad",
+                "loanAmount": "1000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-09-15T11:00:02Z",
+                "disbursalDate": "2017-08-28T07:00:00Z",
+                "plannedExpirationDate": "2017-10-15T11:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seeds, fertilizers, and pesticides for greenhouses.",
+                "description": "Ahmad is a 32-year-old Syrian refugee. He is a married father of four children. Ahmad works as a cement finisher however, he has been working in greenhouses with his wife for 7 years. <br /><br />Today, Ahmad is acquiring a special refugee loan from Kiva's field partner Al Majmoua to buy seeds, fertilizers, and pesticides for greenhouses. <br /><br />Ahmad hopes to have his own greenhouses and to expand his business.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Refugee"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It gives opportunity to Syrian refugees who have fled the war in Syria.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1375110.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "LB",
+                        "name": "Lebanon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Al Majmoua"
+            }
+        }
+    }
+}

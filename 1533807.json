@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1533807,
+                "name": "Olga Patricia",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-05-26T23:00:03Z",
+                "disbursalDate": "2018-04-21T07:00:00Z",
+                "plannedExpirationDate": "2018-06-25T23:00:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy underwear, t-shirts, and other products to stock up and to have more variety to offer to her clients.",
+                "description": "Olga is 49 years old and lives in the municipality of La Estrella. She’s a happy married woman who has 4 children, and her family is everything to her. Having such a big family has been challenging, and that’s why she decided to become an entrepreneur and now she works selling clothes. Thanks to her business, she can help her husband with the household so her children can have a brighter future. <br /><br />She would like to increase the sales because she knows she can do much better and she’s ready to become in a great business woman. She’s asking for a loan to buy underwear, t-shirts, and other products to stock up and to have more variety to offer to her clients. <br /><br />This loving mother would appreciate your support now.<br /><br />If you want to know more about the entrepreneurs and the loans from Interactuar, you can join the Lending Team called: “Friends of Interactuar Colombia”: http://www.kiva.org/team/interactuar_colombia",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Single",
+                    "#Parent",
+                    "#Schooling",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It comes with a very innovative business-training package.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1533807.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Products Sales"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Interactuar"
+            }
+        }
+    }
+}

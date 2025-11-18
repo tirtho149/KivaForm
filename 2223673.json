@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2223673,
+                "name": "Azizhuja",
+                "loanAmount": "275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-08-12T16:40:05Z",
+                "disbursalDate": "2021-07-29T07:00:00Z",
+                "plannedExpirationDate": "2021-09-11T16:40:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for his mother’s eye surgery so she can improve her health.",
+                "description": "Azizhuja is a hard-working, polite, and patient Tajik man from Shahrituz. He is 37 years old and married with three children. He works as a construction master for a living.<br /><br />Since Azizhuja is the only child in the family, he takes care of his parents. His mother is in the hospital and needs eye surgery, and as you can see in the photo he is in the hospital with his mother and takes care of her.<br /><br />Azizhuja is asking for a loan with Kiva’s partner IMON for the first time. This loan will help him pay for his mother’s eye surgery so she can improve her health. He hopes for your financial support.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Health and Sanitation"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps families pay for potentially life-saving medical expenses.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2223673.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TJ",
+                        "name": "Tajikistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Medical Expenses"
+                },
+                "sector": {
+                    "name": "Health"
+                },
+                "partnerName": "IMON International"
+            }
+        }
+    }
+}

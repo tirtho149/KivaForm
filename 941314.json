@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 941314,
+                "name": "Shayirgul",
+                "loanAmount": "2425.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-09-10T17:10:04Z",
+                "disbursalDate": "2015-07-31T07:00:00Z",
+                "plannedExpirationDate": "2015-10-10T17:10:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase fertilizer for land cultivation and growing organic rice and to pay rent on her farming land.",
+                "description": "Shayirgul successfully paid off her last loan, which she used for its intended purpose. She is grateful to Kiva and to everyone who helped finance her. This time Shayirgul has turned to Bai-Tushum Bank for a loan of 150,000 KGS to purchase fertilizer for cultivating her land and growing organic rice, as well as to pay rent on her farming land. Today Shayirgul has four cows and six sheep on her farm. She grows organic rice on a rented two hectare plot of land . Her income is around 31,000 KGS per month. In the future Shayirgul wants to continue investing in and growing her business.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Single Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/941314.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 79,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

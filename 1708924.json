@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1708924,
+                "name": "Kangai",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-02-21T22:00:06Z",
+                "disbursalDate": "2019-02-18T08:00:00Z",
+                "plannedExpirationDate": "2019-03-23T21:00:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy certified seeds and fertilizers in order to improve her horticultural farm to expand her income and achieve more savings to educate her children.",
+                "description": "Kangai has never felt sorry for herself for a lack of formal employment.  She uses her natural abilities to pull herself out of her poverty situation.  Her perseverance and determination have enabled her to send her children to school, regardless of the many adversities she has had to go through.<br /><br /> Kangai has never lost her enthusiasm, but moves from one challenge to another and emerges a victor.  In Chuka, Kenya, agriculture is one of the most competitive industries, especially due to the high cost of operations necessary to improve farming.  Such costs include the cost of land acquisition and inputs, which have  skyrocketed.  After learning about Juhudi Kilimo, Kangai has applied for a loan to buy certified seeds and fertilizers in order to improve her horticultural farm to expand her income and achieve more savings to educate her children. <br /><br />With the loan, Kangai will be assured of a good harvest, and this will translate into more profits and income.  She wants what any mother would want for her children, a bright future.  Unlike local money lenders, who charge exorbitant interests on loans, Juhudi Kilimo and Kiva have entered into a partnership that aims at improving the lives of smallholder farmers through providing them with loans and encouraging them to save.  Through this intervention, movement of funds in the rural communities has increased, thereby alleviating rural poverty.  Please support this woman to achieve her dreams today.",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals and farming equipment.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1708924.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 17,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

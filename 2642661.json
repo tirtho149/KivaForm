@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2642661,
+                "name": "Marjorie Eloiza",
+                "loanAmount": "2050.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-09-15T14:20:09Z",
+                "disbursalDate": "2023-08-31T07:00:00Z",
+                "plannedExpirationDate": "2023-10-20T14:20:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy construction materials to build a tank, and a pump with a pressure tank.",
+                "description": "Marjorie Eloiza is 32 years old, married, and has 2 children, ages 14 and 17. Her husband is a farmer, and they live in Riochico, a place of hardworking people dedicated to farming and trading their products.<br /><br />She is a hardworking woman who looks for a way to earn her own incomes and help her husband with the household expenses. She works rearing pigs and chickens, and this is how she is able to earn something for her and her family.<br /><br />However, they still have a lot of needs in her house. There is no drinkable water in the area where they live, and sometimes they have to buy it in a tank. For this reason, she is requesting a loan to build a tank and buy a pump with a pressure tank to carry the water to her house. <br /><br />The loan is for buying construction materials to build the tank, and also to buy a pump with a pressure tank.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Health and Sanitation",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It protects families vulnerable to waterborne diseases through improved sanitation and clean water.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2642661.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 43,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Housing Expenses"
+                },
+                "sector": {
+                    "name": "Housing"
+                },
+                "partnerName": "Fundación ESPOIR"
+            }
+        }
+    }
+}

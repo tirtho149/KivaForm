@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1141200,
+                "name": "Jorge Gerardo",
+                "loanAmount": "600.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-08-31T11:50:06Z",
+                "disbursalDate": "2016-08-25T07:00:00Z",
+                "plannedExpirationDate": "2016-09-30T11:50:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to maintain his crops of broad beans and peas.",
+                "description": "Jorge is a hard-working man, 65 years old, who lives with his wife in the rural locality of Achoma, which is located in Arequipa. He works raising domestic animals and in agriculture. Currently he is in the process of planting broad beans and peas on his cropland, which is being treated by organic manure made in his community. He asks for the microloan to pay the expenses of maintaining his crops, including the labor costs for his agricultural workers. Jorge hopes in the future to improve his productivity since recently he is applying ecological agricultural techniques which will serve as a guide for his rural neighbors.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It focuses on environmental sustainability.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1141200.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 17,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Fondesurco"
+            }
+        }
+    }
+}

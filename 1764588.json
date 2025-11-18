@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1764588,
+                "name": "Héctor Mesías",
+                "loanAmount": "1100.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-06-07T00:10:10Z",
+                "disbursalDate": "2019-04-17T07:00:00Z",
+                "plannedExpirationDate": "2019-07-07T00:10:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to maintain his orange grove.",
+                "description": "Hector is 64, and lives in the Cachaco area of the Lita parish, which is part of the Imbabura province. He currently lives alone in a small wooden house. He works in agriculture, specifically growing oranges. This generates sufficient income to cover his personal expenditures. <br /><br />Hector is very hard-working and dedicated, and although he doesn't get much money for his oranges, he is happy to be a farmer and reap the fruit of his labor. Although he lives alone, he is always looking out for his children, who now have their own families. Hector enjoys receiving visits from them.<br /><br />Hector is requesting a loan in order to maintain his orange grove. He needs to buy agricultural supplies, fertilizers, and to pay labor costs. He is very thankful to Kiva, since due to its help",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Single",
+                    "#Job Creator",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances farmers' secondary income generating business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1764588.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 34,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Mujeres Unidas (CACMU)"
+            }
+        }
+    }
+}

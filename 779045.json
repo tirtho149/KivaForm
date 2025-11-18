@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 779045,
+                "name": "Srikandi 2 Group",
+                "loanAmount": "1725.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-10-13T17:00:06Z",
+                "disbursalDate": "2014-09-22T07:00:00Z",
+                "plannedExpirationDate": "2014-11-12T17:00:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase three superior piglets.",
+                "description": "This is the fifth loan for the Srikandi 2 Group. They still need a loan because most of them need the training and education. They want to be successful pig breeders. They now have six members; one member decided to leave the group for several reasons. One member couldn't attend the meeting because of illness.\r\n\r\nThey receive the same loan amount. Beside using the loan to purchase piglets, they also will use the loan to fix the barn. Ni Wayan as the head, could not attend the meeting to receive the loan because she went to the city, and the process was managed by Ni Nengah, the treasurer. Ni Nengah is happy to receive her loan and use it to purchase three superior piglets. She hopes this time to earn more profit. All the profits are used to support the needs of her family.\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Post-disbursed",
+                    "#Repeat Borrower",
+                    "#Low-profit FP"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 6,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/779045.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "ID",
+                        "name": "Indonesia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 53,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pigs"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Koperasi Mitra Usaha Kecil (MUK)"
+            }
+        }
+    }
+}

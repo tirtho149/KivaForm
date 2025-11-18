@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2688855,
+                "name": "Clementina",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-12-05T02:40:21Z",
+                "disbursalDate": "2023-11-11T08:00:00Z",
+                "plannedExpirationDate": "2024-01-09T02:40:20Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy compost, seeds, and foliar sprays for planting a new crop of cabbages.",
+                "description": "Clementina is a 41-year-old woman who is married and a mother of two beautiful children who are in school.  She lives happily with her family in Patzicia, a lovely place with crops and vegetables.  <br /><br />Years ago, Clementina came up with the idea of cultivating vegetables in her community.  Each morning, she wakes up early to water and care for her crops so that she can offer quality produce to her customers.  She is happy that the profits from her business allow her to support her children’s education and provide food for them.  <br /><br />Clementina needs to plant a new crop of cabbages, but the lack of capital is making it impossible for her accomplish this goal.  For this reason, she is requesting her first loan from ADICLA to buy compost, seeds, and foliar sprays.  She is grateful for the endless support that has been given to her.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It targets low-income borrowers who can't access typical microfinance loans.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2688855.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GT",
+                        "name": "Guatemala"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 24,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "ADICLA"
+            }
+        }
+    }
+}

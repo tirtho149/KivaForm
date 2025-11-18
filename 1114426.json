@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1114426,
+                "name": "Seidu",
+                "loanAmount": "125.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-07-25T18:50:17Z",
+                "disbursalDate": "2016-08-08T07:00:00Z",
+                "plannedExpirationDate": "2016-08-24T18:50:17Z",
+                "distributionModel": "fieldPartner",
+                "use": "To weed and prune his oil palm field.",
+                "description": "Seidu wants to secure an additional Kiva loan to help him weed and prune his oil palm farm for more yield. He is not delinquent with his previous Kiva loan.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "To fund the creation of seasonal employment",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1114426.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GH",
+                        "name": "Ghana"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 4,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Dr. Bronner's / Serendipalm"
+            }
+        }
+    }
+}

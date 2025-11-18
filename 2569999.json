@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2569999,
+                "name": "Ismael Antonio",
+                "loanAmount": "1325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-05-02T14:20:12Z",
+                "disbursalDate": "2023-04-20T07:00:00Z",
+                "plannedExpirationDate": "2023-06-06T14:20:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy quintals of manures, minerals, and fertilizers and pay their employees.",
+                "description": "From a very young age, Ismael began working in the fields harvesting coffee. After a long period with his wife, he saved up and decided to plant on his own on a small property. Subsequently, he acquired other lands and continued to sow the demanded grain. Also, he sells bananas and bananas to improve his income.<br />Ismael has resorted to Kiva financing from MiCrédito to buy quintals of manures, minerals, and fertilizers and pay his employees who are in charge of providing maintenance to the property. In the future, he wants to become the largest coffee producer.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Job Creator",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The repayments are aligned with harvest season.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2569999.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 40,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "MiCredito"
+            }
+        }
+    }
+}

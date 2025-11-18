@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1775046,
+                "name": "Fred",
+                "loanAmount": "275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-06-06T12:50:13Z",
+                "disbursalDate": "2019-06-05T07:00:00Z",
+                "plannedExpirationDate": "2019-07-06T12:50:13Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy farm inputs, like fertilizers and pesticides, to improve his crop yield.",
+                "description": "Fred is is married and has 2 children. He farms on subsistence level, but also grows coffee to sell with the aim of improving on his daily income. He is requesting a loan of 1,000,000 UGX (one million shillings) to buy farm inputs, especially manure and pesticides for the coffee plantation. This way, he will boost his yields and income. Fred is said to be a hard working person and appreciates the support in boosting his resources.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1775046.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

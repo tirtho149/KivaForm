@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2721990,
+                "name": "Felicola",
+                "loanAmount": "275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-02-18T11:03:14Z",
+                "disbursalDate": "2024-01-11T08:00:00Z",
+                "plannedExpirationDate": "2024-03-24T10:03:14Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase additional materials like fishing nets, bamboo logs, etc. for the maintenance of her cultured crab business.",
+                "description": "Felicola is 66 years old and married with three children. Felicola has a fishing business in the Philippines. She requested a PHP 15,000 loan through NWTF to purchase additional materials like fishing nets, bamboo logs, etc. for the maintenance of her cultured crab business. Felicola has been sustaining her business activities through her past loans from NWTF. Felicola aspires to save enough money so she can afford to send her children to college.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps this borrower grow their business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2721990.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fishing"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

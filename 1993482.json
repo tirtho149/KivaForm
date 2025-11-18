@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1993482,
+                "name": "Victoria",
+                "loanAmount": "425.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-08-17T14:51:40Z",
+                "disbursalDate": "2020-07-08T07:00:00Z",
+                "plannedExpirationDate": "2020-10-01T14:51:40Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizer and other farm supplies to maintain her farmland.",
+                "description": "Victoria is 57 years old and has three children.<br /><br />Victoria is in the agricultural citrus farming business in the Philippines. Victoria requested a 20,000 PHP loan through NWTF to buy fertilizer and other farm supplies to maintain her farmland.<br /><br />Victoria has been in this business for five years now. In the future, Victoria would like to save money to expand her business.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps this borrower grow their business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1993482.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

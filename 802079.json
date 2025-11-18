@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 802079,
+                "name": "Wadha",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-11-25T01:30:02Z",
+                "disbursalDate": "2014-10-22T07:00:00Z",
+                "plannedExpirationDate": "2015-01-09T01:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase equipment.",
+                "description": "Wadha is a 49-year-old Lebanese woman. She is a widow and has one child. She is the sole bread earner of the family. Seven years ago, she started a business based around the production and sale of homemade food and other related products made out of fresh and organic ingredients and produce. Through the Kiva loan and partnership with Vitas sal, she will purchase equipment to increase the capacity of her business, enabling her to handle larger volumes due to potentially increasing demand.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Widowed",
+                    "#Single Parent",
+                    "#Hidden Gem",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/802079.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "LB",
+                        "name": "Lebanon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 19,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Production/Sales"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Vitas - Lebanon"
+            }
+        }
+    }
+}

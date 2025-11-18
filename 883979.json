@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 883979,
+                "name": "Rudradew",
+                "loanAmount": "3050.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-05-14T00:10:04Z",
+                "disbursalDate": "2015-05-22T07:00:00Z",
+                "plannedExpirationDate": "2015-06-13T00:10:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "To purchase fertilizers and pesticides for rice cultivation.",
+                "description": "Rudradew is very thankful to all the Kiva lenders for their support. He once again repaid his loan fully and on time. The previous season was not so good for Rudradew because the price of rice was too low and he could not save enough to buy a tractor. But he hasn't lost hope and continues with the rice cultivation. He lacks finances and needs a loan of 10,000 SRD to buy inputs for rice production. ",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Repeat Borrower",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/883979.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SR",
+                        "name": "Suriname"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 99,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "SEVA Microfinance Institute"
+            }
+        }
+    }
+}

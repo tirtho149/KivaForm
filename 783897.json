@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 783897,
+                "name": "Shanthakumar",
+                "loanAmount": "825.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-10-19T22:00:06Z",
+                "disbursalDate": "2014-12-30T08:00:00Z",
+                "plannedExpirationDate": "2014-11-18T22:00:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to develop organic farming and to buy training materials to train farmers.",
+                "description": "Shanthakumar has gained profound knowledge in organic farming over the past 10 years and hands-on experience in training the field staff about sustainable agriculture practices. He is a B.A. graduate from Kuvempu University, employed with Sahaja Samrudha for the past six years and currently designated as project coordinator of the Mandya organic village project.\r\n\r\nThe borrower resides with his sister in Bangalore. His parents and a brother stay in an ancestral tile-roof house at his native place in Kodihalli Chikkamagalore. \r\n\r\nShanthakumar wants to improve his income and for this reason, he is seeking a loan to develop organic farming and to buy training materials to train the farmers.  He hopes to develop a training centre in his native place and publish his learning’s through a series of booklets, which will be circulated across villages at reasonable prices that will help the farmers to understand the benefits and sustainability of agriculture.\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Post-disbursed",
+                    "#Unique"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/783897.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "IN",
+                        "name": "India"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 26,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Education provider"
+                },
+                "sector": {
+                    "name": "Education"
+                },
+                "partnerName": "Micrograam"
+            }
+        }
+    }
+}

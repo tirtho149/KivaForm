@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2652207,
+                "name": "Henry Eliseo",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-09-30T16:30:32Z",
+                "disbursalDate": "2023-09-05T07:00:00Z",
+                "plannedExpirationDate": "2023-11-04T16:30:32Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase materials used to build beehives.",
+                "description": "Henry is a courageous man with great aspirations in life. He is currently 20 years old and single. He lives in the beautiful place called Aldea Quisaché. He is a young, dynamic, and creative man, which is why he is involved in many income-generating activities like collecting bee honey, planting beans, and planting chiles. Henry is pleased with everyone that he has achieved since this has given him the opportunity to grow and be an example in his community. Above all, he has been able to have stable economic income. <br /><br />One of Henry's goals this year is to improve his honey-production business. For this reason, Henry is requesting a loan to invest in purchasing materials for building wooden beehives. This will allow him to continue producing honey for customers in his community.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It targets low-income borrowers who can't access typical microfinance loans.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2652207.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GT",
+                        "name": "Guatemala"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 30,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beekeeping"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "ADICLA"
+            }
+        }
+    }
+}

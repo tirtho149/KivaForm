@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 779698,
+                "name": "Flor Belkixs",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-10-18T12:30:02Z",
+                "disbursalDate": "2014-09-24T07:00:00Z",
+                "plannedExpirationDate": "2014-11-17T12:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy chickens to fatten, supplies to create pastries, make repairs to her oven, and to strengthen her financial activities.",
+                "description": "Flor is an entrepreneur who has a business selling chickens that have been fattened and pastries. Her family consists of her husband and two young children. They help her to do some of the activities related to the business. She learned the business as an employee and used the experience she gained to open her own business.\r\n\r\nShe will buy chickens to fatten, supplies to make her pastries, and will make some repairs to the oven. She will strengthen her financial activities with the idea of improving productivity, keeping her customers happy and succeeding in the marketplace.\r\n\r\nShe hopes to continue expanding her business and to eliminate debt in order to work with her own capital.\r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/779698.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 52,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Bakery"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "PADECOMSM"
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2659982,
+                "name": "Purity",
+                "loanAmount": "225.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-10-20T14:10:30Z",
+                "disbursalDate": "2023-09-28T07:00:00Z",
+                "plannedExpirationDate": "2023-11-24T15:10:30Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy modern farm supples such as certified seeds and organic fertilizers to improve the quality of her output.",
+                "description": "In the fertile heartland of Kapsabet, you find Purity, a dedicated and married smallholder farmer. With a few years of hands-on experience cultivating the land, Purity embodies the spirit of resilience and ambition.<br /><br />Purity's aspiration is to breathe new life into her farm, and she is seeking a loan for a specific purpose: to procure essential farm inputs. Her vision extends beyond her own household, because she is committed to enhancing agricultural production in her community.<br /><br />By supporting Purity in her endeavor, you're not only investing in her but also in the growth and sustenance of her community. Purity's determination to boost farm production will contribute to the local food supply and economic stability in Kapsabet, fostering a brighter future for all who call this land home. Your support is an investment in both her dreams and the prosperity of the entire community.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals, farm inputs and farming equipment.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2659982.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 7,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

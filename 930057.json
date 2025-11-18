@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 930057,
+                "name": "Apolonia",
+                "loanAmount": "1175.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-08-16T00:50:07Z",
+                "disbursalDate": "2015-07-28T07:00:00Z",
+                "plannedExpirationDate": "2015-09-15T00:50:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy organic fertilizer (hen droppings) to increase production and improve her income for her family.",
+                "description": "Apolonia lives and works in Colomi. She is married and has 2 dependent children who are studying at the primary level. She works in agriculture with her family, growing potatoes as the main agricultural product with the highest demand at market and in the area. For this work, she occasionally hires temporary help for planting, cultivation (hilling, weeding, pest control), and harvest season. \r\n\r\nShe gets her income from potato production and sales, and the potatoes are also food for her own consumption. Apolonia needs the loan to buy 2 truckloads of organic fertilizer (hen droppings) and 10 loads of potato seed. \r\n\r\nApolonia was happy to have the opportunity to access a loan that meets her needs and requirements, because when she buys these agricultural supplies, production will increase and she will be able to improve her income.\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Schooling",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/930057.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 33,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "CIDRE"
+            }
+        }
+    }
+}

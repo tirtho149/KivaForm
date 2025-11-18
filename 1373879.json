@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1373879,
+                "name": "Feh",
+                "loanAmount": "375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-09-15T00:50:01Z",
+                "disbursalDate": "2017-09-13T07:00:00Z",
+                "plannedExpirationDate": "2017-10-15T00:50:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more of chicks, piglets, feed, vaccines, drugs, feeders and improved both farms.",
+                "description": "He is married  and has three children. They all live in a ten bedroom house in Bali, North West region Cameroon. He has faced so many challenges of which are the death and sickness amongst family members, accident and poor harvest.<br /><br />He has been a member of GHAPE since the year 2016 and has benefited from the credit once. With this new loan he will use it to pay for more of chicks, piglets, feed, vaccines, drugs, feeders and improved both farms.<br /><br /> This activity will help the community provide manure for organic farming  and also protein food sources.. He believes his business will succeed because he has gained  customers loyalty and has some training on livestock breeding.<br /><br />He will use the profits from this loan to plough back in his business and take care of his family. He prefers a loan from GHAPE because of the training they offer and the moderate interest rates.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It is coupled with multi-faceted trainings to support the poorest in Cameroon.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1373879.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CM",
+                        "name": "Cameroon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 14,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Grounded and Holistic Approach for People's Empowerment (GHAPE)"
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2326444,
+                "name": "Joao",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-02-25T18:20:17Z",
+                "disbursalDate": "2022-01-31T08:00:00Z",
+                "plannedExpirationDate": "2022-04-01T17:20:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy manure, vegetable seeds, and new farming equipment to increase the amount of vegetables in the coming harvest.",
+                "description": "Joao works in agriculture. He mainly grows garlic on his farm (the photo shows garlic he has already harvested and is ready to sell to the market). After the garlic is grown and ripe, he harvests it and brings it to the market to sell. He has been planting garlic for a year now with his own working capital.<br /><br />He is requesting a loan of $500 through KIF to help him improve his business. Every day, he is planting and looking after the farm because he makes a living from it, earning a good income for his loving family. <br /><br />He plans to use this loan to buy more manure, vegetable seeds, and new farming equipment in order to increase the amount of vegetables in the coming harvest.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides entrepreneurs in underserved communities with the means to grow their businesses.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2326444.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TL",
+                        "name": "Timor-Leste"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 19,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Kaebauk"
+            }
+        }
+    }
+}

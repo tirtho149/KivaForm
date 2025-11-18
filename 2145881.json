@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2145881,
+                "name": "José Donatilo",
+                "loanAmount": "425.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-04-13T00:30:04Z",
+                "disbursalDate": "2021-03-30T07:00:00Z",
+                "plannedExpirationDate": "2021-05-13T00:30:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase fertilizer and manure and to clear land for his crops.",
+                "description": "José lives with his family in the community of San Agustín. He is dedicated to agriculture and growing coffee. He obtains his principal income from this. <br />He also grows arum (a Cuban fruit) of good quality and does the work needed to sell it at an excellent price. <br /><br />José  is very responsible in caring for his crops, providing excellent maintenance. He is requesting a loan to purchase fertilizer and manure, and to clear land for cultivating more coffee in order to achieve good production.<br /><br />José is very pleased with the friendliness and good treatment he has received from Prisma and Kiva. He really appreciates your help.<br /><br />His dream is to have excellent production.<br /><br />Trojes, Honduras, March 2021",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It has a below-market interest rate and is repaid at harvest, when farmers can more easily repay.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2145881.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HN",
+                        "name": "Honduras"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Prisma Honduras"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1395915,
+                "name": "Kalameli",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-10-15T21:40:03Z",
+                "disbursalDate": "2017-09-29T07:00:00Z",
+                "plannedExpirationDate": "2017-11-14T22:40:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a water tank, chemicals, vegetable seeds, soil, and a rake.",
+                "description": "Kalameli is a 52-year-old, married woman with four children. She runs a business of selling vegetables (cabbage and cucumbers) in her community to earn a living. She has three years of experience with this business. Kalameli is a Samoan citizen, and she works very hard to satisfy her customers with her fresh vegetables. Everyday, she travels to the market by bus to sell her fresh vegetables. Kalameli needs a loan to purchase more equipment (a water tank, chemicals, vegetable seeds, soil, and a rake) to help take her business to the next level. <br /><br />Her dream is that one day she will earn more to buy her own vehicle to help her run the business, and send her children to school. She became a member of SPBD in 2015.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women with credit in a country where alternative financing is extremely scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1395915.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "WS",
+                        "name": "Samoa"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 31,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Samoa"
+            }
+        }
+    }
+}

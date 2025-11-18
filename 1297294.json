@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1297294,
+                "name": "Benkadi Group",
+                "loanAmount": "3500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-05-22T14:10:06Z",
+                "disbursalDate": "2017-05-02T07:00:00Z",
+                "plannedExpirationDate": "2017-06-21T14:10:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy animals to resell later.",
+                "description": "In the photograph, Amadou is the one holding the animals. He is 51 years old and lives in a rural area in Mali with his family. He is the father of three children, aged 5 to 25. Two of them go to school.<br /><br />Amadou never had the chance to go to school. To earn a living, he dedicates himself to farming and trading animals. His wife is a housewife who helps him greatly with his business.<br /><br />He is seeking this loan to buy more animals and animal feed for his business. He buys his supplies and resells at weekly fairs in his area. His business turns an average monthly profit of XOF 40'000, used to cover school expenses and to buy better food and clothes for his children.<br /><br />Amadou dreams of one day seeing success in his family. Thanks to the RMCR loan, he manages to cover unexpected business expenses and avoid animal epidemics.<br /><br />In addition to raising animals, Amadou is a farmer. He uses animal wastes in his fields. He likes raising animals because he loves and masters this job, and profitability is guaranteed.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Elderly",
+                    "#Parent",
+                    "#Schooling",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 8,
+                "whySpecial": "It empowers farmers and entrepreneurs in underserved areas in Mali.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1297294.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "ML",
+                        "name": "Mali"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 62,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Réseau de Micro-institutions de Croissance de Revenus (RMCR)"
+            }
+        }
+    }
+}

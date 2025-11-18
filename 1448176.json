@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1448176,
+                "name": "Miriam's Group",
+                "loanAmount": "925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-01-09T21:00:05Z",
+                "disbursalDate": "2018-02-01T08:00:00Z",
+                "plannedExpirationDate": "2018-02-08T21:00:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy cost-efficient maize seeds and fertilizer for the coming harvesting season, as well as a solar light.",
+                "description": "Miriam is 38 years old and has 5 children. She is often described as a very resourceful person and, as a group leader, Miriam is representing her group of 13 farmers in Teso District in Kenya. She is very excited to be working with One Acre Fund for the first time this year.<br /><br />The decision to join One Acre Fund was largely a result of Miriam's desire to earn enough to feed her family. Apart from receiving farming inputs, she is also purchasing a solar light as part of her loan, which is very exciting to her as she will now be able to reduce the consumption of paraffin fuel and therefore save more money. With the profits that she gains from this year’s harvest, she plans to send her children to school.<br /><br />Miriam and her group will receive a total of 9 solar lights as well as input loans of maize and fertilizer to plant a total of 7.75 acres.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Schooling",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 13,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1448176.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

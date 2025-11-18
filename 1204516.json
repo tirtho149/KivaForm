@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1204516,
+                "name": "Juan Fernando",
+                "loanAmount": "850.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-12-16T00:50:04Z",
+                "disbursalDate": "2016-11-16T08:00:00Z",
+                "plannedExpirationDate": "2017-01-15T00:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a cow and manure for the pasture.",
+                "description": "Juan is a 36 year old farmer who during his whole productive life has worked in the fields in agriculture and animal husbandry, activities he learned with his family during his childhood and adolescence. <br />Currently, he works in a parcel subdivision of the municipality where he lives. There he works in different jobs in an independent way. He owns young cattle whose production is sold to complement the income he receives from his current job.  <br />He is requesting the help of a loan with which he wants to buy a cow and manure for the pasture, in order to increase production and expand his offer.<br />If you want to know more about the entrepreneurs and the loans from Interactuar, you can join the Lending Team called: “Friends of Interactuar Colombia”: http://www.kiva.org/team/interactuar_colombia",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Animals"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It reaches borrowers in remote regions.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1204516.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 31,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Interactuar"
+            }
+        }
+    }
+}

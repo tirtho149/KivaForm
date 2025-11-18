@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 865150,
+                "name": "Jayamma",
+                "loanAmount": "1600.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-04-08T02:30:05Z",
+                "disbursalDate": "2015-06-01T07:00:00Z",
+                "plannedExpirationDate": "2015-05-08T02:30:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a chilli powder making machine.",
+                "description": "Jayamma lives in Hirekerur, Haveri, Karnataka with her family. \r\n\r\nJayamma started agriculture in 2006, after quitting her nursing job. She trained women in her village on organic farming. Later from 2010 she started preparing value added products like ragi malt and chili powder.  Later she procured a machine for preparing multi-grain atta. \r\n\r\nShe is able to sustain her family on her own and she is a role model to other women in her surroundings. She also encourages other women to be independent. She is requesting a loan as she wants to add a chilli powder making machine.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Inspiring Story",
+                    "#Unique",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/865150.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "IN",
+                        "name": "India"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 48,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Manufacturing"
+                },
+                "sector": {
+                    "name": "Manufacturing"
+                },
+                "partnerName": "Micrograam"
+            }
+        }
+    }
+}

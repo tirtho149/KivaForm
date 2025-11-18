@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 906661,
+                "name": "Abel",
+                "loanAmount": "1225.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-06-26T05:30:03Z",
+                "disbursalDate": "2015-06-05T07:00:00Z",
+                "plannedExpirationDate": "2015-07-26T05:30:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy stock like books, sugar and salt to sell.",
+                "description": "Abel is a married man with six children who operates a wholesale shop in Hoima, Uganda. For extra income Abel carries out farming of mainly cassava and beans. On realizing the need for complementing his wife’s earnings, he ventured into business in 2012 to generate more income. \r\n\r\nHis business is exposed to high rental fees, yet he desires to have a well-stocked business in town that will increase his capital base. \r\n\r\nAbel is requesting a loan to buy stock like books, sugar and salt to sell.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/906661.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 41,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Wholesale"
+                },
+                "sector": {
+                    "name": "Wholesale"
+                },
+                "partnerName": "HOFOKAM"
+            }
+        }
+    }
+}

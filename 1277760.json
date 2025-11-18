@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1277760,
+                "name": "Sihle",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-04-22T20:10:02Z",
+                "disbursalDate": "2017-03-24T07:00:00Z",
+                "plannedExpirationDate": "2017-05-22T20:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase packaging and branding equipment for her business and increase her bee hives from 21 to 40 hives.",
+                "description": "Sihle is a 30-year-old entrepreneur who lives with her husband and child in the Kwekwe district in Zimbabwe. She runs her own bee-keeping business. <br /><br />Sihle is now requesting a Kiva loan in order to purchase packaging and branding equipment for her business and increase her bee hives from 21 to 40 hives. She plans to use the profit she earns to pay her child’s school fees and reinvest in her business to help it grow. <br /><br />Sihle will repay the ‘social interest’ on her loan by volunteering 2.5 hours weekly as a Camfed Learner Guide, leading life skills sessions, covering active citizenship and personal confidence with students at her local secondary school.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Schooling",
+                    "#Biz Durable Asset",
+                    "#Female Education"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It is a 0% interest loan for young women with new businesses.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1277760.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "ZW",
+                        "name": "Zimbabwe"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beekeeping"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Camfed Zimbabwe"
+            }
+        }
+    }
+}

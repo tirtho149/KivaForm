@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 705491,
+                "name": "Martha Lorena",
+                "loanAmount": "600.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-05-14T22:20:48Z",
+                "disbursalDate": "2014-04-02T07:00:00Z",
+                "plannedExpirationDate": "2014-06-13T22:20:47Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy material to change the wood of her house.",
+                "description": "She is a friendly woman, originally from Rosita, 41 years old, married and has a 16-year-old son, who is in the 5th year of secondary school.  Her husband works in farming and artisanal mining.  For the past 5 years, she has lived in a wooden house on stilts.  With the dream of improving her home and living more securely, she asks for her first loan to buy materials to change the wood of her house: zinc sheets, nails, planed and rough wood, and to cover the labor costs.  Her dream is to have a home made of concrete.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/705491.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 18,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Housing Expenses"
+                },
+                "sector": {
+                    "name": "Housing"
+                },
+                "partnerName": "Pana Pana"
+            }
+        }
+    }
+}

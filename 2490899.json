@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2490899,
+                "name": "Joe Binsem",
+                "loanAmount": "1800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-12-14T15:20:14Z",
+                "disbursalDate": "2022-11-07T08:00:00Z",
+                "plannedExpirationDate": "2023-01-28T15:20:14Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy cocoa plants and organic fertilizer to maintain their growth.",
+                "description": "Joe is 21 years old and lives in the town of San Lorenzo. He lives with his family in a small house they have managed to build thanks to the work and dedication of all the family. <br />Joe works in agriculture. He has a one-hectare plot of cocoa. The sale of this product has allowed him the resources needed to help at home and above all to cover personal expenses. <br />Joe needs this loan to buy cocoa plants and organic fertilizer with the aim of maintaining his plants and sowing new cocoa plants. This will allow him to continue his work and thereby help his family. <br />Joe is grateful for the help he is being given and is happy that such kind-hearted people exist.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances farmers' secondary income generating business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2490899.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 40,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Mujeres Unidas (CACMU)"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 742192,
+                "name": "Vladimir",
+                "loanAmount": "1450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-07-26T15:40:04Z",
+                "disbursalDate": "2014-07-09T07:00:00Z",
+                "plannedExpirationDate": "2014-08-25T15:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for his medical visitation.",
+                "description": "Vladimir is requesting your financial help again, this time for medical help. He hasn't been feeling well lately and was referred to some health specialist in the capital city.\r\n\r\nVladimir is very thankful to you all for the previous help and promises that he will pay this loan within the time-frame required.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Parent",
+                    "#Health and Sanitation",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/742192.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AL",
+                        "name": "Albania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 55,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Health"
+                },
+                "sector": {
+                    "name": "Health"
+                },
+                "partnerName": "Agro & Social Fund"
+            }
+        }
+    }
+}

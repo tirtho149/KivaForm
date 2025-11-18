@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 868320,
+                "name": "Selim",
+                "loanAmount": "1925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-04-18T15:30:03Z",
+                "disbursalDate": "2015-04-07T07:00:00Z",
+                "plannedExpirationDate": "2015-05-18T15:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy organic fertilizers for his 630 apple trees.",
+                "description": "Selim has 630 apple trees and he is applying for a loan to buy fertilizers for his orchard. He has been doing this type of activity for the past twenty years. \r\n\r\n“Selling apples has been the only source of income for my family; I do take great care of my trees though, and the soil is very prolific for the kind of apples I have. I sell the fruits to whole buyers who then export them to the nearby countries such as Montenegro, Macedonia and Croatia. My plans are that I rent some more land from other villagers and plant orchards such as quinces that our climate weather supports them. So, all in all is good at the moment,” said Selim to the loan officer who visited him while he was working around the orchard.  ",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/868320.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AL",
+                        "name": "Albania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 69,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Agro & Social Fund"
+            }
+        }
+    }
+}

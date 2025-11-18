@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2830436,
+                "name": "Mae Ann",
+                "loanAmount": "350.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-08-21T01:40:03Z",
+                "disbursalDate": "2024-07-18T07:00:00Z",
+                "plannedExpirationDate": "2024-09-25T01:40:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase materials for her repair shop.",
+                "description": "Mae Ann is 25 years old and single. Mae Ann has a repair shop business in the Philippines. She requested a PHP 20,000 loan through NWTF to purchase materials for her repair shop. Mae Ann has been sustaining her business activities through her past loans from NWTF. Mae Ann aspires to save enough to secure the future of her family.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Single",
+                    "#Repair Renew Replace"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps this borrower grow their business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2830436.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Motorcycle Repair"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

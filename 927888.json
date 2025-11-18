@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 927888,
+                "name": "Agnes",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2015-08-06T20:40:03Z",
+                "disbursalDate": "2015-07-31T07:00:00Z",
+                "plannedExpirationDate": "2015-09-05T20:40:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizer.",
+                "description": "Agnes is a married woman with 3 children. She describes herself as honest and operates a dairy farm and  grows tea. \r\n\r\nShe requests 50,000 KES to buy fertilizer. Her business goal is to be a world class farmer  within 5 years. \t\t\t",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/927888.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "SMEP Microfinance Bank"
+            }
+        }
+    }
+}

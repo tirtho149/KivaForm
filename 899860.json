@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 899860,
+                "name": "Cira's Group",
+                "loanAmount": "4125.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-06-15T07:10:02Z",
+                "disbursalDate": "2015-05-20T07:00:00Z",
+                "plannedExpirationDate": "2015-07-15T07:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy peanuts and perfume for resale.",
+                "description": "This group of thirty members are part of the 'Banc Villageois' which was created on 16th November 2010.  It is made up of women who all live in the same neighbourhood, work in retail and have a very good working relationship.\r\n\r\nSokna (seen on the right in the photo) is fifty years old, married and mother to seven children (three boys and four girls).  Her loan will buy peanuts and perfume.  She will buy two barrels of peanuts at the Diourbel market for 20,000 francs CFA each.  She will then sell them for 25,000 francs CFA each.  The perfume comes from Touba and she will buy twenty for 500 francs CFA each and resell them for 700 francs CFA each.\r\n\r\nSokna will use her profits to pay her part of the tontines (savings groups) of which she is a member, and also contribute to her family's expenses. ",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 30,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/899860.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SN",
+                        "name": "Senegal"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 128,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Retail"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "CAURIE Microfinance"
+            }
+        }
+    }
+}

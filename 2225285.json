@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2225285,
+                "name": "Christine",
+                "loanAmount": "200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-08-16T09:20:16Z",
+                "disbursalDate": "2021-08-13T07:00:00Z",
+                "plannedExpirationDate": "2021-09-15T09:20:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase modern farm inputs such as certified seeds and organic fertilizers, in order to improve the quality of her output.",
+                "description": "Christine is a humble, young mother aged 23 whose main dream is to improve her home conditions. She believes that living in a third-world country, where opportunities are scarce, is not an excuse for her not to triumph.<br /><br />Christine is a very hardworking woman who hails from Kerugoya, Kenya. She earns her primary income by raising crops and animal farming. <br /><br />Christine is contented with her agricultural lifestyle. She is an enterprising woman, and although she never had formal employment, has always worked hard on her farm to provide her children and family with decent meals.<br /><br />The Kerugoya area has favorable conditions for crop  farming, so she is seeking a loan to buy seeds, fertilizers and pesticides to boost her crop farming. Because of good roads, a good climate, and a good transportation network, she is sure she will reap maximum profits and increase her business.<br /><br />It is challenging for women to access funds in Africa, but  Christine is relieved to know there are institutions such as Kiva that help enterprising women like her.<br /><br />Kindly lend to her!",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals, farm inputs and farming equipment.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2225285.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 5,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

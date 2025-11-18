@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1663182,
+                "name": "Salima's Group",
+                "loanAmount": "450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-12-17T22:10:12Z",
+                "disbursalDate": "2019-02-15T08:00:00Z",
+                "plannedExpirationDate": "2019-01-16T22:10:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer to improve harvests of maize.",
+                "description": "Pictured above is Salima, often described as an extremely resourceful person. She is 39 years old and has six children. <br /><br />As a group leader, she is representing her group of nine farmers in Mumias District, Kenya. <br /><br />Salima is returning this season to work with One Acre Fund again, as this means that she is able to earn enough to feed her family, which is why she decided to join in the first place. <br /><br />Salima says that she is happy to have made that decision because, since she first joined in 2016, she has had more profits from each harvest, which has improved her day-to-day life significantly. <br /><br />Salima will use the profits from this season to send her children to school.<br /><br />The group will use this loan to purchase seeds and fertilizer to plant a total of 3.75 acres. Given that some members of the group will also be purchasing a solar light, with this loan, the group will also receive a total of three solar lights.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Schooling",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 9,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1663182.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2713592,
+                "name": "Raul",
+                "loanAmount": "1375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-01-21T14:20:30Z",
+                "disbursalDate": "2023-12-16T08:00:00Z",
+                "plannedExpirationDate": "2024-02-25T14:20:30Z",
+                "distributionModel": "fieldPartner",
+                "use": "to maintain the agricultural plot and cacao trees.",
+                "description": "Raul, 33 years old, has a 5-year-old daughter who is his greatest motivation and strength.<br /><br />He lives with his partner, who works growing cacao. He considers himself to be a hardworking and responsible man with desire to improve.<br /><br />For 12 years, he has had his organic cacao and corn business. It is for this that his greatest challenge is taking care of the diseases and weeds. Likewise, his great dream is to expand the hectares of organic cacao crops. In addition to this business, his other source of income is his work in civil construction. <br /><br />He will use the Kiva loan to maintain the agricultural plot and cacao trees. With the extra earnings, he will save up to be able to purchase farmland.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It schedules repayment rates based on the harvest season to put less pressure on farmers' families.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2713592.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 40,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Microfinanzas Prisma (COOPAC MFP)"
+            }
+        }
+    }
+}

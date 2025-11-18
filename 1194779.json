@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1194779,
+                "name": "Mark",
+                "loanAmount": "8000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-11-28T18:13:12Z",
+                "disbursalDate": "2016-12-16T19:27:43Z",
+                "plannedExpirationDate": "2017-01-03T17:14:13Z",
+                "distributionModel": "direct",
+                "use": ".",
+                "description": "My name is Mark Keeley and I grew up with my brother, Scott Keeley, in 9 different towns across New York and New England. After our 9th move, my father broke away from corporate life and started his own truck dealership in western Massachusetts, where my brother and I worked every summer. We come from a family of entrepreneurs. My uncles ran their own antique plating company and my other relatives own businesses that include pallet recycling and electrical contracting. I am a right-brain accountant / CPA by trade and my brother is a left-brain industrial designer and Patent Agent who ran his own furniture design business. We actively volunteer our combined accounting, design and patent writing skills to entrepreneurial startup business, especially socially and environmentally conscious organizations, such as the Social Enterprise Trust (reSET) in Hartford, CT. Our dream has always been to invent a product that solves a social or environmental problem.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Unique",
+                    "#Biz Durable Asset",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports two brothers starting a wind farm business increasing the supply of renewable energy",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1194779.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 200,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Energy"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "trusteeName": "reSET - Social Enterprise Trust"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 626374,
+                "name": "Maysoon",
+                "loanAmount": "1475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-11-04T05:10:02Z",
+                "disbursalDate": "2013-10-09T07:00:00Z",
+                "plannedExpirationDate": "2014-01-03T05:10:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a larger quantity of the boxes and tanks she sells, and to expand her storage space.",
+                "description": "Because Maysoon is a conservative woman, she asked her husband to take her place in the picture. Maysoon was born in 1975. She is married and has six children. Maysoon has been helping her husband in his project for the past 25 years. They collect small boxes and tanks, recycle them, and then resell them to plant nurseries, fruit growers, and the like. They were considering this job as saving the environment from being polluted.\r\n\r\nNow they are receiving requests from their customers for a larger amount of small tanks and boxes than they can collect. So they need to buy a larger amount of them, in addition to expanding their storage, to be able to keep a larger amount of their products. Taking these actions will help them to make a better profit and to raise their income, to be a good support for their children. But they don't have enough money to do these things. For this reason, Maysoon applied for this loan.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Unique",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/626374.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "JO",
+                        "name": "Jordan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 56,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "National Microfinance Bank"
+            }
+        }
+    }
+}

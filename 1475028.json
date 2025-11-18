@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1475028,
+                "name": "Feliciano",
+                "loanAmount": "625.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-02-26T12:50:05Z",
+                "disbursalDate": "2018-01-23T08:00:00Z",
+                "plannedExpirationDate": "2018-03-28T11:50:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to fertilize and weed his coffee farm destined for organic production.",
+                "description": "Feliciano, 52 years old, lives in the village of San Pedro, a small community of coffee-growers located in the district of Namballe, San Ignacio, Peru. Since he was a child, his parents taught Feliciano the agricultural tasks. <br /><br />Feliciano lives with his wife and has 3 hectares of coffee. He has dreams of increasing the area of coffee and, with the earnings from the coffee, support his two grandchildren and his daughter to improve his family's living conditions. <br /><br />The loan will allow him to increase his productivity and manage his farm well, by doing the second fertilizing and the weeding in a timely way.<br /><br />Thanks to Coopac Norandino, this is his first loan and he is grateful that you trust in him as a person.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports lucrative and sustainable livelihoods for organic farmers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1475028.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Norandino"
+            }
+        }
+    }
+}

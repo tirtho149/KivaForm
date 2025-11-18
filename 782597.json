@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 782597,
+                "name": "Burul",
+                "loanAmount": "1475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-10-17T21:10:02Z",
+                "disbursalDate": "2014-10-01T07:00:00Z",
+                "plannedExpirationDate": "2014-11-16T21:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase six tons of organic potatoes for resale.",
+                "description": "Burul is 55, married, and the mother of 5 children. She has a secondary education and earns a living for her family by farming. Thanks to her hard work she currently has livestock: five horses and 20 sheep. She also has her own 3.20 hectare plot of land and a rented 3 hectare plot where she and her spouse grow potatoes, grains, and sainfoin. Burul also has a seasonal income from buying potatoes and other vegetables from local farmers. All of the organic vegetables she buys are sold at the country's central market, where she has regular customers who have trucks to transport the goods. She earns 20,000 som (KGS) per month. Burul applied for a loan of 80,000 som (KGS) with the Bai-Tushum Bank to buy six tons of select potatoes for resale. She plans to use her profits to continue investing in her business and to save money for her son's wedding.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/782597.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 53,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

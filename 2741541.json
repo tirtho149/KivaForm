@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2741541,
+                "name": "Alfred",
+                "loanAmount": "525.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-03-07T15:20:14Z",
+                "disbursalDate": "2024-02-06T08:00:00Z",
+                "plannedExpirationDate": "2024-04-11T14:20:14Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a biodigester to improve his farm with sustainable technology.",
+                "description": "Alfred has six children and lives in Meru. He works hard to produce quality vegetables and he raises cows.<br /><br />Currently, he finds himself spending excessive amounts on petroleum-based fertilizer, and the cost continues to increase. He also believes that the chemical fertilizer hurts the quality of his vegetables and worries about the effect of the chemicals on his local environment.<br /><br />Alfred wants to reduce his operating costs and sees his investment in a 16-cubic-meter Sistema Biobolsa biodigester as an excellent opportunity. Using his biodigester, he will be able to turn the cows' manure generated daily on his farm into biofertilizer and renewable energy. He'll feed the system with manure and through a process of anaerobic digestion, the organic waste will be transformed into methane-rich, renewable, potent organic fertilizer and biogas. The biofertilizer will be applied to his crops, improving both quality and yields, without him having to spend more on petroleum-based agrochemical fertilizers. The biogas will replace the propane he currently uses to cook and to heat bathwater for his family.<br /><br />This loan represents 100 percent of the price of the biodigester.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It saves farmers money by transforming waste into biogas and organic fertilizer.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2741541.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 37,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Energy"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Sistema.bio"
+            }
+        }
+    }
+}

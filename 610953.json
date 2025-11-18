@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 610953,
+                "name": "Ruta",
+                "loanAmount": "650.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-09-29T02:20:01Z",
+                "disbursalDate": "2013-09-05T07:00:00Z",
+                "plannedExpirationDate": "2013-10-29T02:20:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy cement, nails, timber, and iron roofing, as well as weed-sprayer and chemicals.",
+                "description": "Ruta is a 32 year old woman who lives with her partner and 5 children. She has a small plantation where she grows taro, bananas, yams, etc. to earn a living. She has requested this loan to help her make improvements to her house, so her family can have better living conditions. Ruta will use the loan to buy cement, nails, timber and iron roofing. She will also use part of her loan to buy weed-sprayer and chemicals. Ruta joined SPBD in 2011 to gain access to financial services. \r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/610953.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "WS",
+                        "name": "Samoa"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Housing Expenses"
+                },
+                "sector": {
+                    "name": "Housing"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Samoa"
+            }
+        }
+    }
+}

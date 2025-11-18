@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1435914,
+                "name": "Kafunka 1 Group",
+                "loanAmount": "2800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-12-21T19:20:04Z",
+                "disbursalDate": "2017-11-20T08:00:00Z",
+                "plannedExpirationDate": "2018-01-20T19:20:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase renewable energy products so his family can save time and money in future.",
+                "description": "Kefas is 50 years old, married, and has eight children.  He and his wife have been farmers for 30 years.  They and the other members of Kafunka 1 Group live in a rural area in eastern Zambia.<br /><br />Kefas is buying a package of renewable energy products that includes a clean cookstove, a supply of fuel pellets made from waste sawdust, and a solar system with three bright lights and phone charging.  <br /><br />He says a key benefit of his purchase is that his family will save time collecting fuel for cooking, as well as on cooking itself.  Time is valuable to them for farming!  They’ll also save money on lighting in the future since they won’t continually need to buy candles.  As a farmer who already faces the challenges of an unpredictable climate, Kefas says he appreciates that the products are environmentally friendly.<br /><br />In conjunction with these purchases, Kafunka 1 group are participating in an innovative pigeon pea program.  Farmers receive seeds and training for growing pigeon peas – a crop that is well suited to the dry conditions of eastern Zambia, naturally improves soil fertility through nitrogen fixation, and provides income and protein.  After harvest, the farmers trade waste plant stalks (for recycling into fuel pellets for the stoves) as well as pigeon peas with Emerging Cooking Solutions as payment for their renewable energy products.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 8,
+                "whySpecial": "It helps both consumers and small-scale entrepreneurs access to clean energy  products.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1435914.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "ZM",
+                        "name": "Zambia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 94,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Energy"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Emerging Cooking Solutions Zambia"
+            }
+        }
+    }
+}

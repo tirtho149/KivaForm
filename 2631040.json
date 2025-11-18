@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2631040,
+                "name": "Rony Paul",
+                "loanAmount": "1000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-08-30T18:30:06Z",
+                "disbursalDate": "2023-07-24T07:00:00Z",
+                "plannedExpirationDate": "2023-10-04T18:30:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy agricultural supplies.",
+                "description": "Rony, 27, lives in the community of Moral with his partner and their 2 children.  The family lives in a small house owned by a relative that has been lent to them, so that they do not have to pay for a rental.  <br /><br />Upon becoming a father and having the responsibility of providing for the well-being of his family, Rony looked for a way to support the household.  With some initial savings, he started to cultivate potatoes, and this activity has given him a good income.  This is why Rony has decided to continue with this type of work and expand his production.  However, to do this, he needs a bigger investment of capital.  This is why he is requesting a loan to buy seeds, chemical and organic fertilizers, and other agricultural supplies.  In this way, he hope to improve his farming activity so that he can generate more profits.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It aims to reach vulnerable refugee populations in an isolated region.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2631040.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 51,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Ecuador"
+            }
+        }
+    }
+}

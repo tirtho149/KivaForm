@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1585082,
+                "name": "Reginah",
+                "loanAmount": "200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-08-11T20:40:05Z",
+                "disbursalDate": "2018-08-10T07:00:00Z",
+                "plannedExpirationDate": "2018-09-10T20:40:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy flower seedlings and plastic bags for her florist business.",
+                "description": "Reginah, aged 28, is single but supports her younger siblings with the income from her business. <br /><br />She is a florist who grows flowers in small plastic bags and then sells them. Reginah was motivated to enter this business by her love of flowers. She finds pride in her work.<br /><br />She has applied for a loan of 700,000 UGX from UGAFODE to buy a variety of flower seedlings and small plastic bags in which to plant them. She is confident that her sales will increase because a variety of flower types attracts buyers.<br /><br />Reginah sends her gratitude to the lenders for the financial support that will boost her business. Her dream is to further expand her business and also venture into making flower bouquets for extra income.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Single",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It targets rural populations.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1585082.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 4,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Flowers"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

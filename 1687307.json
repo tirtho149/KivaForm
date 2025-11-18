@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1687307,
+                "name": "Pamela's Group",
+                "loanAmount": "2000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-01-14T22:50:08Z",
+                "disbursalDate": "2019-02-15T08:00:00Z",
+                "plannedExpirationDate": "2019-02-13T22:50:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer to improve harvests of maize.",
+                "description": "Pamela is 62 years old and has four children. She has been a farmer for more than 20 years and is always said to be a very hardworking individual. Even though Pamela is the only one featured in the picture, she is actually representing her group, formed by 16 farmers in Teso District, Kenya.<br /><br />Pamela started working alongside One Acre Fund a few years ago, in 2013, and decided to do so because she wanted to get the best quality fertilizer and hybrid seeds. Since then, she has seen her life improve, especially in the sense that she has been able to consistently feed her family. This year, she decided to represent her group because she wanted to spread the story of One Acre Fund farmers.<br /><br />Pamela’s Group will receive enough farm inputs to plant a total of 22.25 acres of land. Additionally, some of the farmers in the group will be purchasing a solar light so, with this loan, the group will also receive a total of five solar lights.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 16,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1687307.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 39,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

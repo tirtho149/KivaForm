@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1666920,
+                "name": "Mario",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-12-19T00:10:06Z",
+                "disbursalDate": "2018-11-13T08:00:00Z",
+                "plannedExpirationDate": "2019-01-18T00:10:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to fertilize and plant new coffee plants.",
+                "description": "Mario is 36 years old and lives with his wife and dependent daughter in San Ignacio, Peru. Mario would like to use his earnings from the coffee plants to pay for his child's education. With his wife's support, he dreams of increasing his coffee production to guarantee a good life for his family.<br /><br />With this loan, Mario is going to buy fertilizers and plant new coffee plants to ensure good quality organic coffee and to increase his production in the medium term. <br /><br />Mario is thankful to Norandino for the loan that has been granted to him and confirms that it is contributing to the development of his family. This is his second loan with Norandino, and he is conscious that by being responsible he'll be able to improve their living conditions.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports lucrative and sustainable livelihoods for organic farmers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1666920.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Norandino"
+            }
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1779375,
+                "name": "Noel's Group",
+                "loanAmount": "425.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-06-14T15:20:10Z",
+                "disbursalDate": "2019-05-13T07:00:00Z",
+                "plannedExpirationDate": "2019-07-14T15:20:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer for the cultivation of maize, as well as a solar light.",
+                "description": "Noel's Group is formed by 9 farmers in Webuye District and is being represented by Noel, who is the group leader pictured above. She is 61 years old and has 10 children. Noel has been a farmer for more than 20 years and is often referred to as a very experienced farmer.\n\nNoel isn’t new to One Acre Fund, she actually joined the program in 2015 and has since noticed her life has changed; especially in the sense that she has had a healthier life due to better nutrition ever since. This year, Noel will not only get fertilizer and maize seeds as part of her loan, but will also purchase a solar light. She is very excited about this addition since now she will be able to reduce the consumption of paraffin fuel and therefore save more money.\n\n\nUsing this loan, Noel's Group will purchase a total of 5 solar lights and use the farming inputs received to plant a total of 3.5 acres.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 9,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1779375.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

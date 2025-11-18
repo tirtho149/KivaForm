@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1965562,
+                "name": "Jaime",
+                "loanAmount": "7500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-05-20T19:29:09Z",
+                "disbursalDate": "2020-06-02T00:59:41Z",
+                "plannedExpirationDate": "2020-07-05T21:31:13Z",
+                "distributionModel": "direct",
+                "use": "me to open my own brick and mortar store, and hire locally.",
+                "description": "My Father is a master carpenter and taught me how to make, make do, and mend from the time I was little. By instilling in me the desire to craft and create, he helped shape me as an artist and entrepreneur.  I have been an Artist and Crafter my entire life and career as a freelancer in the Film Industry.  I love how connected the fiber community is, and how exploring the different aspects of fiber production has connected me to my local community in such a strong way.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Fabrics",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports a business through the COVID-19 crisis.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1965562.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 201,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Arts"
+                },
+                "sector": {
+                    "name": "Arts"
+                },
+                "trusteeName": "No Trustee Endorsement"
+            }
+        }
+    }
+}

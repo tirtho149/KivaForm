@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1172251,
+                "name": "Dickson",
+                "loanAmount": "50.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-10-30T02:30:03Z",
+                "disbursalDate": "2016-10-03T07:00:00Z",
+                "plannedExpirationDate": "2016-11-29T03:30:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for a Malaysian knife to aid in pruning and harvesting his oil palm field.",
+                "description": "Dickson is not delinquent with the payment of his previous Kiva loan. He is very grateful for his previous loan because it help him maintain his organic field for more yield. Therefore he wants to secure an additional Kiva loan to help him buy a Malaysian Knife for harvesting and pruning of his oil palm field.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It increases the productivity of farmers producing organic and Fair Trade palm oil.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1172251.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GH",
+                        "name": "Ghana"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 2,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Dr. Bronner's / Serendipalm"
+            }
+        }
+    }
+}

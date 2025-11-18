@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1560832,
+                "name": "Geofrey",
+                "loanAmount": "175.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-07-03T15:10:02Z",
+                "disbursalDate": "2018-06-29T07:00:00Z",
+                "plannedExpirationDate": "2018-08-02T15:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to renew his driving permit, and to buy manure, seeds and a water tank for watering.",
+                "description": "Geofrey is 30 years old. He is married, and blessed with two school-going children. <br /><br />He is a driver, at the same time he is a farmer. He has been into these businesses for over 10 good years. He normally does his driving business from 8 in the morning to 9 in the night. He earns a profit.<br /><br />This will be Geofrey's first loan request from Tujijenge Tanzania.<br /><br />He is applying for this loan to renew his driving permit, and to buy manure, seeds and a water tank for watering.<br /><br />His dream is to own big lands for farming.<br /><br />Geofrey promise to be responsible for paying back the loan.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides loans to borrowers in very deep rural areas via mobile money innovation.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1560832.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TZ",
+                        "name": "Tanzania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 7,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Transportation"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "Tujijenge Tanzania"
+            }
+        }
+    }
+}

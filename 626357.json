@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 626357,
+                "name": "Sameera Group",
+                "loanAmount": "475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-11-04T03:30:05Z",
+                "disbursalDate": "2013-10-22T07:00:00Z",
+                "plannedExpirationDate": "2014-01-03T03:30:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy vegetables and fruits for resale.",
+                "description": "This group is called Sameera, which consists of four ladies who live in Hodeidah, Yemen. Samira is a 26-year-old single woman. She started a business selling fruits and vegetables with support from her brother. She is a responsible woman, and she works hard to earn daily income. Her business is not going well, due to a lack of money. To expand her business, she has applied for a loan of 20,000 YER from AMB. She will use the loan to buy vegetables and fruits for resale.\r\n",
+                "tags": [
+                    "volunteer_pick",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 4,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/626357.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "YE",
+                        "name": "Yemen"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 18,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Al-Amal Microfinance Bank"
+            }
+        }
+    }
+}

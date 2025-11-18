@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1700572,
+                "name": "Elmer",
+                "loanAmount": "625.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-02-10T22:00:02Z",
+                "disbursalDate": "2019-01-26T08:00:00Z",
+                "plannedExpirationDate": "2019-03-12T21:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase fertilizers and manures.",
+                "description": "Elmer lives in the village of Pacheco located in the city of La Paz in the department of La Paz. He has lived there for more than 20 years. His principal source of income is through growing coffee, and he currently has 1.5 hectares. <br /><br />His farm is located in his village at an altitude of 1300 meters, so it has good access and location. <br /><br />Elmer is a hardworking person with the desire to give his crops the best maintenance and thus obtain better production next year. <br /><br />His dream is to provide his family more opportunities to grow. <br /><br />He is requesting the loan for fertilizers and manures. <br /><br />Comayagua, Honduras <br />January 2019",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It has a below-market interest rate and is repaid at harvest, when farmers can more easily repay.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1700572.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HN",
+                        "name": "Honduras"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Prisma Honduras"
+            }
+        }
+    }
+}

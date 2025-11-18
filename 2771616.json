@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2771616,
+                "name": "Rene Aladino",
+                "loanAmount": "1550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-05-09T11:50:54Z",
+                "disbursalDate": "2024-04-12T07:00:00Z",
+                "plannedExpirationDate": "2024-06-13T11:50:54Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase organic fertilizers and insecticides to improve his yield.",
+                "description": "Rene Aladino is 52 years old, single, and lives with relatives in San Antonio in the canton of Chone, an agricultural place par excellence with hardworking people who work at the tasks of the fields and raising animals.<br /><br />He is a very hardworking man who seeks the way to earn his resources and, with them, to get ahead with his family. He works in agriculture and has a number of hectares with cacao, plantain and yuca crops, crops he hopes to improve genetically and, so, to improve the quality of his yield. He uses natural irrigation systems as well as organic fertilizers and insecticides, with which he tries to protect the environment and have very good harvests.<br /><br />This loan is to purchase organic fertilizers and insecticides to improve his yield.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Single",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps farmers adapt to a changing climate.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2771616.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 62,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Fundación ESPOIR"
+            }
+        }
+    }
+}

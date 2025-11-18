@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1879197,
+                "name": "Batista's Group",
+                "loanAmount": "1025.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-11-20T16:40:09Z",
+                "disbursalDate": "2020-01-15T08:00:00Z",
+                "plannedExpirationDate": "2019-12-20T16:40:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer to improve harvests of maize.",
+                "description": "Pictured above is Batista, who is often described as an extremely hardworking individual. He is 60 years old and has 8 children. As a group leader, he is representing his group of 11 farmers in Iringa District, Tanzania. <br /><br />Batista is returning this season to work with One Acre Fund again as this means that he is able to have access to quality training and acquire new farming methods, which is why he decided to join in the first place. Batista says that he is happy to have made that decision because, since he first joined in 2015, he has learned a lot from farming trainings, which has improved his day-to-day life significantly. Batista will use the profits from this season to buy a cow.<br /><br />The group will use this loan to purchase seeds and fertilizer to plant 11 acres. The group will also receive one solar light.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Parent",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 11,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1879197.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TZ",
+                        "name": "Tanzania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

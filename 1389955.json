@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1389955,
+                "name": "Pha Group",
+                "loanAmount": "1975.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-10-04T22:20:02Z",
+                "disbursalDate": "2017-10-03T07:00:00Z",
+                "plannedExpirationDate": "2017-11-03T22:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy organic fertilizer to boost her crop yields.",
+                "description": "A local resident in Svay Reang province, Pha, 44, is a married woman who is blessed with four dependent children, two of whom are in school, while the others are garment factory workers. <br /><br />To earn a living, she grows rice and works for others for a fee, while her husband is a construction worker to add more income. This is her first loan with Kredit. Pha hopes to earn a good daily income to upgrade her standard of living and to build a new house. <br /><br />In a group of four members, she is the leader. She is going to use her loan portion to buy organic fertilizer to boost her crop yields.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 4,
+                "whySpecial": "It provides low-income rural communities with access to finance and training services.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1389955.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 38,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Phillip Bank"
+            }
+        }
+    }
+}

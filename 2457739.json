@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2457739,
+                "name": "Jhannet",
+                "loanAmount": "1450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-10-15T11:20:03Z",
+                "disbursalDate": "2022-09-30T07:00:00Z",
+                "plannedExpirationDate": "2022-11-19T12:20:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to rent a sales space.",
+                "description": "Jhannet, age 21, is a single mother with one daughter, age 1 year. She lives with her parents because she needs to save everything she can. <br /><br />She works selling plants, mulch, and soil. She has been in the business for three years, and her best customers are in the community of Río Abajo.<br /><br />Jhannet wants a loan to rent a sales space that is in a better location. This will help her to increase her income, because there is great demand for her plants.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Single Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It reaches low-income populations by not requiring collateral or co-signers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2457739.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 43,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Flowers"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "IMPRO"
+            }
+        }
+    }
+}

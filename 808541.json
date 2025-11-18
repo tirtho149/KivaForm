@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 808541,
+                "name": "Cirila",
+                "loanAmount": "325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-12-04T20:10:02Z",
+                "disbursalDate": "2014-11-19T08:00:00Z",
+                "plannedExpirationDate": "2015-01-18T20:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase organic fertilizer.",
+                "description": "Cirila has been farming for many years and she earns a good income. She used her previous loan for additional seeds, seedlings, and young crops to raise. She was able to raise more and was financially prepared for the next cropping season. \r\n\r\nCirila requested another loan, which she will use to purchase organic fertilizer to restore nutrients to have a productive harvest. With this loan, the entire farm will be fertilized for a productive farm in the future.\r\n",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/808541.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Gata Daku Multi-purpose Cooperative (GDMPC)"
+            }
+        }
+    }
+}

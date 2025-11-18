@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1464366,
+                "name": "Rujim",
+                "loanAmount": "1275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-02-07T17:30:04Z",
+                "disbursalDate": "2018-01-30T08:00:00Z",
+                "plannedExpirationDate": "2018-03-09T17:30:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy organic fertilizer.",
+                "description": "Rujim is 31 years old, married, a father of one child, who lives in Jimenez, Misamis Occidental. Rujim is a hardworking man who earns an income from his farmland and from his salary from another job. He has been employed by a private institution for many years. <br /><br />Aside from these, he also has a farm where his investments go. With his generated income, Rujim was able to pay his previous loan. Recently, Rujim took a new loan of 65,000 PHP to buy organic fertilizer to improve the farm and be able to increase his income. In the future, he wants to improve the general living situation of the entire family.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It allows this borrower to access training and capital.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1464366.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 41,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Gata Daku Multi-purpose Cooperative (GDMPC)"
+            }
+        }
+    }
+}

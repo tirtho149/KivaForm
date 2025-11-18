@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1816344,
+                "name": "Evelin Beatriz",
+                "loanAmount": "750.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-08-15T18:20:09Z",
+                "disbursalDate": "2019-07-25T07:00:00Z",
+                "plannedExpirationDate": "2019-09-14T18:20:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy manure, fertilizer and basic grain seeds to plant.",
+                "description": "Evelin needs economic assets to continue working in agriculture. For this reason she is requesting a new loan. She will use the money to buy manure, fertilizer and basic grain seeds to plant.<br /><br />The effects of having invested her previous loan in her business were positive. She managed an abundant harvest of basic grains and she had more product to sell. The earnings she obtained were used to pay off her loan and have economic stability. She is continuing with her businesses of growing basic grains and raising livestock. Her family unit has not changed.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It empowers women in El Salvador.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1816344.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 24,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "PADECOMSM"
+            }
+        }
+    }
+}

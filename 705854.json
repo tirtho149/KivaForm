@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 705854,
+                "name": "Anonymous",
+                "loanAmount": "2025.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-05-06T05:10:02Z",
+                "disbursalDate": "2014-06-06T07:00:00Z",
+                "plannedExpirationDate": "2014-06-05T05:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "",
+                "description": "",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Post-disbursed"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/705854.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BZ",
+                        "name": "Belize"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 60,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Maya Mountain Cacao"
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2101964,
+                "name": "Dominga",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-02-07T14:10:12Z",
+                "disbursalDate": "2021-02-03T08:00:00Z",
+                "plannedExpirationDate": "2021-03-09T14:10:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertiliser and to weed her organic, fair trade coffee plantation.",
+                "description": "Dominga is 27 years old. She lives with her young son in the small village of La Huaca, Huabal, Cajamarca, where she has been making a living growing coffee for the past 10 years. This has allowed her to provide for her family. This third loan will be used to buy fertiliser and to weed her coffee plantation, which will improve the production and quality of the coffee, which she sells in her farming cooperative who sell to the organic, fair trade market.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports lucrative and sustainable livelihoods for organic farmers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2101964.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Norandino"
+            }
+        }
+    }
+}

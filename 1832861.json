@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1832861,
+                "name": "Jhony",
+                "loanAmount": "1200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-09-12T02:50:10Z",
+                "disbursalDate": "2019-09-09T07:00:00Z",
+                "plannedExpirationDate": "2019-10-12T02:50:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to weed and prune a plot of cocoa.",
+                "description": "Jhony, 31, lives with his spouse and five children in the village of Pampamonte, Lamas, Peru.<br /><br />He has been cultivating Cacao for six years  and is diversifying his income by cultivating corn, raising chickens,  and harvesting bananas.<br /><br />Jhony is a member of Norandino.  With his fifth loan, he will invest in pruning,nd weeding, preparing his plot for the planting cocoa.  Thus, he will increase and improve his product for the next harvest.  This will generate future income that will allow him to provide a better quality of life for his family.",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports lucrative and sustainable livelihoods for organic farmers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1832861.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 47,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Norandino"
+            }
+        }
+    }
+}

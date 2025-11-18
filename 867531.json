@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 867531,
+                "name": "Fridah's Group",
+                "loanAmount": "525.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-04-14T17:50:03Z",
+                "disbursalDate": "2015-03-30T07:00:00Z",
+                "plannedExpirationDate": "2015-05-14T17:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer for the cultivation of maize.",
+                "description": "Fridah, age 40, is a maize farmer. She is the representative for a group of seven farmers in Kakamega South District. She has been farming for 19 years and is considered experienced and skilled in her work. \r\n\r\nFridah is new to One Acre Fund and decided to join this year because she wanted to have access to quality training so that she can acquire new farming methods. Even though she is new to the program, Fridah wanted to represent her group because she wishes to be more active in her community.\r\n\r\nFridah will use her loan funds to purchase hybrid seeds and fertilizer for the cultivation of maize. With the profits earned from this season’s harvest, Fridah hopes to be able to send her children to school. She and her husband have six children.\r\n\r\nWith this loan, the group will receive farming inputs to plant a total of three acres of land. Though Fridah chose not to request a solar light, four of the farmers in the group will each be receiving one as part of their loan package.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 7,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/867531.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

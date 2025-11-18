@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1283356,
+                "name": "Juma's Group",
+                "loanAmount": "450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-04-22T05:50:17Z",
+                "disbursalDate": "2017-04-01T07:00:00Z",
+                "plannedExpirationDate": "2017-05-22T05:50:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a solar light and increase maize cultivation.",
+                "description": "Pictured above is Juma, often described as an extremely resourceful person. He is 30 years old and, as a group leader, he is representing his group of 9 farmers in Kimilili District, Kenya.  He is married and has 3 children.<br /><br />Juma is returning this season to work with One Acre Fund again as this means that he is able to get the best quality fertilizer and hybrid seeds, which is why he decided to join in the first place. Juma says that he is happy to have made that decision because, since he first joined in 2014, he has had a healthier life due to better nutrition, which has improved his day-to-day life significantly. Juma will use the profits from this season to send his children to school.<br /><br />The group will use this loan to purchase seeds and fertilizer to plant a total of 4.5 acres. Given that some members of the group will also be purchasing a solar light, with this loan, the group will also receive a total of 2 solar lights.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 9,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1283356.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 18,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

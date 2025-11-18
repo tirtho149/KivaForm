@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 811095,
+                "name": "Lillian's Group",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-12-09T20:40:04Z",
+                "disbursalDate": "2014-11-05T08:00:00Z",
+                "plannedExpirationDate": "2015-01-23T20:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase tree farm planting inputs, such as seedlings, and to pay for technical training and planting support.",
+                "description": "Lillian is a member of Lillian's Group. She is a 40-year-old KOMAZA tree farmer with two children, both of whom are in school. She is married to a policeman. \r\n\r\nIn addition to growing trees, Lillian also cultivates maize, cassava, and cowpeas. She decided to join KOMAZA for future benefits that will arise from tree sales and she plans to spend the money earned from the KOMAZA tree farm to pay school fees for her children and to buy a dairy cow. \r\n\r\nLillian’s favorite part about working with KOMAZA is watching her neighbors' trees grow fast and healthy. Lillian is the farmer with her hand raised in the picture. ",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Schooling",
+                    "#Low-profit FP",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 2,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/811095.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 8,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "KOMAZA Forestry Ltd."
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 851333,
+                "name": "Carlos Alfredo",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2015-03-10T21:20:06Z",
+                "disbursalDate": "2015-02-25T08:00:00Z",
+                "plannedExpirationDate": "2015-04-09T21:20:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "purchase agriculture supplies to care for his crops.",
+                "description": "Carlos is 40 years old and lives with his wife and their four children in a house that they own.  He works growing jocotes and basic grains (corn and beans).  He was worked as a farmer for most of his life and he has a lot of experience.  He harvests good crops and is able to sell them around the region where he lives.\r\n\r\nCarlos is seeking a loan to purchase farming supplies in order to care for his crops and be able to harvest good products to increase his earnings.",
+                "tags": [
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/851333.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 7,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Apoyo Integral"
+            }
+        }
+    }
+}

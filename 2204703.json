@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2204703,
+                "name": "Katieniton Group",
+                "loanAmount": "1450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-07-09T13:00:12Z",
+                "disbursalDate": "2021-06-15T07:00:00Z",
+                "plannedExpirationDate": "2021-08-08T13:00:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy the inputs for her farm field to harvest more.",
+                "description": "Worokia is a Malian woman, aged 43, appearing by herself in the photo due to COVID-19. She is the mother of eight children, aged 2 to 21, of whom five are in school. She is a determined woman who has been growing chili peppers for nine years now.  <br /><br />She turns to the microfinance institution with the aim of buying more fertilizer and herbicide for her field of chili peppers. She does her buying and selling at the local fairs and is counting on a considerable profit ranging from 30,000 to 60,000 francs CFA.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 11,
+                "whySpecial": "It empowers farmers and entrepreneurs in underserved areas in Mali.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2204703.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "ML",
+                        "name": "Mali"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 45,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Réseau de Micro-institutions de Croissance de Revenus (RMCR)"
+            }
+        }
+    }
+}

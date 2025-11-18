@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1923434,
+                "name": "George",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-02-05T17:30:12Z",
+                "disbursalDate": "2020-02-24T08:00:00Z",
+                "plannedExpirationDate": "2020-03-21T16:30:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay school fees for his children and to buy mulch for his plantation.",
+                "description": "George, as seen in the photo with his wife, has applied for a loan of 2,000,000 UGX to pay school fees for his children and with surplus to buy mulch for his plantation for increased yields, to match the increased competition. <br /><br />He believes this business is profit-oriented, hence he will be able to fend for his family after the harvest and sale. He appreciates the lenders for this opportunity.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps families send their children to school.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1923434.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 20,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Primary/secondary school costs"
+                },
+                "sector": {
+                    "name": "Education"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

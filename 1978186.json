@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1978186,
+                "name": "Locus",
+                "loanAmount": "1075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-06-30T12:30:07Z",
+                "disbursalDate": "2020-06-23T07:00:00Z",
+                "plannedExpirationDate": "2020-08-14T12:30:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulches and manure to boost production.",
+                "description": "Locus is married with 4 children. He is a commercial farmer who grows bananas and maize on medium scale.He is a permanent resident of Ntungamo where his farm is located.<br /><br />His produce is of good quality. However, they have been affected by heavy rains that wash away the fertile soils and drought that makes the soils dry and infertile.<br /><br />To overcome these problems and to further produce improved yields he is seeking a loan to buy mulches and manure to make the soils fruitful and to attain improved yields that are marketable.<br /><br />This will increase sales and help make his life sustainable.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1978186.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 38,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

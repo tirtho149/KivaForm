@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1376216,
+                "name": "Patricia",
+                "loanAmount": "1450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-09-18T11:20:03Z",
+                "disbursalDate": "2017-09-11T07:00:00Z",
+                "plannedExpirationDate": "2017-10-18T11:20:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a refrigerator to keep the chicken and, in the future, to open a restaurant.",
+                "description": "Patricia is 27 years old, lives with her partner, they have a child who goes to school, and her business is selling grilled chicken. She does her work in El Torno, a rural area visited by many for its natural attractions, to do ecotourism.<br /><br />Patricia and her family live in her mother's house, which is on the corner of the main street where the visitors travel. There, she began her business with a small grill and a table. The place is in the open air and, when it rains, she stops working. After 3 years in the business, her grill is larger and she has 5 sets of tables and chairs with which she meets the daily demand. <br /><br />The greatest difficulty she has is storing the chicken. She does not have a refrigerator and has to travel daily to purchase it. Many times, it runs out and does not meet the demand. The advantage is that it is very well located and, thanks to this business, her economic situation is stable. The disadvantage is the lack of its own space under a roof. Her dream is to open a restaurant with all the necessary tools. With this loan she will purchase a refrigerator to keep the fresh food. It is her second loan with the institution in her whole life. <br /><br />It is for these reasons that Patricia asks for a loan to purchase a refrigerator to keep the chicken and, in the future, to open a restaurant.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers smooth their income and protect against the effects of climate change.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1376216.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 43,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Stall"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Sembrar Sartawi"
+            }
+        }
+    }
+}

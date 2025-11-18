@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 955915,
+                "name": "Bertha Germania",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-10-07T01:00:02Z",
+                "disbursalDate": "2015-09-09T07:00:00Z",
+                "plannedExpirationDate": "2015-11-06T01:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy beauty salon instruments.",
+                "description": "Germania is a happy, enthusiastic 30 year old. She is the single mother of a 9 year old daughter, Tania who studies in a free school in the area where they live. She is a stylist who at the age of 15 started to work as an worker. The discomfort of feeling exploited in her work made her decide to start her own beauty salon. <br /><br />Germania works from very early until night trying to gain clients. She needs money to buy some beauty salon instruments, mirrors, chairs and products that will facilitate her work generating more profit to be able to feed and educate her young one and idealize her own house.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Single Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/955915.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 52,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beauty Salon"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "VisionFund Ecuador"
+            }
+        }
+    }
+}

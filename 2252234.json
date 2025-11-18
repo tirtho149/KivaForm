@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2252234,
+                "name": "Bar Onger Farmers Group/Vsla",
+                "loanAmount": "925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-09-29T07:30:42Z",
+                "disbursalDate": "2021-09-17T07:00:00Z",
+                "plannedExpirationDate": "2021-10-29T07:30:42Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy animal feed.",
+                "description": "Sarah is 42 years old, and lives in Aber.  She is married with three children.  She grows crops, however her main business activity is raising pigs.  Her husband is also a farmer.<br /><br />Sarah is requesting a loan from VisionFund Uganda to buy animal feed so that the pigs are able to increase in size and sell at a good price.  The manure produced by the pigs is used as fertilizer on the crops.  Sarah plans to construct better sties for her pigs so that they are not affected by rain and sunshine.<br /><br />She is grateful to Kiva for the support.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 6,
+                "whySpecial": "It helps farmers in Uganda increase their income and provide for their families.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2252234.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 29,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pigs"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Uganda"
+            }
+        }
+    }
+}

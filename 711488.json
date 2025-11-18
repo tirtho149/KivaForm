@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 711488,
+                "name": "Jose Sain",
+                "loanAmount": "925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-05-28T11:10:04Z",
+                "disbursalDate": "2014-04-30T07:00:00Z",
+                "plannedExpirationDate": "2014-06-27T11:10:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to install electrical wiring in his house. He will buy wire, tubes, an insulation box for connectors and an outlet. The other part of the money will be to pay the person who does the work.",
+                "description": "Jose is 30 years old. He went to school through the sixth grade. He is married and has three children. Only two of them are in school. \r\n\r\nHe has been working in security for a private business for 5 years. He is also a farmer, which he learned from his father. This allows him to obtain basic grains to support his family.\r\n\r\nHe will use the loan specifically to install electrical wiring in his house. To do this, he will buy wires, tubing, an insulated box for connectors and an outlet. Another part of the loan will be used to pay the person who will do the work. \r\n\r\nHis dream for the future is to have his house be in perfect condition and to have basic services so he can offer his family a good quality of life.\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/711488.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 36,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Energy"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

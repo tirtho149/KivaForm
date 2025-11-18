@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2177741,
+                "name": "Armando",
+                "loanAmount": "1300.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-05-30T02:20:10Z",
+                "disbursalDate": "2021-05-18T07:00:00Z",
+                "plannedExpirationDate": "2021-06-29T02:20:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase milk cows to take advantage of their pastures.",
+                "description": "Armando wants to get a new loan. He is 49 years old, is married, and lives with his wife and children, who are his main priority. He wants the loan for the purchase of supplies for assistance and maintenance of his dairy cow crops so that he can make the most of his pastures and generate more income from the sale of the dairy products they produce. He hopes that this investment will provide his family with a better quality of life and greater economic stability, and that he will be able to continue growing as a person and as a microentrepreneur. This is the tenth loan he has received from FUDECOSUR. He has not had other loans from state-owned banks before, but FUDECOSUR has provided him with a loan with greater facilities and a much lower interest rate.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It is structured so that farmers' repayment schedules align with their cash flows.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2177741.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CR",
+                        "name": "Costa Rica"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 52,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FUDECOSUR"
+            }
+        }
+    }
+}

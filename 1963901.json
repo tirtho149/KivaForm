@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1963901,
+                "name": "Mine",
+                "loanAmount": "875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-05-07T22:10:08Z",
+                "disbursalDate": "2020-04-22T07:00:00Z",
+                "plannedExpirationDate": "2020-06-21T22:10:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a motorcycle for her son so he can transport raw milk to the city every day where he can sell it.",
+                "description": "\"Until 2 weeks ago there was a farm who bought all milk from us, until it went down due to the Pandemic situation. I have not been able to sell the milk for this period so I have started to make cheese, but I have no place to store all that diary products so it is becoming urgent to have an engine to transport the products at the city where we can sell them!\"- said Mine desperately, during the interview. <br /><br />Mine is asking for the first time for a Kiva loan to buy a motorcycle for her son so he can transport raw milk and other diary products every day to the city where he can sell them and make an income for the family. The family's only source of income is from dairy and selling three calves per year. <br /><br />Mine lives with her husband, son, daughter-in-law, and two grandchildren in a village house. The entire family is engaged in agricultural activity except the little ones.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports women in a country where financing options are scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1963901.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AL",
+                        "name": "Albania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 27,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Motorcycle Transport"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "Agro & Social Fund"
+            }
+        }
+    }
+}

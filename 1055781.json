@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1055781,
+                "name": "Ara",
+                "loanAmount": "2075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-04-22T16:20:03Z",
+                "disbursalDate": "2016-04-12T07:00:00Z",
+                "plannedExpirationDate": "2016-05-22T16:20:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for raw materials (milk and dairy produce) for producing smoked cheese.",
+                "description": "Ara has been involved in cheese production for 6 years. He started the production in a small garage and then was able to expand and improve working space.<br /><br />Ara is the only breadwinner in his family of four: he lives with his mother, wife and two children. He applied for this loan to purchase raw materials (milk and dairy produce) for producing smoked cheese. Ara purchased new equipment and started specializing in smoked cheese production. <br />Ara greatly hopes for lenders' support.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports informal business owners that have fewer opportunities.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1055781.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 77,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cheese Making"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "SEF International"
+            }
+        }
+    }
+}

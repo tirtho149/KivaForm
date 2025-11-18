@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2129158,
+                "name": "Mayers",
+                "loanAmount": "1100.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-03-16T12:00:13Z",
+                "disbursalDate": "2021-03-13T08:00:00Z",
+                "plannedExpirationDate": "2021-04-15T12:00:13Z",
+                "distributionModel": "fieldPartner",
+                "use": "to invest in agriculture.",
+                "description": "Mayers was born in Nyabitekyere, Kakanju. The family was greatly involved in coffee farming and matooke trade. He struggled hard to study which was not easy and he ended as a grade 5 teacher and he is currently a practicing teacher and also a farmer. <br /><br />Being an innovative person, he is currently involved in coffee farming and coffee trade. He is a father of three children who are still young, though two are in school. It has been through loans and his agricultural projects especially coffee farming and coffee trade that he has been able to pay school fees for his children and buy more land for agriculture and also build a house. <br /><br />His major sources of income currently are coffee and matooke farming alongside teaching. He previously obtained a loan of UGX 1,500,000 but has now applied for another loan of UGX 4,000,000 which he needs to purchase manure and mulch for both his coffee and banana plantations respectively and also to add some money into the coffee trade. <br /><br />He hopes to produce more than 70 bags of coffee and become a model farmer for coffee in his area and also pay school fees for his children in addition to boosting his coffee trading business and complete his house fully.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2129158.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 38,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1521854,
+                "name": "Majed",
+                "loanAmount": "1025.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2018-05-07T04:10:04Z",
+                "disbursalDate": "2018-04-26T07:00:00Z",
+                "plannedExpirationDate": "2018-07-20T05:35:24Z",
+                "distributionModel": "fieldPartner",
+                "use": "to maintain the house where he lives and start opening his own project.",
+                "description": "Majed is a 32-year-old Syrian single man who moved to Lebanon five years ago, due to the war happened in his country. He is now living with his aunt in a rented apartment in Tripoli. Currently, he is an employee of a well-known company from which he is earning his income.<br /><br />Majed is an ambitious guy, where he is seeking to open his own operator business in the near future in order to earn an additional profit and assure a good future for himself. <br /><br />He applied for a loan from Ibdaa, a Kiva partner, for the first time. He needs to help his aunt in maintaining her house and will use a small part to open his own business.<br /><br />Majed is an energetic man, he will do his best to divide his time between his job in the company where he is working and his new project which he is aiming to open.",
+                "tags": [
+                    "volunteer_pick",
+                    "volunteer_like",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Single",
+                    "#Refugee"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps neglected refugees build stability in their lives.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1521854.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "LB",
+                        "name": "Lebanon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 6,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Expenses"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Ibdaa Microfinance"
+            }
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1777302,
+                "name": "César Antonio",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-06-12T03:00:10Z",
+                "disbursalDate": "2019-05-24T07:00:00Z",
+                "plannedExpirationDate": "2019-07-12T03:00:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy cattle to raise.",
+                "description": "César is 47 years old. He is a widower and has a daughter who is a minor and depends on him. She attends school.<br /><br />César has been a mason for 7 years, and he learned this trade from his father. He also raises corn and vegetables and cares for cattle, since he has 16 cows, of which 10 are milked. He sells the milk he obtains in his community. He has an employee who helps him to care for the animals.<br /><br />César needs a loan to buy cattle to raise.<br /><br />He dreams of enlarging his house, giving his daughter a good education, and increasing the milk production of his cattle.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Widowed",
+                    "#Single Parent",
+                    "#Biz Durable Asset",
+                    "#Female Education"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers and fishermen, while teaching sustainable agricultural practices.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1777302.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 21,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Dairy"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

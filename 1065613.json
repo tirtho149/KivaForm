@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1065613,
+                "name": "Paul",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-05-09T17:10:06Z",
+                "disbursalDate": "2016-04-25T07:00:00Z",
+                "plannedExpirationDate": "2016-06-08T17:10:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase gutters and a water tank to store water for domestic use.",
+                "description": "Paul is married and has two children. He operates a farm where he keeps dairy cows, which he has been doing for six years. He describes his biggest business challenge to be inadequate working capital. \r\n\r\nPaul requested a loan for 40,000 KES, which he will use to buy gutters and a water tank to store water for domestic use. \t\t\t\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Parent",
+                    "#Health and Sanitation"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It improves sanitation and access to clean drinking water.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1065613.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 16,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Consumer Goods"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "SMEP Microfinance Bank"
+            }
+        }
+    }
+}

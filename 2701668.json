@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2701668,
+                "name": "Rath",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-12-25T01:00:21Z",
+                "disbursalDate": "2023-11-29T08:00:00Z",
+                "plannedExpirationDate": "2024-01-29T01:00:21Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizer and more seeds to support his farm.",
+                "description": "Rath is a farmer, cheerful and strong. He started farming rice crops around 24 months ago, and with this business, he generates an income and supports his home. In addition, it allows him to become head of the household. He has the absolute support of his family. Rath requests a loan from Kiva and Chamroeun to buy fertilizer and more seeds to support his farm. Rath wants to have the best farm in his town in the years to come.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It allows farmers to repay when they receive harvest income and gives them access to training.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2701668.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 14,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Chamroeun Microfinance Plc"
+            }
+        }
+    }
+}

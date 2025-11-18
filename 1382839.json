@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1382839,
+                "name": "Krishna Maya",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-09-28T08:30:02Z",
+                "disbursalDate": "2017-08-27T07:00:00Z",
+                "plannedExpirationDate": "2017-10-28T08:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seeds and fertilizers.",
+                "description": "Krishna Maya is 21 years old. In 2014, she established her vegetable produce and sales business. She has already received and successfully repaid five loans from Patan BPW and used her most recent loan to buy fertilizer and seeds.<br /><br />In the future, she plans to uplift the economic condition of her family even more and she thanks you for your support.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides business and financial training to female small business owners.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1382839.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NP",
+                        "name": "Nepal"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 16,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "BPW Laghubitta Bittiya Sanstha Limited"
+            }
+        }
+    }
+}

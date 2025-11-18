@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 897081,
+                "name": "Apolinar",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-06-08T14:50:03Z",
+                "disbursalDate": "2015-05-08T07:00:00Z",
+                "plannedExpirationDate": "2015-07-08T14:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to invest in a 16 m3 waste-to-energy biodigester.",
+                "description": "Being an experienced dairy farmer, Apolinar knows how increasing LP gas prices and chemical fertilizers can disproportionately reduce his income. He decided to acquire a Sistema Biobolsa biodigester in order to free himself from this financial burden and to become his own energy and fertilizer supplier. \r\n\r\nHe can do this by inputting his cows' manure in the biodigester, where bacteria will transform it into renewable energy and nutrient-rich fertilizer. Apolinar will use the biogas to cook and heat water, displacing wood and fossil-fuel-based LP gas in the house and kitchen, while replacing the chemical fertilizer by the organic one, nourishing the soils in a sustainable manner and increasing his crops' yield. \r\n\r\nHe looks forward to saving money, improving his productivity and living in a cleaner, more comfortable environment. As he starts saving money, he plans to improve the infrastructure on his farm to widen his cows' corral.\r\n\r\nThis loan represents 20% of the full cost of the biodigester. The remaining part is being covered by a government subsidy.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/897081.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MX",
+                        "name": "Mexico"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 20,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Dairy"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Sistema.bio"
+            }
+        }
+    }
+}

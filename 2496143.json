@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2496143,
+                "name": "Pedro Avelino",
+                "loanAmount": "1075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-12-17T21:00:07Z",
+                "disbursalDate": "2022-11-19T08:00:00Z",
+                "plannedExpirationDate": "2023-01-31T21:00:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy organic flours that will help increase the growth process of his trout.",
+                "description": "Pedro Avelino is an indigenous agriculturist and fish farmer from Silvia, Cauca, with more than 23 years of knowledge practicing in both activities. <br /><br />He currently owns a two-hectare plot of land that was assigned by his indigenous council, where he distributes potato crops, 1,000 strawberry plants and four domestic ponds with 2,800 alvine trout dispersed by age. <br /><br />Pedro sells his trout to wholesale suppliers in his municipality who later distribute it to different cities around the country.<br /><br />Pedro lives with his wife and three children, ages 17, 13 and 4, in a house he bought 20 years ago. His wife works alongside him supporting him in raising and feeding the trout. <br /><br />A loan of $5,138,407 COP helps Pedro to purchase of organic flours that will potentiate the growth of his trout.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The loan will help peasants to improve their agro crops",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2496143.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Aquaculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FINAMIGA UNI2"
+            }
+        }
+    }
+}

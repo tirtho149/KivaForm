@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1439818,
+                "name": "Grupo Parque Group",
+                "loanAmount": "975.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-12-23T22:50:06Z",
+                "disbursalDate": "2017-12-15T08:00:00Z",
+                "plannedExpirationDate": "2018-01-22T22:50:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy snacks to sell with the working capital obtained.",
+                "description": "Reina, the first on the left hand side of the photo, says she is very happy and grateful for the loan she previously acquired, since she managed to remodel her home and could improve her living conditions. <br /><br />Now she is requesting another loan, which she will use as working capital to sell snacks and thus have other income for her home and be able to improve her quality of life.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Repeat Borrower",
+                    "#Supporting Family",
+                    "#Orphan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 3,
+                "whySpecial": "It targets low-income borrowers who can't access typical microfinance loans.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1439818.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GT",
+                        "name": "Guatemala"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 21,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Stall"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "ADICLA"
+            }
+        }
+    }
+}

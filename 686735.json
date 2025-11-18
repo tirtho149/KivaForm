@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 686735,
+                "name": "Joseph",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-03-23T16:40:21Z",
+                "disbursalDate": "2014-03-14T07:00:00Z",
+                "plannedExpirationDate": "2014-04-22T16:40:21Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy bananas and Irish potatoes for resale.",
+                "description": "Joseph is a 50-year-old married man with 6 children living in Fort Portal, Uganda. He deals in selling fresh foods alongside selling pozzolana (cement material) as an additional income. He faces challenges of heavy rains which affect him a lot while transporting food to Kampala the main city where his clients are. However, he has a vision of buying a motorcycle and building rentals in order to have several sources of income. Joseph needs a loan to buy bananas and Irish potatoes for resale.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Parent",
+                    "#Interesting Photo"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/686735.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Production/Sales"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "HOFOKAM"
+            }
+        }
+    }
+}

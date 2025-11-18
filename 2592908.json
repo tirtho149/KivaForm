@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2592908,
+                "name": "Niomi",
+                "loanAmount": "750.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-06-04T08:10:12Z",
+                "disbursalDate": "2023-05-05T07:00:00Z",
+                "plannedExpirationDate": "2023-07-09T08:10:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for farming tools.",
+                "description": "Niomi is a dedicated organic farmer who lives outside of town in a community best known for the organic food they grow. She is one of many women who transport their harvested food into town daily to supply the needs of the general public of Port Vila town. Niomi is a little over 50 years old, and is married. Her husband is a bus driver and they have four grown children. <br /><br />Niomi started farming because it was a passion of hers, but soon turned it into a business when she had relatives coming over and asking to purchase some of her organic products. Niomi has now been in the farming business for over 20 years and is very happy with how far her little business has brought her family, and how it has helped her family throughout the years.<br /><br />Niomi is looking into farming a larger plot of land but is facing financial restraints. She is requesting a loan to pay for farming tools in order to make her job of planting easier. More seedling being planted will mean a larger harvest quantity. <br /><br />All income generated from her business will be put back into helping her children build better homes for themselves and their families, as well as Niomi and her husband. Through this loan, Niomi will feel empowered to be the best version of herself.<br /><br />Thank you for lending to Niomi!",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women with credit in a country where alternative financing is extremely scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2592908.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "VU",
+                        "name": "Vanuatu"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Vanuatu"
+            }
+        }
+    }
+}

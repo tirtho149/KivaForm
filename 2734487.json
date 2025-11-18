@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2734487,
+                "name": "Mauricio Antonio",
+                "loanAmount": "1400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-02-25T20:00:18Z",
+                "disbursalDate": "2024-02-13T08:00:00Z",
+                "plannedExpirationDate": "2024-03-31T19:00:18Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy bags to protect the guavas and so avoid the pests that damage the fruits.",
+                "description": "Mauricio is a farmer who grows fruits and vegetables.  This occupation has allowed him to become a fundamental pillar for improving his family's quality of life.<br /><br />He has come to the nearest office of MiCredito with the goal of requesting a Kiva loan to buy bags to protect the guavas and so avoid the pests that damage the fruits.  <br /><br />In the future, Mauricio wants to cultivate two hectares of cabbage.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The repayments are aligned with harvest season.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2734487.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 39,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "MiCredito"
+            }
+        }
+    }
+}

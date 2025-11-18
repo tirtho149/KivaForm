@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1176402,
+                "name": "Eduard",
+                "loanAmount": "1350.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-10-30T15:50:02Z",
+                "disbursalDate": "2016-09-29T07:00:00Z",
+                "plannedExpirationDate": "2016-11-29T16:50:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy compost to be used in the fair-trade, organic coffee fields.",
+                "description": "Eduard lives in the town of El Faique with his wife. He is 27 years old. Eduard works in a variety of areas, be it providing harvesting and drying services of coffee, with the support of his wife, Olga, who also works as a farmer, or making some extra income raising small farm animals for private consumption. Eduard needs to keep composting and growing more coffee plants in the town of El Faique – San José de Lourdes and he hopes one day he can use the earning to fix his home and improve his family's living conditions.<br />This loan will allow Eduard to have the chance to increase his coffee production in his farm, not only ensuring he will have a job, but also giving him the chance to plan for the growth of his family and to live in better financial conditions some day as well.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports lucrative and sustainable livelihoods for organic farmers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1176402.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 40,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Norandino"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2793006,
+                "name": "Mahmoud",
+                "loanAmount": "3000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-06-10T17:26:33Z",
+                "disbursalDate": "2024-06-04T07:00:00Z",
+                "plannedExpirationDate": "2024-07-15T17:26:32Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a solar system.",
+                "description": "Mahmoud, who appears in the photo, is a hardworking strong man who tries his utmost to help his family live a decent life. He is 36 and lives with his family in Nablus, West Bank. <br /><br />He is working but his income is low and barely covers his family's basic needs. However, he turned to Palestine for Credit and Development (FATEN) to request a loan to buy a solar system to reduce the use of electricity and get hot water. This will enhance his family's living standards. <br /><br />He hopes you will help by funding his loan.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Supporting Family",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides access to environmentally friendly products.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2793006.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PS",
+                        "name": "Palestine"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 116,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Energy"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Palestine for Credit & Development (FATEN)"
+            }
+        }
+    }
+}

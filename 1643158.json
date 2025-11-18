@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1643158,
+                "name": "Wild Gum",
+                "loanAmount": "12500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-11-13T21:10:07Z",
+                "disbursalDate": "2019-01-03T08:00:00Z",
+                "plannedExpirationDate": "2018-12-13T21:10:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy equipment to produce more \"chicle\" (chewing gum).",
+                "description": "The company exports raw, organic chicle from Petén, Guatemala and produces the world’s first and only sugar-free organic chewing gum, for global distribution. The company partners with communities in Petén to source raw organic chicle, which is sustainably harvested from the sapodilla tree native to the forests. Through this partnership, the communities obtained organic certification for the chicle they produce.\n\nBy the early 2000’s, chicle production and exportation had dropped to virtually zero. Today, this company is solely responsible for keeping the natural chicle industry alive in Guatemala. Since 2015, they have purchased 15,000 lbs. of chicle from the region, which is among the poorest in Latin America. Further, the rainforest of Petén is one of the most at-risk biospheres in the world. By sourcing the chicle, the company provides the communities with a critical economic lifeline and an incentive to conserve the rainforest. \n\nThe company's goal is to revitalize the chicle trade into a self-sustaining industry in the next five years and broaden the impact to an additional 500 people or more.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Unique",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports high-impact social enterprises that can't get a bank loan.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1643158.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GT",
+                        "name": "Guatemala"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 420,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Production/Sales"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Pomona Impact Foundation"
+            }
+        }
+    }
+}

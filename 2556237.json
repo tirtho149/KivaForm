@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2556237,
+                "name": "Rija",
+                "loanAmount": "200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-04-17T21:12:35Z",
+                "disbursalDate": "2023-03-10T08:00:00Z",
+                "plannedExpirationDate": "2023-05-22T21:12:35Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seeds, fertilizer, manure, and insecticides to ensure the success of his business.",
+                "description": "Rija is a young, 28-year-old man. He is married. The couple have a child together. He lives in a family house in the countryside. Rija has been invested in carrot farming for more than 5 years. He has taken out a loan with Vahatra and it was profitable. He was able to expand the farming of other crops with his profits. Following this, he hopes to further develop his business. <br /><br />Rija wants to expand his cultivable land in order to earn more profits than usual. He is asking for the support of lenders to purchase seed, fertilizer, manure, and insecticides to ensure the success of his business. He will sell his harvests at the end of a few months to local merchants. He foresees buying a plot of arable land with his profits.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps the poorest of the poor in Madagascar to improve their lives.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2556237.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MG",
+                        "name": "Madagascar"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 6,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Vahatra"
+            }
+        }
+    }
+}

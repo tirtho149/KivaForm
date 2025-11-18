@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 626353,
+                "name": "Charles",
+                "loanAmount": "375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-11-04T03:10:03Z",
+                "disbursalDate": "2013-10-10T07:00:00Z",
+                "plannedExpirationDate": "2014-01-03T03:10:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase poultry.",
+                "description": "Meet Charles, a farmer from the highlands of Kericho, a very fertile area where mostly tea is grown. He has been practicing farming for four years. He has a farm where he grows tea and rears dairy cattle. He gets his income from the sale of milk and tea. Not forgetting the fact that Charles really enjoys farming, he says that it is quite expensive to manage a farm – especially when one doesn't have a good capital base. He chose Juhudi Kilimo because they invest in farmers and he will be able to get funds to help him purchase poultry. Through the microfinance training, he learnt that microfinance institutions do provide loans to small-scale farmers. This loan will help him get poultry, thus, it will increase his income through the sale of eggs. This will improve his family's living standards.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/626353.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Poultry"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

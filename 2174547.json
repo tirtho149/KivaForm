@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2174547,
+                "name": "Beatrice's Group",
+                "loanAmount": "325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-05-24T13:20:19Z",
+                "disbursalDate": "2021-04-24T07:00:00Z",
+                "plannedExpirationDate": "2021-06-23T13:20:18Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy cost efficient maize seeds and fertilizer for the coming harvesting season.",
+                "description": "Pictured above is Beatrice, who, as a group leader, is representing her group formed by 6 farmers in Lugari District, Kenya. She is a mother to 5 children and is known by her community as a very reliable person.<br /><br />Initially Beatrice joined One Acre Fund in 2013 because she wanted to get the best quality fertilizer and hybrid seeds. Since she joined the program she says that her life has improved, especially because she has been able to consistently feed her family. With the profits from the coming harvesting season, Beatrice plans to send her children to school.<br /><br />Between the 6 farmers in Beatrice's Group, a total of 6 acres of land will be planted using the maize seeds and fertilizer received with the loan. Additionally, some of the farmers in the group will be purchasing a solar light so, with this loan, the group will also receive a total of 2 solar lights.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 6,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2174547.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

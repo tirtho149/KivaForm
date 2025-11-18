@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 746846,
+                "name": "Sahiyali",
+                "loanAmount": "775.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-08-04T19:30:02Z",
+                "disbursalDate": "2014-07-17T07:00:00Z",
+                "plannedExpirationDate": "2014-09-03T19:30:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy tools to build sluiceway.",
+                "description": "Sahiyali is 51-years-old, married, and he has three children. He raises seasonal fruits and vegetables, such as corn, cucumbers, tomatoes, apples, pears, peaches, plums, and cherries. But, he has a problem with water because every time he has to borrow water from his neighbor in order to water his land.  \r\n\r\nSahiyali needs your financial support. For this reason, he is requesting a loan in the amount of AZN 600. With this money, he plans to buy tools to build sluiceway. He is thankful to Kiva and the Aqroinvest organization for a loan.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/746846.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AZ",
+                        "name": "Azerbaijan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 27,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Water Distribution"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "Aqroinvest Credit Union"
+            }
+        }
+    }
+}

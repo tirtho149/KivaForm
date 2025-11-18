@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1441628,
+                "name": "Dimas",
+                "loanAmount": "1275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-12-26T22:30:03Z",
+                "disbursalDate": "2017-12-23T08:00:00Z",
+                "plannedExpirationDate": "2018-01-25T22:30:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy rice, beans, sugar and eggs as well as fertilizers, insecticides and compost.",
+                "description": "Dimas, age 53, lives in Patuca Olancho in eastern Honduras. He is married and lives with his wife and his four children. He dedicates himself to selling basic everyday products, and he also works in agriculture, which is his main source of income. <br /><br />He is requesting the loan to buy rice, beans, sugar and eggs, and to buy fertilizers, insecticides and compost for his yuca fields. This loan will be of great use to him: his crops will provide him with a better harvest and he will obtain more profits. His dream is that all of his children will go to college. <br /><br />Patuca Olancho, Honduras, December 2017",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides credit to some of the most isolated communities in Honduras.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1441628.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HN",
+                        "name": "Honduras"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 14,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Grocery Store"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Prisma Honduras"
+            }
+        }
+    }
+}

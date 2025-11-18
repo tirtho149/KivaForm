@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2517348,
+                "name": "Manveer",
+                "loanAmount": "7500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-02-03T00:09:41Z",
+                "disbursalDate": "2023-03-23T17:04:58Z",
+                "plannedExpirationDate": "2023-03-23T21:03:46Z",
+                "distributionModel": "direct",
+                "use": "a deaf owned coffee company purchase working capital to help meet increased demand.",
+                "description": "My name is Manveer Singh and I own a coffee business, Maharajah Coffee. Please see below for a video and an article describing Maharajah Coffee and what we stand for. I am deaf and aside from being able to provide customers with fresh coffee, I want to show others that have a disability that you can do anything you put your mind to, you just have to stay positive and believe in yourself. \n\nhttps://www.youtube.com/watch?v=TJJgVZsr-t0&t=1s\n\nhttps://richmondmagazine.com/restaurants-in-richmond/manveer-singh-maharajah-coffee/",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#US immigrant",
+                    "#BIPOC-owned Business"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports a small business owner with 0%-interest, zero-fee capital.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2517348.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 218,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Services"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "trusteeName": "Metropolitan Business League Foundation"
+            }
+        }
+    }
+}

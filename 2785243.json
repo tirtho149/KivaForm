@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2785243,
+                "name": "Leonardie",
+                "loanAmount": "200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-06-22T09:45:47Z",
+                "disbursalDate": "2024-04-24T07:00:00Z",
+                "plannedExpirationDate": "2024-07-27T09:45:47Z",
+                "distributionModel": "fieldPartner",
+                "use": "buy potato seed, chemical fertilizer and manure.",
+                "description": "Leonardie thanks all the lenders who financed his potato crop. He has had a good harvest. He was able to buy seedling trees with his profits. He was also able to pay in cash savings. He finished repaying his debts. <br /><br />Leonardie is applying for the next loan to continue the potato farm. He will buy seed again, as well as fertilizer and manure. He will extend the land to be cultivated. He's still counting on a good harvest to bring in profits and build up his savings.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps the poorest of the poor in Madagascar to improve their lives.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2785243.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MG",
+                        "name": "Madagascar"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 4,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Vahatra"
+            }
+        }
+    }
+}

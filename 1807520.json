@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1807520,
+                "name": "Michael Gerardo",
+                "loanAmount": "525.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-07-31T21:00:07Z",
+                "disbursalDate": "2019-07-08T07:00:00Z",
+                "plannedExpirationDate": "2019-08-30T21:00:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase supplies to treat his bean crop.",
+                "description": "Michael Gerardo wants to acquire a loan once again. He is 33 years old, married, and lives with his wife and children. He wants the loan for the purchase of fertilizers, compost, and materials that are needed to improve and treat his bean crop. <br /><br />He hopes that this investment will provide his family with a better quality of life and greater financial stability. He also hopes to be able to continue growing as a person and a small business owner. <br /><br />This is the second loan he has received from FUDECOSUR. He has not had other loans at state banks, but FUDECOSUR has provided the loan with better payment terms and a much lower interest rate.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It reaches rural borrowers that are considered too risky for traditional banks.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1807520.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CR",
+                        "name": "Costa Rica"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 17,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FUDECOSUR"
+            }
+        }
+    }
+}

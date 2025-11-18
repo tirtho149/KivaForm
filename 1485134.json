@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1485134,
+                "name": "Joan's Group",
+                "loanAmount": "875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-03-10T03:00:03Z",
+                "disbursalDate": "2018-03-01T08:00:00Z",
+                "plannedExpirationDate": "2018-04-09T02:00:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase two solar lights and gain access to cost-efficient hybrid seeds and fertilizer for maize cultivation.",
+                "description": "Joan, pictured above, has two children and is always described as a very hardworking individual, which is why she was selected to become the group leader of her group. Joan is representing her group of 15 farmers in Matete District and is happy to be working with One Acre Fund for the first time this year.<br /><br />Joan has been a farmer for six years and, in order to have access to quality training and acquire new farming methods, she decided to join the One Acre Fund program this season. Her loan will not only include farming inputs but also two solar lights, which she is very happy to be getting as that means she will now reduce the consumption of paraffin fuel and therefore save more money. With the profits from this coming season, Joan is planning to invest in a business.<br /><br />A total of 4.75 acres will be planted by Joan's Group, and between them they will receive a total of 11 solar lights.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 15,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1485134.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 19,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

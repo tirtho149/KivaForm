@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2673923,
+                "name": "Odalys Del Socorro",
+                "loanAmount": "675.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-11-08T04:20:15Z",
+                "disbursalDate": "2023-10-05T07:00:00Z",
+                "plannedExpirationDate": "2023-12-13T04:20:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy quintales [1 quintal= about 100 lbs.] of corn and to buy compost for her sugar cane crop.",
+                "description": "Odalys is a woman in a free union and has several children although only one is in her care.  She has worked as a merchant for three decades.  <br /><br />In the past she received a loan which was fundamental to increase her commercial activities, including the production of tortillas as well as the improvement of her kitchen.<br /><br />Odalys is looking for a new Kiva loan through MiCrédito. <br /><br />Her intention is to use the loan to buy quintales of corn and to buy compost for her sugar cane crop.<br /><br />This funding will translate into increased productivity of her sugar cane crop which will strengthen her agricultural business.<br /><br />Her next step after obtaining this loan, is to continue working in order to get a pair of oxen.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The repayments are aligned with harvest season.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2673923.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 17,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Production/Sales"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "MiCredito"
+            }
+        }
+    }
+}

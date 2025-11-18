@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1998283,
+                "name": "Las Delicias Cusmapa Group",
+                "loanAmount": "875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-09-01T07:10:06Z",
+                "disbursalDate": "2020-08-05T07:00:00Z",
+                "plannedExpirationDate": "2020-10-16T07:10:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy manure, fertilizer, herbicide, fungicide, etc.",
+                "description": "Pablo, 40, father of four children and basic grains farmer, is well known where he lives as a very honest, responsible, and hardworking person. He has more than two plots of farming land where he cultivates, with an average production of eighteen quintals of beans and twenty quintals of corn. These are two optimum yields. <br /><br />He is applying for a loan through Fundenuse with Kiva funds to buy agricultural supplies for his crops so he can ensure his family has food. The surplus will be sold to cover other expenses and pay off the loan. He belongs to the \"Las Delicias\" comunal bank together with Félix and Deybin.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 3,
+                "whySpecial": "It helps farmers manage their cash flows and provide access to health insurance.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1998283.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 27,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FUNDENUSE"
+            }
+        }
+    }
+}

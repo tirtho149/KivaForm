@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1479931,
+                "name": "Fatmata K's Female Farmers Group",
+                "loanAmount": "2350.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-03-02T18:10:04Z",
+                "disbursalDate": "2018-05-01T07:00:00Z",
+                "plannedExpirationDate": "2018-04-01T17:10:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for improved seeds, organic inputs and a tractor rental that will allow these farmers to support themselves by farming in a larger area with a higher yield.",
+                "description": "Fatmata (1st on left), is the featured borrower of Fatmata K's Female Farmers. Fatmata is a Master Farmer in the Wore-Bana village and has a large family of 8. <br /><br />Fatmata is a strong leader in the community and regularly organizes women's activities. She is a seasoned farmer who lost her business in addition to several extended family members during the Ebola crisis. She refuses to give up despite losing a lifetime of work. She organized a large group of other women who similarly had prospered before the crisis but lost everything.  <br /><br />All members are currently trapped in a cycle of subsistence and take extremely high-interest loans for poor quality inputs during planting time. A no-interest Kiva loan will therefore enable this group of determined women to get back on their feet and back in business.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 12,
+                "whySpecial": "It enables farmers to access farm inputs to improve their yield for increased income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1479931.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SL",
+                        "name": "Sierra Leone"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 61,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Mountain Lion Agriculture"
+            }
+        }
+    }
+}

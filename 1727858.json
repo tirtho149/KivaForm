@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1727858,
+                "name": "Al Omor Group",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-03-23T21:50:03Z",
+                "disbursalDate": "2019-02-28T08:00:00Z",
+                "plannedExpirationDate": "2019-04-22T21:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay rent expenses for a land where she will benefit from its productivity.",
+                "description": "Ramza is the featured borrower of Al Omor group which consists of three Syrian refugees.<br /><br />She gets along with other group members because they trust and respect each other to acquire a Syrian refugee loan together from Kiva’s field partner Al Majmoua. They’re working hard in order to improve their families’ living conditions and businesses.<br /><br />Ramza is a 37-year-old married mother of two. She works as a daily laborer in the agriculture field with a limited monthly salary. She works hand by hand with her husband to provide their children with a better living.<br /><br />Her loan share will be used to pay the rent expenses for a land where she will benefit from its productivity.<br /><br />Ramza is the lady at the right-side. As for other group members, Ibtisam is the lady in the middle and Amani is the lady at the left-side of the picture.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Refugee"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 3,
+                "whySpecial": "It gives opportunity to Syrian refugees who have fled the war in Syria.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1727858.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "LB",
+                        "name": "Lebanon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 56,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Land Rental"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Al Majmoua"
+            }
+        }
+    }
+}

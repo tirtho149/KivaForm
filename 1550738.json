@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1550738,
+                "name": "Suleman",
+                "loanAmount": "175.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-06-20T11:40:02Z",
+                "disbursalDate": "2018-07-15T07:00:00Z",
+                "plannedExpirationDate": "2018-07-20T11:40:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizers and seed to get a good yield and earn more money.",
+                "description": "Suleman is a diligent maize farmer who lives in a small community in Kaduna. Suleman is married with two children, and has always dreamed of a better future for himself and his family. Before joining Babban Gona in 2017, this aspiration seemed out of reach because he harvested low yields on his farm due to lack of access to quality inputs. <br /><br />With this loan, Suleman is on his way to achieving this dream and his goal for this season to double last year's yield. Suleman will get access to better-yielding seed and fertilizers that will make his crop grow well to ensure a bountiful harvest. Apart from increasing Suleman’s yield to ensure that his family never goes hungry, this loan will also help him earn up to three times net income, compared to the average Nigerian farmer, from selling his maize to premium markets as a Babban Gona member.<br /><br />With lenders’ support this season, Suleman believes that he can better his family’s livelihood and he plans to pay his children's school fees with the increased earnings from his farm. Suleman aspires that his two children will become civil servants in the future.",
+                "tags": [
+                    "volunteer_pick",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports smallholder farmers and helps them increase yields.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1550738.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NG",
+                        "name": "Nigeria"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 5,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Babban Gona Farmers Organization"
+            }
+        }
+    }
+}

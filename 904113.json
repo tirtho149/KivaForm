@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 904113,
+                "name": "Veronika",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-06-22T12:30:02Z",
+                "disbursalDate": "2015-05-22T07:00:00Z",
+                "plannedExpirationDate": "2015-07-22T12:30:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy new fashionable clothes to resell.",
+                "description": "Veronika is 61 years old, married and has three sons and daughters who are grown. She has managed a business selling clothes for 16 years now, working from 7 a.m. to 6:30 p.m. per working day. She is able to make a small profit each month. \r\n\r\nThis is her tenth credit from Kiva's partner, Tujijenge Tanzania. She used the previous loans, paid back fully, to replace stock in her business. Veronika received some extra income that she used to cover her means of living with her family. She dreams of opening a big shop selling clothes. \r\n\r\nShe will use this credit to buy new fashionable clothes to resell. Veronika will be accountable for paying back the loan. ",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Fabrics",
+                    "#Repeat Borrower",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/904113.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TZ",
+                        "name": "Tanzania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 22,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Clothing Sales"
+                },
+                "sector": {
+                    "name": "Clothing"
+                },
+                "partnerName": "Tujijenge Tanzania"
+            }
+        }
+    }
+}

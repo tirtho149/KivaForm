@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 794738,
+                "name": "Lydia",
+                "loanAmount": "275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-11-10T19:00:06Z",
+                "disbursalDate": "2014-10-21T07:00:00Z",
+                "plannedExpirationDate": "2014-12-10T19:00:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy cement and paint to renovate her house.",
+                "description": "Lydia is 48 years old. She is divorced with four children living in Kasese, Uganda. <br /><br />Lydia is a farmer growing crops such as maize, beans, bananas, cassava, and rice for selling to educate her children and meet their basic needs. Lydia has a dream of educating her children and developing her family. Weather changes such as heavy rains and too much sunshine are her major challenges. <br /><br />Lydia wants money to buy cement and paint to renovate her house.",
+                "tags": [
+                    "volunteer_pick",
+                    "volunteer_like",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Single Parent",
+                    "#Schooling",
+                    "#Fabrics"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/794738.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Housing Expenses"
+                },
+                "sector": {
+                    "name": "Housing"
+                },
+                "partnerName": "HOFOKAM"
+            }
+        }
+    }
+}

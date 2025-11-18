@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 855803,
+                "name": "At's Group",
+                "loanAmount": "750.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-03-20T19:20:08Z",
+                "disbursalDate": "2015-02-18T08:00:00Z",
+                "plannedExpirationDate": "2015-04-19T19:20:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for the farmland rental fee.",
+                "description": "A 62-year-old father of two, At lives in the Memot district's Kampong Cham province. At supports his family's living by growing cassava. This is At's fifth loan with VisionFund as he successfully repaid the previous four loans. As the group leader of his group consisting of two members, At will spend his loan portion on the rental fee as he will rent the land for farming. He hopes this year he could save enough money to get a plot of farmland so he does not need to rent the land from others.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 2,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/855803.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Cambodia"
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2480903,
+                "name": "Juan",
+                "loanAmount": "1200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-11-29T03:00:17Z",
+                "disbursalDate": "2022-10-31T07:00:00Z",
+                "plannedExpirationDate": "2023-01-03T03:00:17Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy minerals, composts, fertilizers, foliar nutrients, and pesticides.",
+                "description": "Juan is a farmer who started working as an assistant, but he later decided to start his own business.  He now owns several hectares of land where he cultivates dragon fruit.  He has been working in this trade for two decades.  Juan has been able to provide a better quality of life for his family and provide work for the people in his community.  He was able to achieve a high level of production, thanks to the supplies he purchased with his previous Kiva loan from MiCrédito.  <br /><br />At the moment, Juan wants to continue maintaining his crops.  For this reason, she is requesting a new Kiva loan from MiCrédito to buy minerals, composts, fertilizers, foliar nutrients, and pesticides.  His goal is to prepare new plots of land so that he can continue cultivating more crops.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The repayments are aligned with harvest season.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2480903.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 29,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "MiCredito"
+            }
+        }
+    }
+}

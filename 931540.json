@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 931540,
+                "name": "El Triunfo Group",
+                "loanAmount": "3625.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-08-19T22:30:02Z",
+                "disbursalDate": "2015-07-24T07:00:00Z",
+                "plannedExpirationDate": "2015-09-18T22:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "buy and sell cosmetics such as blush, eye shadow, liner, body lotions etc.",
+                "description": "There are eight members, seven women and one man, in  El Triunfo Community Association . Between them they have fifteen children for whom they are responsible. They are from Malpaisillo, located in the north part of the region and are known for their hard work, sense of responsibility, and desire to get ahead,<br /><br />Sadly because of lack of financial resources they were not able to go to school but had to start work at an early age to help pay for household expenses.<br /><br />Because of her dedication the coordinator is Ampara who earns her living selling cosmetics from her home and in the streets. She's had this job for three years and enjoys the work since it supports her children.<br /><br />A para plans to use the loan money to buy cosmetics such as lipsticks, eye shadow, blush, liner, night and day body lotion, sun lotion, cream to correct dark circles on eyes etc.  Then in the not too distant future she will be able to earn more money.<br /><br />El Triunfo is grateful to Kiva lenders who provide poor people from poor countries such as Nicaragua the means to have meaningful work.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Single Parent",
+                    "#Schooling",
+                    "#Health and Sanitation",
+                    "#Repeat Borrower",
+                    "#Female Education"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 8,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/931540.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 105,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cosmetics Sales"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Fundación León 2000"
+            }
+        }
+    }
+}

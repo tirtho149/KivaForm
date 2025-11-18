@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1589411,
+                "name": "Steven",
+                "loanAmount": "1350.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2018-08-19T14:10:06Z",
+                "disbursalDate": "2018-08-07T07:00:00Z",
+                "plannedExpirationDate": "2018-09-18T14:10:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more land to rent out.",
+                "description": "Steven is a married man with nine school-going children, Steven is a resident of lwengwe in Sembabule district. <br /><br />Steven is a land owner who buys land and rents it to farmers to practice farming and they pay him after the end of the season.  He applied for 5m UGX from Ugafode mdi to buy more land.<br /><br />He has helped transform the lives of many farmers who do not have enough land to carry out large farming by giving them land to plant and pay him after harvesting.  <br /><br />He thanked Kiva partners for helping to transform people's lives",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Schooling",
+                    "#Job Creator",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It targets rural populations.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1589411.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 17,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Land Rental"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

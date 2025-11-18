@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1279253,
+                "name": "Larisa",
+                "loanAmount": "2075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-04-25T01:10:03Z",
+                "disbursalDate": "2017-04-14T07:00:00Z",
+                "plannedExpirationDate": "2017-05-25T01:10:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizer for wheat farming, from which she gets flour for her baking business, and to buy feed for the livestock to support the family farm.",
+                "description": "Larisa is a baker with 15 years of experience. She is 40 and her husband, Nver, is 45. Together they have four wonderful kids: three boys and a girl, ages 11, 15, 17, and 21. They all attend school, and according to Larisa's words, it is really expensive for them. <br /><br />To provide for her family's living and to take care of the children's education, Larisa is running a small in-house bakery on the first floor of her house. Larisa's husband is a farmer and keeps a large number of cattle and a flock of sheep, and grows potatoes and wheat. Thanks to wheat cultivation, Larisa gets enough flour needed for her business. Now, she has applied for this loan to buy fertilizer for wheat farming, from which she gets flour for her baking business, and to buy feed for the livestock to support the family farm. <br /><br />This loan will truly make a lasting impact on Larisa's family and her children's future.",
+                "tags": [
+                    "volunteer_pick",
+                    "volunteer_like",
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women farmers with loans in local currency, reducing the risk they take on.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1279253.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 50,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Bakery"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "SEF International"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 628259,
+                "name": "Vladimir",
+                "loanAmount": "3675.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-11-07T20:10:01Z",
+                "disbursalDate": "2013-10-25T07:00:00Z",
+                "plannedExpirationDate": "2014-01-06T20:10:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy equipment for producing mixed fodders.",
+                "description": "Vladimir is engaged in farming. Since the last loan, he bought a machine for the production of mixed grains. Last year's events – Vladimir bought a good car, and also he became a father.\r\n\r\nThe amount of animal feed delivered by feed company recently became much bigger, and at the same time the price went up.  And Vladimir decided to produce animal feed by himself to cut the cost. He hopes to increase his net profit this way.\r\n\r\nVladimir is asking a loan of UAH 30 000 to purchase equipment for producing mixed fodders. He plans to produce animal feed for fattening broilers.\r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/628259.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UA",
+                        "name": "Ukraine"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 120,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Hope Ukraine"
+            }
+        }
+    }
+}

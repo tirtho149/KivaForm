@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 574577,
+                "name": "Sofoci 4 Group",
+                "loanAmount": "3075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-06-23T20:10:13Z",
+                "disbursalDate": "2013-06-18T07:00:00Z",
+                "plannedExpirationDate": "2013-07-23T20:10:13Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase manure and pesticides for his cocoa plantation.",
+                "description": "The group \"Sofoci 4\" is part of the CPSL cooperative and is located in Meagui, a small town in southwestern Cote-d'Ivoire, in the Région de Bas-Sassandra, near Soubré. The group is composed of nine persons. \r\n\r\nBoukary is 54 years old, and he is a member of the group \"Sofoci 4\". He takes care of seven persons at home. For four years, he has been part of the CPSL cooperative. He has three hectares of cocoa in the process of a Rain Forest Alliance/UTZ double certification, which means he respects the principles and standards of sustainable agriculture. \r\n\r\nThanks to this loan, he is going to be able to purchase manure and pesticides for his plantation. These products will enable him to augment his production and thus to increase his revenues. \r\n\r\nWith the additional money, he wants to build a house for his family.\r\n\r\n",
+                "tags": [
+                    "#First Loan",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 9,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/574577.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CI",
+                        "name": "Cote D'Ivoire"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 101,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Advans Côte d'Ivoire"
+            }
+        }
+    }
+}

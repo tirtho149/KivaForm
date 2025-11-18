@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2780821,
+                "name": "Melisbek",
+                "loanAmount": "300.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-05-27T09:16:15Z",
+                "disbursalDate": "2024-05-13T07:00:00Z",
+                "plannedExpirationDate": "2024-07-01T09:16:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase fertilizer in order to increase the yield of organic vegetables.",
+                "description": "This smiling man's name is Melisbeck. He is 27 years old, single. He has a secondary education. <br /><br />Melisbek is an active, hardworking and honest person. He and his family live in the area that is perfect for cattle breeding. Melisbek has been farming since 2020 and today he has 2 cows, 5 horses and 60 sheep. The cattle are kept on the property of the homestead. There are all the necessary conditions for keeping the cattle. If necessary the cattle are fattened and resold. <br /><br />To further develop his farm Melisbek seeks the support from the Kiva Foundation. He applied for a loan of 25,000 Soms (KGS) to purchase fertilizer to increase the yield of organic vegetables. <br /><br />The income will help to improve the material well-being of the family and their living conditions.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports organic farming and includes a lower interest rate.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2780821.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 3,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

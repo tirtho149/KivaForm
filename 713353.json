@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 713353,
+                "name": "Raquele",
+                "loanAmount": "575.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-05-24T18:00:25Z",
+                "disbursalDate": "2014-04-23T07:00:00Z",
+                "plannedExpirationDate": "2014-06-23T18:00:25Z",
+                "distributionModel": "fieldPartner",
+                "use": "to cover the costs for house renovation.",
+                "description": "Raquele has been growing and harvesting rice to sell in town and has had this business for more than 10 years, and this is the primary source of income for the family. With her generated income, she was able to improve their house. Raquele took a new loan recently to cover the costs for house renovation. She is planning to expand her farm, hoping it will flourish and enable her to improve her family's lives.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/713353.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 22,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Housing Expenses"
+                },
+                "sector": {
+                    "name": "Housing"
+                },
+                "partnerName": "Gata Daku Multi-purpose Cooperative (GDMPC)"
+            }
+        }
+    }
+}

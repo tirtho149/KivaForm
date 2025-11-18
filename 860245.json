@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 860245,
+                "name": "Mouvman Peyizan Plantè Mago",
+                "loanAmount": "1350.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-03-31T16:50:09Z",
+                "disbursalDate": "2015-04-23T07:00:00Z",
+                "plannedExpirationDate": "2015-04-30T16:50:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase bamboo and pots of black bean seeds.",
+                "description": "Mouvman Peyizan Plantè Mago (MPPM) is a community-based organization with its head office in the 8th section of the town of Pilate (north of Haiti). It’s been helping for nine years in the socio-economic development of Margot through activities such as the rehabilitation of agricultural roads, reforestation, soil conservation, marketing of bamboo and agricultural commodities. \n\nEdouard, the coordinator of MPPM, is married and has five children. Before founding MPPM in 2005, he spent more than seven years in the management of grassroots community organizations in Cap-Haitian. Now MPPM focuses mainly on the production and marketing of bamboo. They would enhance the activity by purchasing a larger quantity of bamboo, on one hand to preserve the agricultural potential of the area by avoiding the erosion of arable land; on the other hand, to develop a more certain market to sell the bamboo to generate a source of income for the farmers. To reach these goals, MPPM refers to Zafèn to solicit a loan.\n\nFrom left to right in the picture, Edouard, Berthilde, Wilson, Joseph, Luckener, Saintil, Edner, Istal, and Claudette.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/860245.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HT",
+                        "name": "Haiti"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 48,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Fonkoze - Zafèn"
+            }
+        }
+    }
+}

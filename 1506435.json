@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1506435,
+                "name": "Simba's Survivor Group",
+                "loanAmount": "3475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-04-13T23:00:06Z",
+                "disbursalDate": "2018-06-01T07:00:00Z",
+                "plannedExpirationDate": "2018-05-13T23:00:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for improved seed, organic inputs and tractor rental which will allow these farmers to escape subsistence by farming a larger area with a higher yield.",
+                "description": "Simba M (1st from right), the featured borrower of Simba's Survivor Group, would like to sincerely thank all the Kiva lenders for their first loan. It enabled them to break free from the local lenders who were charging them nearly 100% interest, and as a result, all group members have fully recovered their businesses, have repaid their first loan and are successfully farming again after the devastation of Ebola. <br /><br />The group is now seeking a second loan to expand further. The profits will be used to ensure all member's children go to school, and will also be used by the group to create a support fund for young female farmers.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Schooling",
+                    "#Repeat Borrower",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 15,
+                "whySpecial": "It enables farmers to access farm inputs to improve their yield for increased income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1506435.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SL",
+                        "name": "Sierra Leone"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 117,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Mountain Lion Agriculture"
+            }
+        }
+    }
+}

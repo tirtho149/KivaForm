@@ -1,0 +1,49 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 580606,
+                "name": "Zorigt",
+                "loanAmount": "2425.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-07-09T05:30:01Z",
+                "disbursalDate": "2013-06-05T07:00:00Z",
+                "plannedExpirationDate": "2013-08-08T05:30:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase insulation material for his workplace and seabuckthorn trees to plant.",
+                "description": "Zorigt is 46 years old and lives with his wife and three daughters in a house in the Huvsgul province of Mongolia. His wife grows organic vegetables on their plot of land, while his older daughter, Suvd-Erdene, is a university student and his two younger daughters, Soyol-Erdene and Oyun-Erdene, are secondary school students. He and his wife are hardworking and diligent people.\r\n\r\nZorigt has been performing carpentry at home since 2000. He built a small workplace on his plot of land, but during winter it is not warm enough so his sales drop to the minimum level. His wife is also planning to plant seabuckthorn trees on their plot of land to produce organic fruit and fruit juice. He is requesting 3,500,000MNT to purchase insulation material for his workplace and seabuckthorn trees to plant. ",
+                "tags": [
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/580606.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MN",
+                        "name": "Mongolia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 91,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Carpentry"
+                },
+                "sector": {
+                    "name": "Construction"
+                },
+                "partnerName": "XacBank"
+            }
+        }
+    }
+}

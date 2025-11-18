@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1439594,
+                "name": "Vinicio Alejandro",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-12-23T07:10:02Z",
+                "disbursalDate": "2017-12-15T08:00:00Z",
+                "plannedExpirationDate": "2018-01-22T07:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy boards and jars.",
+                "description": "Vinicio is a gentleman aged 43 who is single and lives in a family dwelling. He does agricultural day labor and also raises bees which is work he really enjoys.<br /><br />Vinicio wants to improve the honeycomb and beehives of his bees as well as to cover items necessary for the process of obtaining the various derivatives of honey such as wax, bee jelly and propolis. He needs to purchase wood and jars for packaging his products so that he can sell them.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Single",
+                    "#Biz Durable Asset",
+                    "#Repair Renew Replace"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It aims to reach vulnerable refugee populations in an isolated region.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1439594.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 18,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beekeeping"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Ecuador"
+            }
+        }
+    }
+}

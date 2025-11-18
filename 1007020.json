@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1007020,
+                "name": "Yerazik",
+                "loanAmount": "2900.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2016-01-13T12:40:02Z",
+                "disbursalDate": "2015-12-16T08:00:00Z",
+                "plannedExpirationDate": "2016-02-12T12:40:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "finally for solving her beloved husband’s health problems.",
+                "description": "In Geghamavan village of Gegharkunik region lives this woman whose name is Yerazik. She is married and she has two sons.  The elder is married and lives with his family and the younger is working abroad. Yerazik is busy with farming and agriculture which is her family’s single source of income. <br /><br />She does her best to manage all the work that is the care and sale of her farm products, since her husband has health problems and he is unable to help her in their farm works.  Yerazik's husband before used to be very active person, who managed to do all the farming and also managed to organize the sale of their farm products.  <br /><br />Now she wants so much to help him to solve his health problems. This loan of 1.400.000 Armenian drams Yerazik asks finally for solving her beloved husband’s health problems.",
+                "tags": [
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Health and Sanitation",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1007020.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 31,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Medical Expenses"
+                },
+                "sector": {
+                    "name": "Health"
+                },
+                "partnerName": "Nor Horizon"
+            }
+        }
+    }
+}

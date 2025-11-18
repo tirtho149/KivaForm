@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2776920,
+                "name": "Akossiwa Dayovo",
+                "loanAmount": "825.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-05-11T10:30:25Z",
+                "disbursalDate": "2024-04-12T07:00:00Z",
+                "plannedExpirationDate": "2024-06-15T10:30:25Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy 30 ice chests and 15 dozen plates.",
+                "description": "Akossiwa is a married woman and the mother of three children. She trades in kitchen utensils and is requesting a loan to order ice chests and plates.<br /><br />She would like to improve her sales to be able to take good care of the family.",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "aplus"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps vulnerable populations in Togo access credit and grow their businesses.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2776920.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TG",
+                        "name": "Togo"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Products Sales"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Assilassimé Solidarité"
+            }
+        }
+    }
+}

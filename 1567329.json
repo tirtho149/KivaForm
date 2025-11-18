@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1567329,
+                "name": "Gs. La Empresa Group",
+                "loanAmount": "1775.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2018-07-16T10:20:03Z",
+                "disbursalDate": "2018-06-26T07:00:00Z",
+                "plannedExpirationDate": "2018-08-15T10:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizers and manure.",
+                "description": "Simon lives in the village of Casitas in Santa Cruz de Yojoa.  For several years he has been growing malanga root and yucca and has vast experience producing very good harvests.  This is because he has always taken great care with the crops to earn a good income and to expand and own his land; he also engages in livestock farming.  He is applying for a loan to buy fertilizers and manures for his malanga crop.  He hopes to take much advantage of the loan and earn a good profit to give his family more economic stability.<br /><br />Simon’s goal for this year is to have a more productive crop to make his business more profitable and improve his income.<br /><br />Pedro grows malanga root, yucca, corn and beans, with malanga being his strongest crop.  He is an excellent farmer who struggles every day to provide for his family.<br /><br />Daniel lives in the village of Casitas with his family and produces malanga root and raises some cattle.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 3,
+                "whySpecial": "It has a below-market interest rate and is repaid at harvest, when farmers can more easily repay.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1567329.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HN",
+                        "name": "Honduras"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Prisma Honduras"
+            }
+        }
+    }
+}

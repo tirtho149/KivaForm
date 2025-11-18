@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2136498,
+                "name": "Andrews",
+                "loanAmount": "150.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-03-31T19:20:32Z",
+                "disbursalDate": "2021-04-12T07:00:00Z",
+                "plannedExpirationDate": "2021-04-30T19:20:32Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for oil palm seedlings.",
+                "description": "Andrew is a production manager in an organic and fairtrade certified oil palm company (Serendipalm) who lives in Akim-Asuom in the Kwaebibirem District of the Eastern Region of Ghana, West Africa. He is 37, and married with two children. Andrews believes organic oil palm is sustainable and helps develop his community through job creation and infrastructural fair trade projects. In this regard, he wants to secure a Kiva micro loan so that he can establish an oil palm field to improve his family’s lifestyle.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It encourages the usage of raw material from organic and fair-trade sources.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2136498.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GH",
+                        "name": "Ghana"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 6,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Dr. Bronner's / Serendipalm"
+            }
+        }
+    }
+}

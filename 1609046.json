@@ -1,0 +1,58 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1609046,
+                "name": "Toni",
+                "loanAmount": "10000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-10-05T20:36:03Z",
+                "disbursalDate": "2018-11-08T19:52:03Z",
+                "plannedExpirationDate": "2018-11-11T21:57:41Z",
+                "distributionModel": "direct",
+                "use": ".",
+                "description": "After our first successful Kiva loan which we paid back over a year ahead of schedule, we have been able to use the proceeds of the sale of that house you helped us remodel, to purchase a fam in Georgia.  Now we are moving into programs for the Veteran and civilian community that being in a rural area affords us.  We are constructing a large greenhouse which we will use as a teaching took, and for food sales to local farmer's markets and in Community Supported Agriculture.  In addition to these activities, we will implement the Silvy the Food Desert Camel program for training the community.  Your help with this loan assists this program.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Unique",
+                    "#Repeat Borrower",
+                    "#Job Creator",
+                    "#Biz Durable Asset",
+                    "#US Black-Owned Business",
+                    "#BIPOC-owned Business"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "This loan helps Veterans learn sustainable agriculture in order support themselves.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1609046.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 212,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Services"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "trusteeName": "No Trustee Endorsement"
+            }
+        }
+    }
+}

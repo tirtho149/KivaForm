@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1062907,
+                "name": "Jorge Alberto",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-05-05T05:30:02Z",
+                "disbursalDate": "2016-04-25T07:00:00Z",
+                "plannedExpirationDate": "2016-06-04T05:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fishing nets and farming supplies to prepare the land where he will grow corn.",
+                "description": "Jorge is 33 years old and studied basic education up until 9th grade. He is currently in a relationship and has two children, one of whom is in school. Jorge's wife makes a living selling fish. \r\n\r\nSince adolescence Jorge has been passionate about fishing. His father was a traditional fisher, and so he remembers going out on the boat with him to fish ever since he was 15 years old. Furthermore, Jorge makes a living growing corn and it generates extra income for him. \r\n\r\nHe needs this loan to buy fishing nets and farming supplies to prepare the land where he will grow corn. \r\n\r\nHe dreams about giving his children a good education and knows that if he keeps working harder than he has been, he can help his children prepare themselves academically. ",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It enables farmers to plant basic grains to feed their families.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1062907.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 20,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fishing"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

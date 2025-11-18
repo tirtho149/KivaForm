@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1341834,
+                "name": "Nemaro Median/Kayero Group",
+                "loanAmount": "1750.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-07-29T17:00:04Z",
+                "disbursalDate": "2017-06-20T07:00:00Z",
+                "plannedExpirationDate": "2017-08-28T17:00:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seeds and some bags of manure for his agriculture production.",
+                "description": "Nemaro Median/Kayero has just finished its first Kiva loan.  The repayment terms were respected.  Daouda, the representative member, thanks all of the staff and lenders of Kiva for their support.  With the loan, Daouda was able to pay for bags of seeds and of manure for his agriculture production.  The harvest was good and he was able to sell his grain.  He had a profit which allowed him to meet the needs of his children and to make several expenditures for his family.  Daouda needs another loan to continue his agriculture production during the winter season.  He has a project in the future which is to build a brick house, which is more resilient, and to do some breeding as well.",
+                "tags": [
+                    "volunteer_like",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": "It helps underserved farmers increase their output.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1341834.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BF",
+                        "name": "Burkina Faso"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 53,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Agence Communautaire pour le Financement de la Micro Entreprise (ACFIME)"
+            }
+        }
+    }
+}

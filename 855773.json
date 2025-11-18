@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 855773,
+                "name": "Savann",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-03-20T18:00:03Z",
+                "disbursalDate": "2015-02-25T08:00:00Z",
+                "plannedExpirationDate": "2015-04-19T18:00:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy supplies for painting.",
+                "description": "Savann is a 42-year-old married rice farmer with a child who is a factory worker. She lives in the Kampong Speu province of Cambodia. Her husband is a 43-year-old painter. Savann has been a rice farmer since 1982. Together, she and her husband can earn around $39 per day. Now Savann would like a loan to buy materials for drawings. This loan can help her and her family have enough money to buy more materials for drawing. In the future, she wants to build a fence around her house.\r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/855773.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 59,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Arts"
+                },
+                "sector": {
+                    "name": "Arts"
+                },
+                "partnerName": "Phillip Bank"
+            }
+        }
+    }
+}

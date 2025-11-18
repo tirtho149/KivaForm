@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2706210,
+                "name": "Regalo De Dios Group",
+                "loanAmount": "825.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-01-04T01:20:17Z",
+                "disbursalDate": "2023-12-09T08:00:00Z",
+                "plannedExpirationDate": "2024-02-08T01:20:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizers, insecticides, fungicides, compost, etc.",
+                "description": "Carlos is 30 years old. He works in agriculture. He is married and the father of a son.<br /><br />He started working at a young age, job sharing with other people. In order to cover some costs of production he seeks a Fundenuse loan, with Kiva funds, because of the interest rates and the support they give to small producers.<br /><br />Carlos is part of the Regalo de Dios solidarity group with Francisco and Alejandro. They work in the same trade.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 3,
+                "whySpecial": "It helps farmers manage their cash flows and provide access to health insurance.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2706210.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 14,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FUNDENUSE"
+            }
+        }
+    }
+}

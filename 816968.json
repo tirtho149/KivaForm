@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 816968,
+                "name": "La's Group",
+                "loanAmount": "3950.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-12-23T01:00:16Z",
+                "disbursalDate": "2014-12-08T08:00:00Z",
+                "plannedExpirationDate": "2015-02-06T01:00:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy organic fertilizer.",
+                "description": "Mrs. La, born in 1970, is a Thai ethnic woman. She has been participating in the credit and saving program of M7-MFI since January 2006. She lives with her husband and her son in Mai Son district, Son La province.\r\n\r\nHer family lives mainly on cultivation and animal husbandry, therefore, the income is just temporarily enough to cover foods for the whole family. Because the people here have the habit of using chemical fertilizer which is half cheaper than organic fertilizer, but the effectiveness investment is not as high as organic fertilizer. So, she wants to borrow a loan to buy organic fertilizer for her coffee field.\r\n\r\nShe will work hard to get money to repay the loan for M7-MFI on time and she hopes the loan amount will help her family invest effectively on the coffee field. Then, the land would be renovated and also the environment would be well protected.\r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/816968.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "VN",
+                        "name": "Vietnam"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 113,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "M7 Microfinance Institution"
+            }
+        }
+    }
+}

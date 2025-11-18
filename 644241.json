@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 644241,
+                "name": "Maitham",
+                "loanAmount": "2100.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-12-11T21:50:03Z",
+                "disbursalDate": "2013-12-01T08:00:00Z",
+                "plannedExpirationDate": "2014-02-09T21:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizers and to renovate his farm.",
+                "description": "Maitham is 39 years old married. After several attempts to find a job, he decided to work on his land and has grown palm trees during the past 12 years. He chose this business because it is profitable and fresh dates are in high demand. Maitham sells his dates in the market.\r\n\r\nMaitham wants to expand his business and grow more palm trees to cover market demands. For this purpose he has applied for this loan to buy fertilizers and to renovate his farm. Maitham plans to grow fruits and vegetables on his farm to increase his income.\r\n\r\nThe story of Ali and his farm is just one of the many examples of Izdiharona for Economic Development. \r\n",
+                "tags": [
+                    "volunteer_pick",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/644241.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "IQ",
+                        "name": "Iraq"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 75,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Izdiharona for Economic Development"
+            }
+        }
+    }
+}

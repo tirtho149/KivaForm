@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2183053,
+                "name": "Agricultores Unidos Group",
+                "loanAmount": "1550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-06-17T19:00:12Z",
+                "disbursalDate": "2021-05-08T07:00:00Z",
+                "plannedExpirationDate": "2021-07-17T19:00:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy natural and chemical fertilizer, fungicide, and insecticide, and to pay to rent the land.",
+                "description": "Danier is 25 years old, married, and the father of one child. He makes a living in agriculture, and has been working since he was 17 years old growing corn and beans. He says that in addition to doing his own work, he also works for other farmers as a day laborer in order to cover the household necessities. <br /><br />He is requesting a loan in FUNDENUSE with Kiva funds to buy fertilizers, fungicides, and insecticides in order to grow good quality beans. He will also pay for rent on the land. <br /><br />His goal is to make improvements to his house, buy some home appliances, and later down the line buy some land to increase his production and grow on his own land. <br /><br />Danier belongs to the \"Agricultores Unidos\" [United Farmers] solidarity group with Marlene, Odily, Derling, and Cándida.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": "It helps farmers manage their cash flows and provide access to health insurance.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2183053.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 30,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FUNDENUSE"
+            }
+        }
+    }
+}

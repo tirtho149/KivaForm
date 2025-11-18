@@ -1,0 +1,57 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1681860,
+                "name": "Shahira",
+                "loanAmount": "1000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-01-07T23:00:07Z",
+                "disbursalDate": "2018-12-27T08:00:00Z",
+                "plannedExpirationDate": "2019-02-06T23:00:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy an irrigation system for her garden to sell plants and flowers for income.",
+                "description": "Shahira lives in a nice house with her husband and kids. They have a nice garden that she created. Her husband suggested turning her project into a business, so she started selling plants and flowers to her neighbors. Her husband then bought some thyme to plant and they had a good generous crop that they sold. <br /><br />A loan will help Shahira to buy an irrigation system, mainly a system of water hoses, to take care of her garden.",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Animals",
+                    "#Parent",
+                    "#Refugee",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It assists individuals who have been affected by the Syrian conflict.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1681860.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "JO",
+                        "name": "Jordan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 40,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Flowers"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "National Microfinance Bank"
+            }
+        }
+    }
+}

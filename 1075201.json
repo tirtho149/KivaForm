@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1075201,
+                "name": "Heghine",
+                "loanAmount": "2100.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2016-05-30T03:30:02Z",
+                "disbursalDate": "2016-05-25T07:00:00Z",
+                "plannedExpirationDate": "2016-06-29T03:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy three sows plus forage to feed the livestock.",
+                "description": "Heghine, 40, is a farmer and lecturer at the Syunik Regional State College. She lives together with her husband and daughter in Kapan, Armenia. <br /><br />Heghine has been farming for many years. She and her husband own cows and oxen. From the milk they get she makes dairy products that go to neighbors and relatives. <br /><br />Heghine wants to build up her farm and be able to produce more. She has applied for a 1,000,000 AMD loan through Kiva's field partner SEF to buy three sows plus forage to feed the livestock. She offers her thanks in advance for your understanding and help.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Schooling",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It enables female farmers to improve their livelihoods without additional risk.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1075201.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 14,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "SEF International"
+            }
+        }
+    }
+}

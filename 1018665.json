@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1018665,
+                "name": "Veronicah",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-02-06T23:00:08Z",
+                "disbursalDate": "2016-02-05T08:00:00Z",
+                "plannedExpirationDate": "2016-03-07T23:00:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase seeds and fertilizers for her farming  business.",
+                "description": "Veronicah is married woman and has been blessed with two school-going children. She owns a house that has neither electricity nor piped water. Her greatest monthly expenses are food and school fees.<br /><br />For the past eight years, she has operated a farming business, selling retail and at the market to her local residents and restaurant operators. She faces a major challenge of seasonality in her place of operation. <br /><br />With the Kshs 50,000 she wants to purchase seeds and fertilizers for her farming business. She decided to join Yehu to access loans to boost her business.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances small entrepreneurs in the Kenyan coastal region.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1018665.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 19,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Yehu Microfinance Trust"
+            }
+        }
+    }
+}

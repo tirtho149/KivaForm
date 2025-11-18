@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2183055,
+                "name": "Adela",
+                "loanAmount": "525.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-06-06T07:20:29Z",
+                "disbursalDate": "2021-05-31T07:00:00Z",
+                "plannedExpirationDate": "2021-07-06T07:20:29Z",
+                "distributionModel": "fieldPartner",
+                "use": "to plant four acres of beans.",
+                "description": "Adela is an enterprising woman who owns a grocery store and sells food to the community school.  She has two minor children, one of whom is in school.  She and her husband grow basic grains.  She is very grateful for her previous loan since it allowed her to stock her business and now offer better quality to her customers.<br /><br />Adela is applying for a Kiva loan through Aldea Global which she will invest in manures and fertilizers to support optimum development of her crop.  She will also hire workers to plant the crop.<br /><br />This loan will benefit Adela through greater income from her harvest sales and will also help her cover household expenses.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It empowers farmers to diversify, and thus stabilize, their families' sources of income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2183055.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 16,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Aldea Global"
+            }
+        }
+    }
+}

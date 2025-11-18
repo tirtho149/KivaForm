@@ -1,0 +1,57 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1378291,
+                "name": "Loza's Group",
+                "loanAmount": "825.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-09-22T05:40:03Z",
+                "disbursalDate": "2017-11-01T07:00:00Z",
+                "plannedExpirationDate": "2017-10-22T05:40:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer to improve her harvests of maize.",
+                "description": "Pictured above is Loza, often described as an extremely hardworking individual. She is 53 years old and has nine children. As a group leader, she is representing her group of 13 farmers in Kilolo North District, Tanzania. <br /><br />Loza is returning this season to work with One Acre Fund again as this means that she is able to earn enough to feed her family, which is why she decided to join in the first place. Loza says that she is happy to have made that decision because, since she first joined in 2016, she has been able to consistently feed her family, which has improved her day-to-day life significantly. Loza will use the profits from this season to send her children to school.<br /><br />The group will use this loan to purchase seeds and fertilizer to plant a total of 10.5 acres. Given that one member of the group will also be purchasing a solar light, with this loan, the group will also receive a total of one solar light.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Parent",
+                    "#Schooling",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 13,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1378291.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TZ",
+                        "name": "Tanzania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 18,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

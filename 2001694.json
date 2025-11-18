@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2001694,
+                "name": "Andrew",
+                "loanAmount": "100.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-08-14T15:30:15Z",
+                "disbursalDate": "2020-08-04T07:00:00Z",
+                "plannedExpirationDate": "2020-09-28T15:30:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase the ACE One energy system in order to have access to solar power for lighting, charging and cooking in a way that is safer, cleaner and saves money.",
+                "description": "Andrew is a 50-year-old man who lives in a multi-bedroom house with access to electricity with 8 other family members, including 2 dependents. <br /><br />Andrew works as a technician but struggles with charcoal energy expenses. He spends a total of UGX 56,000 on all of his fuels and electricity expenses. Andrew bought the ACE One cookstove to help him and his family save the money they spend every month on fuel and also help them access solar electricity for charging their mobile devices anytime for free. <br /><br />The ACE One clean cookstove is biomass and solar powered. For more information on the ACE One cookstove, please visit www.africancleanenergy.com and Facebook @African Clean Energy.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides communities with energy saving cookstoves that also reduce pollution.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2001694.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 3,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Energy"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "African Clean Energy (ACE)"
+            }
+        }
+    }
+}

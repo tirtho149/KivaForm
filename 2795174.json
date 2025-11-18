@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2795174,
+                "name": "Areej",
+                "loanAmount": "1350.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-06-14T17:09:40Z",
+                "disbursalDate": "2024-05-20T07:00:00Z",
+                "plannedExpirationDate": "2024-07-19T17:09:40Z",
+                "distributionModel": "fieldPartner",
+                "use": "to produce bio-fertilizers for her trading business.",
+                "description": "Areej, a Jordanian woman in her thirties and a mother of one child, is married to a military man. She is a thinker and an ambitious woman who seizes opportunities for her family’s benefit. Given where she lives, and the main specialty of the community there in trading livestock, she has taken advantage and started a home-based trading business. <br /><br />She asked for a 950 JOD loan to produce bio-fertilizers for her business. After securing low-cost fertilizers, she has managed to expand her trading alongside her expertise in planting Azolla plants to supply traders with. She hopes to successfully market her productions and reach livestock traders all over the world.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It empowers the most vulnerable and marginalized women in Jordan.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2795174.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "JO",
+                        "name": "Jordan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 38,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Microfund for Women"
+            }
+        }
+    }
+}

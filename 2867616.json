@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2867616,
+                "name": "Luis",
+                "loanAmount": "325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-10-28T23:30:37Z",
+                "disbursalDate": "2024-09-24T07:00:00Z",
+                "plannedExpirationDate": "2024-12-03T00:30:37Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy organic fertilizers that will ensure the optimal growth of his plants.",
+                "description": "Luis is a determined merchant from Rivera, Huila, with 15 years of experience. He owns a nursery where he plants and sells a wide variety of fruit and ornamental plants, from the smallest to larger specimens, which he fertilizes with natural inputs to ensure good maintenance. Luis sells his production to several suppliers and gardeners in his municipality, allowing him to maintain a solid business relationship in the community and secure a stable income.<br /><br />Luis lives with his wife in a house they bought together. They have four adult children who are independent and work in various agricultural tasks, providing mutual support within the family.<br /><br />A loan of 1,296,123 COP allows Luis to purchase organic fertilizers. This investment will nourish his plants and optimize their performance, while also improving the sustainability of his nursery.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "Working Capital Loan",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2867616.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Retail"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "FINAMIGA UNI2"
+            }
+        }
+    }
+}

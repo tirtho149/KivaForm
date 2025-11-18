@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 796267,
+                "name": "Kenny",
+                "loanAmount": "1225.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-11-13T17:50:03Z",
+                "disbursalDate": "2014-11-29T08:00:00Z",
+                "plannedExpirationDate": "2014-12-13T17:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "To purchase cacao seedlings.",
+                "description": "Kenny is a new cacao farmer who lives in the beautiful village of Indian Creek, in the Toledo district of southern Belize. He got motivated to join the cacao industry because he sees cacao farming as a beneficial long-term investment for his family. Kenny believes that cacao is a sustainable agricultural crop, one that is both good for the environment and will help develop his local community. He wants to secure a Kiva microloan so that he can expand his cacao farm by purchasing grafted cacao seedlings. He plans to use the revenue generated from his cacao crop to educate his children and improve his family’s lifestyle.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/796267.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BZ",
+                        "name": "Belize"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 44,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Maya Mountain Cacao"
+            }
+        }
+    }
+}

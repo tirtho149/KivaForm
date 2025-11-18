@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1062301,
+                "name": "Sebastian",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2016-05-03T15:10:03Z",
+                "disbursalDate": "2016-04-20T07:00:00Z",
+                "plannedExpirationDate": "2016-06-07T15:10:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay the rent on the land he cultivates. He will also buy seeds, manure, fertilizers to bring on his grain harvest.",
+                "description": "Sebastián is 56 years old. He managed to study until the second grade but was unable to continue because his parents could not afford to support him. He is married now and has a married son who no longer lives with him.  <br /><br />Sebastián makes a living by growing maize and beans. He learned this trade from his father who was also a farmer. When his father realised that he could not longer afford the cost of education he decided to bring Sebastián to work with him. He had a household to provide for and Sebastián was the eldest child. <br /><br />Sebastián needs the loan that he has applied for to pay the rent on the land he cultivates. He will also buy seeds, manure and fertilizers to bring on the grain harvest. <br /><br />He aspires to always be in a position to help his family and is confident that the loan will be of great help and allow him to continue working.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Inspiring Story",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It enables farmers to plant basic grains to feed their families.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1062301.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 5,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Land Rental"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

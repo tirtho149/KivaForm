@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 642706,
+                "name": "Claudien",
+                "loanAmount": "1475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-12-17T23:30:03Z",
+                "disbursalDate": "2013-12-03T08:00:00Z",
+                "plannedExpirationDate": "2014-02-15T23:30:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more fertilizers and support labor costs during maize production.",
+                "description": "Claudine is 48 years old. He is married with five children. he would like to use a Kiva loan to buy fertilizers for growing maize. He needs to buy fertilizer in order to increase production. With profits from farming, he wishes to invest in his business so that he can acquire machines and tractors that will increase his farming capacity. \n\nThe agriculture sector accounts for 37% of Rwanda's gross domestic product, generates 65% of Rwanda's export revenue, and employs approximately 90% of Rwandans (as of 2009). Despite the importance of agriculture to Rwandans and their economy, financial institutions view lending to fund agricultural activities as a high-risk proposition because the profitability of these activities is affected by weather, natural disasters, and price fluctuations. For this reason, farmers in Rwanda remain underserved by financial institutions. Urwego Opportunity Bank is expanding into this market and is happy to provide Kiva lenders with the opportunity to support Rwandan farmers. ",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/642706.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "RW",
+                        "name": "Rwanda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 50,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Urwego Bank"
+            }
+        }
+    }
+}

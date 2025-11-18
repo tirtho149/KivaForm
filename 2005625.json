@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2005625,
+                "name": "Mujeres Activas Group",
+                "loanAmount": "4075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-08-22T18:50:15Z",
+                "disbursalDate": "2020-07-22T07:00:00Z",
+                "plannedExpirationDate": "2020-10-06T18:50:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizer and trim their cacao field to provide better product to their clients.",
+                "description": "The \"Mujeres Activas\" [ACTIVE WOMEN] group is made of of nine members. They just began their second cycle and they have grown in members and members have renewed their membership. As you can see in the photograph, the board of directors consists of the president, secretary, and the treasurer. <br /><br />Admelia is the one in the middle and she is the secretary. She is very happy being able to support the group. She is content and hard working. She has two children: a boy and a girl.  <br /><br />She sells drinks such as beer, soda and water among other things. Her products are sold from home. Her goal is to have a store to sell drinks and add a small space to buy and sell clothing. <br />\t\t\t\t\t\t\t\t\t\t\t<br />She also grows and harvests cacao. Her husband helps her with this. He is also a teacher and they both want to advance for their children. <br /><br />Admelia is requesting a loan through Kiva to buy fertilizer for her cacao field so she can provide better products for her clients.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 9,
+                "whySpecial": "It empowers women through community support and financial training.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2005625.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 163,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beverages"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Microfinanzas Prisma (COOPAC MFP)"
+            }
+        }
+    }
+}

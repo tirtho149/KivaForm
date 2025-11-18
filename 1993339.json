@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1993339,
+                "name": "Juan Agustin",
+                "loanAmount": "600.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-07-27T16:00:27Z",
+                "disbursalDate": "2020-06-29T07:00:00Z",
+                "plannedExpirationDate": "2020-09-10T16:00:27Z",
+                "distributionModel": "fieldPartner",
+                "use": "to plant an area of 0.7 hectares with new coffee plants.",
+                "description": "Juan is 62 years old and has worked growing coffee for over 12 years. He has a small 0.7 hectare farm of coffee in production. In order to improve the quality of life of his family he has decided to plant an area of 0.7 hectares with new coffee plants.<br /><br />Juan lives in a remote community in the center of Nicaragua, and his farm is administered under Fair Trade and C.A.F.E. Practices criteria. This is the fourth loan he has received from PAC.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps farmers swap unproductive coffee plants with new ones.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1993339.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "PAC"
+            }
+        }
+    }
+}

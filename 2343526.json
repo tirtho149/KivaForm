@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2343526,
+                "name": "Steven",
+                "loanAmount": "300.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-04-24T11:21:04Z",
+                "disbursalDate": "2022-03-14T07:00:00Z",
+                "plannedExpirationDate": "2022-05-29T11:21:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizers.",
+                "description": "Steven is a resident of Kayonza, aged 43 years. He is married with four children who all go to school. He is a farmer who has practiced farming for the past 20 years. <br /><br />He is hardworking and devotes his entire time at the farm to harvesting quality bananas. Steven is seeking a loan to buy fertilizers, manure and mulch for his farm. He will then improve on his soil nutrition so he can harvest good-quality bananas, which will be competed for in the market. Thank you funders.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2343526.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

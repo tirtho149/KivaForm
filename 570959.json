@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 570959,
+                "name": "Braulio",
+                "loanAmount": "2400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-07-03T12:30:02Z",
+                "disbursalDate": "2013-06-01T07:00:00Z",
+                "plannedExpirationDate": "2013-08-02T12:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to repair the farm where he raises rabbits.",
+                "description": "Braulio works as a project coordinator supporting rural production in all of the highlands of La Paz.  His father left him land in the tropical valleys where he started a farm to raise rabbits.  He lives with his wife and their four children in their own home in the 1st of May area of the city of El Alto in the department of La Paz.\r\n\r\nHe is requesting this loan to purchase construction materials to repair and expand his farm so that he can cultivate feed for his rabbits with better seed and also have a corral where his animals will be more comfortable.  This will make his rabbit production cleaner and guaranteed.  \r\n\r\nBraulio's dream is to have a farm with improved infrastructure so that he can have increased production.  This is the first loan he has requested with IMPRO and Kiva.\r\n\r\n\r\n",
+                "tags": [
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/570959.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 73,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Animal Sales"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "IMPRO"
+            }
+        }
+    }
+}

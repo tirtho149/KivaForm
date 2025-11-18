@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1717715,
+                "name": "Charles",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-03-04T15:40:09Z",
+                "disbursalDate": "2019-02-14T08:00:00Z",
+                "plannedExpirationDate": "2019-04-03T14:40:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to repair his motorcycle and add stocks of groceries for his grocery business.",
+                "description": "Charles is happily married and has been blessed with two children who depend on him. He runs a grocery business, using his motorbike to supply fresh organic vegetables and fruits to his customers. <br /><br />He is seeking a loan to enable him to service his motorbike and buy more groceries for selling. He would also like to add employees to his business. <br /><br />His dream for the future is to educate his children and expand his business in order to lift the standard of living for his family.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Job Creator",
+                    "#Repair Renew Replace"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It gives financial access to low income micro-entrepreneurs.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1717715.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 14,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Motorcycle Transport"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "ECLOF Kenya"
+            }
+        }
+    }
+}

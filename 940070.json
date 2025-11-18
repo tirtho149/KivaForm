@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 940070,
+                "name": "Ruth Janeth",
+                "loanAmount": "4950.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-08-31T12:20:02Z",
+                "disbursalDate": "2015-08-05T07:00:00Z",
+                "plannedExpirationDate": "2015-09-30T12:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy the materials and equipment for beekeeping, so she can improve honey production and get a better income for her family.",
+                "description": "Ruth Janeth is 48 years old and lives and works in her home and on her own land. She has two children who depend on her and are currently in high school and college. She and her husband live in the department of Chuquisaca, in the town of Huacareta. Her main job is making honey from bees. <br /><br />For that, Ruth Janeth needs a loan which will be used to buy the materials and equipment for beekeeping. Upon purchasing these, she will begin to work because she needs them to start the honey production.  Therefore, she will be able to get a good income and improve the living conditions in her home and daily life with her husband and children. This job requires a small investment and less work once it is set up.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Schooling",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/940070.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 164,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Production/Sales"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "CIDRE"
+            }
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1152769,
+                "name": "Juana Minerva",
+                "loanAmount": "1475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-09-25T01:50:04Z",
+                "disbursalDate": "2016-09-08T07:00:00Z",
+                "plannedExpirationDate": "2016-10-25T01:50:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a biodigester to turn farm waste into renewable resources.",
+                "description": "Juana is a hog farmer who calls the state of Hidalgo home. Juana has one child; her goal is to increase her income from her farm to have savings for her child. She will do this by transforming her pigs’ waste into renewable energy and organic fertilizer to save money and improve the productivity of her farm. <br /><br />Juana is investing in a Sistema Biobolsa biodigester to treat her animals' manure, removing flies and bad smells while avoiding the contamination of underground water sources. She will replace the expensive LP gas with clean and renewable energy (biogas) and eliminate chemical fertilizers, thereby saving money and displacing fossil fuels-based inputs. At the same time, the yield of her corn field will improve naturally as she starts applying the organic fertilizer, nourishing the soil in a sustainable manner. <br /><br />This loan represents 62% of the price of the biodigester; the remaining part is paid directly by Juana.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Biz Durable Asset",
+                    "#Repair Renew Replace"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It saves farmers money by transforming waste into biogas and organic fertilizer.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1152769.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MX",
+                        "name": "Mexico"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 27,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pigs"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Sistema.bio"
+            }
+        }
+    }
+}

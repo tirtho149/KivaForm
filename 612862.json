@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 612862,
+                "name": "Bilal",
+                "loanAmount": "1000.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2013-10-04T13:50:15Z",
+                "disbursalDate": "2013-09-16T07:00:00Z",
+                "plannedExpirationDate": "2013-11-03T13:50:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "to equip his tractor with new wheels.",
+                "description": "Bilal is a 33-year-old married man living with his wife and two children who are attending school. He is the one and only income provider for the family. He has been involved in the construction field for the past five years. He owns a mini tractor which he uses to complete his tasks in a very professional way. \r\n\r\nToday, he is in need to receive a loan from Kiva partner Vitas s.a.l. to equip his tractor with new wheels. He only aims to carry on with his operations in a proper way and end up with good results to satisfy his customers' demands and earn sufficient income. ",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Low-profit FP",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/612862.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "LB",
+                        "name": "Lebanon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Construction"
+                },
+                "sector": {
+                    "name": "Construction"
+                },
+                "partnerName": "Vitas - Lebanon"
+            }
+        }
+    }
+}

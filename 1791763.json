@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1791763,
+                "name": "German",
+                "loanAmount": "525.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-07-08T18:10:08Z",
+                "disbursalDate": "2019-06-26T07:00:00Z",
+                "plannedExpirationDate": "2019-08-07T18:10:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy supplies to grow sugar cane.",
+                "description": "German wants to take out another loan. He is 44 years. He is married and lives with his wife and children. <br /><br />He wants this loan in order to buy supplies, fertilisers and manures for his sugar cane crops, and thereby offer his customers a higher-quality product. German hopes that this investment will give his family a higher quality of life and more financial stability. He can then continue to grow as a person and small-time businessperson. <br /><br />This is German’s second loan from FUDECOSUR. German has not received other loans from state banks. FUDECOSUR has provided this loan with better facilities and much lower interest rates.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It reaches rural borrowers that are considered too risky for traditional banks.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1791763.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CR",
+                        "name": "Costa Rica"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 20,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Animal Sales"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FUDECOSUR"
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 593903,
+                "name": "Elizabeth",
+                "loanAmount": "375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-08-10T15:30:02Z",
+                "disbursalDate": "2013-07-23T07:00:00Z",
+                "plannedExpirationDate": "2013-09-09T15:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a large number of chickens.",
+                "description": "Elizabeth is 33 years old and is a single mother of two daughters, with whom she lives in her own mother's house.  When she started her family she decided to improve her living conditions, so she starting working as a domestic worker in the mornings for a monthly salary, and raising chickens in the afternoons.  She has 20 animals that she needs to replace every week as she sells them to local restaurants.  Her dream is to work with great effort to have more working capital, and thus to increase the number of animals she owns and thereby inrease her earnings.  \"Because I have recently started my working capital is limited\", she says.  She is now thinking about buying more small chickens to increase her working capital, because they cost less, however she will need to wait for several months in order to sell them and gain more income.  This is her first loan with KIVA, and she feels that she is developing, as she is receiving the financial help she needs to progress with her business.  For this reason she promises to make her payments punctually.  Elizabeth will use her 1000 soles to  buy more chickens, in order to sell them later at a better price.",
+                "tags": [
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/593903.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 14,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Animal Sales"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Microfinanzas Prisma"
+            }
+        }
+    }
+}

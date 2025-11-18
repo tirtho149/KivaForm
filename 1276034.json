@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1276034,
+                "name": "Alfredo",
+                "loanAmount": "1800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-04-12T20:20:03Z",
+                "disbursalDate": "2017-03-09T08:00:00Z",
+                "plannedExpirationDate": "2017-05-12T20:20:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy supplies for his farming business.",
+                "description": "Alfredo, 62, is married.  He is applying for a loan that he will use to buy tomato plants and supplies for his farming business.  He also wants to carry out related work to improve his land.  He expects the investment to deliver a successful tomato crop and protect his land for future plantings.  This is Alfredo's second FUDECOSUR loan.  He has never borrowed from another bank and likes that FUDECOSUR loans come with low interest rates and little paperwork.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It reaches rural borrowers that are considered too risky for traditional banks.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1276034.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CR",
+                        "name": "Costa Rica"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 63,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FUDECOSUR"
+            }
+        }
+    }
+}

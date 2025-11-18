@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2714634,
+                "name": "Debrah",
+                "loanAmount": "1325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-01-19T13:10:13Z",
+                "disbursalDate": "2024-01-16T08:00:00Z",
+                "plannedExpirationDate": "2024-02-23T13:10:13Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulch and manure to boost soil nutrition.",
+                "description": "Debrah is married with 4 children. She is a permanent resident of Kansigyensa. Debrah is a farmer who looks forward to growing more coffee to sell and increase her disposable income. <br /><br /><br />As a farmer, she is disturbed by winds and soil erosion which makes the soil infertile. She is seeking a loan to buy mulch and manure to control soil erosion and improve soil nutrition. Thank you funders.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2714634.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 65,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

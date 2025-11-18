@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 836386,
+                "name": "Byonna Biva Gyoli Group",
+                "loanAmount": "1875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-02-05T17:10:06Z",
+                "disbursalDate": "2015-01-22T08:00:00Z",
+                "plannedExpirationDate": "2015-03-07T17:10:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "To pay school fees.",
+                "description": "Henry is a 38-year-old married man with five children and a resident of Buwanuka Kakiri in Wakiso district. He and fellow members are repeat customers who pay well. He has been running a loan of UGX 400,000 which he has paid off and is now applying for loan of UGX 500,000. The purpose of the loan is to pay fees for his children since they are reporting for their first term this week. <br /><br />He is a farmer and also does bricklaying. He is a very hardworking man and also loves his work. His future plan is to borrow more money and start up a farm in his home area. He is a very honest and aggressive young man who loves working and is also committed to his job. He greatly appreciates the efforts of the funders, especially for the financial support given to him.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Schooling",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 6,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/836386.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 32,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Primary/secondary school costs"
+                },
+                "sector": {
+                    "name": "Education"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

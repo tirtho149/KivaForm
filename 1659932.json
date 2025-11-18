@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1659932,
+                "name": "Speech",
+                "loanAmount": "825.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-12-06T02:40:05Z",
+                "disbursalDate": "2018-11-23T08:00:00Z",
+                "plannedExpirationDate": "2019-01-05T02:40:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulch for her banana plantation to ensure good yields at the time of harvest.",
+                "description": "Speech is 48 years old, married with 5 children and are all school going. <br /><br />She does banana growing, a business which has been her main source of income for many years. She is very hard working and shrewd in business.<br /><br />Speech used her previous loan to buy fertilizers for her farm. She yielded more bananas, of good quality, which she sold at good prices. Speech used the proceeds to pay her children's school fees. For this, she is grateful to the lenders.<br /><br />She has applied for another loan of 3,000,000 UGX to buy mulch for her banana plantation so that she can retain fertility in this sunny season. This will ensure good yields at the time of harvest. <br /><br />Speech appreciates the lenders for the continued support.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It targets rural populations.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1659932.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 27,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

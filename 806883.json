@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 806883,
+                "name": "Benard's Group",
+                "loanAmount": "950.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2014-12-02T15:40:06Z",
+                "disbursalDate": "2015-02-01T08:00:00Z",
+                "plannedExpirationDate": "2015-01-16T15:40:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy cost efficient maize seeds and fertilizer for the coming harvesting season.",
+                "description": "Benard is 55 years old and has 8 children. He has been a farmer for more than 20 years and is always said to be a very hardworking individual. Even though Benard is the only one featured in the above picture, he is actually representing his group formed by 11 farmers in Matete District, Kenya.\r\n\r\nBenard started working alongside One Acre Fund a few years ago, in 2011, and decided to do so because he wanted to have access to quality training and acquire new farming methods. Since then, he has seen his life improve; especially in the sense that he has had more profits from each harvest ever since. This year he decided to represent his group because he wanted to help more farmers.\r\n\r\nBenard’s Group will receive farming inputs to plant a total of 5.25 acres of land. Additionally, some of the farmers in the group will be purchasing a solar light so, with this loan, the group will also receive a total of 6 solar lights.\t\t\t\t\t\t\t\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 11,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/806883.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 5,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

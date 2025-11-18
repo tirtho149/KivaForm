@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 837078,
+                "name": "Geronima",
+                "loanAmount": "250.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-02-07T08:00:03Z",
+                "disbursalDate": "2015-01-22T08:00:00Z",
+                "plannedExpirationDate": "2015-03-09T08:00:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy animal feed for the pigs and fertilizer for the farm.",
+                "description": "Geronima, aged 61, is a married woman and a mother of nine grown-up children. She lives with her family in Talibon, Bohol. \r\n\r\nGeronima has been engaged in a pig raising business for more than eleven years now. She also earns additional income through farming. Her husband works as a carpenter. \r\n\r\nShe is asking for a loan to buy animal feed for the pigs and fertilizer for the farm. This loan will be a great help for Geronima in augmenting her income and profit.",
+                "tags": [
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/837078.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pigs"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Community Economic Ventures, Inc. (CEVI)"
+            }
+        }
+    }
+}

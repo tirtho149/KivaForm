@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2589893,
+                "name": "Sm.nasir",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-05-31T20:50:43Z",
+                "disbursalDate": "2023-05-25T07:00:00Z",
+                "plannedExpirationDate": "2023-07-05T20:50:43Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a biodigester that reduces kitchen smoke, produces biogas, replaces LPG and produces organic fertilizer.",
+                "description": "SM.Nasir  is a farmer living in Chattogram, Bangladesh with five members of his family. He runs his own homestead farm and has a small parcel of land used to earn the livelihood for the family. He is well-known among his fellows for his hardworking nature in farming cattle and land where he grows green vegetables.<br /><br />SM.Nasir wants to buy a biodigester because he wants to produce organic vegetables to sell in the market. The biodigester will convert animal manure into a biogas for use in daily cooking and organic fertilizer for farming.<br /><br />Having a loan to buy a biodigester to obtain cheaper solutions of biogas and fertilizers, will save SM.Nasir  a great deal of money and time for cooking fuel and organic fertilizers. That will in turn boost his farming activities.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "This loan is special because it enables rural populations to access life-changing cooking technology",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2589893.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BD",
+                        "name": "Bangladesh"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 21,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "ATEC Global"
+            }
+        }
+    }
+}

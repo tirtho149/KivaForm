@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 872943,
+                "name": "Tom",
+                "loanAmount": "1925.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2015-05-17T16:30:02Z",
+                "disbursalDate": "2015-04-20T07:00:00Z",
+                "plannedExpirationDate": "2015-06-16T16:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to invest in 300 chickens and food for them.",
+                "description": "Tom is a villager and father of five; he is married and is 51 years old. The loan he is requesting from you will be used to buy 300 chickens and food for them. \r\n\r\nTom has been keeping livestock and poultry for years. Currently, he has got about 100 chickens and sells roughly 40-50 organic eggs a day for ten months of the year to some workers who happen to work with Tom’s two daughters, 23 and 20, in a fish factory. Thus, his clientele has already been established. Tom has also got a dairy cow and sells one calf per year. Owning an agricultural tractor, he has been called upon to offer services such as ploughing and harvesting to other villagers.\r\n\r\nTom chose to be photographed in the animal stable because he did not want to disturb the existing chickens with light coming from the photographic camera.  \r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/872943.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AL",
+                        "name": "Albania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 51,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Poultry"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Agro & Social Fund"
+            }
+        }
+    }
+}

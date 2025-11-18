@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2273436,
+                "name": "Zubairu",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-11-04T14:00:16Z",
+                "disbursalDate": "2021-10-04T07:00:00Z",
+                "plannedExpirationDate": "2021-12-19T15:00:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a motorcycle for a transport business.",
+                "description": "Zubairu is a maize farmer from the rural area of Kaduna, a state in northern Nigeria, who wants to boost his farming earnings. He gets access to high-quality inputs and increased farming services as a member of Babban Gona, which enables him to increase his yields. <br /><br />Zubairu is now farming more sustainably as a result of training programs. His fertilizer training, for example, focuses on micro-dosing fertilizers to reduce their environmental impact while increasing yields. Zubairu anticipates 35 bags/hectare from this year's harvest, more than double the national Nigerian average of 18 bags/hectare.<br /><br />Zubairu needs a Harvest Advance loan to purchase a motorcycle and establish a transportation business. He will receive the cash equivalent of the harvested maize through the harvest advance loan. Babban Gona will then assist in storing his maize and selling it at a higher price in the future, generating more returns. This is favorable to Zubairu as he intends to use the proceeds from this harvest to purchase a motorcycle.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports smallholder farmers and helps them increase yields.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2273436.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NG",
+                        "name": "Nigeria"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Motorcycle Transport"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "Babban Gona Farmers Organization"
+            }
+        }
+    }
+}

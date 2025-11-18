@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 510307,
+                "name": "Nicodème Alain",
+                "loanAmount": "425.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2012-12-20T23:00:02Z",
+                "disbursalDate": "2012-12-12T08:00:00Z",
+                "plannedExpirationDate": "2013-01-19T23:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "To increase his stock of seed packets.",
+                "description": "Alain is a 30 year old married man who has three children. He is a farmer. He has been planting seeds and selling the seedlings in a district of the capital for 6 years. His business is going really well. He has just one problem caused by his limited capital that does not allow him to buy enough seed for planting. This is why he is seeking a loan that will help him increase his stock of seed. He will set aside a portion of his profits for his business and he will use the rest to take care of his family's needs.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/510307.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CM",
+                        "name": "Cameroon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Retail"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "ACEP Cameroun"
+            }
+        }
+    }
+}

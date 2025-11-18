@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2552961,
+                "name": "Peter",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-03-31T04:20:24Z",
+                "disbursalDate": "2023-03-21T07:00:00Z",
+                "plannedExpirationDate": "2023-05-05T04:20:24Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a biodigester to power his farm with biogas and stop cutting trees.",
+                "description": "Peter lives in Bomet, as many farmers in his region, he used to buy firewood to power his farm, but this has become a problem; now trees are scarce, making it even more difficult for farmers to have affordable access to energy. Peter plans to use a Sistema Biobolsa biodigester to eliminate wood, fossil fuels and chemical fertilizers from his farm.<br /><br />With his 12 cubic meters Sistema Biobolsa he will transform his cows' manure into renewable energy and organic fertilizer while he and his family will be able to cook without smoke and stop spending time in chopping wood. Peter ’s family will also increase his vegetable productivity with the organic fertilizer that the biodigester will produce and give back to the soil the nutrients needed to reforest Bomet.<br /><br />This loan represents 100% of the price of the biodigester.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It saves farmers money by transforming waste into biogas and organic fertilizer.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2552961.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Sistema.bio"
+            }
+        }
+    }
+}

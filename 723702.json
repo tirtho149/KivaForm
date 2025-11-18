@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 723702,
+                "name": "Chhang",
+                "loanAmount": "1000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-06-16T21:10:02Z",
+                "disbursalDate": "2014-05-23T07:00:00Z",
+                "plannedExpirationDate": "2014-07-16T21:10:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a motorbike.",
+                "description": "Chhang, a 34-year-old and married man, lives and operates a farm which is located in the Batheay District of Kampong Cham Province, Cambodia. He has one child who is a student in a local school. Farming, which is the main source of his income, allows him to make $3.00 USD a day to support his family.\r\n\r\nHIs earnings through farming are a little bit low; he would like to borrow $1000.00 to buy a motorbike and become a motorbike taxi driver to supplement his income. \r\n\r\nChhang would like to express his thanks to all lenders in advance.\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/723702.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 35,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Taxi"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "Hattha Bank"
+            }
+        }
+    }
+}

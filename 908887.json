@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 908887,
+                "name": "Anonymous",
+                "loanAmount": "4575.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-06-30T18:50:05Z",
+                "disbursalDate": "2015-07-15T07:00:00Z",
+                "plannedExpirationDate": "2015-07-30T18:50:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "",
+                "description": "",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Inspiring Story",
+                    "#Biz Durable Asset",
+                    "#Trees",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/908887.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 114,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Renewable Energy Products"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "EcoZoom"
+            }
+        }
+    }
+}

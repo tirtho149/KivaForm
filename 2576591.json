@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2576591,
+                "name": "Nercy Maria",
+                "loanAmount": "1550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-05-17T01:00:07Z",
+                "disbursalDate": "2023-04-20T07:00:00Z",
+                "plannedExpirationDate": "2023-06-21T01:00:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a fish (called chames), disposable games, etc.",
+                "description": "Nercy Maria is from Portoviejo. It suffered an earthquake on April 16, 2016.  It is a city rich in the production of vegetables, legumes, and tropical fruits for internal consumption. <br /><br />Nercy and her mother work selling a special fish called chame. It is found in only one area of the province, is raised in pools, and is quite tasty. <br /><br />Nercy's customers generally order it from her in advance. She and her mother buy the fish, take them home and clean them, in order to sell them packaged and ready to eat. They make home deliveries. This loan is to buy chame fish, disposable games, etc.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It is accompanied by useful, real-life business training.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2576591.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 44,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fish Selling"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Fundación ESPOIR"
+            }
+        }
+    }
+}

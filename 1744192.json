@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1744192,
+                "name": "Gayane",
+                "loanAmount": "1300.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-04-12T19:10:08Z",
+                "disbursalDate": "2019-03-14T07:00:00Z",
+                "plannedExpirationDate": "2019-05-12T19:10:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase high-quality forage for her livestock, thereby increasing productivity and agri-business income so there will be no need for her husband to work abroad.",
+                "description": "Meet Gayane, a young farmer from Dashtadem Village, where she lives with her husband, 2 young children (ages 3 and 4), and her elderly grandmother. Agriculture has been her family's main activity for many years. The family owns a farm of cows, bulls, sheep, lambs, and piglets. <br /><br />Thanks to the sales of agri-products, the family is able to make a living. However, due to the seasonality of agricultural activities, her husband often travels abroad to earn money. <br /><br />Since farming needs constant enhancements and care, Gayane has applied for financial support. With the provided loan, she plans to purchase high-quality forage for her livestock. Gayane is sure that this will help to increase the farm's productivity and agri-business income. She is full of hope and will work hard to achieve her goals so her husband can come back to his family.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps female farmers in Armenia grow their farms and support their families.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1744192.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 49,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "SEF International"
+            }
+        }
+    }
+}

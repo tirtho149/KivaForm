@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2587399,
+                "name": "Akash",
+                "loanAmount": "650.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-05-31T18:20:31Z",
+                "disbursalDate": "2023-05-17T07:00:00Z",
+                "plannedExpirationDate": "2023-07-05T18:20:30Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a biodigester to produce fertilizer for his farm and reduce kitchen smoke.",
+                "description": "Akash is a 32-year-old farmer living in Munshiganj, Bangladesh. He grows crops on his two hectares of land. His soil quality is getting worse every year.<br /><br />Akash wants to buy a biodigester because it will be a cheap source of renewable gas and organizer fertilizer. He hopes it will help him increase his yield of sugar cane, allowing him to increase his profits. He will also be saving money by not buying chemical fertilizer.<br /><br />This Kiva loan will enable Akash to buy the biodigester that will improve his family's livelihood.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "This loan is special because it enables rural populations to access life-changing cooking technology",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2587399.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BD",
+                        "name": "Bangladesh"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "ATEC Global"
+            }
+        }
+    }
+}

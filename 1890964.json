@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1890964,
+                "name": "Gulnara",
+                "loanAmount": "2875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-12-16T14:00:15Z",
+                "disbursalDate": "2019-11-21T08:00:00Z",
+                "plannedExpirationDate": "2020-01-30T14:00:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizer and livestock in order to develop her business.",
+                "description": "Gulnara is 43 years old, married, and has three children. Gulnara has a secondary education. She is familiar with agricultural technology and knows how to invest as directed. Since 1995, she has been involved in animal husbandry as the primary source of income for her family.<br /><br />Thanks to her hard work, Gulnara’s farm currently has 2 cows, 2 horses, and 20 sheep, as well as 1.06 hectares of land where she grows watermelon. In order to further develop her farm, Gulnara applied to Bai-Tushum Bank for a loan in the amount of 200,000 KGS to purchase fertilizer and livestock so she can increase her revenue from her business. Gulnara plans to invest the revenue from the loan in further developing her farm and renovating her home.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Biz Durable Asset",
+                    "#Repair Renew Replace"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The borrower receives a lower interest rate to fund their agriculture activities.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1890964.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 84,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

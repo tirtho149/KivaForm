@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1575240,
+                "name": "Evghenia",
+                "loanAmount": "3025.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-07-27T19:10:05Z",
+                "disbursalDate": "2018-07-06T07:00:00Z",
+                "plannedExpirationDate": "2018-08-26T19:10:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase diesel for her equipment to harvest wheat.",
+                "description": "Evghenia thanks Kiva lenders for her previous loan, which helped her purchase construction materials to build a granary. Due to this loan, she was able to continue her business.<br /><br />This year, she is renting another 40 hectares of agricultural lands. Currently she processes about 60 hectares on which she grows wheat, corn, and sunflowers. She used her previous year's savings to purchase agricultural equipment.<br /><br />During this current wheat harvesting season, Evghenia needs money to purchase diesel to do her necessary work. For this purpose, she requested a new loan from Kiva. As a result, she will be able to collect the harvest on time, thereby earning an income to support her family.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Unique",
+                    "#Repeat Borrower",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It enables those living in rural areas to grow their businesses at a lower interest rate.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1575240.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MD",
+                        "name": "Moldova"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 106,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "OCN Prima Finantare SRL"
+            }
+        }
+    }
+}

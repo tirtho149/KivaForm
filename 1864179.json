@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1864179,
+                "name": "Genivera",
+                "loanAmount": "600.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-10-26T00:30:04Z",
+                "disbursalDate": "2019-09-30T07:00:00Z",
+                "plannedExpirationDate": "2019-11-25T01:30:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy agricultural supplies.",
+                "description": "Genivera, 47, is a hardworking and unassuming woman who, from the time that she was very young, learned all about farming from her father.  Thanks to this, she now works as a farmer.  She has a parcel of land where she cultivates a variety of products.  The harvest of these food products is collected and sold in the municipality of Sabanalarga.<br /><br />Genivera will use this loan to buy chemical and organic fertilizers for her coffee crops.  This will enable her to address the challenge that she faces when she lacks sufficient capital to buy these supplies, which are quite costly. <br /><br /> If you want to know more about the entrepreneurs and the loans from Interactuar, you can join the Lending Team called: “Friends of Interactuar Colombia”: http://www.kiva.org/team/interactuar_colombia\"",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It reaches borrowers in remote regions.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1864179.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 22,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Interactuar"
+            }
+        }
+    }
+}

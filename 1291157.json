@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1291157,
+                "name": "Brandon",
+                "loanAmount": "5000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-05-04T20:54:32Z",
+                "disbursalDate": "2017-05-19T19:14:13Z",
+                "plannedExpirationDate": "2017-06-09T21:27:06Z",
+                "distributionModel": "direct",
+                "use": ".",
+                "description": "I planted my first garden with my grandfather when I was 10 years old. I turned over the soil in an old horse stall, mixed some manure into it, and planted the seeds in my first organic garden. Little did I know that that day a seed was planted in me as well. \r\n\r\nMany years later when I moved out on my own and started cooking more frequently, I began to appreciate high quality fresh fruits, vegetables, herbs, and spices. It was during this time that I began to learn that obtaining these high quality, organically grown, seasonal ingredients would be very difficult for someone with my food budget. \r\n\r\nIt was also around this time that books like \"Omnivore's Dilemma\" and \"The Ethics of What We Eat\" were published. These books and others highlighted the growing problem with the American food system and I learned I wasn’t alone, most Americans do not have access to fresh, nutritious, locally grown produce. \r\n\r\nA light bulb immediately went off in my head, the solution to each of these problems was as clear as day. By growing as much of my own food as I possibly could, not only would I be able to harvest at the peak of seasonal freshness, but I was also in a very small way taking pressure off an already unsustainable food system. So began my journey as an organic gardener.\r\n\r\nMy passion for sustainable gardening led me to start Southwest Victory Gardens so that I could help others obtain the necessary skills. I named my company after the Victory Gardens of WWII because I believe that growing food is a patriotic duty and anyone who is able should have a vegetable garden.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Repeat Borrower",
+                    "#Technology",
+                    "#Latinx/Hispanic-Owned Business",
+                    "#BIPOC-owned Business"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps a second-time borrower share his expertise of organic, sustainable gardening with his community.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1291157.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 139,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Landscaping / Gardening"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "trusteeName": "No Trustee Endorsement"
+            }
+        }
+    }
+}

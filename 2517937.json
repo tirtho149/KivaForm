@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2517937,
+                "name": "Adrián",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-02-14T02:20:19Z",
+                "disbursalDate": "2023-01-10T08:00:00Z",
+                "plannedExpirationDate": "2023-03-21T01:20:19Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizers derived from apples and carrots that will strengthen his crops growth.",
+                "description": "Adrián lives on the outskirts of Popayán, Cauca and has more than 28 years of experience in agriculture. He currently specializes in planting organic coffee which he produces thanks to the extensive experience he has acquired. Adrián has more than 5,500 coffee trees planted on a one-hectare piece of terrain he bought 20 years ago. Adrián also harvests a small batch of various vegetables which he uses for his family’s consumption. Apart from his crops, Adrián also fabricates bricks using traditional techniques with materials from his land, which he sells to hardware stores in his municipality.<br /><br />Adrián lives with his father and brothers in a house that was given to them by his mother. His brothers work with him making bricks and support him in sustaining the crops. <br /><br />A loan of $2,286,222 COP allows Adrián to buy fertilizers derived from apples and carrots that will facilitate the fertilization process of his crops.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The loan will help peasants to improve their agro crops",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2517937.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FINAMIGA UNI2"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2204513,
+                "name": "Anisa Bose",
+                "loanAmount": "1225.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-07-09T08:20:10Z",
+                "disbursalDate": "2021-06-30T07:00:00Z",
+                "plannedExpirationDate": "2021-08-08T08:20:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to start a kava-growing business by purchasing kava shoots, manure, shovels, and pitchforks.",
+                "description": "Anisa was previously employed as a chef in a local hotel. However, with this pandemic, tourism has been tremendously affected, and she made the decision to start her own home-based business. <br /><br />Anisa took a $1000 loan last year (2020) to kick start her canteen and pastry business. Her business flourished, and now Anisa wants to take it a step further. She intends to take a loan of $2500 to start selling kava as well as it is very much in demand.<br /><br />Drinking kava is a favorite pastime in the late afternoon as it is cheap, and, if consumed excessively, drinkers do suffer from a hangover as with alcohol. Having done her homework, she has noticed this to be true for the residents in and around Voua Vou.<br /><br />Anisa hopes that being a businesswoman will help her family financially and show her children that there are more avenues to make money besides being formally employed.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women with credit in a country where alternative financing is extremely scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2204513.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "FJ",
+                        "name": "Fiji"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Liquor Store / Off-License"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Fiji"
+            }
+        }
+    }
+}

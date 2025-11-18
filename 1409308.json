@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1409308,
+                "name": "Huda",
+                "loanAmount": "1450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-11-05T08:00:04Z",
+                "disbursalDate": "2017-10-18T07:00:00Z",
+                "plannedExpirationDate": "2017-12-05T09:00:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seeds and organic fertilizer to plant trees to yield fruits and vegetables for sale.",
+                "description": "Huda plants fruits and vegetables. Her love for nature was the drive behind her business. After planting the trees and taking care of them she sells the produce. Her products are organic for she buys the best seeds and organic fertilizers. That fits well with a healthy living that is very popular these days. Her future goal is to own a spacious garden that can supply the local community with all its needs. She is looking for a loan to buy seeds and fertilizers to reach her aim.",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Refugee",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It empowers people in a country with limited economic opportunities.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1409308.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "JO",
+                        "name": "Jordan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 43,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "National Microfinance Bank"
+            }
+        }
+    }
+}

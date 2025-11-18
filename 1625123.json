@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1625123,
+                "name": "Deo",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2018-10-14T20:50:03Z",
+                "disbursalDate": "2018-10-04T07:00:00Z",
+                "plannedExpirationDate": "2018-11-13T21:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy manure for his coffee plantation.",
+                "description": "Deo is a resident of Kanyeganye-Sembabule district. He is a married man with three children.<br /><br />Deo is a farmer who focuses in coffee growing as his source of income. His clients are coffee processing factories in Masaka and Sembabule. He has applied for a loan of 1,500,000 UGX to buy manure to fertilize his coffee plantation which he believes will boost the yields of the plantation, thus availing him enough money to pay for his children education fees. <br /><br />Deo thanks Kiva partners for all the support. Deo is pictured here with two of his children.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1625123.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

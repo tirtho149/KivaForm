@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2061094,
+                "name": "Danielle",
+                "loanAmount": "14825.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-12-02T10:20:19Z",
+                "disbursalDate": "2020-12-31T08:00:00Z",
+                "plannedExpirationDate": "2021-01-16T10:20:19Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a three ton truck to help her to distribute and sell her seedlings to her clients.",
+                "description": "Danielle is a 36-year-old woman. She lives in Manica province with her family.<br /><br />She has worked in agriculture since she was a young girl. She learned to work in agriculture with her father.<br /><br />When she grew up, she started helping her father with running a business selling seedlings of fruit trees, such as dragon fruit, avocado, orange, lemon, litchi, mango and many more.<br /><br />Danielle manages a lot of greenhouses with many nurseries and seedlings. The business is going very well and her clients' feedback is always positive. As a consequence of Danielle's good services, the demand for her seedlings has been increasing day-by-day and, thus, there is need for a large truck that can help her to easily distribute her products.<br /><br />For this reason, she is requesting a Kiva loan to buy a three ton truck to help her to distribute and sell her seedlings to her clients.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It improves agriculture infrastructure and links smallholder farmers to markets.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2061094.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MZ",
+                        "name": "Mozambique"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 428,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "iDE Mozambique"
+            }
+        }
+    }
+}

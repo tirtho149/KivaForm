@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2131873,
+                "name": "Edwin",
+                "loanAmount": "425.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-03-20T21:50:12Z",
+                "disbursalDate": "2021-03-16T07:00:00Z",
+                "plannedExpirationDate": "2021-04-19T21:50:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy inputs for assistance with bean crops.",
+                "description": "Edwin wishes to acquire a loan again. He is 57 years old, is married, and lives with his wife and children, who are his highest priority. He wants the loan for the purchase of inputs, manure, and fertilizers necessary for the assistance and maintenance of his bean crops in order to obtain a higher quality grain. He hopes that this investment will provide his family with a better quality of life and greater economic stability, and that he can continue to grow as a person and as a micro-entrepreneur. It is the third loan that he has received from FUDECOSUR. He has not had other loans in state banks before, but FUDECOSUR has provided him with the loan with greater facilities and a much lower interest rate.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It is structured so that farmers' repayment schedules align with their cash flows.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2131873.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CR",
+                        "name": "Costa Rica"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FUDECOSUR"
+            }
+        }
+    }
+}

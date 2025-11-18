@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2865553,
+                "name": "Ysidro Avelino",
+                "loanAmount": "1475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-10-16T11:11:46Z",
+                "disbursalDate": "2024-09-19T07:00:00Z",
+                "plannedExpirationDate": "2024-11-20T12:11:46Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy organic mulch and to pay workers to weed his coffee farm.",
+                "description": "Ysidro, age 58, lives with his wife and three children in the village of Urranche, San Ignacio. There he has worked for more than 20 years growing organic coffee that he sells through his agricultural cooperative.  <br /><br />Ysidro will use the loan to buy organic mulch and to pay workers to weed his coffee farm.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Job Creator",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports lucrative and sustainable livelihoods for organic farmers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2865553.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 72,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Norandino"
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2791259,
+                "name": "Jose Felix",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-06-09T11:11:22Z",
+                "disbursalDate": "2024-05-15T07:00:00Z",
+                "plannedExpirationDate": "2024-07-14T11:11:22Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulch, fertilizers, compost and other agricultural supplies.",
+                "description": "This is Félix, age 65, a charismatic and good-humored man. He lives with his family in the community of Echeandía in a little house made of wood and surrounded by trees. <br /><br />For ten years, Félix, has worked growing cacao and raising small animals. This work has permitted him to improve his living conditions. Also he has been able to improve his crops with new methods that have made his cacao be export quality. <br /><br />Félix dreams of acquiring more plots of land to expand his crops. For this reason, Félix wants to promote his agricultural activity and requests a loan to buy mulch, fertilizers, compost and other agricultural supplies that will help him to have optimal and prosperous production.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It aims to reach vulnerable refugee populations in an isolated region.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2791259.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 77,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Ecuador"
+            }
+        }
+    }
+}

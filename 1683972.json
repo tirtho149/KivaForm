@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1683972,
+                "name": "Engjellush",
+                "loanAmount": "2775.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-01-11T15:40:04Z",
+                "disbursalDate": "2018-12-12T08:00:00Z",
+                "plannedExpirationDate": "2019-02-10T15:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to rent land near his house to plant potatoes, to keep himself employed and provide for his family.",
+                "description": "Engjellush is a 26 years old man from the southeast Albania. He is a devoted husband and father of a little daughter. Engjellush is a very hard working man, during summer season he is engaged in different construction labours but unfortunately during the cold winter months in his city the construction activity is very low and this makes him feel useless. \" I don't just need to provide for my family but I need also to keep working because I can't stand without doing anything!\"- he said desperately during the interview.<br /><br />Engjellush is hoping on Kiva lenders support to rent some land near his house to plant potatoes, to keep himself employed with activity and to provide for his family.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports people in a country where financing options are scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1683972.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AL",
+                        "name": "Albania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 84,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Land Rental"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Agro & Social Fund"
+            }
+        }
+    }
+}

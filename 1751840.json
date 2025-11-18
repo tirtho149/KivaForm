@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1751840,
+                "name": "Teodoro Uvando",
+                "loanAmount": "1025.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-05-02T16:20:02Z",
+                "disbursalDate": "2019-03-26T07:00:00Z",
+                "plannedExpirationDate": "2019-06-01T16:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy pigs.",
+                "description": "Teodoro, 39, lives with his wife and 2 children in the town of Las Delicias in Santa Rosa, in Eastern Honduras.  He is known for being a very honest person.  To earn a living, he works raising pigs, and he also grows coffee and other crops and works as a merchant.  He has worked in these businesses for a number of years, and his experience enables him to generate a good income from these activities.  He currently has pigs, and has plots of land where he is growing the Parainema and Lempira varieties of coffee, corn and beans.  His crops are in good condition.  With these activities, Teodoro has always been able to get ahead.<br /><br />Teodoro is requesting a loan to buy pigs to fatten and raise.  His dream is to improve his financial situation.  In the photo, he is hulling his coffee beans.<br /><br />Trojes, El Paraíso. Honduras March 2019",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It has a below-market interest rate and is repaid at harvest, when farmers can more easily repay.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1751840.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HN",
+                        "name": "Honduras"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 33,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pigs"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Prisma Honduras"
+            }
+        }
+    }
+}

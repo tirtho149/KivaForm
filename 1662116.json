@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1662116,
+                "name": "Sayeba",
+                "loanAmount": "350.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-12-09T23:40:09Z",
+                "disbursalDate": "2018-11-23T08:00:00Z",
+                "plannedExpirationDate": "2019-01-08T23:40:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a dairy cow and fodder in order to expand her dairy business.",
+                "description": "Sayeba is a 42-year-old married woman residing in Murshidabad district, West Bengal. She is engaged in the dairy business. She sells the cow milk, cow dung, and milk products like curd, ghee, butter, etc. in and around the village. <br /><br />She has a household of three members and a monthly income of INR 8,500. She plans to expand her dairy business by purchasing a dairy cow, fodder etc. <br /><br />She has applied for a loan of INR 24,000 from BJS, one of Milaap's field partners. She and her family will be thankful to their lenders.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps women in financially underserved districts in India maintain and grow their businesses.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1662116.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "IN",
+                        "name": "India"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Dairy"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Milaap"
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1720724,
+                "name": "María Elena",
+                "loanAmount": "600.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-03-13T05:10:08Z",
+                "disbursalDate": "2019-02-28T08:00:00Z",
+                "plannedExpirationDate": "2019-04-12T05:10:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase more chickens, as well as feed and vaccines for their healthy development, in order to sell them.",
+                "description": "Maria is married.  Her husband is engaged in farming and raising chickens. <br /><br />Maria works at a food stall in the morning.  In the afternoon, she looks after chickens and sells them at the market. Her husband helps her raise the animals. <br /><br />Maria needs a loan in order to purchase more chickens, as well as feed and vaccines for their healthy development, in order to sell them.<br /><br />Maria dreams of increasing her batch of chickens, generating higher earnings and offering her family a higher quality of life.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers and fishermen, while teaching sustainable agricultural practices.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1720724.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Poultry"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

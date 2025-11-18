@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1187977,
+                "name": "Janet's Group",
+                "loanAmount": "950.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-11-23T03:10:04Z",
+                "disbursalDate": "2017-02-01T08:00:00Z",
+                "plannedExpirationDate": "2016-12-23T03:10:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a solar light, as well as cost-efficient hybrid seeds and fertilizer for maize cultivation.",
+                "description": "Janet is a 38-year-old proud mother of seven children. She is a group leader and is often described as a very friendly person. She is representing her group of 16 farmers in Sirisia District. Since joining One Acre Fund in 2014, Janet has noticed that she has been able to consistently feed her family.<br /><br />Janet described her harvest as poor due to bad weather conditions last year, but believes she can have a better one this year by continuing to work with One Acre Fund. She is very excited to be purchasing a solar light, in addition to fertilizer and maize, because she will now be able to have light during dark hours for her children to study by. With the profits from this season’s harvest, she plans to repair her home.<br /><br />With this loan, Janet’s Group will be able to plant a total of 9.5 acres of land and purchase a total of five solar lights.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 16,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1187977.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 38,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 911879,
+                "name": "Ghulam's Group",
+                "loanAmount": "4925.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2015-07-17T00:00:04Z",
+                "disbursalDate": "2015-06-03T07:00:00Z",
+                "plannedExpirationDate": "2015-08-16T00:00:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "To purchase agriculture inputs such as fertilizer, pesticide, seeds and fuel.",
+                "description": "Ghulam is a 45 years old man with 11 family members. He lives in a remote village in District Gujranwala, Pakistan. He is standing in this picture by raising his hand. He works in his fields to earn the family's living by cultivating rice, wheat and vegetables. \nHe is using modern agriculture techniques to increase his Income. He has done soil testing, water testing & laser leveling in his field to increase his agriculture yield. He is requesting a loan to purchase agriculture inputs such as  quality seeds, fertilizer & pesticides for rice crop.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/911879.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PK",
+                        "name": "Pakistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "JWS Pakistan"
+            }
+        }
+    }
+}

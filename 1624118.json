@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1624118,
+                "name": "Faith",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-10-13T18:50:05Z",
+                "disbursalDate": "2018-09-26T07:00:00Z",
+                "plannedExpirationDate": "2018-11-12T19:50:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase two bales of men's shirts and t-shirts to sell.",
+                "description": "Faith is 29 years old. She is married, with two children. She has had a second-hand clothes business for four years. She will be using the loan to purchase two bales of men's shirts and t-shirts to sell, and hopes this will help her provide food for her family with the proceeds. Her hopes and dreams for the future are to expand her business and open a boutique.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides financial services and education in deep rural areas.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1624118.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 16,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Used Clothing"
+                },
+                "sector": {
+                    "name": "Clothing"
+                },
+                "partnerName": "VisionFund Kenya"
+            }
+        }
+    }
+}

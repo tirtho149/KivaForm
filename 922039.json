@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 922039,
+                "name": "Noeun's Group",
+                "loanAmount": "1250.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-07-27T20:30:03Z",
+                "disbursalDate": "2015-06-26T07:00:00Z",
+                "plannedExpirationDate": "2015-08-26T20:30:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more groceries to resell and organic herbicide to protect her cassava crops.",
+                "description": "From the Cheung Prey district of Kampong Cham province, Noeun is 56 years old and a married mother of four children, one of whom is still in school. She is also the leader of this group of five that has applied for a 5,000,000 KHR loan through Kiva's field partner VisionFund Cambodia. This will be her first loan with the organization, and the loan will be apportioned among its members.\r\n<p>\r\nTo make a living Noeun has sold groceries for ages, and it is the main source of the family’s income. For additional income she and her husband grow cassava, and sometimes her husband drives a motorcycle taxi. \r\n<p>\r\nNoeun’s grocery store has become depleted, so her sales have gone down. She will use her portion of the loan to buy more groceries to resell and organic herbicide to protect her cassava crops. She hopes to earn more income to enhance the family’s living standards and support her child in their studies until graduation.\r\n",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/922039.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 1,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Grocery Store"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "VisionFund Cambodia"
+            }
+        }
+    }
+}

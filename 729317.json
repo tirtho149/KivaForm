@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 729317,
+                "name": "Jockus",
+                "loanAmount": "1175.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-06-28T21:00:02Z",
+                "disbursalDate": "2014-06-13T07:00:00Z",
+                "plannedExpirationDate": "2014-07-28T21:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy cosmetics to sell.",
+                "description": "Jockus is 23 years old and is married with one child. He lives in Kasese, Uganda. \r\n\r\nJockus operates a cosmetics shop and deals in baby clothes as well. He has been in the business for five years. He started the business to become rich and support his family. He intends to use the loan to buy cosmetics to sell. Being in a competitive market, he faces the challenges of inadequate capital for expansion and competition. Jockus dreams of wholesale trading in the future.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/729317.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 22,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cosmetics Sales"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "HOFOKAM"
+            }
+        }
+    }
+}

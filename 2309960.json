@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2309960,
+                "name": "Elmer",
+                "loanAmount": "1325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-01-22T15:40:07Z",
+                "disbursalDate": "2022-01-21T08:00:00Z",
+                "plannedExpirationDate": "2022-02-26T15:40:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizers, pay wages for weeding, and repair fences.",
+                "description": "Elmer, age 54, lives with his wife and one child in the village of El Diamante, Santa Rosa, Jaén. There he works growing Altura coffee, and raising cattle and small animals. <br /><br />Elmer will use the loan to buy fertilizers, pay wages for weeding, and repair fences.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Job Creator",
+                    "#Trees",
+                    "#Repair Renew Replace"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports lucrative and sustainable livelihoods for organic farmers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2309960.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 51,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Norandino"
+            }
+        }
+    }
+}

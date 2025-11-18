@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 798279,
+                "name": "Purevbat",
+                "loanAmount": "3000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-11-17T20:40:02Z",
+                "disbursalDate": "2014-11-03T08:00:00Z",
+                "plannedExpirationDate": "2015-01-01T20:40:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to renovate his apartment in order to preserve energy.",
+                "description": "Purevbat, 30 years old, lives with his parents in Ulaanbaatar, the capital city of Mongolia. He has been working as a manager at a construction company since 2012. His parents have retired from work and get state pensions. The apartment they live in has been deteriorating over the years, so he is requesting a loan of 3,000 USD to renovate it. He will buy building materials such as fiberglass, cement and planks. After the renovation, his aged parents will live in a comfortable and warm place where heat won't be lost easily. ",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/798279.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MN",
+                        "name": "Mongolia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 104,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Housing Expenses"
+                },
+                "sector": {
+                    "name": "Housing"
+                },
+                "partnerName": "Credit Mongol"
+            }
+        }
+    }
+}

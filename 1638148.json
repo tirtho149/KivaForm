@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1638148,
+                "name": "Alexis",
+                "loanAmount": "875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-11-05T17:30:04Z",
+                "disbursalDate": "2018-10-09T07:00:00Z",
+                "plannedExpirationDate": "2018-12-05T17:30:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to give the proper assistance to his crops.",
+                "description": "Alexis is 70 years old, married, and lives with his wife, who is his reason to go beyond himself. With this credit he will buy agricultural supplies and other products for his coffee crops, which he’ll apply to the plants in order to have a proper development and a good ripening.<br /><br />It will also give him a healthy crop with good foliage, so that the plants can resist the plagues and diseases that increase in the rainy season due to the humidity level in the environment. Besides that, he will pay for labor to apply the products and give maintenance to the crops once they’re ready, and in this way he will insure a good job.<br /><br />His intention is to take advantage of the good conditions that the weather and soil of the area have to offer to this type of plantation, and also put into practice the experience that he’s had over the years with this crop. He wants to buy the best products for his plants so that they can have a good and healthy development, and in that way have a big production in the short run.<br /><br />He wants to invest the profits from his harvest in the wellbeing of his family and fulfill some of the family goals, and also continue investing in his crops. <br /><br />This is the first loan he receives from FUDECOSUR. He had never had another loan with state banks, but FUDECOSUR gave him the loan with payment facilities and a much lower interest rate.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It reaches rural borrowers that are considered too risky for traditional banks.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1638148.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CR",
+                        "name": "Costa Rica"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 34,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FUDECOSUR"
+            }
+        }
+    }
+}

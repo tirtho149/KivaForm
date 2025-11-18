@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2861422,
+                "name": "Ronalda",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-11-01T19:04:03Z",
+                "disbursalDate": "2024-09-21T07:00:00Z",
+                "plannedExpirationDate": "2024-12-06T20:04:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to finance his mobile money transfer business by adding to his working capital float on mobile lines to assist more customers.",
+                "description": "Ronalda is in Rwentamo and is married with no child yet. He runs a mobile money depot hand in hand with his farm to improve his cash inflows. <br /><br />Ronalda is overwhelmed by customer demand for more loans and is low on float. He is seeking a loan to add float on mobile lines so he can work to meet his customers' needs and fetch a better income.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides financing to underserved borrowers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2861422.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Mobile Transactions"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

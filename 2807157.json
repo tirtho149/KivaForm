@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2807157,
+                "name": "Octavio Oscar",
+                "loanAmount": "1325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-07-07T17:51:51Z",
+                "disbursalDate": "2024-06-28T07:00:00Z",
+                "plannedExpirationDate": "2024-08-11T17:51:51Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy compost and pay day labor for the coffee harvest.",
+                "description": "Octavio, age 55, is single.  He lives in the town of Huabo, San Ignacio, Cajamarca.  This is where he has cultivated coffee for more than 20 years, which he sells through his Producers' Organization.  <br /><br />Octavio will use the loan to buy compost and pay day labor for the coffee harvest.",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Single",
+                    "#Job Creator",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports lucrative and sustainable livelihoods for organic farmers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2807157.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 83,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Norandino"
+            }
+        }
+    }
+}

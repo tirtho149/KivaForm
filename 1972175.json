@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1972175,
+                "name": "Mayramkul",
+                "loanAmount": "1475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-06-20T06:00:12Z",
+                "disbursalDate": "2020-06-10T07:00:00Z",
+                "plannedExpirationDate": "2020-08-04T06:00:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy livestock to increase her income from livestock breeding.",
+                "description": "Mayramkul is 33 years old, married, and has 4 children. She has a secondary education. She is kind and responsive person. As the main income for her family, she has been raising livestock and farming for 12 years. Thanks to her hard work, on her farm today there are 14 cows, a horse, and a land share of 2.56 hectares in which she grows beans. In order to further develop her business, she applied to Bai Tushum Bank for a loan of 110,000 KGS to purchase livestock in order to increase her income from raising livestock. She plans to invest income from the loan in expanding the farm.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The borrower receives a lower interest rate to fund their agriculture activities.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1972175.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 49,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

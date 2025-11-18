@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2717941,
+                "name": "Patrick",
+                "loanAmount": "3950.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-01-26T17:20:33Z",
+                "disbursalDate": "2024-01-19T08:00:00Z",
+                "plannedExpirationDate": "2024-03-01T17:20:33Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulch and manure to boost crop production.",
+                "description": "Patrick is a repeat borrower and a resident of Kikumbya, Kibale district, and married with 4 children who attend school. Patrick is a commercial farmer growing maize and bananas. These are high on demand given they are consumed highly countrywide. This keeps growing demand for them, hence the desire to sell them in bulk and good quality. <br /><br />He is seeking a loan to buy mulch and manure to improve the soil so he can grow healthy maize and bananas to sell to improve his cash inflow.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2717941.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 70,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

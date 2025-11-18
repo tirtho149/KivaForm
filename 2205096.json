@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2205096,
+                "name": "Jose Martin",
+                "loanAmount": "325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-07-12T12:00:10Z",
+                "disbursalDate": "2021-07-30T07:00:00Z",
+                "plannedExpirationDate": "2021-08-11T12:00:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to improve the feeding of his trees.",
+                "description": "Jose is a small-holder coffee grower in the north of Nicaragua. For more than ten years, he has worked growing coffee as his principal source of income. He runs his farm of 0.53 productive hectares, under the criteria for FLO [fair trade] certification. He lives on his farm with his wife and five children. <br />\t\t\t\t\t\t\t\t\t\t\t<br />He is requesting a loan to buy agricultural supplies that will help to improve the nutrition of his coffee trees. His principal challenges have been diseases that face his trees, but he is certain that, with timely application of inputs and putting into practice the recommendation of the technical team that supports him, he will get ahead and have a better harvest this season. He will use the funds to buy inputs such as calcium, zinc, boron, and others.  <br />\t\t\t\t\t\t\t\t\t\t\t<br />This is his first loan from PAC.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It allows farmers to plant trees needed to shade coffee plants.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2205096.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "PAC"
+            }
+        }
+    }
+}

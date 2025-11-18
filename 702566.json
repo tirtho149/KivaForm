@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 702566,
+                "name": "Gayatri Shg Group",
+                "loanAmount": "2825.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-05-27T18:10:05Z",
+                "disbursalDate": "2014-04-05T07:00:00Z",
+                "plannedExpirationDate": "2014-06-26T18:10:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "To purchase tomatoes, onions, green peppers, potatoes and other vegetables to sell.",
+                "description": "The \"Gayatri SHG\" Self Help Group consists of 11 members from a small village in Bargarh district, Odisha, India. All the members of this group are female. They are engaged in different business activities for the elimination of poverty. Three of the women have very low incomes, but this helps them want to struggle harder to get ahead. \n\nOne person who deserves to be highlighted is Renuka. In the picture, she is the lady sitted with her hand raised. She sells vegetables. Through her job, she works to support her family and improve her business and continue growing. She is a very determined person. She is seeking part of this group loan in order to invest in the purchase of vegetables like tomatoes, onions, green peppers, potatoes and other vegetables so that she can continue with her sales. The group is very grateful for this opportunity for growth that it is receiving.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Inspiring Story",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 11,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/702566.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "IN",
+                        "name": "India"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 111,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "People's Forum"
+            }
+        }
+    }
+}

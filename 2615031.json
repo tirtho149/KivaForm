@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2615031,
+                "name": "Elvis Augusto",
+                "loanAmount": "3000.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2023-07-24T18:10:15Z",
+                "disbursalDate": "2023-07-27T07:00:00Z",
+                "plannedExpirationDate": "2023-08-28T18:10:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy calves to raise for his grass-fed cattle business.",
+                "description": "Meet Elvis Augusto!<br /><br />He is a firm believer in raising cattle in an environmentally-friendly manner, which he has done responsibly.  Elvis Augusto has dedicated his entire life to agriculture, which has enabled him to provide for his family.  He buys young calves, raises them, and feeds them grass until they are ready for market.  <br /><br />Today, Elvis Augusto is applying for his first Kiva loan to buy calves to raise for his grass-fed cattle enterprise.  This will help him create economic opportunities and food security in rural Panama.  <br /><br />The area of Palmas Bellas, where Elvis Augusto is from, has been historically excluded from financial services, so farmers like him often struggle to access working capital for their micro-enterprises.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps unbanked communities in rural areas gain access to financial services.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2615031.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PA",
+                        "name": "Panama"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 92,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cattle"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Global Brigades Inc."
+            }
+        }
+    }
+}

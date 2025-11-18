@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1368713,
+                "name": "Poreh's Lady Farmer Group",
+                "loanAmount": "3625.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-09-09T05:00:07Z",
+                "disbursalDate": "2017-11-01T07:00:00Z",
+                "plannedExpirationDate": "2017-10-09T05:00:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for improved seed, organic inputs and tractor rental which will allow her to escape subsistence by farming a larger area with a higher yield.",
+                "description": "Poreh M (1st from the right) is a dedicated mother, wife and grandmother. She is a farming legend in Morimaraia Village, having achieved exceptional yields while doing her best to encourage other women to farm. In her words \"Farming is better than trading or moving to the city. Farming teaches us to take care of each other and take care of our land.\" <br /><br />Poreh has organized a special group of \"Lady Farmers\" who are extremely hard working but lost their farms during Sierra Leone's recent Ebola crisis. Quarantines and increased costs devastated these women's livelihoods and all members are currently trapped in a cycle of subsistence and forced to take extremely high-interest loans for poor quality inputs during planting time. A low interest Kiva loan will enable this group of determined women to get back on their feet and back in business.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 16,
+                "whySpecial": "It enables farmers to access farm inputs to improve their yield for increased income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1368713.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SL",
+                        "name": "Sierra Leone"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 116,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Mountain Lion Agriculture"
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 833598,
+                "name": "Dieuseul",
+                "loanAmount": "2500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-01-29T13:50:03Z",
+                "disbursalDate": "2015-03-05T08:00:00Z",
+                "plannedExpirationDate": "2015-02-28T13:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "To purchase 25 flowering plants to resell for indoor gardening, funerals, and weddings.",
+                "description": "Dieuseul has embraced the need for environmental protection since he was a child, growing up in a family where this type of business is done. He has started growing his own species of flowers in his mother's backyard. \r\n\r\nToday he has a company named Haiti Plantation. It is one of the rare enterprises in Haiti that takes a leading role in helping Haiti reduce the impact of climate change. The business has prioritized the protection of the Haitian environment by promoting local greenhouse production. For 15 years the business has been taking care of the three principal forces that govern this sector, which are cost of production, quality and cost of transportation. \r\n\r\nYour contribution will help Dieuseul buy more flowers and make more profits.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Unique"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/833598.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HT",
+                        "name": "Haiti"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 81,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Flowers"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Fonkoze - Zafèn"
+            }
+        }
+    }
+}

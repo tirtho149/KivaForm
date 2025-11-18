@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1470120,
+                "name": "Binta",
+                "loanAmount": "5000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-03-03T22:26:09Z",
+                "disbursalDate": "2018-03-23T19:16:10Z",
+                "plannedExpirationDate": "2018-04-07T02:30:22Z",
+                "distributionModel": "direct",
+                "use": ".",
+                "description": "I grew up loving Shaker furniture and dreaming of a Black led workshop; this dream is coming true in Oakland.\r\nAs an artist based in the Bay most of my life, I experience the potential creativity and skill in Oakland, and Guild is a bridge to reactivate access to craft and start to finish processes for youth and adults in our community with the making on display for the community.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Job Creator",
+                    "#Trees",
+                    "#US Black-Owned Business",
+                    "#BIPOC-owned Business",
+                    "#Umpqua"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It will help a female entrepreneur purchase materials and hire apprentices.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1470120.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 73,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Furniture Making"
+                },
+                "sector": {
+                    "name": "Manufacturing"
+                },
+                "trusteeName": "Brian McKeown, Inc"
+            }
+        }
+    }
+}

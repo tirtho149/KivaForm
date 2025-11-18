@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2590799,
+                "name": "Mary",
+                "loanAmount": "450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-06-01T13:10:11Z",
+                "disbursalDate": "2023-05-29T07:00:00Z",
+                "plannedExpirationDate": "2023-07-06T13:10:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase vital farm inputs, including improved cane varieties, fertilizers, and irrigation equipment.",
+                "description": "Mary, a resilient and hardworking smallholder farmer from the picturesque village of Kenyenya, is truly deserving of a loan. With her unwavering dedication and a few years of valuable farming experience, she has proven herself as a capable and successful agriculturalist.<br /><br />As a married woman, Mary's dream of transforming her small plot of land into a thriving cane farm has been a joint endeavor with her supportive spouse. Together, they have nurtured their land, overcoming various challenges to establish a flourishing farm that sustains their family and contributes to the local economy.<br /><br />Mary's loan request aims to purchase vital farm inputs, including improved cane varieties, fertilizers, and irrigation equipment. By investing in these essential resources, Mary seeks to enhance her cane farming operations, boosting both the quality and quantity of her yields. With the loan, she envisions expanding her farming activities and creating more job opportunities for the local community.<br /><br />Mary's determination, combined with her knowledge of cane farming, makes her an ideal candidate for financial support. Her vision for growth, commitment to sustainability, and ability to generate economic benefits for her community make her deserving of this loan. With the necessary resources, Mary will undoubtedly unlock the full potential of her farm and continue to positively impact the lives of those around her.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals, farm inputs and farming equipment.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2590799.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

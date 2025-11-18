@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1553652,
+                "name": "Nelly Cristina",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-06-27T19:10:03Z",
+                "disbursalDate": "2018-05-30T07:00:00Z",
+                "plannedExpirationDate": "2018-07-27T19:10:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy corn for producing and selling tortillas, as well as acquire compost for her husband's cornfield.",
+                "description": "Nelly is 67 years old and studied through the fifth grade.  She is married and her husband is a farmer.  They have four children who live apart from them.  <br /><br />Nelly has been managing a business of selling tortillas for 10 years.  Her business is located at her house and she works from 5:00 A.M. to 12:00 P.M.  She will use this loan to buy corn for producing and selling tortillas.  Nelly will also acquire compost for her husband’s cornfield.  <br /><br />Her dream is to maintain her business and generate more income.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps people older than 60 who still have the capacity to work but no financing.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1553652.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 16,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Production/Sales"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

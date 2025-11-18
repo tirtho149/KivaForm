@@ -1,0 +1,57 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2636685,
+                "name": "Victor Daniel",
+                "loanAmount": "19375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-09-05T00:30:15Z",
+                "disbursalDate": "2023-08-17T07:00:00Z",
+                "plannedExpirationDate": "2023-10-10T00:30:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "To purchase materials to create hives, honey bees, food, and medicine to cure the bees.",
+                "description": "For Víctor, making a living from beekeeping was not in his plans. He ventured into this sector due to his father-in-law, who has dedicated his entire life to beekeeping in Jamay, Jalisco.<br /><br />Víctor says that raising and caring for bees fills his family with pride. Beekeeping not only provides a livelihood for them and their community but also, thanks to the bees, contributes to the pollination of other plants and crops associated with berries (one of the main crops in Jamay), thus enriching the biodiversity of the area and its surroundings.<br /><br />Fostering this vital sector in his town makes Víctor very proud since it is a very noble and hard-working community. So, by generating jobs,  he pays back to the city that saw him grow, thus helping its economy. Víctor's dream is to help turn Jamay into one of the central honey-producing municipalities in Jalisco.<br /><br />Víctor requires 330,000.00 MXN to purchase more material to create hives, honey bees, food, and medicine to cure the bees and prevent them from becoming infected in their next production.",
+                "tags": [
+                    "volunteer_pick",
+                    "volunteer_like",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Job Creator",
+                    "#Biz Durable Asset",
+                    "#Repair Renew Replace"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It allows SMEs excluded for the financial sector to access loans for working capital and investment purposes.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2636685.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MX",
+                        "name": "Mexico"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 460,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beekeeping"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Procredito Mexico"
+            }
+        }
+    }
+}

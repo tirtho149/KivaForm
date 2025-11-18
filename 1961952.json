@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1961952,
+                "name": "Elaine",
+                "loanAmount": "15000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-04-28T19:34:05Z",
+                "disbursalDate": "2020-05-15T21:53:02Z",
+                "plannedExpirationDate": "2020-06-14T22:09:05Z",
+                "distributionModel": "direct",
+                "use": "cover my operational expenses during the COVID-19 pandemic.",
+                "description": "Growing up, I made my own clothes. I went to Singer sewing (boot)camp. It was brutal, every stitch had to be perfect. I rebelled and wore nothing but jeans for 2 years. I left the east coast for California, and was fortunate to receive Art scholarships to attend CCA(C), graduating in fine arts, with an emphasis in Textiles as art. I paid for my living expenses by sewing. My first job out of school was surface design at Esprit, followed by assisting 2 Bay area fashion designers; one of hand painted fabrics, the other with architectural silhouettes. I was a costume designer for Bay Area dance companies including Project Bandaloop, Epiphany. All this was followed by an extensive career leading Technical Design teams at GapInc. and Levis, both in San Francisco and NY. I longed to connect back to my creative roots and to open a retail boutique showcasing Local artisan and maker's handcrafted goods. While working on my business plan, I became a member of the 25th Street Collective in Oakland, to be engaged in the Arts in Oakland. At the collective, which hosted a handful of talented designers, I was inspired to develop a line of tunics; timeless silhouettes made of natural fibers. After opening Kosa Arts in Uptown Oakland, I decided to include my pieces to the collection of work at Kosa Arts. The Kosa Brand clothing line has been very successful. The Kiva loan will help me to cover our operating costs of the shop during the COVID-19 crisis.  In the future, I look forward to creating an incubator program; matching seasoned designers with students, with the intent to bridge the span from school to the industry.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Fabrics",
+                    "#Technology",
+                    "#Umpqua"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1961952.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 306,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Retail"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "trusteeName": "Centro Business Planning App"
+            }
+        }
+    }
+}

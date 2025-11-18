@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1245835,
+                "name": "Artur",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-03-02T15:30:02Z",
+                "disbursalDate": "2017-02-23T08:00:00Z",
+                "plannedExpirationDate": "2017-04-01T14:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a new assortment of products for his market and also to buy new types of canned goods and candies as well.",
+                "description": "Artur is 40 years old and he lives in Kapan city, Syunik region. Artur is divorced and he has three sons. His elder son lives with him now. Artur is a beekeeper with over 100 bee families and learned skills for their care from his father. He has great honey production and also a lot of regular customers for it. <br /><br />Artur has a small market where he sells a great assortment of food and candy, products that have daily high demand. His market is clean and attractive, and he stocks everything neatly. A great assortment of products always attracts more and more customers to his market. <br /><br />Artur needs this loan as he has decided to buy a new assortment of products for his market and also to buy new types of canned goods and candies as well.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports the well being of low-income families.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1245835.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 51,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Grocery Store"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Nor Horizon"
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1645348,
+                "name": "Sameth Group",
+                "loanAmount": "875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-11-16T22:20:02Z",
+                "disbursalDate": "2018-10-18T07:00:00Z",
+                "plannedExpirationDate": "2018-12-16T22:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for additional organic fertilizer for her rice farm.",
+                "description": "Sameth, 36, is the mother of three children and lives in Prey Veng province of Cambodia. Sameth has involved in her rice farm for the past eighteen years. Her is a construction worker. She and her husband are able to earn around 14 USD daily to pay for her family’s living expenses and her children’s studies. <br /><br />Sameth, who appears on the right side, has approached KREDIT a group loan. She will use her portion to buy additional organic fertilizer for her rice farm. She hopes this purchase will enable her to boost her rice output and improve her family’s quality of life in the future.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 2,
+                "whySpecial": "It provides low-income rural communities with access to finance and training services.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1645348.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Phillip Bank"
+            }
+        }
+    }
+}

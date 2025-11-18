@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2338382,
+                "name": "Alfonso",
+                "loanAmount": "1025.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-03-18T13:50:09Z",
+                "disbursalDate": "2022-02-16T08:00:00Z",
+                "plannedExpirationDate": "2022-04-22T13:50:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fodder for his animals.",
+                "description": "Alfonso gets up before sunrise to begin his work day. He is a 45-year-old father devoted to giving his children more educational opportunities than he had.<br /><br />He and his wife have been raising cattle for more than 20 years, producing milk and other dairy products in harmony with the earth, which provides all the inputs necessary for quality products.<br /><br />He has come to Sembrar Sartawi IFD for technical and financial support. He is determined to reach his dreams, which will be possible with this capital for the purchase of fodder for his cattle.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers smooth their income and protect against the effects of climate change.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2338382.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 28,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Sembrar Sartawi"
+            }
+        }
+    }
+}

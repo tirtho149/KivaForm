@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1679499,
+                "name": "Joseph's Group",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-01-02T19:50:04Z",
+                "disbursalDate": "2019-02-15T08:00:00Z",
+                "plannedExpirationDate": "2019-02-01T19:50:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer to improve the maize harvests.",
+                "description": "Joseph is 73 years old and, as group leader, he is representing 11 farmers in Webuye District. He is looking forward to be working with One Acre Fund for the first time this year, as this means he will have access to quality training and acquire new farming methods. <br /><br />Joseph has been a farmer for more than 20 years and is often described as a very experienced one. He decided to represent his group because he likes being a leader. With the profits he earns from this coming season, Joseph would like to save some money for the future.<br /><br />Between the 11 farmers in Joseph’s Group, a total of 7 acres will be planted using the inputs from this loan.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 11,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1679499.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 26,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

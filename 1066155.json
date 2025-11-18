@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1066155,
+                "name": "Maurine",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-05-10T15:40:03Z",
+                "disbursalDate": "2016-05-06T07:00:00Z",
+                "plannedExpirationDate": "2016-06-09T15:40:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seeds and start horticulture farming.",
+                "description": "Maurine is 25 years old and is a happy woman. She lives in the Kaplong, Litein area of Kenya. Her family is the greatest thing in her life and something that makes her feel accomplished in life. <br /><br />Although she has only farmed for the past five years, she is working hard and learning good farming practices. Although she has faced many obstacles, that has not been a setback because Maurine has been making great profits in farming. <br /><br />Kaplong is one of the places that has favorable conditions that favor horticulture farming, that is good climate, soil, transport system and market. <br /><br />Maurine has always wanted to diversify and start horticulture farming, but the biggest challenge she has been facing is a lack of funds to start the business off the ground. <br /><br />She is requesting a loan to buy seeds and start horticulture farming. Through Juhudi Kilimo, she will be able to secure a loan. <br /><br />With your loan, she intends to buy good quality vegetable seeds, flowers and potatoes. This loan will improve her living conditions and secure the future of her children.<br /><br />You can help Maurine to accomplish all these dreams with a loan, so do it now and get her closer to her goals.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens and farming equipment.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1066155.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 16,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

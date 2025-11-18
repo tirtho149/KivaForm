@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 827643,
+                "name": "Cristina",
+                "loanAmount": "950.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-01-14T22:40:01Z",
+                "disbursalDate": "2014-12-15T08:00:00Z",
+                "plannedExpirationDate": "2015-02-13T22:40:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy vegetables, meat, canned food and other items.",
+                "description": "Cristina tells us that this is her third loan with Kiva. The previous ones have been very beneficial as she was able to use them to improve her business which has been growing little by little. Cristina is very hardworking and wants to continue to expand her business, which is why she is putting in so much effort.\r\n\r\nCristina is applying for another loan to buy various supplies for her store such as vegetables, meat, canned food and other items so that she can continue making sales. She is grateful for this new opportunity which will be of great help to her.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/827643.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PY",
+                        "name": "Paraguay"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 32,
+                    "values": []
+                },
+                "activity": {
+                    "name": "General Store"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Fundación Paraguaya"
+            }
+        }
+    }
+}

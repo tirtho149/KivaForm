@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1168320,
+                "name": "Nilo Félix",
+                "loanAmount": "1325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-10-16T12:00:03Z",
+                "disbursalDate": "2016-09-21T07:00:00Z",
+                "plannedExpirationDate": "2016-11-15T13:00:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to fertilize and weed 2 hectares of organic coffee.",
+                "description": "Nilo lives in the village of José Olayo with his wife and three children who are minors. At 47 years old, Nilo works offering coffee harvesting and drying services, being supported by his wife, Fanny, who also does agricultural work. To make his plot yield more, Nilo needs to continue fertilizing and cultivating more coffee plants in the village of José Olaya, San José de Lourdes, Peru, and he hopes one day with his earnings to purchase an urban plot where he can build a house of durable materials and give his children an adequate education, who he wants to become professionals. <br /><br />The loan will allow Nilo to have the opportunity to continue expanding the area of coffee in the village of José Olayo, generating, in addition, one job, the basis to plan the growth of his family and one day to have his own house.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Job Creator",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports lucrative and sustainable livelihoods for organic farmers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1168320.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 53,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Norandino"
+            }
+        }
+    }
+}

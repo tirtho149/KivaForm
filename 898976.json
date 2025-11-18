@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 898976,
+                "name": "Ibrahim Mati",
+                "loanAmount": "225.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-06-12T12:10:04Z",
+                "disbursalDate": "2015-06-15T07:00:00Z",
+                "plannedExpirationDate": "2015-07-12T12:10:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "To purchase improved farm inputs that will increase his maize yields.",
+                "description": "Ibrahim Mati is a Babban Gona maize farmer from Gayya Village. Ibrahim Mati joined Babban Gona to create a better life for his children.  In the past, Ibrahim Mati suffered from poor yields that crippled his ability to provide healthcare for his family and children. Now that he has joined Babban Gona, Ibrahim Mati has the chance to attain yields of up to 30 bags of maize/hectare, double the national average in Nigeria and earn an income of up to $2,000/hectare. \r\n\r\nThrough Babban Gona’s input loan, he will have access to high-quality farm inputs such as fertilizers, herbicides, and improved seeds that will increase his yields and income considerably. With ambitious goals of harvesting 40 bags of maize this year, Ibrahim Mati can now ensure that his children get a post secondary school education.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/898976.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NG",
+                        "name": "Nigeria"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Babban Gona Farmers Organization"
+            }
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1589862,
+                "name": "Nicolas",
+                "loanAmount": "925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-08-23T00:10:05Z",
+                "disbursalDate": "2018-08-16T07:00:00Z",
+                "plannedExpirationDate": "2018-09-22T00:10:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to invest in the purchase of manure and fertilizers for his coffee farm, and to pay workers.",
+                "description": "Nicolas is 54 years old and in a common law marriage.  He lives with his wife in the district of Santo Tomás, in the province of Cutervo, in the department of Cajamarca, in Perú.  He has very good references, both personal as well as professional, from the residents of the area.  Those who live there work primarily in agriculture, business and cattle raising.<br /><br />Nicolas works in agriculture, growing Catimor variety coffee.  He has over 12 years' experience in this field.  He seeks a loan to invest in the purchase of manure and fertilizers, and to pay workers.<br /><br />Nicolas is an exclusive member of Edpyme Alternativa.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Repeat Borrower",
+                    "#Job Creator",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It reaches the underserved.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1589862.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 32,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Edpyme Alternativa"
+            }
+        }
+    }
+}

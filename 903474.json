@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 903474,
+                "name": "Santos Amado",
+                "loanAmount": "925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-06-29T19:00:09Z",
+                "disbursalDate": "2015-06-09T07:00:00Z",
+                "plannedExpirationDate": "2015-07-29T19:00:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase inputs and fertilizers to apply to his coffee for a good harvest.",
+                "description": "Santos is a coffee farmer who lives with his wife and 3 children in a rural community in northern Nicaragua. His farm is managed under the criteria of fair trade certification, UTZ and C.A.F.E. Practices, which demonstrates the compliance of productive, social and environmental standards in his farm, and has resulted in improved returns in recent years. \r\n\r\nSantos says that coffee is a profitable field. He and his family live mainly on the income from coffee, and his main challenge is coping with pests and diseases that affect the coffee. \r\n\r\nTo guarantee proper management of his coffee farm this year, he is requesting a loan to purchase inputs and fertilizers that ensure that conditions are acceptable for a good harvest. His dedication and discipline will allow him to ensure the implementation of all activities required for his coffee farm and to continue increasing his profits for his family's wellbeing. ",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/903474.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 35,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "PAC"
+            }
+        }
+    }
+}

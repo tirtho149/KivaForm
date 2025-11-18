@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 646610,
+                "name": "Xuan's Group",
+                "loanAmount": "1650.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-01-07T08:50:01Z",
+                "disbursalDate": "2013-11-20T08:00:00Z",
+                "plannedExpirationDate": "2014-02-06T08:50:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to restock her grocery store.",
+                "description": "Xuan was born in 1961 in Dong Anh, Hanoi. She and her husband own a small grocery store, which generates a monthly income of 7,000,000 VND.  Now, she is facing the problem of capital shortage to maintain her family business. Thus, she would love to borrow 6,758,000 VND to restock her grocery store. This is the second time Xuan has participated in the SEDA program. The revenue collected from the shop will be spent on improving her family's living conditions. \n\nXuan is the leader of a group of 5 members. Similar to Xuan, the other members also want to borrow money to invest in their family businesses. \n\nHue is a 51-year-old farmer. She would love to borrow 5,014,000 VND to invest in her small vegetable selling business. \n\nNhan is a 45-year-old business woman. She would love to borrow 8,938,000 VND for her vegetable shop.\n\nThom is 31 years old. She is a fishmonger. For the purpose of expanding her business, she would love to borrow 7,630,000 VND.\n\nMai is 37 years old. She is currently a worker. However, she would like to borrow 6,322,000 VND to raise chickens and provide more income for her family.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Unique"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/646610.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "VN",
+                        "name": "Vietnam"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 57,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Grocery Store"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "SEDA"
+            }
+        }
+    }
+}

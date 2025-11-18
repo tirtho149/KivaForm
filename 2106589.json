@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2106589,
+                "name": "Maly",
+                "loanAmount": "750.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-02-15T19:50:03Z",
+                "disbursalDate": "2021-02-03T08:00:00Z",
+                "plannedExpirationDate": "2021-03-17T18:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "for purchasing the fertilizers, soils, cashew seeds to plant when the next season comes.",
+                "description": "Maly is 29 years old who lives with her family in her own house at Kampong Cham Province of Cambodia. She is a cashew farmer in the community and earns money per day to expend on her family needed. <br /><br />She is hard working and is determined to have a successful life. However, this past year she has faced problems because of agriculture of economic difficulties during Covid-19 crisis, which has decreased her low income. She would like to request a loan to purchase fertilizers, soils, cashew seeds to plant when the next season comes.<br /><br />Finally she hopes all lenders give her supporting to reach the next step levels, could make her giant the profits.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps borrowers withstand negative economic impacts of the COVID-19 pandemic.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2106589.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 28,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Phillip Bank"
+            }
+        }
+    }
+}

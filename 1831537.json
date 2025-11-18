@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1831537,
+                "name": "Agness",
+                "loanAmount": "1050.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-09-09T14:50:07Z",
+                "disbursalDate": "2019-08-15T07:00:00Z",
+                "plannedExpirationDate": "2019-10-09T14:50:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay school fees for  her three children in secondary school and two at the university.",
+                "description": "Here is Agness, who is a primary school teacher and the mother of nine children, all in school. She lives in Bwera, Uganda, where she does crop farming of beans, cassava, and bananas to ensure her home is well off. She decided to be a teacher so that she could get a resting time during holidays and do other developments  after transferring knowledge to the young generation. Though she is faced with challenges of low pay at school and droughts that lead to low yields, she is determined to be rich in future.<br /><br />Agness has requested a Kiva loan to pay school fees for  her three children in secondary school and two at the university.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It targets extremely rural populations.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1831537.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 30,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Higher education costs"
+                },
+                "sector": {
+                    "name": "Education"
+                },
+                "partnerName": "HOFOKAM"
+            }
+        }
+    }
+}

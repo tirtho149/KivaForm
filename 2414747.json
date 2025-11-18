@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2414747,
+                "name": "Polly",
+                "loanAmount": "760.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-08-18T17:40:32Z",
+                "disbursalDate": "2022-07-18T07:00:00Z",
+                "plannedExpirationDate": "2022-09-22T17:40:32Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulch for his banana farm.",
+                "description": "Polly, 45, is a father of five, a farmer, and a resident of Bwongyera, Ntungamo. He would like to add mulch to his banana farm to increase yields and generate income to sustain his family and seeks a loan for that purpose.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2414747.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 27,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 715226,
+                "name": "Sergio",
+                "loanAmount": "3900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-05-23T19:20:03Z",
+                "disbursalDate": "2014-05-23T07:00:00Z",
+                "plannedExpirationDate": "2014-06-22T19:20:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy 6 head of cattle to develop a sustainable farming ecosystem.",
+                "description": "Sergio is a 28-year-old farmer, who lives in a rural community in one of the poorest states of Mexico. Sergio will use this loan to buy 6 head of cattle for expanding and replacing his livestock.\n\nHe will develop a more sustainable cattle-raising method through a silvopasture system for breeding and fattening steers. His goal is to save money, increase his production and sell cattle to other farmers in the area, fostering economic activity in the community.\n\nSergio has been working with an NGO to obtain the technical expertise and has built the necessary infrastructure to develop the silvopasture system. This project will improve the living conditions of his family and will contribute to the conservation of a high environmental value area.\n",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Low-profit FP"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/715226.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MX",
+                        "name": "Mexico"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 134,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cattle"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "El Buen Socio"
+            }
+        }
+    }
+}

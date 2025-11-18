@@ -1,0 +1,57 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1782856,
+                "name": "Mujeres Emprendedoras Group",
+                "loanAmount": "2800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-06-22T02:10:02Z",
+                "disbursalDate": "2019-06-05T07:00:00Z",
+                "plannedExpirationDate": "2019-07-22T02:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "Matilde buy fertilizer and insecticide in order to have a bountiful crop.",
+                "description": "Although she has no formal education, 51 year old Matilde, the President of the Friendship Bridge Trust Bank “Mujeres Emprendedoras”, is determined to be a successful farmer. She works alongside her husband and understands that wintertime is the correct time to plant because that is when the rains arrive. Her short term goal is to buy organic fertilizer and insecticide at a wholesale level. And in the longer run, Matilde would like to have her own water well so that she can plant and harvest the entire year. <br /><br />Matilde's 4 children (15-27) were able to attend school but most of the 6 other Maya Kaqchikel women in her Trust Bank have little or no formal education. Their monthly educational training is important and empowering for them. Learning about effective business practices like planning, budgeting, investing and savings helps them with their flower, vegetable and textile businesses, as well as their convenience stores. The ladies learn to care for their families more effectively (health, hygiene, nutrition) and themselves (women’s bodies/family planning, self esteem). The combination of loans, education and healthcare services is called “Microcredit Plus”.<br /><br />Matilde and her friends would really be happy to receive their 1st KIVA loan. They are poised to step into a brighter future, benefiting themselves, their families and their community in the department/state of Solola, Guatemala!",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Parent",
+                    "#Fabrics"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 7,
+                "whySpecial": "Clients receive in-depth trainings on business, health, over-indebtedness, and self-esteem.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1782856.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GT",
+                        "name": "Guatemala"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 94,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Flowers"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Friendship Bridge"
+            }
+        }
+    }
+}

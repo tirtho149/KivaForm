@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2539471,
+                "name": "Chepchirchir",
+                "loanAmount": "725.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-03-16T08:40:19Z",
+                "disbursalDate": "2023-03-08T08:00:00Z",
+                "plannedExpirationDate": "2023-04-20T08:40:19Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a bio-digester to turn farm waste into renewable resources.",
+                "description": "Chepchirchir was bothered by the rate at which her kitchen was getting black from smoke soothe. “If the wall can get this dark in a few months, how much darker are my lungs from a lifetime of inhaling firewood smoke?”- Chepchirchir  pointed out.<br /><br />Just like her neighbors, her family had to spend a lot of time fetching the limited firewood on their farm, a move that would later be dangerous for families, especially for women and children who spend long hours in the kitchen cooking for their families.<br /><br />As a wife and a mother, she decided to confront the problem by purchasing a Sistema.bio digester. She wants to enjoy a healthy cooking experience and she also  wants to begin a journey building generations of sustainable communities in Bomet. She wants that her children never have to cook with smoke again. With the digester, Chepchirchir will transform 3 cows manure into energy.<br /><br />This loan represents 100% of the full price of the bio-digester.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Health and Sanitation",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It saves farmers money by transforming waste into biogas and organic fertilizer.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2539471.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 29,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Appliances"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Sistema.bio"
+            }
+        }
+    }
+}

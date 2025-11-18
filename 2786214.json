@@ -1,0 +1,49 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2786214,
+                "name": "Veronicah",
+                "loanAmount": "175.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-05-29T02:20:12Z",
+                "disbursalDate": "2024-05-23T07:00:00Z",
+                "plannedExpirationDate": "2024-07-03T02:20:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase modern farm inputs such as certified seeds and organic fertilizers in order to improve the quality of her output.",
+                "description": "In Matuu, Veronicah, a dedicated married smallholder farmer, tends to her land with passion and diligence. Despite the challenges of balancing farm work and family responsibilities, Veronicah remains committed to improving her farm's productivity. With a few years of experience under her belt, she understands the importance of adopting modern agricultural techniques to enhance her yields.<br /><br />Veronicah seeks a loan to invest in modern farm inputs such as high-quality seeds and fertilizers, recognizing their potential to significantly boost crop production on her farm. Her determination to innovate and improve her farming practices showcases her unwavering commitment to providing for her family and contributing to her community's food security.<br /><br />By supporting Veronicah's initiative, funders can empower her to achieve her goals and secure a brighter future for her family. Veronicah's dedication and hard work make her a deserving candidate for financial assistance, ensuring sustainable growth and prosperity in Matuu.",
+                "tags": [
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals, farm inputs and farming equipment.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2786214.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 5,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

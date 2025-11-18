@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2668988,
+                "name": "Tomas Alberto",
+                "loanAmount": "825.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-10-30T20:40:10Z",
+                "disbursalDate": "2023-10-20T07:00:00Z",
+                "plannedExpirationDate": "2023-12-04T21:40:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizer and manure.",
+                "description": "He lives with his family.  He works as a farmer which is his primary source of income.  He grows good quality corn that he is able to sell for an excellent price.  He responsibly cares for his crops and enjoys maintaining them.<br /><br />He is asking for a loan to buy fertilizer and manure for his crops so they will produce well.  <br /><br />He is very happy with the friendliness and good treatment he received from Prisma and Kiva.<br /><br />He is very thankful for the support.  His dream is to have a good harvest.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It has a below-market interest rate and is repaid at harvest, when farmers can more easily repay.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2668988.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HN",
+                        "name": "Honduras"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 27,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Prisma Honduras"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1098980,
+                "name": "Los Wanamey Group",
+                "loanAmount": "2050.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-06-14T22:30:02Z",
+                "disbursalDate": "2016-05-27T07:00:00Z",
+                "plannedExpirationDate": "2016-07-14T22:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seeds and manure, among other things.",
+                "description": "Mercedes is a member of the LOS WANAMEY communal bank.  She is 52 years old and has a partner and 6 children.  She alternates her daily activities with her business growing fruit.  She has been in the business for a long time and it is going well thanks to the effort that she puts into it every day.  She is a responsible and diligent person.  She wants to continue working so that she can keep on supporting her family. \r\n\r\nShe is requesting a loan to buy seeds and manure, among other things.\r\n\r\nThe group members are thankful for the loans and they are committed to paying the established installments.  ",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 8,
+                "whySpecial": "It reaches borrowers in underserved and disadvantaged areas in Peru.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1098980.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 70,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Asociación Arariwa"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2828139,
+                "name": "Florence's Group",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-08-09T12:30:32Z",
+                "disbursalDate": "2024-07-23T07:00:00Z",
+                "plannedExpirationDate": "2024-09-13T12:30:32Z",
+                "distributionModel": "fieldPartner",
+                "use": "to gain access to cost efficient hybrid seeds and fertilizer for maize cultivation.",
+                "description": "This season is not the first one that Florence is working alongside One Acre Fund. She has been a member for a few years now, having joined the program in 2021. Although she is the only person featured in the above picture (others in the group were unavailable during profile collections) she is actually representing her group of 12 farmers in Misikhu Duka Zone District, Kenya.<br /><br />Florence is often described by her community as a very friendly person. She decided to be the one to represent her group because she wanted to gain leadership skills. Like many of her fellow farmers, Florence decided she wanted to be part of the One Acre Fund community in order to get the best quality fertilizer and hybrid seeds and hopes to use the profits from this year’s harvest to save more money for the future.<br /><br />This loan will not only help Florence, but the whole group, who will receive maize seeds and fertilizer to plant a total of 5.08 acres of land.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 12,
+                "whySpecial": "It provides smallholder farmers with seeds and supplies at the planting season.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2828139.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 31,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

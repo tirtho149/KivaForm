@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2083653,
+                "name": "Zanatany",
+                "loanAmount": "475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-12-30T17:10:11Z",
+                "disbursalDate": "2020-12-02T08:00:00Z",
+                "plannedExpirationDate": "2021-02-13T17:10:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy three pigs as well as supplies needed for growing rice.",
+                "description": "Zanatany continues to raise pigs. She still takes out loans to increase the size of her livestock. In addition to raising pigs, she has started to farm rice. Her earnings have improved. She is trying to save money for her children's  schooling. <br /><br />She is asking for a new loan to buy 3 pigs to fatten as well as 40 kgs of seeds and 20 cartloads of manure for her rice crops. She hopes once again to have the support of the lenders. She sells all her goods at the local market.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps the poorest of the poor in Madagascar to improve their lives.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2083653.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MG",
+                        "name": "Madagascar"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 14,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pigs"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Vahatra"
+            }
+        }
+    }
+}

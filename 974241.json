@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 974241,
+                "name": "Cirilo",
+                "loanAmount": "2075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-11-08T14:50:06Z",
+                "disbursalDate": "2015-10-06T07:00:00Z",
+                "plannedExpirationDate": "2015-12-08T14:50:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to invest in a 40 m3 Sistema Biobolsa biodigester.",
+                "description": "Cirilo owns 25 cows and used to spend more than one hour per day moving their waste to a corner of his farm, where it was generating bad smells and attracting flies. In parallel, he was spending an important portion of his revenues on fossil fuel based LP gas and chemical fertilizers. <br /><br />He decided to invest in a biodigester in order to save money by transforming a problem into a productive solution: from now on, he will use his animals' manure to produce biogas and organic fertilizer. He will improve his farm's cost-effectiveness by treating the waste and turning it into productive resources. The yield of his corn and forage fields will improve in a natural way with the nutrient-rich fertilizer, while he will cook and heat water with renewable energy. Cirilo plans to use his savings to grow his farm, produce more milk and save to send his children to university.<br /><br />This loan represents 35% of the full cost of the biodigester. The remaining part is being covered by a government subsidy and a downpayment from the client.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/974241.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MX",
+                        "name": "Mexico"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 67,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Energy"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Sistema.bio"
+            }
+        }
+    }
+}

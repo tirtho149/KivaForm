@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 638822,
+                "name": "Group 7 - Tân Việt 01",
+                "loanAmount": "4750.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-11-28T19:30:12Z",
+                "disbursalDate": "2014-01-06T08:00:00Z",
+                "plannedExpirationDate": "2014-01-27T19:30:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for the construction of a hygienic toilet and a hand-washing device with soap.",
+                "description": "Ms. Hinh, 37, is married with two children: one school-aged child and one small child. Hinh and her husband work in agricultural production, with a monthly income of approximately VND 1,400,000. She has been a member of the Women's Union since 1996. Her family is currently using a double-pit latrine, which is now degraded. \r\n\r\nWith her portion of this loan, she will be able to build a hygienic septic tank latrine and a hand-washing device with soap. Those facilities would help her family improve their health and living conditions and provide safety for them, particularly at night and during rainstorms. In addition to providing convenience, cleanliness, and privacy for all family members, it will be contributing to the environmental protection of the community. \r\n\r\nIn the picture, Ms. Hinh is standing in the front row, first from the left.\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Post-disbursed",
+                    "#Fabrics",
+                    "#Low-profit FP"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 10,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/638822.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "VN",
+                        "name": "Vietnam"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 160,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Housing Expenses"
+                },
+                "sector": {
+                    "name": "Housing"
+                },
+                "partnerName": "Thrive Networks - Vietnam"
+            }
+        }
+    }
+}

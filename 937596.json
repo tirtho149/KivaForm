@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 937596,
+                "name": "Dorofia",
+                "loanAmount": "750.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-08-27T00:20:07Z",
+                "disbursalDate": "2015-11-20T08:00:00Z",
+                "plannedExpirationDate": "2015-09-26T00:20:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy organic seedlings.",
+                "description": "Dorofia (56) is a divorced mother of four. She is a respected elder in her community where she is known for her caring nature. Even as she ages, Dorofia still has the zeal and drive to work. She is a founding member of a self-help group that has identified an opportunity in agriculture. The group secured land and has erected tunnels (greenhouses) for crop farming. <br /><br />She is requesting a Kiva loan to help her buy organic seedlings to grow in the greenhouse. She will then supply the vegetables to small-scale vendors in her neighborhood. <br /><br />\"I hope to create jobs for other people,\" says Dorofia when asked about her 5-year plan.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Single Parent",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/937596.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "ZA",
+                        "name": "South Africa"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 29,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Siza Capital"
+            }
+        }
+    }
+}

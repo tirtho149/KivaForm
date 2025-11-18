@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 799521,
+                "name": "Angel Ballena",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-11-17T18:20:26Z",
+                "disbursalDate": "2014-11-20T08:00:00Z",
+                "plannedExpirationDate": "2015-01-01T18:20:26Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for organic fertilizer so that he can grow more and better organic avocados.",
+                "description": "Angel is a 48-year-old organic avocado grower. He lives in the Chao Valley on Peru's north coast. He is not married but looks after his entire family and wants to continue the family tradition of farming. Angel’s family moved to Peru’s coast 50 years ago and fought hard to keep their land during the period of the agrarian reform which expropriated land without compensation. His father, the family patriarch, did everything to keep his entire family together. At first, Angel’s family cultivated and traded corn. Recently, Angel took over the fieldwork from his aging father (pictured with him, in a straw hat). He began planting avocado and asparagus for their own consumption. Then he learned about the organic production of avocado from Fairtrasa. He found the idea very good because he could have the possibility to get higher yields, preserve the quality of their farmland and take care of his family because they would no longer get exposed to toxic pesticides. Angel is seeking a $700 loan to buy organic fertilizers to improve his family’s organic avocado production.\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/799521.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 27,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Fairtrasa Peru S.A."
+            }
+        }
+    }
+}

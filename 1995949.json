@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1995949,
+                "name": "Sifa",
+                "loanAmount": "475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-08-04T17:20:10Z",
+                "disbursalDate": "2020-07-06T07:00:00Z",
+                "plannedExpirationDate": "2020-09-18T17:20:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to increase her stock, such as foodstuffs and home products, to sell in her general store and to buy manure for her farm.",
+                "description": "Sifa, 36, is happily married and has been blessed with two children who are seven and four years old. She runs a general store and a mobile transaction business. At home, she also farms. Sifa would like to boost both her businesses and is kindly requesting a loan that will enable her to increase her in-store stock and buy farm inputs that will increase her yield. She is committed to repaying her loan using the profits she makes. Sifa's dream is to own a large wholesale shop and have a bright future.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It gives financial access to low income micro-entrepreneurs.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1995949.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 8,
+                    "values": []
+                },
+                "activity": {
+                    "name": "General Store"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "ECLOF Kenya"
+            }
+        }
+    }
+}

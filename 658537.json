@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 658537,
+                "name": "Gocha",
+                "loanAmount": "1975.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-01-18T00:10:03Z",
+                "disbursalDate": "2013-12-31T08:00:00Z",
+                "plannedExpirationDate": "2014-02-17T00:10:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a truck to use to fill private orders.",
+                "description": "Gocha is a 34-year-old experienced farmer, from the village of Bukistsikhe. He lives with his parents, wife and 2 little children. Gocha's father is a wood artisan and generates 350 GEL monthly. The family is highly involved in agricultural activities. In particular, they have cows and a plot of agricultural land where nuts and grapes are grown. Gocha sells the farm's products locally. He always has fresh and high quality products. For further development, Gocha decided to be involved in another activity parallel to agricultural and he requested a loan. His application was approved within the framework of the joint initiative between Kiva and Credo that enables people to start or re-start a business. So, with the approved loan, he will buy a truck and work with private orders. Gocha's income will significantly increase with the help of this new activity. He is grateful to all Kiva lenders for the aid. ",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/658537.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GE",
+                        "name": "Georgia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 65,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Transportation"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "Credo"
+            }
+        }
+    }
+}

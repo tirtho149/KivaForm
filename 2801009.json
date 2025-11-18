@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2801009,
+                "name": "Elvirleyderson",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-06-27T20:10:47Z",
+                "disbursalDate": "2024-05-24T07:00:00Z",
+                "plannedExpirationDate": "2024-08-01T20:10:47Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase organic fungicides that will enhance protection against pests in his crops.",
+                "description": "Elvirleyderson is a senior farmer from Piendamo, Cauca, with 21 years of experience. He manages a one-hectare plot where he has a wide variety of flowers growing, meticulously caring for each species to ensure its health and natural beauty. Elvirleyderson diligently applies pesticides obtained from an agricultural store to protect his crops.<br /><br />Elvirleyderson lives with his parents and siblings near his fields, receiving strong support from his family in caring for his crops.<br /><br />A loan of $3,632,818 COP is helping Elvirleyderson purchase organic fungicides rich in pesticides that will optimize protection against fungal diseases and pests, ensuring healthier yields.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The purpose of this loan is to bring financial inclusion to these impacted areas of Colombia",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2801009.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 41,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Flowers"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FINAMIGA UNI2"
+            }
+        }
+    }
+}

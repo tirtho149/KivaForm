@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2230673,
+                "name": "Ambrose",
+                "loanAmount": "1425.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-08-24T21:50:16Z",
+                "disbursalDate": "2021-08-10T07:00:00Z",
+                "plannedExpirationDate": "2021-09-23T21:50:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy farm inputs.",
+                "description": "Ambrose is  from Rwabigangura, Rukungiri district. He is a 54-year-old man, is married, and has 5 children.<br /><br />He is a coffee farmer whose customers are coffee produce sellers and manufacturing industries of coffee drinks and sweets. <br /><br />He is seeking a loan to improve his produce. He will buy farm inputs like manure and fertilizers to apply on the fields to get better product quality and boost sales. <br /><br />Thank you, lenders.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2230673.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 57,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

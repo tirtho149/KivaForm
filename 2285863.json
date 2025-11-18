@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2285863,
+                "name": "Abraham Gerardo",
+                "loanAmount": "1575.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-11-29T15:00:07Z",
+                "disbursalDate": "2021-10-26T07:00:00Z",
+                "plannedExpirationDate": "2022-01-13T15:00:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy bicycles to sell.",
+                "description": "Abraham Gerardo is a hardworking young man with a desire to succeed. He has been growing bananas, cassava, and squash for approximately four years. <br /><br />He is requesting a long to invest in the purchase of bicycles to sell. This will allow him to increase his income, directly benefiting his quality of life and that of his family.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It impacts extremely marginalized people in Costa Rica.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2285863.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CR",
+                        "name": "Costa Rica"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 49,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Bicycle Sales"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "EDESA"
+            }
+        }
+    }
+}

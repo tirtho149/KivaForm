@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2595270,
+                "name": "Natalia Estefania",
+                "loanAmount": "1000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-06-22T13:10:22Z",
+                "disbursalDate": "2023-05-25T07:00:00Z",
+                "plannedExpirationDate": "2023-07-27T13:10:22Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy composts, fertilizers, and other farming supplies for cultivating potatoes.",
+                "description": "Natalia is a charismatic young woman who is 23 years of age.  She lives with her parents and siblings in the community of San Juan Bosco.  The lack of employment has affected both the urban and rural areas, which has impacted many young people like Natalia.  As a result, they have chosen to start their own businesses, including farming and raising animals.  These types of skills are learned at a very young age.  In this manner, they are able to provide financial support for their households and cover their expenses independently.     <br /><br />Natalia has chosen to cultivate potatoes of the Capiro variety.  For this reason, she is requesting a loan to buy composts, fertilizers, and other farming supplies so that she can improve the profitability of her business and achieve a good harvest of potatoes.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It aims to reach vulnerable refugee populations in an isolated region.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2595270.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Ecuador"
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2802647,
+                "name": "Julius",
+                "loanAmount": "475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-06-29T21:52:21Z",
+                "disbursalDate": "2024-05-27T07:00:00Z",
+                "plannedExpirationDate": "2024-08-03T21:52:20Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for excavation space and to buy manure to boost his farming practices.",
+                "description": "Julius, a resilient 64-year-old entrepreneur from Nyeri, Kenya, epitomizes perseverance in the face of adversity. <br /><br />Married with three children in school, Julius shoulders the responsibility of providing for his family, supporting them through his ventures. <br /><br />His primary occupation involves quarrying, supplemented by subsistence farming, where he finds solace in the fruitful returns it yields. <br /><br />Despite his dedication, Julius encounters challenges, notably the menace of floods that disrupt his quarrying activities. <br /><br />In dire need of financial assistance, he seeks a KRS 60,000 loan to secure excavation space, ensuring uninterrupted operations and also boosting his farm with quality farm inputs. <br /><br />While Julius operates his business independently, his contributions extend beyond personal gains, enriching the wider community through his entrepreneurial endeavors. <br /><br />With a track record of timely repayment, Julius envisions a future where Kiva loans catalyze the growth of his farming enterprise, empowering him to provide better opportunities for his children and secure their future.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It gives financial access to low income micro-entrepreneurs.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2802647.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 8,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Quarrying"
+                },
+                "sector": {
+                    "name": "Construction"
+                },
+                "partnerName": "ECLOF Kenya"
+            }
+        }
+    }
+}

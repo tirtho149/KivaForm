@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1412230,
+                "name": "Roida's Group",
+                "loanAmount": "925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-11-10T07:40:04Z",
+                "disbursalDate": "2017-11-01T07:00:00Z",
+                "plannedExpirationDate": "2017-12-10T07:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to gain access to cost efficient hybrid seeds and fertilizer for maize cultivation.",
+                "description": "Roida, featured in the above picture, is representing her farming group formed by 13 farmers in Kilolo North District, Tanzania. She is 26 years old and a married mother of two children, often described as a very friendly person. <br /><br />Although Roida has been a farmer for six years, she is new to One Acre Fund and decided to join this year because she really wanted to earn enough to feed her family. Even though she is new to the program, Roida wanted to represent her group because she likes being a leader. With the profits earned from this season’s harvest, Roida hopes to be able to send her children to school.<br /><br />With this loan, the group will receive farming inputs to plant a total of 11.5 acres of land. They will also receive a total of one solar light, as, even though Roida decided not to, one farmer in the group will be purchasing a solar light as part of their loan package.",
+                "tags": [
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 13,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1412230.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TZ",
+                        "name": "Tanzania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 29,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

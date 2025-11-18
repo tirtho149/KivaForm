@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2455853,
+                "name": "Nicolas",
+                "loanAmount": "250.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-10-03T07:50:20Z",
+                "disbursalDate": "2022-09-02T07:00:00Z",
+                "plannedExpirationDate": "2022-11-07T08:50:20Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase locally produced organic food that will optimize the maintenance of his poultry sheds.",
+                "description": "Nicolas is a young chicken farmer from Cartago, Valle del Cauca. He began raising chickens more than ten years ago following in the footsteps of his grandparents who taught him this activity. Nicolas owns 200 breeding chickens and 100 hens. He sells his production to local distributors and neighbors in his community. Additionally, Nicolas is finishing a degree in animal care to fulfil his passion for the countryside and animals.<br /><br />Nicolas lives with his grandparents in a house they built more than 30 years ago. His grandparents also raise chickens and support Nicolas with his university expenses.<br /><br />A loan of $1,137,280 COP helps Nicolas expand his business by purchasing a new batch of chickens and locally produced organic food for their sustenance.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Animals"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The loan will help peasants to improve their agro crops",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2455853.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Poultry"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FINAMIGA UNI2"
+            }
+        }
+    }
+}

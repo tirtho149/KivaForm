@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1215777,
+                "name": "Jemimah's Group",
+                "loanAmount": "1100.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2017-01-06T02:00:06Z",
+                "disbursalDate": "2017-02-01T08:00:00Z",
+                "plannedExpirationDate": "2017-02-05T02:00:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a solar light and gain access to cost efficient hybrid seeds and fertilizer for maize cultivation.",
+                "description": "Jemimah is 36 years old and has 6 children. She is a group leader and is representing her group formed by 13 farmers in Teso District, Kenya. <br /><br />Jemimah has been farming with One Acre Fund for years now, having joined the program for the first time in 2012. This decision was largely a result of her desire to get the best quality fertilizer and hybrid seeds and, although she described her last harvest as good, she believes she could have a better one this year by continuing to work alongside One Acre Fund. Jemimah also decided to purchase a solar light as part of her loan, which she is very excited about, as it will allow her to have an overall improved quality of life.<br /><br />Obtaining this loan means that Jemimah's Group will be able to receive a total of 9 solar lights, as well as farming inputs to plant a total of 8.25 acres.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 13,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1215777.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1680780,
+                "name": "Dashamir",
+                "loanAmount": "925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-01-05T05:40:06Z",
+                "disbursalDate": "2018-12-07T08:00:00Z",
+                "plannedExpirationDate": "2019-02-04T05:40:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to add a new cow to his three other ones so he can provide more for his family by selling the milk and one calf a year.",
+                "description": "Dashamir is a very hardworking man from Korca city. He is married and lives with his wife and his two adorable children. To provide for his family he is engaged in agricultural activity. He currently has three cows and wants to add another one, this is why he is asking for a loan for the first time in his life.<br /><br />\"I think that I will easily manage to keep another cow and this will increase my family income significantly. I heard about Kiva from my neighbor, who has already bought a cow and has increased his family income. I hope Kiva lenders can help me too!\" said Dashamir hopefully during the interview. <br /><br />Dashamir hopes one day he will have a big farm and even a restaurant on it, since his wife worked as a cook when they were emigrants in Greece.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports people in a country where financing options are scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1680780.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AL",
+                        "name": "Albania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 31,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cattle"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Agro & Social Fund"
+            }
+        }
+    }
+}

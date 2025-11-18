@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1118714,
+                "name": "Uulkan",
+                "loanAmount": "2250.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-07-22T16:50:05Z",
+                "disbursalDate": "2016-06-17T07:00:00Z",
+                "plannedExpirationDate": "2016-08-21T16:50:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy two dairy cows and fertilizers in order to invest in her eco-friendly business.",
+                "description": "Uulkan is 51 years old, a widow, and has 3 children. She has a specialized secondary education and, as a source of income for her family, works in livestock and farming. On 6 hectares of her own land, she grows beans and perennial grasses for making hay. Her farm has 37 sheep. Currently her business brings in up to 33,000 som (KGS) per month. With the goal of further developing her business, Uulkan has applied to Bai Tushum Bank for a loan of 150,000 som (KGS) to buy 2 dairy cows to produce organic milk for sale, and also to buy fertilizers for treating the soil. Uulkan plans to invest the revenue from the loan into the further development of her business as well as to save up for house repairs. \r\n\r\n\r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Widowed",
+                    "#Elderly",
+                    "#Single Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports production of local crops and reduction of energy consumption.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1118714.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 84,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

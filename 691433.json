@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 691433,
+                "name": "Anonymous",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-03-31T12:40:03Z",
+                "disbursalDate": "2014-03-13T07:00:00Z",
+                "plannedExpirationDate": "2014-04-30T12:40:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "",
+                "description": "",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Inspiring Story"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/691433.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "XK",
+                        "name": "Kosovo"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Housing Expenses"
+                },
+                "sector": {
+                    "name": "Housing"
+                },
+                "partnerName": "KosInvest"
+            }
+        }
+    }
+}

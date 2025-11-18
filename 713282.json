@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 713282,
+                "name": "Chhoeurn",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-05-24T14:20:02Z",
+                "disbursalDate": "2014-04-21T07:00:00Z",
+                "plannedExpirationDate": "2014-06-23T14:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to cover the costs incurred in wedding preparation.",
+                "description": "Chhoeurn is a 45-year-old married woman. She has three children, two of whom are attending school while the other one is married and lives independently. Chhoeurn resides with her husband and children in a small village of Prey Chhor district, Kampong Cham province. She was inspired by her parents to start rice farming, which is now an important source of income for her family. She has been doing in this field for nearly 25 years.\r\n\r\nChhoeurn’s second child has been engaged to be married soon, so she will arrange a wedding party for her. This will be a great expense for her. That’s why she is seeking a loan to help her cover the costs incurred in the wedding preparation. She hopes to get this loan from Kiva lenders and she is confident to pay it back on time as it’s now her second loan cycle from Hattha Kaksekar. She expresses her thanks to all lenders in advance.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/713282.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 16,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Wedding Expenses"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Hattha Bank"
+            }
+        }
+    }
+}

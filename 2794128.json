@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2794128,
+                "name": "Leopoldo",
+                "loanAmount": "1200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-06-14T22:50:40Z",
+                "disbursalDate": "2024-05-11T07:00:00Z",
+                "plannedExpirationDate": "2024-07-19T22:50:40Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizer, compost and other agricultural inputs in order to provide care for his vegetable crops.",
+                "description": "Leopoldo is choosing to seek another loan because once more he needs to invest in his business so he can respond to existing demand. He will buy fertilizer, compost and other agricultural inputs in order to provide care for his vegetable crops.<br /><br />Leopoldo notes that with the previous loan he was able to obtain what he needed to strengthen his business inventory. This allowed him to improve sales and generate more income. He doesn't mention any changes in his immediate family.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It builds opportunity for people older than 60.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2794128.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 48,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "PADECOMSM"
+            }
+        }
+    }
+}

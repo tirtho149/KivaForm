@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2697320,
+                "name": "Onjaniaina",
+                "loanAmount": "275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-01-19T02:00:57Z",
+                "disbursalDate": "2023-11-15T08:00:00Z",
+                "plannedExpirationDate": "2024-02-23T02:00:57Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy chemical fertilizers, manure, and phytosanitary products for growing potatoes.",
+                "description": "Her name is Onjaniaina. She is 24 years old, married, and has two children. Currently, she and her family live in a rented apartment in a rural village. The family plans to build their own house.<br /><br />Onjaniaina practices agriculture. She is most experienced in cultivating potatoes. She sells her products at the local market. Her spouse is a mechanic.<br /><br />Onjaniaina needs this first Kiva loan to purchase chemical fertilizers, manure, and phytosanitary products for cultivating potatoes. She will take care of the rest of the necessary inputs. She is hoping for the support of lenders.<br /><br />Onjaniaina was able to buy bricks with her previous loan with Vahatra for potato farming. She will also devote her next earnings to her house construction project.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps the poorest of the poor in Madagascar to improve their lives.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2697320.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MG",
+                        "name": "Madagascar"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Vahatra"
+            }
+        }
+    }
+}

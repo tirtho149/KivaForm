@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2564688,
+                "name": "Onja",
+                "loanAmount": "675.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-04-25T15:40:21Z",
+                "disbursalDate": "2023-03-23T07:00:00Z",
+                "plannedExpirationDate": "2023-05-30T15:40:21Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seeds, 600 kg of fertilizer, manure, insecticides and to pay for labor.",
+                "description": "Onja is very grateful to the lenders for trusting her. She has been successful again. She acquired buildable land with her earnings. She is very happy. Now she wants to develop her business even further. She wants to multiply her farming land in order to increase the yield of her crop. For this, she still needs the support of donors to refinance her project. With this money, she will buy seeds, 600 kg of fertilizer, manure, insecticides and to pay for labor. She will deposit her profits in savings and plans to build their own house in the near future.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps the poorest of the poor in Madagascar to improve their lives.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2564688.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MG",
+                        "name": "Madagascar"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 5,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Vahatra"
+            }
+        }
+    }
+}

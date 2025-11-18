@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2248329,
+                "name": "Busaba",
+                "loanAmount": "1200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-10-19T08:40:15Z",
+                "disbursalDate": "2021-08-27T07:00:00Z",
+                "plannedExpirationDate": "2021-11-18T09:40:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizer, bowls, spoons, and equipment for rubber tree cultivation.",
+                "description": "Busaba is a single mother who lives with her children, mother, and brothers in a rural community of Surin Province, Northeast Thailand. To make a living, her family cultivates a jasmine rice farm and works on a rubber tree farm.<br /><br />Busaba and her family always come to work on their rubber tree farm after they finish rice farming. The rubber tree plantation has been in her family since her parents' generation. She chose to follow her parents' path and has been working on this farm for over four years. She sought a loan in order to expand her farm and nourish the trees to produce higher-quality latex to meet market demand. As a result, she applied for a Kiva loan in order to purchase fertilizer, bowls, spoons, and rubber tree plantation equipment.<br /><br />The loan will assist Busaba in improving her business and purchasing the needed equipment. It will also assist local entrepreneurs in increasing their income. In the future, she hopes to expand her farm and open her own grocery store.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Single Parent",
+                    "#Unique",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps women living in rural areas improve financial literacy and invest in their businesses.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2248329.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TH",
+                        "name": "Thailand"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 30,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Small Enterprise Development Co., Ltd. (SED)"
+            }
+        }
+    }
+}

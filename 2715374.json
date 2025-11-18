@@ -1,0 +1,58 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2715374,
+                "name": "Gül",
+                "loanAmount": "250.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-01-20T18:20:16Z",
+                "disbursalDate": "2024-01-11T08:00:00Z",
+                "plannedExpirationDate": "2024-02-24T18:20:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy lavender seeds.",
+                "description": "Gül is a 39-year-old married mother of 1 child and a primary school graduate. She has been trying to make a living by working in gardens and fields since she was very young. With the idea of doing something different, she turned her field into a lavender garden 3 years ago and has been trying to earn money. Gül also tries to make a living by making soap and cologne from the lavender she grows.<br /><br />Gül wants to increase her income by buying lavender seeds with the support she will receive through Kiva.",
+                "tags": [
+                    "volunteer_pick",
+                    "volunteer_like",
+                    "user_favorite",
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Unique"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "it supports underserved women in rural parts of Turkey",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2715374.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TR",
+                        "name": "Turkey"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Turkish Grameen Microfinance Program"
+            }
+        }
+    }
+}

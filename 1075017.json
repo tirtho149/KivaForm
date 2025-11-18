@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1075017,
+                "name": "Phetcharat",
+                "loanAmount": "2525.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-05-26T09:10:02Z",
+                "disbursalDate": "2016-08-10T07:00:00Z",
+                "plannedExpirationDate": "2016-06-25T09:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "To pay for building irrigation systems and supplements in order to attract tourism.",
+                "description": "Suan Pa village was once a drug route that has since transformed into a drug-free tight knit community. This place is a hidden treasure nestled in the beautiful forest of Chiang Rai, Thailand. As the village is far away from the city, villagers had to rely on growing and selling crops to make a living. But their income from agriculture was not enough to support the expenditure of their whole families.\nPhetcharat, one of the villagers thinks that they can increase income in other ways than just selling crops. He would like to use the loan to build more irrigation systems in order to expand his orchard. He used to plant only passion fruit, but now he plans to plant more different types of fruit such as grape, strawberry, mango, papaya etc. Phetcharat plans to use this fruit garden to bring tourists into his village by running \"fruit buffet tour\" and \"knowledge of fruit planting tour\".\nThe loan will be paid back through the income of the tour as well as the income by selling fruits. Your help will not only build a fruit garden but also be used as an example as to how eco-tourism can benefit an entire community.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps communities build tourism programs that preserve culture and increase income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1075017.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TH",
+                        "name": "Thailand"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 100,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Tourism"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "Local Alike"
+            }
+        }
+    }
+}

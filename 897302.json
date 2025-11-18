@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 897302,
+                "name": "Jenyfer",
+                "loanAmount": "225.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-06-08T16:00:06Z",
+                "disbursalDate": "2015-05-22T07:00:00Z",
+                "plannedExpirationDate": "2015-07-08T16:00:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy additional stocks of rice to sell.",
+                "description": "Jenyfer is a married woman with four children. She is a very hardworking entrepreneur. Jenyfer is 28 years old and has two children who are in school.\r\n\r\nJenyfer has a rice-retailing business in the Philippines. Jenyfer requested a PHP 9,000 loan amount through NWTF in order to buy additional stocks of rice to sell.\r\n\r\nJenyfer has been in this business for two years. In the future, Jenyfer would like to save enough money to expand her business.\r\n",
+                "tags": [
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/897302.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 8,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cereals"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

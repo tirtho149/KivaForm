@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 948401,
+                "name": "Noemi Del Carmen",
+                "loanAmount": "300.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-09-19T02:00:05Z",
+                "disbursalDate": "2015-09-05T07:00:00Z",
+                "plannedExpirationDate": "2015-10-19T02:00:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more medicine and to buy fertilizers for her cornfield.",
+                "description": "Noemi, 43, did not have the opportunity to go to school. As a young girl she began helping her mother with the household chores and she also sold items to help with her family income. She entered into a relationship and she and her partner have four children. Her husband works as a caretaker at a coffee farm and he also sells medicine. <br /><br />Noemi works selling medicine and vitamins, which is how she contributes to the family income so that her children can go to school and have better stability, quality of life, and opportunities to succeed.<br /><br />She needs the loan in order to buy more medicine and to buy fertilizers for the cornfield she planted, to improve the harvest. <br /><br />Noemi's dream is to build a better brick house, because the house where she lives now is made of sheet metal. She also dreams of giving her children the chance to go to school and complete a technical program.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Health and Sanitation"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/948401.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Natural Medicines"
+                },
+                "sector": {
+                    "name": "Health"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

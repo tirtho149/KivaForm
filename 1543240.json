@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1543240,
+                "name": "La Estrella- Las  Tórrez Group",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-06-08T15:50:05Z",
+                "disbursalDate": "2018-05-28T07:00:00Z",
+                "plannedExpirationDate": "2018-07-08T15:50:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to cultivate 3 1/2 acres of corn and 1 3/4 acres of beans.",
+                "description": "Elizabeth is an enterprising woman who is dedicated to cultivating basic grains. She can count on experience in this activity, and she is the only woman belonging to the group. <br /><br />Elizabeth is requesting a loan to purchase sufficient seeds, manure, and fertilizers to cultivate 3 1/2 acres of corn and 1 3/4 acres of beans. The well-being of her 2 children, who both attend school, depends upon this activity.<br />\t\t\t\t\t\t\t\t\t\t<br />She can count on her husband's help in cultivating her basic grains.<br />\t\t\t\t\t\t\t\t\t\t<br />With the earnings Elizabeth obtains, she hopes to continue helping her family.",
+                "tags": [
+                    "volunteer_pick",
+                    "volunteer_like",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 4,
+                "whySpecial": "It empowers farmers to diversify, and thus stabilize, their families' sources of income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1543240.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Aldea Global"
+            }
+        }
+    }
+}

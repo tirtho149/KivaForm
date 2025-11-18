@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2870616,
+                "name": "Suzie",
+                "loanAmount": "725.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-11-18T11:42:14Z",
+                "disbursalDate": "2024-10-18T07:00:00Z",
+                "plannedExpirationDate": "2024-12-23T11:42:14Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase popcorn, a bale of second hand clothes, clothes hangers, pegs and shopping bags.",
+                "description": "Suzie, an 18-year-old young lady from Honiara, runs a market stall selling clothing in her community. Since joining SPBD, she has steadily grown her business. <br /><br />The loan will enable her to purchase popcorn, a bale of secondhand clothes, clothes hangers, pegs and shopping bags and attract more customers. This will increase her sales and provide additional support for her family, including improved living standards, educational support for her sibling, and better healthcare. <br /><br />Your investment will help her achieve these goals and enhance her family's well-being.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Schooling",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "Its goal is to reach financially excluded and underserved people.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2870616.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SB",
+                        "name": "Solomon Islands"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Clothing Sales"
+                },
+                "sector": {
+                    "name": "Clothing"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Solomon Islands"
+            }
+        }
+    }
+}

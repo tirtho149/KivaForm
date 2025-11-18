@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1809150,
+                "name": "Emmanuel",
+                "loanAmount": "1100.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2019-08-01T05:20:24Z",
+                "disbursalDate": "2019-07-23T07:00:00Z",
+                "plannedExpirationDate": "2019-08-31T05:20:24Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more goats and pigs to expand his project.",
+                "description": "Emmanuel is an enterprising, hardworking  farmer born in the year 1980 living in Kyenjojo, Uganda. He ventured into farming where he rears goats as his main source of income alongside his piggery project. In addition, he grows banana and watermelons to add to his income. Emmanuel says the need to be self-employed inspired him to start the business and he hopes to be the leading farmer in his goats and pigs-keeping business.<br /><br />However, the small capital base and high cost for animal drugs are the major challenges he faces in his business. He uses the animal waste to improve his banana growing project which he started as another side income project. Emmanuel is requesting for a loan facility to buy more goats and pigs to expand his project. He is very thankful to Kiva and Hofokam for he has been able to grow his piggery  project out of the profits from the previous loan.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps increase the productivity and income of rural farmers in Uganda.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1809150.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "HOFOKAM"
+            }
+        }
+    }
+}

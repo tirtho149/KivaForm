@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2204902,
+                "name": "Yeabu's Female Farmers Group",
+                "loanAmount": "2925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-07-09T19:40:16Z",
+                "disbursalDate": "2021-08-01T07:00:00Z",
+                "plannedExpirationDate": "2021-08-08T19:40:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for improved seeds, organic inputs, and tractor rental, which will improve production and profitability.",
+                "description": "Yeabu T (pictured first on the right), is the featured borrower of Yeabu's Female Farmers. She is a master farmer in Masagble village and has a large family of six. She is passionate about business and farming and likes to help younger women get their start.<br /><br />Yeabu is a seasoned farmer whose rice farming business was hard hit during Sierra Leone's 2014-2017 Ebola crisis. She has since recovered her business very slowly due to predatory lending and a lack of access to financing. She has organized a large group of other women who, like her, are currently trapped in a cycle of subsistence and take extremely high-interest loans for poor-quality inputs during planting time. A no-interest Kiva loan will enable this group of determined women to throw off the shackles of predatory lending, expand, and prosper.<br /><br />Additionally, the COVID-19 pandemic is causing food shortages in some areas of Sierra Leone as imported rice becomes more scarce. A Kiva loan will empower these women to increase their local rice production and enhance food access in Sierra Leone at a time when it is badly needed.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 10,
+                "whySpecial": "It enables farmers to access farm inputs to improve their yield for increased income.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2204902.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SL",
+                        "name": "Sierra Leone"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 92,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Mountain Lion Agriculture"
+            }
+        }
+    }
+}

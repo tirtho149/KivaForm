@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2092939,
+                "name": "Zamira",
+                "loanAmount": "725.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-01-21T18:00:10Z",
+                "disbursalDate": "2021-01-14T08:00:00Z",
+                "plannedExpirationDate": "2021-02-20T18:00:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seed to increase her yield of organic potatoes.",
+                "description": "Zamira is 21 years old, married and has 2 children. She has a high school education and is hardworking and cheerful by nature. Since 2018, the main income for her family has been from raising crops and livestock. Thanks to her hard work, Zamira currently has a 1.7 hectare plot of land on which she grows potatoes.<br /><br />To further develop her farm, Zamira has turned to Bai-Tushum Bank for a loan in the amount of 60,000 som (KGS) to buy seed for growing organic potatoes. The income from the loan will help improve her family's well-being.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports organic farming and includes a lower interest rate.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2092939.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 20,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

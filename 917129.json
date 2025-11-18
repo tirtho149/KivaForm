@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 917129,
+                "name": "Hilda Teresa",
+                "loanAmount": "475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-07-31T15:10:11Z",
+                "disbursalDate": "2015-07-08T07:00:00Z",
+                "plannedExpirationDate": "2015-08-30T15:10:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy an organic cow.",
+                "description": "Hilda is a single mother who has been able to get ahead for her son. She earns a living raising livestock and is seeking a microloan to be able to buy an organic cow. \r\nShe hopes to sell raw organic milk in her rural area called Pampamarca. She trusts people will like to consume her milk. \r\n\r\nHilda continues working hard day after day so her children are good people with many values and above all can be great professionals.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Single Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/917129.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 16,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Dairy"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Fondesurco"
+            }
+        }
+    }
+}

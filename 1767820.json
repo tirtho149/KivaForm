@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1767820,
+                "name": "Elizabeth's Group",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-05-26T11:20:04Z",
+                "disbursalDate": "2019-04-30T07:00:00Z",
+                "plannedExpirationDate": "2019-06-25T11:20:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer to improve harvests of maize.",
+                "description": "Elizabeth is 35 years old and has 4 children. She has been a farmer for 8 years and is always said to be a very hardworking individual. Even though Elizabeth is the only one featured in the above picture, she is actually representing her group formed by 11 farmers in Chwele District, Kenya.<br /><br />Elizabeth started working alongside One Acre Fund a few years ago, in 2011, and decided to do so because she wanted to earn enough to feed her family. Since then, she has seen her life improve, especially in the sense that she has been able to consistently feed her family ever since. This year she decided to represent her group because she wanted to spread the story of One Acre Fund farmers.<br /><br />Elizabeth’s Group will receive farming inputs to plant a total of 6.5 acres of land. Additionally, some of the farmers in the group will be purchasing a solar light so, with this loan, the group will also receive a total of 4 solar lights.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 11,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1767820.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

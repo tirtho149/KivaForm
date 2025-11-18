@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2602353,
+                "name": "Miguel Fernando",
+                "loanAmount": "1300.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-07-02T09:40:09Z",
+                "disbursalDate": "2023-06-16T07:00:00Z",
+                "plannedExpirationDate": "2023-08-06T09:40:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy composts, fertilizers, and other farming supplies for cultivating potatoes.",
+                "description": "Miguel is a hardworking young man who lives with his family in the community of San José de Huaca.  He works as a day laborer and farmer.  <br /><br />Miguel recently planted seed potatoes on a rented plot of land.  He is confident that he will have an abundant harvest of quality potatoes since he has put so much love and dedication into his work.  <br /><br />Miguel is requesting a new loan to buy composts, fertilizers, and other farming supplies.  He aspires to earn a good profit this season.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It aims to reach vulnerable refugee populations in an isolated region.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2602353.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 44,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Ecuador"
+            }
+        }
+    }
+}

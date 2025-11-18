@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1325666,
+                "name": "Tha Yet Kan (S) – 1 (D) Group",
+                "loanAmount": "600.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-07-01T16:00:03Z",
+                "disbursalDate": "2017-05-25T07:00:00Z",
+                "plannedExpirationDate": "2017-07-31T16:00:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for migration related expenses for his sister and to purchase seeds, fertilizers and compost.",
+                "description": "This Kiva loan will help these four loan customers in the Tha Yet Kan (S) – 1 (D) village group. This village group is located in central Myanmar’s Mahlaing township, which is in the dry zone of Myanmar. Most of the villagers earn their living as farmers, day laborers, grocery store owners, or by raising livestock.<br /><br />In the picture, Aung is the second one from the right. He represents the other members in this village group. He is 50 years old and lives with four family members. Aung makes a living through agriculture and animal farming together with his family. <br /><br />Aung's younger sister is migrating to Pyu and working at a tea shop. He is applying for a loan to pay for migration related expenses for him and his sister and also to purchase seeds, fertilizer and compost to be able to ensure a better harvest.<br /><br />Included in the picture with Aung are Myint, Kyaw and Nyo.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 4,
+                "whySpecial": "It increases a young person’s earning potential and improves livelihoods for the whole family.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1325666.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MM",
+                        "name": "Myanmar (Burma)"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Expenses"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Proximity Designs"
+            }
+        }
+    }
+}

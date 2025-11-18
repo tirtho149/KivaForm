@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2807595,
+                "name": "Lavenia",
+                "loanAmount": "1025.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-07-03T07:20:20Z",
+                "disbursalDate": "2024-06-28T07:00:00Z",
+                "plannedExpirationDate": "2024-08-07T07:20:20Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more mussels and packaging.",
+                "description": "Fresh-water mussels commonly known as Kai are a delicacy that is famous to all Fijians of all races. Lavenia lives in a village that is one of the main suppliers of Kai to the local markets. <br /><br />She is hoping to support her husband and family by investing in a business that will take advantage of the abundant natural resources around her village. Born and raised beside the river, she has mastered the techniques and now wishes to sell washed and frozen mussels. <br /><br />This loan will enable Lavenia to buy more mussels from the villages and, with her packaging, Lavenia hopes to attract customers with her unique approach of freezing the mussels in custom-made packages. <br /><br />Lavenia's devotion and love will definitely drive her business to success and she will be able to save for her children's future.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women with credit in a country where alternative financing is extremely scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2807595.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "FJ",
+                        "name": "Fiji"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 29,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fish Selling"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Fiji"
+            }
+        }
+    }
+}

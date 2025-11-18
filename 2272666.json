@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2272666,
+                "name": "Ann",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-11-03T07:40:12Z",
+                "disbursalDate": "2021-10-31T07:00:00Z",
+                "plannedExpirationDate": "2021-12-18T08:40:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy quality organic manure and seeds to improve her corn crop business.",
+                "description": "Ann is a 32-year-old mother of 5 and among them three are school going children. She lives in Nyamira, a town surrounded by prime agricultural lands that favor large-scale corn farming. She is a trees and mixed farmer who has farmed for the past many years, enabling her to support her family.<br /><br />Ann is seeking this loan to buy quality organic manure and seeds to improve her corn crop business that has been significantly affected by COVID-19.<br /><br />Juhudi Kilimo’s partnership with Kiva is an effective tool for reducing poverty in Kenya especially among women, being the central actors in the rural areas. Ann is hopeful for a positive response to her loan request.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals, farm inputs and farming equipment.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2272666.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 21,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

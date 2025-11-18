@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 664274,
+                "name": "Kang",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-01-31T21:30:02Z",
+                "disbursalDate": "2014-01-15T08:00:00Z",
+                "plannedExpirationDate": "2014-03-02T21:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "To buy a hand tractor to transport charcoal and firewood.",
+                "description": "Kang is a married woman with one child. She is a farmer and her husband is a charcoal and firewood seller. Both of them earn around $12 per day. In order to expand her husband’s business, she would like to take out a loan of $1,500 for buying a hand tractor to transport charcoal and firewood. This loan is very important as the hand tractor will be very useful for developing her husband’s business and this business is the big gateway to gaining income for her family. She hopes that in the future she can buy more charcoal and firewood for the business and build the gate of her house.\r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/664274.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 47,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Transportation"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "Phillip Bank"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1635409,
+                "name": "Dema",
+                "loanAmount": "525.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-10-31T11:00:05Z",
+                "disbursalDate": "2018-11-28T08:00:00Z",
+                "plannedExpirationDate": "2018-11-30T12:00:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy assembly tools to make perfect frames.",
+                "description": "Dema is a 38-year old man who works in carpentry. Three years ago, he had the idea to sell his services in his neighborhood. Then he realized he could learn to make frames as the market size was growing. Dema opened his shop and also acquainted himself with other beekeepers. That was his business ideas. <br /><br />Today, Dema's commercial objectives are to increase the number of his hive boxes and to increase his service by 20%. The purpose of this loan to buy assembly tools to make perfect frames for the beekeepers. That is the reason why he applies for a loan on Kiva. Dema counts on introducing his young child to the activity on summer vacation to grow the sense of business inside his family.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides small and growing businesses in Haiti with access to capital.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1635409.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HT",
+                        "name": "Haiti"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 19,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Manufacturing"
+                },
+                "sector": {
+                    "name": "Manufacturing"
+                },
+                "partnerName": "Fonkoze - Zafèn"
+            }
+        }
+    }
+}

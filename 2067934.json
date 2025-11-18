@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2067934,
+                "name": "William's Group",
+                "loanAmount": "475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-12-07T01:20:15Z",
+                "disbursalDate": "2021-02-17T08:00:00Z",
+                "plannedExpirationDate": "2021-01-21T01:20:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer to improve harvests of maize.",
+                "description": "Pictured above is William, often described as an extremely hardworking individual. He is 49 years old and has five children. As a group leader, he is representing his group of eight farmers in Alego District, Kenya. <br /><br />William is returning this season to work with One Acre Fund again as this means that he is able to earn enough to feed his family, which is why he decided to join in the first place. William says that he is happy to have made that decision because, since he first joined in 2017, he has been able to consistently feed his family which has improved his day-to-day life significantly. William will use the profits from this season to send his children to school.<br /><br />The group will use this loan to purchase seeds and fertilizer to plant a total of 5.5 acres. Given that some members of the group will also be purchasing a solar light with this loan, the group will also receive a total of three solar lights.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Schooling",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 8,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2067934.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

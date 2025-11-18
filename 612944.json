@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 612944,
+                "name": "Zamiq",
+                "loanAmount": "2550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-10-04T19:10:01Z",
+                "disbursalDate": "2013-09-12T07:00:00Z",
+                "plannedExpirationDate": "2013-11-03T19:10:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to improve the quality of his crops to increase his sales.",
+                "description": "Zamiq is 32 years old. He is married and has a one daughter. Zamiq lives with his family in an internally displaced persons (IDP) settlement, as he is an IDP. \r\n\r\nZamiq raises seasonal fruits and vegetables such as corn, cucumbers, tomatoes, apples, pears, peaches, plums, and cherries. He has eight years of experience. Despite the short period he has been in this business, Zamiq has gained respect from local vendors because he produces a good organic crop without chemical fertilizers. Fresh fruits are served on every Azerbaijani family's table and also are used to make fresh punch.\r\n\r\nZamiq sells his crops from his yard and sometimes takes them to the local bazaar. His monthly income is 100 AZN. He would like to expand his business and purchase more seeds and fertilizers to improve the quality of his crops to increase his sales. For this purpose, Zariq applied for a loan of 2,000 AZN. This will be his fifth loan and he has a positive client history.\r\n",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Repeat Borrower",
+                    "#Refugee"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/612944.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AZ",
+                        "name": "Azerbaijan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 90,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Aqroinvest Credit Union"
+            }
+        }
+    }
+}

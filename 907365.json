@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 907365,
+                "name": "Anonymous",
+                "loanAmount": "1450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-06-27T22:50:03Z",
+                "disbursalDate": "2015-06-05T07:00:00Z",
+                "plannedExpirationDate": "2015-07-27T22:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "",
+                "description": "",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Health and Sanitation"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/907365.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SL",
+                        "name": "Sierra Leone"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 45,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pharmacy"
+                },
+                "sector": {
+                    "name": "Health"
+                },
+                "partnerName": "Association for Rural Development (ARD)"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1003466,
+                "name": "Christopher's Group",
+                "loanAmount": "725.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-01-04T20:00:17Z",
+                "disbursalDate": "2016-02-01T08:00:00Z",
+                "plannedExpirationDate": "2016-02-03T20:00:17Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer for the cultivation of maize.",
+                "description": "Pictured above is Christopher, often described as an extremely reliable person. He is 62 years old and, as a group leader, is representing his group of 10 farmers in Teso District, Kenya.  He is married and has two children.<br /><br />Christopher is returning this season to work with One Acre Fund to have access to quality training and to acquire new farming methods, which is why he decided to join in the first place. Christopher says that he is happy to have made that decision because, since he first joined in 2013, he has had more profits from each harvest, which has improved his day-to-day life significantly. Christopher will use the profits from this season to save more money for the future.<br /><br />The group will use this loan to purchase seeds and fertilizer to plant a total of 6.5 acres. Some members of the group will also purchase a solar light with this loan. The group will receive a total of four solar lights.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 10,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1003466.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 17,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

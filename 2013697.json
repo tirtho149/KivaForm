@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2013697,
+                "name": "Olusheno",
+                "loanAmount": "100000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-09-08T17:50:22Z",
+                "disbursalDate": "2020-10-15T07:00:00Z",
+                "plannedExpirationDate": "2020-10-23T17:50:22Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase solar home systems that will be financed for rural customers in Namibia.",
+                "description": "Olusheno, a local social enterprise based in Namibia, has provided sustainable solar lighting to over 13,000 households to date across the country through its partnership with d.light design, a leading manufacturer of solar lighting systems. \n\nThis month, Olusheno fully repaid their first Kiva loan in full ahead of schedule. They would now like to fundraise a second, larger loan through Kiva to provide energy access to an additional 3,000 vulnerable households during this uncertain time.\n\nOlusheno is working to fulfill the government’s dream of bringing reliable electricity to its one million off-grid citizens by 2030.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Unique",
+                    "#Repeat Borrower",
+                    "#Job Creator",
+                    "#Biz Durable Asset",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It catalyzes access to affordable solar-powered products for lower-income households across Africa and Asia.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2013697.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NA",
+                        "name": "Namibia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 3137,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Renewable Energy Products"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "d.light design"
+            }
+        }
+    }
+}

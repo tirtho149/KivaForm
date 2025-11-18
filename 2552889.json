@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2552889,
+                "name": "John Bosco",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-04-20T18:50:05Z",
+                "disbursalDate": "2023-03-13T07:00:00Z",
+                "plannedExpirationDate": "2023-05-25T18:50:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy farm inputs to better soil fertility.",
+                "description": "John Bosco is a resident of Kijonjjo, Kyotera district who is aged 48 years and married with four children. <br /><br />He is a farmer at the same location dealing in banana production. <br /><br />He earns less from sales and, after research, this is due to poor quality bananas. John Bosco is seeking a loan to buy fertilizers and manure so he can better his soils.<br /><br />He will equally mulch to regain water in soil so crops can grow on fertile land and sprout into good quality bananas for resale at profitable prices.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2552889.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 17,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

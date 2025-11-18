@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 908927,
+                "name": "Robert",
+                "loanAmount": "625.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-06-30T20:50:05Z",
+                "disbursalDate": "2015-06-15T07:00:00Z",
+                "plannedExpirationDate": "2015-07-30T20:50:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more drugs to sell.",
+                "description": "Robert a father of two children is a married man living in Kyenjojo-Uganda. \r\n\r\nHis businesses include timber sales, produce buying and selling and a small drug shop where he gets income. He got involved in business to meet his family needs. \r\n\r\nHis business plan is to grow his clinic into a renown hospital providing in and outpatient services. \r\n\r\nDespite his dream, Robert faces a challenge of being out competed by government hospitals that provide free services and inadequate capital to purchase enough drugs. \r\n\r\nHe will use the loan facility to buy more drugs to sell.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Health and Sanitation"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/908927.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Medical Clinic"
+                },
+                "sector": {
+                    "name": "Health"
+                },
+                "partnerName": "HOFOKAM"
+            }
+        }
+    }
+}

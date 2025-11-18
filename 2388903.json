@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2388903,
+                "name": "Silvia Gabriela",
+                "loanAmount": "2925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-06-13T15:30:10Z",
+                "disbursalDate": "2022-05-30T07:00:00Z",
+                "plannedExpirationDate": "2022-07-18T15:30:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy supplies to sell honey.",
+                "description": "Silvia Gabriela is 38 years old. She currently lives with her husband and children. She needs the loan to invest in her bee keeping project. She is going to buy more hives with the intention of increasing her honey production and containers to pack and sell the honey. With this new investment she hopes to improve her income and continue to grow as a micro-entrepreneur and improve her family's quality of living. Silvia is very grateful for all the support that has been given and the trust in her and her project. She has not had previous loans from the state banks and FUDECOSUR has provided the loan with better terms and a much lower rate of interest.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It is structured so that farmers' repayment schedules align with their cash flows.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2388903.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CR",
+                        "name": "Costa Rica"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 49,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beekeeping"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FUDECOSUR"
+            }
+        }
+    }
+}

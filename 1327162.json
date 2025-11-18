@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1327162,
+                "name": "Benedicta",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-06-26T02:00:05Z",
+                "disbursalDate": "2017-05-24T07:00:00Z",
+                "plannedExpirationDate": "2017-07-26T02:00:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy farm supplies such as organic manure, seeds, and agrochemicals to improve production.",
+                "description": "Benedicta is 20 years old and has been living with her partner Wilder for over 4 years. The family lives in an urban province in the department of Cochabamba. Benedicta and her husband come from a humble family with limited resources. They are farmers whose income comes from the seasonal sale of potato and the rotating crop of locoto [a type of hot pepper]. They need the loan urgently to buy farm supplies such as organic manure, seeds, and agrochemicals. Her husband had an accident at work and they spend all the money they had.",
+                "tags": [
+                    "volunteer_pick",
+                    "volunteer_like",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Health and Sanitation"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It aims to grow small farms and businesses in the Bolivian highlands.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1327162.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 50,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "CIDRE"
+            }
+        }
+    }
+}

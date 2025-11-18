@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 947848,
+                "name": "Selvije",
+                "loanAmount": "2275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-09-16T20:20:04Z",
+                "disbursalDate": "2015-09-14T07:00:00Z",
+                "plannedExpirationDate": "2015-10-16T20:20:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase food for the bees, seeds, and artificial guano for the land.",
+                "description": "Selvije is 48 years old and  plants and sells wheat and is a beekeeper.  She has a lot of  honeybees and she sells the honey in her area. She is very well known and has a lot of clients and demand for her product. <br /><br />Her husband is a policeman and earns a low salary. Selvije is able to help provide for the family with her business. She requests a loan to purchase food for the bees, seeds, and artificial guano for the land. She expects that this loan will help her to improve her business and allow her to continue to improve her family's quality of life.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/947848.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "XK",
+                        "name": "Kosovo"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 84,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "KosInvest"
+            }
+        }
+    }
+}

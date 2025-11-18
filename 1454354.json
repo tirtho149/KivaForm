@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1454354,
+                "name": "Sovannara Group",
+                "loanAmount": "2975.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-01-20T01:30:02Z",
+                "disbursalDate": "2018-01-10T08:00:00Z",
+                "plannedExpirationDate": "2018-02-19T01:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy rice seedlings, organic fertilizer and pesticides, and gasoline for use on Sovannara's farm.",
+                "description": "Sovannara, 44 years of age, is married and the mother of five children. The family lives in Prey Veng Province, Cambodia where they have cultivated rice for the past twenty years. <br /><br />Sovannara is representing this group of six that has applied for a 12,000,000 KHR loan through Kiva's field partner KREDIT to be apportioned among the members. She is going to use her share of the loan to pay for additional rice seedlings, organic fertilizer, organic pesticides and gasoline for use on her farm. She thinks that this investment will help her to boost production as well as increase her family’s profits.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 6,
+                "whySpecial": "It provides low-income rural communities with access to finance and training services.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1454354.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 105,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Phillip Bank"
+            }
+        }
+    }
+}

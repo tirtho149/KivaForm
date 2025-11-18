@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1606046,
+                "name": "Mauricio Alberto",
+                "loanAmount": "1250.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-09-16T12:00:04Z",
+                "disbursalDate": "2018-10-12T07:00:00Z",
+                "plannedExpirationDate": "2018-10-16T12:00:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to establish 1.05 hectares of coffee.",
+                "description": "Mauricio is a 50-year-old farmer with good principles and a great vision. When he was young, his parents taught him to work the land and love it. His farm, 2.45 hectares, is all enabled for the coffee field. With the help of the PAC technical team, he implements the FLO certification criteria. <br /><br />He lives in a remote community of Jinotega, in Nicaragua. <br /><br />For 15 years, he has worked planting and harvesting quality coffee. Each year is a new challenge to meet, and this one was no exception. For this season, Mauricio's challenge was the implementation of a renewal plan for his coffee trees, which will allow him to increase his family's income. The received loan will allow him to purchase seedlings and pay labor costs to renew 1.05 hectares.<br /><br />This is the third loan he has gotten from PAC. The previous ones have been paid off on time and according to the plan.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps farmers swap unproductive coffee plants with new ones.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1606046.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 45,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "PAC"
+            }
+        }
+    }
+}

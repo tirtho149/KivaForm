@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2547000,
+                "name": "Lanieta",
+                "loanAmount": "1325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-03-26T20:40:44Z",
+                "disbursalDate": "2023-03-22T07:00:00Z",
+                "plannedExpirationDate": "2023-04-30T20:40:44Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a load each of taro sucklings, cassava stems, and manure.",
+                "description": "As another season comes round, many subsistence farmers lack savings to buy inputs for their next planting. Lanieta’s husband is a farmer who cultivates taro and cassava on their small plot. She has applied for a loan to invest in taro sucklings, cassava stems, bags of manure, and insecticides. The yield from their efforts will help meet the needs of her family, at least until the next cropping season. Lanieta hopes the coming harvest will be good and will protect her family’s standard of life.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women with credit in a country where alternative financing is extremely scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2547000.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "FJ",
+                        "name": "Fiji"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 26,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Fiji"
+            }
+        }
+    }
+}

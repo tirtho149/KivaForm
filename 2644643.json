@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2644643,
+                "name": "Kanymbu",
+                "loanAmount": "2850.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-09-27T22:10:15Z",
+                "disbursalDate": "2023-09-12T07:00:00Z",
+                "plannedExpirationDate": "2023-11-01T22:10:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy dairy cows to increase her headcount of cattle and sales of organic milk.",
+                "description": "This smiling woman is named Kanymbu. She is 44 years old, married, and the mother of four wonderful children. The most important part of Kanymbu’s life is her children and husband. She has a secondary education, and has raised livestock and grown crops since 1997. Thanks to her hard work, her farm currently has 3 cows, 2 horses, and 6 sheep.<br /><br />In order to further develop her farm, Kanymbu applied to Bai Tushum Bank for a loan of 250,000 to buy dairy cows so she can increase her sales of organic malk. This, of course, will help raise her farm’s productivity and, at the same time, her income. Kanymbu hopes to achieve her goals and create a better life for her wonderful children.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports organic farming and includes a lower interest rate.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2644643.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 86,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Dairy"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

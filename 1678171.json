@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1678171,
+                "name": "Livingstone's Group",
+                "loanAmount": "1125.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-12-30T17:20:06Z",
+                "disbursalDate": "2019-02-15T08:00:00Z",
+                "plannedExpirationDate": "2019-01-29T17:20:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer for the cultivation of maize, as well as a solar light.",
+                "description": "Livingstone's Group is formed by 14 farmers in Teso District and is being represented by Livingstone, who is the group leader pictured above. He is 42 years old and has 6 children. Livingstone has been a farmer for more than 20 years and is often referred to as a very hardworking individual.<br /><br />Livingstone isn’t new to One Acre Fund. He actually joined the program in 2016 and has since noticed his life has changed, especially in the sense that he has been able to consistently feed his family ever since. <br /><br />This year, Livingstone will not only get fertilizer and maize seeds as part of his loan, but he will also purchase a solar light. He is very excited about this addition since now he will be able to charge his phone and light his house.<br /><br />Using this loan, Livingstone's Group will purchase a total of 7 solar lights and use the farming inputs received to plant a total of 9 acres.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 14,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1678171.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 28,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

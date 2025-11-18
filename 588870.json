@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 588870,
+                "name": "Abdullah",
+                "loanAmount": "3000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-08-02T13:50:01Z",
+                "disbursalDate": "2013-07-24T07:00:00Z",
+                "plannedExpirationDate": "2013-09-01T13:50:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to make a new greenhouse and plant more vegetables.",
+                "description": "Abdullah is 31 years old and from Tulkarem. He owns a greenhouse in which he has planted vegetables since 2008.\r\n\r\nHe asked Ryada for this loan in order make a new greenhouse and plant more vegetables. He hopes that this loan will help him increase the productivity and thus, increase the sales and improve his income.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Interesting Photo"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/588870.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PS",
+                        "name": "Palestine"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 106,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Vitas - Palestine"
+            }
+        }
+    }
+}

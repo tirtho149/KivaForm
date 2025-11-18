@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2724431,
+                "name": "Dorcas",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-02-07T17:20:17Z",
+                "disbursalDate": "2024-01-12T08:00:00Z",
+                "plannedExpirationDate": "2024-03-13T16:20:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a biodigester to power her farm with biogas and stop cutting trees.",
+                "description": "Dorcas  lives in Nakuru. Like many farmers in her region, she used to buy firewood to power her farm, but this has become a problem. Now trees are scarce, making it even more difficult for farmers to have affordable access to energy. <br /><br />Dorcas  plans to use a Sistema Biobolsa biodigester to eliminate wood, fossil fuels, and chemical fertilizers from her farm. With her 12 cubic meters Sistema Biobolsa, she will transform her cows' manure into renewable energy and organic fertilizer.<br /><br />Dorcas and her family will be able to cook without smoke and stop spending time on chopping wood. Dorcas’ family will also increase her vegetable productivity with the organic fertilizer that the biodigester will produce and give back to the soil the nutrients needed to reforest Nakuru.<br /><br />This loan represents 100% of the price of the biodigester.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It saves farmers money by transforming waste into biogas and organic fertilizer.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2724431.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 19,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Energy"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Sistema.bio"
+            }
+        }
+    }
+}

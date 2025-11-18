@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 674557,
+                "name": "Hayastan",
+                "loanAmount": "2000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-02-24T22:40:02Z",
+                "disbursalDate": "2014-01-29T08:00:00Z",
+                "plannedExpirationDate": "2014-03-26T22:40:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for land rental.",
+                "description": "Hayastan lives in Jrarat village with her husband and two daughters. She is a farmer with many years of experience of running a farm. She keeps three cows and cultivates wheat, potatoes and some greens. She works hard to run her farm in a sustainable way and gather enough income for her family. \r\n\r\nNow, by applying for this loan, Hayastan asks for 2,000 USD to pay for land rental service. The land where she makes cultivation is not her own so she has to rent it. Since the spring is a great season for cultivation, she asks for financial support to be able to pay for land rental. \r\n\r\nHayastan will be very grateful to lenders for their support.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/674557.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 66,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Land Rental"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "SEF International"
+            }
+        }
+    }
+}

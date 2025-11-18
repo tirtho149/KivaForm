@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1619171,
+                "name": "Chaza 1 Group",
+                "loanAmount": "2700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-10-06T16:30:02Z",
+                "disbursalDate": "2018-09-07T07:00:00Z",
+                "plannedExpirationDate": "2018-11-05T17:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seeds and fodder to increase her productivity.",
+                "description": "Zaynab is the featured borrower of Chaza 1 Group, which consists of three women.<br /><br />She got together with the other group members to acquire a youth loan from Kiva’s field partner Al Majmoua, because they’re all working hard to improve their families’ lives and businesses.<br /><br />Zaynab is a twenty-two-year-old married mother of three children. She has sold dairy products and worked in the agricultural sector since 2013. She's a hardworking woman, who puts a lot of effort into supporting her beloved family and into improving her business.<br /><br />For this reason, her loan share will be used to buy seeds and fodder to increase her productivity.<br /><br />Zaynab is the woman in the middle of the photograph. The other group members are Alaa (the woman on the right) and Safiya (on the left).",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 3,
+                "whySpecial": "It targets youth in a region where opportunity is scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1619171.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "LB",
+                        "name": "Lebanon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 81,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Dairy"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Al Majmoua"
+            }
+        }
+    }
+}

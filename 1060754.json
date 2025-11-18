@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1060754,
+                "name": "Ishongororo Women's  Grp Group",
+                "loanAmount": "1525.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-04-30T09:10:02Z",
+                "disbursalDate": "2016-04-14T07:00:00Z",
+                "plannedExpirationDate": "2016-05-30T09:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy stock of groceries to sell.",
+                "description": "Ishongororo Women's Group is found in Ishongororo TC, Ibanda district. The group is comprised of women who mostly deal in agriculture and some small-scale businesses.<br /><br />Kellen, 42, is married with two children. She sells agricultural produce such as yellow bananas, tomatoes, avocados and eggplants, among other groceries. She also operates a small bar and pork joint to supplement sales, keeps domestic birds such as hens and ducks, and also sells cereals to the nearby towns of Ishongororo and Ibanda. <br /><br />Kellen runs her business with limited capital and wishes to boost her sales. She has requested a loan of UGX 1,000,000 to add to her working capital so as to increase her cash flow. She will use the rest of the money to pay school fees for her grandchildren and buy them a few basic necessities. <br /><br />Her customers are people from around the community where she lives, but at times she takes her products to the market centers to check on market trends. Her major challenges are harsh weather conditions like drought, pests that usually attack her plantation gardens, and diseases that at times affect her livestock. These affect her mostly in her day to day business activities.<br /><br />Despite all these challenges, Kellen is a very hardworking woman who is striving hard to provide a good education and a good standard of living for her family.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 6,
+                "whySpecial": "It provides financing to underserved borrowers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1060754.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 45,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Stall"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

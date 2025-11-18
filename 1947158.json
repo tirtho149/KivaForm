@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1947158,
+                "name": "Jazgul",
+                "loanAmount": "725.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-03-22T17:50:09Z",
+                "disbursalDate": "2020-03-11T07:00:00Z",
+                "plannedExpirationDate": "2020-04-21T17:50:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for field work to grow clover.",
+                "description": "Jazgul has successfully repaid her loan, and she is grateful to Kiva and everyone who helped her to finance it. <br /><br />Her farm currently has 4 cows and 8 sheep. There is also 1.52 hectares of irrigated land on which she grows clover. In order to further develop her business, she has once again applied to Bai Tushum Bank for a loan of 50,000 KGS. It is for the purchase of field work to grow clover. She plans to use proceeds from the loan to construct a shed, and use part of them to repair the house.",
+                "tags": [
+                    "volunteer_pick",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The borrower receives a lower interest rate to fund their agriculture activities.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1947158.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 18,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

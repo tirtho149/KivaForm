@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2514754,
+                "name": "Alex Randolph",
+                "loanAmount": "750.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-01-30T22:10:17Z",
+                "disbursalDate": "2023-01-24T08:00:00Z",
+                "plannedExpirationDate": "2023-03-06T22:10:17Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase certified seeds, compost, minerals, fertiliser, and pesticide.",
+                "description": "Alex is 33 years of age, married, and father to two children who have become his major motivation. Alex is always thinking of the best ways to generate earnings to help his family get ahead. Three years ago, encouraged by his brother, he began cultivating papayas to sell in the markets of the area.<br /><br />Alex is requesting his first loan from Kiva with the support of MiCrédito. He plans to use this loan to purchase certified seeds, compost, minerals, fertiliser, and pesticide to have a better production and quality of papayas.<br /><br />His goal is to have more places in the market to sell his goods.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The repayments are aligned with harvest season.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2514754.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "MiCredito"
+            }
+        }
+    }
+}

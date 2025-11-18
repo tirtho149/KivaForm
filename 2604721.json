@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2604721,
+                "name": "Sirikhan",
+                "loanAmount": "850.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-07-03T17:30:20Z",
+                "disbursalDate": "2023-06-14T07:00:00Z",
+                "plannedExpirationDate": "2023-08-07T17:30:20Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase seedlings, plastic bags, organic fertilizer, plant pots, garden soil, and other essential supplies.",
+                "description": "Sirikhan is a 47-year-old woman and married. She lives with her husband and an adult child in a small town called Surin in northeastern Thailand. Sirikhan earns a primary source of income by running a plant shop, while her husband works as a labourer. Moreover, her child owns a retail business to supplement the family's income. <br /><br />Sirikhan learned how to plant seeds and nursery seedlings from other villagers in her community, and in 2017, she decided to start a small plant shop using the knowledge she gained to run the business. At her shop, she sells a variety of plants, but the most common purchases are eucalyptus and vegetables. <br /><br />In the future, Sirikhan dreams of expanding the size of her business, selling a larger volume of plants, and generating a stable income to support her family. In order to do so, she needs more working capital to invest in buying additional seedlings and planting supplies, as she believes it will enable her to achieve her dream. Therefore, Sirikhan has applied for a loan to purchase seedlings, plastic bags, organic fertilizer, plant pots, garden soil, and other essential supplies.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps women living in rural areas improve financial literacy and invest in their businesses.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2604721.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TH",
+                        "name": "Thailand"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 35,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Retail"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Small Enterprise Development Co., Ltd. (SED)"
+            }
+        }
+    }
+}

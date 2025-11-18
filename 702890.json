@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 702890,
+                "name": "Nicolás",
+                "loanAmount": "650.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-05-21T00:50:09Z",
+                "disbursalDate": "2014-04-05T07:00:00Z",
+                "plannedExpirationDate": "2014-06-20T00:50:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy materials for honey production.",
+                "description": "Nicolás is a 41 year old single man. He has 5 children. They are going to school and live in the department of Sololá. Several years ago, Nicolás started working in honey production. His parents taught him when he was young and he decided to continue with this activity and has been doing it for 5 years. He says that this work is very profitable and productive for income generation. he also works as a bricklayer in order to generate another source of income. Through what he does he can cover his family's expenses. Now he is asking for a loan of  Q 5,000.00 to buy materials that he will use for honey production. \r\n\r\nNicolás' dream is to produce more honey to increase his earnings and ensure his children's education so that in the future they can have better better opportunities in life.  \r\n",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Interesting Photo"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/702890.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GT",
+                        "name": "Guatemala"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 26,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Retail"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "ADICLA"
+            }
+        }
+    }
+}

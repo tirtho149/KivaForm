@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1976166,
+                "name": "Danny Cristina",
+                "loanAmount": "775.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-06-27T06:50:04Z",
+                "disbursalDate": "2020-06-08T07:00:00Z",
+                "plannedExpirationDate": "2020-08-11T06:50:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to invest in tagua (vegetable ivory) materials.",
+                "description": "Danny Cristina and her family live in Manta, a city that is very charming for its beautiful beaches and an international fishing port that has also been greatly affected by Covid 19.<br /><br />Danny is a fighting woman who, despite the current tough situation, draws strength to get ahead. That is why daily she struggles to earn her own financial resources and at the same time be able to support her husband with the household expenses. It is for this reason that she makes a living making tagua nut (vegetable ivory) buttons. But with the pandemic, she was affected in her business since her sales decreased and she did not earn much income. She hopes that all this will happen soon to continue growing with her business.<br /><br />The loan will be invested in tagua materials. Her dream is that everything happens soon and that nothing happens to her family",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps borrowers withstand negative economic impacts of the COVID-19 pandemic.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1976166.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 19,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Manufacturing"
+                },
+                "sector": {
+                    "name": "Manufacturing"
+                },
+                "partnerName": "Fundación ESPOIR"
+            }
+        }
+    }
+}

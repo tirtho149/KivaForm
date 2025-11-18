@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1319016,
+                "name": "Santa Marta Yepocapa Group",
+                "loanAmount": "4275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-06-21T17:30:02Z",
+                "disbursalDate": "2017-06-08T07:00:00Z",
+                "plannedExpirationDate": "2017-07-21T17:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a variety of upholstery fabrics, plus fertilizer & 500 coffee plants.",
+                "description": "Friendship Bridge has numerous Trust Banks throughout Guatemala.  \"Santa Marta Yepocapa\" with eight visionary members is one of them that is located in the state of Chimaltenango. It is known for its colorful markets and ancient traditional dances.  The group of three Maya K'iche and the rest of mixed backgrounds is beginning its first loan with Kiva with great anticipation of becoming strong business women in their community.  They have businesses selling bedspreads, sheets and upholstery, as well as having a coffee farm and raising poultry.<br /><br />The group's Treasurer is 41-year-old Dalila who was only able to attend school through the second grade due to her family's lack of finances.  She has 6 children (7-19) who are in the 4th-9th grades.  Dalila has worked hard in businesses since she was young and now has two.  One is upholstering car and motorcycle seats and the other is a small coffee farm.  She is requesting a loan to buy a variety of upholstery fabrics, plus fertilizer and 500 coffee plants.<br /><br />Dalila is able to enhance her education with the Trust Bank monthly meetings, where she gains valuable knowledge in business management along with good health and hygiene practices.  A Facilitator engages the group with games, role-playing, diagrams and pictures.  These are a part of Friendship Bridge's \"Microcredit Plus\" program of education + loans.  Dalila and her friends are very grateful to Kiva investors for their partnership in this program that helps them create a better quality of life!",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Schooling",
+                    "#Fabrics",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 8,
+                "whySpecial": "Clients receive in-depth trainings on business, health, over-indebtedness, and self-esteem.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1319016.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GT",
+                        "name": "Guatemala"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 75,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Upholstery"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "Friendship Bridge"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1754376,
+                "name": "Harbert",
+                "loanAmount": "275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-04-30T19:10:06Z",
+                "disbursalDate": "2019-04-24T07:00:00Z",
+                "plannedExpirationDate": "2019-05-30T19:10:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy manure for his tea plantation.",
+                "description": "Harbert is requesting a loan facility to buy manure for his tea plantation. Harbert was born in the year 1976. He is happily married with six biological children all attending school in Kyenjojo, Uganda. He is very hardworking for he has other two dependents he is supporting in his household. <br /><br />Harbert is very proud of his tea growing business for he is able to pay school fees for his children. He also grows sugarcane to get a supplementary income and his aim is to expand the tea plantation in future. However, sometimes the tea yields drop due to prolonged dry seasons, which is a challenge on his side in terms of income.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Schooling",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps increase the productivity and income of rural farmers in Uganda.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1754376.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 5,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "HOFOKAM"
+            }
+        }
+    }
+}

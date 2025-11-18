@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1063207,
+                "name": "Nandiba's Group",
+                "loanAmount": "300.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-05-06T01:10:06Z",
+                "disbursalDate": "2016-03-31T07:00:00Z",
+                "plannedExpirationDate": "2016-06-05T01:10:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizers to grow groundnut and okra.",
+                "description": "Nadiba, seated on a chair in front of the group, belongs to a group of five farmers who live and work in Mpiebougou, a village in Mali. She is 64 years old and lives in a family of 22 people including 15 children, 11 of whom go to school. She became a farmer out of family tradition and to ensure food self-sufficiency.  However, she faces challenges such as the lack of rain and arable land.\r\n\r\nNadiba chose to join myAgro for their payment system and to improve her yields. For her second year with myAgro, she has bought some fertilizers to grow groundnut and okra on her 1/8 hectare plot of land. Thanks to this purchase, she hopes to be able to increase her yields, which will enable her to buy farming tools and will ensure food self-sufficiency. ",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Repeat Borrower",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": "It allows farmers to access high-quality inputs to increase yields and income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1063207.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "ML",
+                        "name": "Mali"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "myAgro"
+            }
+        }
+    }
+}

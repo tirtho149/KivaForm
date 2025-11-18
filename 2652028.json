@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2652028,
+                "name": "Luis Manuel",
+                "loanAmount": "2000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-09-30T10:40:17Z",
+                "disbursalDate": "2023-08-23T07:00:00Z",
+                "plannedExpirationDate": "2023-11-04T10:40:17Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy manure, fertiliser, compost, tilapia fish, and feed, among others.",
+                "description": "Luis is a humble man of 76 years of age. Despite his disability of the left arm, he is very active and has managed to build a better life for his family. They live together in a house that they build themselves with a lot of effort. Luis earns a living by growing sugar cane, which he sells in the area as a food supplement for cattle. It is important to note that his farm and his produce are organic. He has big projects in mind, which is why he asks for a loan not only to keep tending to his crops, but also to start rearing red tilapia fish. His goal is to make his dream of building a real family business around the farm come true in the near future. This way, all members of the family will have a better future, especially his grandchildren, who still go to school.",
+                "tags": [
+                    "volunteer_pick",
+                    "volunteer_like",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It aims to reach vulnerable refugee populations in an isolated region.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2652028.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 79,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Ecuador"
+            }
+        }
+    }
+}

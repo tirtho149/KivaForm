@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 692030,
+                "name": "Razia",
+                "loanAmount": "425.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-04-02T02:20:01Z",
+                "disbursalDate": "2014-03-11T07:00:00Z",
+                "plannedExpirationDate": "2014-05-02T02:20:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase one more cow.",
+                "description": "Razia is a 43-year-old married woman. She has been successfully running a business selling milk to the people of her community. Over time, Razia has become famous in her area for providing good quality milk. She counts on a good client list and makes enough to contribute to her family's income. Razia's husband is employed in a textile mill but his income is not sufficient to meet the needs of the family. She also sells animals on a seasonal basis to generate extra money to contribute to the family income.  \r\n\r\nRazia is requesting a 40,000 PKR loan through the Kashf Foundation to purchase one more cow. She expects a boost in her earnings with her loan and plans to spend her profits on expanding her business.\r\n\r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/692030.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PK",
+                        "name": "Pakistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 16,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Milk Sales"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Kashf Foundation"
+            }
+        }
+    }
+}

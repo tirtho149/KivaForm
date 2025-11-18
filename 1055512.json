@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1055512,
+                "name": "Vilma",
+                "loanAmount": "325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-04-21T21:30:08Z",
+                "disbursalDate": "2016-03-18T07:00:00Z",
+                "plannedExpirationDate": "2016-05-21T21:30:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy feeds and other supplies to raise her livestock.",
+                "description": "Vilma is 44 years old and has six children. Vilma is married and has three children who are currently in school.\n\nVilma is in the agricultural business, raising livestock in the Philippines. Vilma requested a PHP 14000 loan through NWTF to buy feeds and other supplies to raise her livestock.\n\nVilma has been raising livestock for 6 years now, and has borrowed 4 times in the past from NWTF to sustain it.\n\nIn the future, Vilma would like to save enough money so she could afford to send her children to college.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Schooling",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps this borrower grow their business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1055512.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

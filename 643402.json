@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 643402,
+                "name": "Ali",
+                "loanAmount": "1200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-01-02T18:50:01Z",
+                "disbursalDate": "2013-11-26T08:00:00Z",
+                "plannedExpirationDate": "2014-02-01T18:50:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "To start a new agricultural business where he will develop it with his father's support.",
+                "description": "Ali is a 32-year-old married father of one child. He has been working in the transportation business for 10 years. Ali has a small bus which he uses to transport people from one place to another. This is his main source of income. He wants to establish an additional business to make sure that he is capable of covering his beloved family's needs.\r\nToday he is acquiring a loan from Kiva partner Al Majmoua to start a new agricultural business he will develop with his father's support. His father has wide experience in this domain so Ali will develop the business in a well-managed way.\r\nAli hopes that in the future and through his increasing income, he'll be capable of developing both businesses and he might buy another bus.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/643402.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "LB",
+                        "name": "Lebanon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 33,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Al Majmoua"
+            }
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1974316,
+                "name": "Tamanno",
+                "loanAmount": "1375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-06-20T12:30:16Z",
+                "disbursalDate": "2020-06-02T07:00:00Z",
+                "plannedExpirationDate": "2020-08-04T12:30:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy an apricot garden to expand her business and increase her income.",
+                "description": "Tamanno is a 21-year-old, kind and polite woman from Kanibadam, Tajikistan. She is unmarried and lives with her parent.\n\nShe is a responsible farmer, growing apricots and selling them in the local market. Tamanno's activity is seasonal and she makes a good income from it.\n\nShe is asking for a loan from Kiva's partner, IMON, to buy an apricot garden to expand her business and increase her income. She depends on your charity and help.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Single",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports the well being of women and their families.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1974316.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TJ",
+                        "name": "Tajikistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 42,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "IMON International"
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2482127,
+                "name": "Victor",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-11-25T23:20:33Z",
+                "disbursalDate": "2022-10-22T07:00:00Z",
+                "plannedExpirationDate": "2022-12-30T23:20:33Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase organic fertilizers that will increase the production of his onion and potato crops.",
+                "description": "Victor is an indigenous farmer from Silvia, Cauca with more than 30 years of experience in his community.  He currently has a two-hectare plot of land that was assigned to his father by the indigenous council, where he distributes crops of onion and potato crops.  Victor staggers his crops in different stages to guarantee year-long sustainability.   Besides his crops, Victor also works as a fruit and vegetable seller in his town’s central square.<br /><br />Victor lives with his wife and three children aged 15, 12 and 8 in a house that was also inherited from his father.  His wife works creating traditional indigenous crafts which she sells to visitors and tourists. <br /><br />A loan of $3,424,089 COP helps Victor to purchase organic fertilizers that will enhance the production of his onion and potato crops before the year’s final harvest.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The loan will help peasants to improve their agro crops",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2482127.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 14,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FINAMIGA UNI2"
+            }
+        }
+    }
+}

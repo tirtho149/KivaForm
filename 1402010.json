@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1402010,
+                "name": "Dickson",
+                "loanAmount": "50.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-10-26T14:10:04Z",
+                "disbursalDate": "2017-10-10T07:00:00Z",
+                "plannedExpirationDate": "2017-11-25T15:10:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for a harvesting / pruning knife.",
+                "description": "Dickson is a farmer in an Organic and Fairtrade certified Oil Palm Company (serendipalm). He lives in Akim-Abaam in the Kwaebibirem District of the Eastern Region of Ghana, West Africa. He is 47 years old and married with a child. Dickson believes Organic Oil palm is sustainable and helps develop his community through job creation and infrastructural fair trade projects. In this regard, he wants to secure a Kiva Micro loan so that he can buy a harvesting knife for pruning and harvesting of his oil palm field",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It increases the productivity of farmers producing organic and Fair Trade palm oil.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1402010.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GH",
+                        "name": "Ghana"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 2,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Dr. Bronner's / Serendipalm"
+            }
+        }
+    }
+}

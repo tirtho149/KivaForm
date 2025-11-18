@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2540192,
+                "name": "Daniel",
+                "loanAmount": "1075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-03-19T08:00:06Z",
+                "disbursalDate": "2023-03-12T08:00:00Z",
+                "plannedExpirationDate": "2023-04-23T08:00:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a biodigester to turn his farm waste into resources to expand his business.",
+                "description": "Daniel is a young entrepreneur taking over the family farm. He is very interested in the opportunities that can offer new technologies. <br /><br />Daniel wants to be part of a new adventure: organic eco-responsible production. He has convinced his parents to upgrade their production with a biodigester.<br /><br />The family has eight cows producing daily organic waste. Using the system, the family will grow their corn production avoiding floor contamination and excessive CO2 emission for the well-being of the next generations.<br /><br />Daniel is an example proving to all the small household farmers that it is possible to make a farm a real business opportunity.<br /><br />This loan represents 100% of the price of the biodigester.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It saves farmers money by transforming waste into biogas and organic fertilizer.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2540192.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 40,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Sistema.bio"
+            }
+        }
+    }
+}

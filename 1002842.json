@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1002842,
+                "name": "Anonymous",
+                "loanAmount": "2500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-01-01T03:30:02Z",
+                "disbursalDate": "2015-12-24T08:00:00Z",
+                "plannedExpirationDate": "2016-01-31T03:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay hospital bills and other debts that he contracted during his wife's illness, so that she could recover and re-establish her family life.",
+                "description": "This man works in agriculture, using all of the agricultural skills that he learned as a child from his parents. He grows potatoes, onions, peanuts and oregano on his own land in his rural community. He is a hard-working person, but unfortunately he suffered a flood to his crops and home in 2013. He lost some of his belongings, his animals, and his crops, which seriously affected his economic stability. However, due to his great dedication to agricultural production he is now harvesting crops with great enthusiasm, and developing his production. He underwent a difficult and  critical situation when his spouse was ill and needed surgery for bleeding uterine tumors. He was unable to pay for her treatments, and so went looking for help to pay for her hospital bills and other debts so that she could recover and re-establish her family life.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Inspiring Story",
+                    "#Health and Sanitation"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps borrowers pay for emergency and preventative medical treatment.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1002842.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 87,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Health"
+                },
+                "sector": {
+                    "name": "Health"
+                },
+                "partnerName": "CIDRE"
+            }
+        }
+    }
+}

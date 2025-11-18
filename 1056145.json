@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1056145,
+                "name": "Nasreen",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-04-22T23:10:11Z",
+                "disbursalDate": "2016-04-08T07:00:00Z",
+                "plannedExpirationDate": "2016-05-22T23:10:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase another buffalo to increase her sales and profits.",
+                "description": "Nasreen is 48 years old, married, and a mother of seven children. She is shown in the photo with her husband. She and her husband run a business selling milk. She has been doing this for many years and has become famous for providing good quality milk in her area. <br /><br />With the support of Kashf Foundation, she has gradually improved her business. Currently she has requested a loan of 50,000 PKR  to purchase another buffalo to increase her sales and earn profits that she will use to provide her family with the basic necessities of life. Nasreen aspires to further expand her business and increase the number of animals she owns.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Schooling",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps entrepreneurial women work towards economic equality.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1056145.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PK",
+                        "name": "Pakistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 20,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Dairy"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Kashf Foundation"
+            }
+        }
+    }
+}

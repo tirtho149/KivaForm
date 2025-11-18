@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 912397,
+                "name": "Nida",
+                "loanAmount": "350.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-07-06T17:10:02Z",
+                "disbursalDate": "2015-06-02T07:00:00Z",
+                "plannedExpirationDate": "2015-08-05T17:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase bags of fertilizers and pesticides for her corn fields.",
+                "description": "Nida is 49 years old and married. She is from Sindangan, Zamboanga del Norte. <br /><br />She thought she was in the right place when she joined the microfinance group of Paglaum MPC. She decided to give it a try after she learned she can get financial assistance for her chosen business. Nida has maintained her membership in good standing without records of default up to this day. She has taken several loans and all were repaid in a timely manner. <br /><br />Recently, she took a loan of PHP 15,000 to purchase bags of fertilizers and pesticides for her corn fields. Nida wishes to continuously manage her business more effectively with the support of her family.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/912397.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Paglaum Multi-Purpose Cooperative (PMPC)"
+            }
+        }
+    }
+}

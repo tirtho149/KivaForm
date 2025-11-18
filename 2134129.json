@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2134129,
+                "name": "Mary",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-03-30T16:20:05Z",
+                "disbursalDate": "2021-03-16T07:00:00Z",
+                "plannedExpirationDate": "2021-04-29T16:20:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more fabrics of cotton, linen, silk and chiffon to sell, and to buy manure to boost crop growth, thus adding working capital to both of her businesses.",
+                "description": "Mary is a widow from Nakayombe in Bududa. She has 4 children and operates a small textile shop in Bududa town alongside farming for increased cash inflows.<br /><br />Mary is a hardworking woman who believes in reinvestment and business growth to earn more income. She is seeking a loan to add working capital to both of her businesses.<br /><br />She will buy manure to boost crop growth and buy more fabrics of cotton, linen, silk, and chiffon to sell and earn more income for survival. <br /><br />She is hopeful that her businesses will see her children through.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Widowed",
+                    "#Single Parent",
+                    "#Fabrics"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It targets rural populations.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2134129.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cloth & Dressmaking Supplies"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1540134,
+                "name": "Sandra Patricia",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-06-03T18:40:04Z",
+                "disbursalDate": "2018-05-21T07:00:00Z",
+                "plannedExpirationDate": "2018-07-03T18:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more underwear and continue selling in her business.",
+                "description": "Sandra studied until High school, is married and her husband works as an electrician. They have a son who attend school and is on 3rd grade.<br />Sandra's mother also lives with her.<br /><br />Sandra sells underwear. She started this business three years ago and she learned it from her mother who has a similar business.<br /><br />Sandra will use the loan to buy more underwear and continue selling in her business.<br /><br />She dreams of expanding her business and saving so her son attend school and become a professional.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Single",
+                    "#Schooling",
+                    "#Fabrics"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It enables vulnerable women to start and grow their own business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1540134.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 17,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Clothing Sales"
+                },
+                "sector": {
+                    "name": "Clothing"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

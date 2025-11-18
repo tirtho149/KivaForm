@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1639736,
+                "name": "Tumaini's Group",
+                "loanAmount": "1150.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-11-07T15:20:04Z",
+                "disbursalDate": "2018-11-15T08:00:00Z",
+                "plannedExpirationDate": "2018-12-07T15:20:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to gain access to cost-efficient hybrid seeds and fertilizer for maize cultivation.",
+                "description": "Pictured above is Tumaini, who, as a group leader, is representing her group formed by nine farmers in Kilolo North District, Tanzania. She is a mother to five children and is known by her community as a very hardworking individual.<br /><br />Initially, Tumaini joined One Acre Fund in 2012 because she wanted to have access to quality training and acquire new farming methods. Since she joined the program, she says that her life has improved, especially because she has learnt a lot from farming trainings. With the profits from the coming harvesting season, Tumaini plans to repair her home.<br /><br />Between the nine farmers in Tumaini's Group, a total of 12 acres of land will be planted using the maize seeds and fertilizer received with the loan. Additionally, some of the farmers in the group will be purchasing a solar light, so with this loan, the group will also receive a total of one solar light.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 9,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1639736.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TZ",
+                        "name": "Tanzania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 43,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

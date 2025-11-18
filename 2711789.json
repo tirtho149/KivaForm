@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2711789,
+                "name": "Ronard",
+                "loanAmount": "2045.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-01-12T18:10:19Z",
+                "disbursalDate": "2024-01-11T08:00:00Z",
+                "plannedExpirationDate": "2024-02-16T18:10:19Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulches and manure to improve soil fertility.",
+                "description": "The customer is called Ronard, aged 42 and a resident of Muziira. He is married with three children and deals in banana growing on four acres of land and additionally does tea growing. <br /><br />Ronard is seeking a loan to buy mulches and manure to boost crop production so he can grow healthy bananas to sell. Thank you funders.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2711789.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 86,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

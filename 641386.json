@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 641386,
+                "name": "Matelda",
+                "loanAmount": "475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-12-10T02:10:02Z",
+                "disbursalDate": "2013-12-02T08:00:00Z",
+                "plannedExpirationDate": "2014-02-08T02:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy clean energy products to sell in her community.",
+                "description": "Matelda owns a small shop on the beach of Kupang.  She opened her shop when she realized that the income from her fisherman husband could not support her family of two children.  She works from dawn until midnight selling food, beverages and snacks. \n\nTo improve her income, Matelda has joined Kopernik’s Tech Kiosk network to sell simple life-changing technologies.  She will use the loan to buy clean energy technologies such as solar lamps, water filters, and cooking stoves and grow her business.  Matelda also hopes Kopernik’s training program will improve her business skills.\n\nMatelda is keen to educate her relatives and friends on the importance of drinking clean water and switching their cooking methods from traditional stone stoves to improve the environment and their health.\n\nMatelda will use the extra income to sustain her family’s daily needs and to educate her children.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/641386.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "ID",
+                        "name": "Indonesia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 18,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Renewable Energy Products"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Kopernik"
+            }
+        }
+    }
+}

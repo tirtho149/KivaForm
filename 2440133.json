@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2440133,
+                "name": "Jovannie",
+                "loanAmount": "275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-09-01T13:20:04Z",
+                "disbursalDate": "2022-07-28T07:00:00Z",
+                "plannedExpirationDate": "2022-10-06T13:20:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy bamboo for growing oysters.",
+                "description": "40-year-old Jovannie is a resident of Balasan, Iloilo. She is married and has four children. The oldest child is 17, while the youngest is 10. <br /><br />Jovannie in oyster production in her place. She is planning to make expansions. She is asking a loan through Kiva partner CEVI so she can buy bamboo which will be used for this business. The bamboo is used as the foundation to which the oysters will be attached.<br /><br />Jovannie hopes that with additional capital, she can continue making a better profit out of her business and continue to send her children to school.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides training and capital for this borrower.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2440133.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 6,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Production/Sales"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Community Economic Ventures, Inc. (CEVI)"
+            }
+        }
+    }
+}

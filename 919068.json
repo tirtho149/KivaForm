@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 919068,
+                "name": "Jesus Humberto",
+                "loanAmount": "1150.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-07-27T14:50:03Z",
+                "disbursalDate": "2015-08-31T07:00:00Z",
+                "plannedExpirationDate": "2015-08-26T14:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase the materials needed to convert his coffee plantation to organic such as organic fertilizer, organic pesticides and coffee plants, among others.",
+                "description": "Jesús married Norma Iris 13 years ago, with whom he has 3 children. He is 36 years old. Jesús has worked in coffee production for more than 10 years now. Jesús has his coffee plantation certified with fair trade and Rain Forest seals, which he sells through COCAFCAL, of which he is a member.\r\n\r\nHe has worked his whole life in coffee production. Jesús and his wife have struggled together to get their family ahead. Currently, Jesús asks for a loan that will allow him to convert his farm to organic production and replace it completely and, in this way, he will have better market possibilities for his coffee and, in addition, will contribute to the conservation of the environment.\r\n\r\nJesús dreams that his family will be able to form a solid legacy that will guarantee a better quality of life and educational possibilities for his children.\r\n\r\nThe loan will help Jesús invest in the conversion of his coffee plants to organic and with the earnings he gets from the organic coffee, he hopes to be able to have sufficient income to improve his family's quality of life and in addition be able to save to continue making his small legacy. ",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/919068.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HN",
+                        "name": "Honduras"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 41,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "COCAFCAL"
+            }
+        }
+    }
+}

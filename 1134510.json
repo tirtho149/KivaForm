@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1134510,
+                "name": "Noong Het 32 Group",
+                "loanAmount": "1400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-08-26T14:30:02Z",
+                "disbursalDate": "2016-07-18T07:00:00Z",
+                "plannedExpirationDate": "2016-09-25T14:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy piglets and expand her pig farming.",
+                "description": "Hoa, 28, is a Thai ethic woman who lives with her husband and her little boy in a poor area of Dien Bien. For the love of farming, Hoa and her husband always work from morning to night with plenty of jobs such as growing rice, cassava, raising chickens, pigs. <br /><br />However, their lives are becoming more difficult because of her disease and her husband has to work extra for a local construction employer to cover living expenses. To manage their lack of capital, Hoa has already taken a loan from Anh Chi Em to buy piglets and expand her pig farming. She hopes that these piglets will grow fast and bring great profit. <br /><br />She hopes her disease will be cured and her loving family will always be happy and reach out of poverty. In the picture, Hoa is standing the first from the right.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": "It provides financial and other support to families living in vulnerable communities.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1134510.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "VN",
+                        "name": "Vietnam"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 42,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pigs"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Entrepreneurs du Monde - Anh Chi Em"
+            }
+        }
+    }
+}

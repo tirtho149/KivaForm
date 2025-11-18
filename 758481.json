@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 758481,
+                "name": "Magruba",
+                "loanAmount": "1025.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-08-28T20:20:02Z",
+                "disbursalDate": "2014-08-20T07:00:00Z",
+                "plannedExpirationDate": "2014-09-27T20:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy school uniforms and school supplies for her children.",
+                "description": "Magruba comes from a rural area. She is married and brings up three children. She is 33 years old. She is a responsible mother to her children. \r\n\r\nMagruba has been busy with growing wheat and potatoes. Her husband helps her to grow agricultural products. She works hard on her land. Magruba’s main family income is from the agriculture business, so they live poorly. \r\n\r\nShe must buy school uniforms and school supplies for her children, as her children go to school. She is asking for a loan with this aim. She awaits your mercy.\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/758481.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TJ",
+                        "name": "Tajikistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 37,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Primary/secondary school costs"
+                },
+                "sector": {
+                    "name": "Education"
+                },
+                "partnerName": "IMON International"
+            }
+        }
+    }
+}

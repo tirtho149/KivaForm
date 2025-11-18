@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1620198,
+                "name": "Phlomena",
+                "loanAmount": "600.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-10-07T06:00:03Z",
+                "disbursalDate": "2018-09-21T07:00:00Z",
+                "plannedExpirationDate": "2018-11-06T07:00:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy farming inputs such as hybrid seeds and fertilizer to improve her farm's output and make profits to educate her children.",
+                "description": "Get to know Phlomena, a hardworking rural farmer who is unwilling to let her children suffer. Her childhood was very challenging and because of this, she promised herself that she would work hard to get out of poverty. Phlomena and her husband have a grace-filled marriage and work hard to support their children. <br /><br />Phlomena is an established woman who lives and farms in Nakuru, Kenya, an area endowed with beautifully-flowing natural streams and green vegetation. She practices dairy farming and vegetable production. She sells her produce at her local market to earn a living to support her children and herself. <br /><br />In the modern world, agriculture has become exceedingly dynamic, requiring upgrades to the kind of inputs that are being used. There is a need to use improved farming inputs for effective production. Phlomena is seeking this loan so that she can buy farming inputs such as hybrid seeds and fertilizer. The returns from the investment will change her life and that of her entire household, as she will use the additional income to raise their living standards and pay for her children's education. <br /><br />Phlomena has a great desire to succeed and also a desire that Kiva lenders will listen to her request and help her better her life. She thanks her lenders for their generous support. Kindly be inspired!",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals and farming equipment.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1620198.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 19,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

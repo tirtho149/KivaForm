@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1257139,
+                "name": "Mathieu",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-03-17T02:40:04Z",
+                "disbursalDate": "2017-03-13T07:00:00Z",
+                "plannedExpirationDate": "2017-04-16T02:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for packets of fungicides, a pair of boots, insecticides, and a wheelbarrow.",
+                "description": "Mathieu is a 42-year-old man who is unmarried and the father of seven children, aged 6 to 25. He has been a farmer for fifteen years. He is requesting a loan of 300,000 francs CFA to purchase 120 packets of fungicides, a pair of boots, insecticides, and a wheelbarrow. This will enable him to have the supplies and equipment to maintain his cacao fields for better production and sales. The money from selling his cacao will in part be saved for his children’s education. And the rest will allow him to [take better care] of his family.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It gives farmers access to crucial financing when they need it the most.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1257139.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CM",
+                        "name": "Cameroon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 22,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "ACEP Cameroun"
+            }
+        }
+    }
+}

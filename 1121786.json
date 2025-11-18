@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1121786,
+                "name": "Alma Beatriz",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-07-26T01:50:05Z",
+                "disbursalDate": "2016-07-19T07:00:00Z",
+                "plannedExpirationDate": "2016-08-25T01:50:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy manure, seeds, poisons, and to pay to rent the land where she will grow basic grains, together with her husband.",
+                "description": "Alma is a 19 year old young woman. She is studying high school and has a domestic partner who works at an electric company and in agriculture. She has two beautiful daughters who are on the photograph with her.<br />Alma studies on weekends, but from Mondays to Fridays she works in domestic chores. She sells tortillas, works in agriculture with her husband and sells products per catalogue such as lotions, cosmetics and baby clothes. Her work schedule is from 6:00 am to 5:00 pm, and her mother in law helps her. <br />She will use this loan to buy manure, seeds, poisons, and to pay to rent the land where she will grow basic grains, together with her husband. Her greatest dream is to buy land to make her own house, because she lives with her in-laws, and wants to give well being to her daughters.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It enables single mothers to start their own business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1121786.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

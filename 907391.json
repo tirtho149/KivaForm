@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 907391,
+                "name": "Baikazi Kweterana Group",
+                "loanAmount": "1050.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-06-27T23:20:02Z",
+                "disbursalDate": "2015-06-19T07:00:00Z",
+                "plannedExpirationDate": "2015-07-27T23:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy drugs for resale.",
+                "description": "Xaviour is a Ugandan living in Kagadi, Uganda. He is aged 54 years. He owns drug shops, selling both human and veterinary medicines. His profession as a nurse led him to start up this business, having failed to get formal employment. \r\n\r\nXaviour wants to take a loan to buy drugs to resell. He is a member of Baikazi Kweterana, a group where members guarantee each other to get a loan since they cannot pledge securities.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Repeat Borrower",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 8,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/907391.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 24,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pharmacy"
+                },
+                "sector": {
+                    "name": "Health"
+                },
+                "partnerName": "HOFOKAM"
+            }
+        }
+    }
+}

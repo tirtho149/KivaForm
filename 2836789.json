@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2836789,
+                "name": "La Joyita De Villa Nueva Group",
+                "loanAmount": "2850.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-08-26T09:30:05Z",
+                "disbursalDate": "2024-08-06T07:00:00Z",
+                "plannedExpirationDate": "2024-09-30T09:30:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulch and plants.",
+                "description": "Mirma Medaris continues with her plant nursery business. She offers different types of plants, and is very happy because her business is prospering. <br /><br />She is requesting a loan to be able to invest in varieties of plants, and mulch, pots, and hangers. <br /><br />Thanks to the loans obtained, she has made her business grow and has expanded to a large shop where she better displays the variety of plants, and provides better service because now she has parking for customers. <br /><br />Her husband and daughter make the home deliveries, because they have daily orders on the web site from different parts of the capital city. They also deliver to departments. <br /><br />They all work together to get ahead and to have the necessary income.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": "The Field Partner is a leader in women's empowerment in Guatemala.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2836789.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GT",
+                        "name": "Guatemala"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 53,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Florist"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "FAPE"
+            }
+        }
+    }
+}

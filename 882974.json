@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 882974,
+                "name": "Bryce",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-05-12T11:30:02Z",
+                "disbursalDate": "2015-06-06T07:00:00Z",
+                "plannedExpirationDate": "2015-06-11T11:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "To grow his business by adding on the money that he uses to serve customers and painting his shop so that it can be more visible.",
+                "description": "Bryce is 30 years old. He is married and has two children, his first born daughter Eugenia is in second grade and his son is in pre-school. He is the sole financial supporter of his family. Bryce lives in Kasama,the capital of the Northern Province of Zambia, situated on the central-southern African plateau. \r\n\r\nBryce started his Zoona business in order to serve his community and provide access to needed financial services. A challenge Bryce faces is that he does not have enough working capital to meet demand, and he ends up having to turn away customers. Bryce is requesting a loan in order to grow his business and better serve his customers.He would also like to use his loan to get his shop painted and put up signage so that more people can be attracted to his business. Bryce hopes to one day build a house for his family see his children through school, growing his Zoona business would give him the opportunity to achieve these dreams.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Trees",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/882974.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "ZM",
+                        "name": "Zambia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 33,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Services"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "Zoona"
+            }
+        }
+    }
+}

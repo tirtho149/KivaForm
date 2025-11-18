@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 679579,
+                "name": "Abduhalil",
+                "loanAmount": "850.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-03-08T07:10:02Z",
+                "disbursalDate": "2014-02-05T08:00:00Z",
+                "plannedExpirationDate": "2014-04-07T07:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "To repair the car used in his taxi service.",
+                "description": "Abduhalil, born in 1947, is married and has adult children. He is a poor farmer who grows crops on 1.5 ha and potatoes on 0.6 ha. Abduhalil, having been busy with this activity for more than 26 years, has great experience. His wife helps him with managing the business. \r\n\r\nWhen the agricultural season is over, he has been busy operating his taxi service but now his car has broken down. Abduhalil is asking for a loan of 4000 Somoni to repair his car. He awaits your support. ",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/679579.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TJ",
+                        "name": "Tajikistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 19,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Taxi"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "IMON International"
+            }
+        }
+    }
+}

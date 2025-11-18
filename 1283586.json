@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1283586,
+                "name": "Metrine's Group",
+                "loanAmount": "325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-04-22T05:20:03Z",
+                "disbursalDate": "2017-04-01T07:00:00Z",
+                "plannedExpirationDate": "2017-05-22T05:20:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a solar light and increase maize cultivation.",
+                "description": "Metrine, featured in the above picture, is representing her farming group formed by seven farmers in Teso District, Kenya. She is 36 years old and a married mother of five children, often described as a very friendly person. <br /><br />Although Metrine has been a farmer for seven years, she is new to One Acre Fund and decided to join this year because she really wanted to have access to the best seed prices. Even though she is new to the program, Metrine wanted to represent her group because she likes being a leader. With the profits earned from this season’s harvest, Metrine hopes to be able to send her children to school.<br /><br />With this loan, the group will receive farming inputs to plant a total of 2.25 acres of land. They will also receive a total of 4 solar lights, as, even though Metrine decided not to, some of the farmers in the group will be purchasing a solar light as part of their loan package.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 7,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1283586.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2389377,
+                "name": "Moopi",
+                "loanAmount": "100.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-06-09T03:50:12Z",
+                "disbursalDate": "2022-05-27T07:00:00Z",
+                "plannedExpirationDate": "2022-07-14T03:50:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase the ACE One hybrid energy system for cooking, lighting and charging in a way that is safer, cleaner and saves money.",
+                "description": "Moopi is a 68-year-old man who lives in a multi-bedroom house, without access to electricity, with six other family members including four children. <br /><br />Moopi relies on commercial farming but struggles with insufficient income and buying multiple fuels. He spends the most amount of his energy expenses on wood and  paraffin, which costs up to LSL 40 per month. He also spends as much as four hours per day, gathering fuel and fulfilling other energy needs like phone charging. <br /><br />Moopi bought the ACE 1 cookstove to help him and his family save the money spent every month on fuel and also help them access solar electricity for charging their mobile devices any time for free. The ACE 1 clean cookstove is biomass and solar-powered.<br /><br />For more information on the ACE 1 cookstove please visit www.africancleanenergy.com and Facebook @African Clean Energy",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides communities with energy saving cookstoves that also reduce pollution.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2389377.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "LS",
+                        "name": "Lesotho"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 1,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Energy"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "African Clean Energy (ACE)"
+            }
+        }
+    }
+}

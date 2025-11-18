@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1831347,
+                "name": "Marina",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-09-13T18:30:12Z",
+                "disbursalDate": "2019-08-29T07:00:00Z",
+                "plannedExpirationDate": "2019-10-16T07:48:23Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy bull calve and sheep to increase her income from cattle breeding.",
+                "description": "Marina is 31 years old, married, and has four children. She has completed higher education, and she works as a teacher. She understands agricultural technologies and knows how to invest funds in this sphere. As a source of primary income for her family, she has worked in animal husbandry since 2010. Thanks to Marina's tireless work on her farm, she currently has two cows, 21 sheep, a horse, and 1.74 hectares of land where she grows beans.<br /><br />In order to further develop her farm, Marina turned to Bai Tushum Bank for a 130,000 KGS loan to buy bull calves and sheep. This is to increase income from breeding livestock. Marina plans to invest the income from the loan in the further development of her farm, provide her children with good education, and improve the well-being of her family.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Schooling",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The borrower receives a rebate on the interest rate if all repayments are made on time.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1831347.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 21,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cattle"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

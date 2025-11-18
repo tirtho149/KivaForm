@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 669188,
+                "name": "Bardhe",
+                "loanAmount": "975.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-02-14T19:20:05Z",
+                "disbursalDate": "2014-02-10T08:00:00Z",
+                "plannedExpirationDate": "2014-03-16T19:20:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to cover her medical surgery expenses.",
+                "description": "Bardhe needs your financial help again, but this time to cover her medical surgery expenses.<br /><br />She practices agriculture, caring for livestock, and she sells baby calves, piglets and raw milk to the locals. Her husband has machinery that treads out the grain, particularly corn, and he offers services to other people in the neighboring villages.<br /><br />Bardhe’s village is known for a high volume of grain production, and the villagers sell their produce to nearby food processing factories. The grazing in their village is a good food for animals, particularly cows, sheep and pigs. Hence, the main source of income for them is the animals and grains.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Health and Sanitation"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/669188.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AL",
+                        "name": "Albania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 33,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Medical Expenses"
+                },
+                "sector": {
+                    "name": "Health"
+                },
+                "partnerName": "Agro & Social Fund"
+            }
+        }
+    }
+}

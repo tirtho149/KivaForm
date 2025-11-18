@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2207991,
+                "name": "Elena",
+                "loanAmount": "150.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-08-17T16:03:14Z",
+                "disbursalDate": "2021-06-18T07:00:00Z",
+                "plannedExpirationDate": "2021-09-16T16:03:14Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seaweed to sell for her business.",
+                "description": "As a widowed parent of a child, Elena works hard to support her family.<br /><br />She has a seaweed retailing business in the Philippines, and also earns additional income from food vending. She is borrowing PHP 7000 through NWTF to buy seaweed to sell for her business.<br /><br />She has been sustaining her business activities through her past 3 loans from NWTF. She hopes that her hard work will help her attain her dream to save money to expand her business.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Widowed",
+                    "#Parent",
+                    "#Single Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps this borrower grow their business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2207991.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 6,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Retail"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

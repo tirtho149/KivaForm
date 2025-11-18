@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1961417,
+                "name": "Ragab",
+                "loanAmount": "1925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-04-22T22:50:16Z",
+                "disbursalDate": "2020-04-01T07:00:00Z",
+                "plannedExpirationDate": "2020-06-06T22:50:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "buy seeds, fertilizers, and organic fertilizers.",
+                "description": "Ragab is 49, married, and has four children. His wife is a housewife. He has a successful project that he has agricultural land in rent. He pays monthly rent to the owner of the land. He cultivates aromatic plants which he sells to the spices and herbs shop. These are used in the treatment of many diseases and also used in cooking food.<br /><br />He is requesting a loan to help him in increasing the income that will help him to buy his own land instead of rental land. He will buy seeds, fertilizers, and organic fertilizers. He hopes to keep going in his successful project and become a big trader in his village.",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Health and Sanitation"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It contributes to sustainable development in a community with high unemployment.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1961417.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EG",
+                        "name": "Egypt"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 70,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Together Association for Development and Environment (TADE)"
+            }
+        }
+    }
+}

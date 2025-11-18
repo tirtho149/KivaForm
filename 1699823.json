@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1699823,
+                "name": "Jeff",
+                "loanAmount": "10000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-02-20T16:52:20Z",
+                "disbursalDate": "2019-03-15T00:10:32Z",
+                "plannedExpirationDate": "2019-04-01T18:57:02Z",
+                "distributionModel": "direct",
+                "use": ".",
+                "description": "I have lived in urban settings my entire life and enjoyed the diversity and opportunities cities afford. Recently, my wife Melissa and I moved to a rural setting to build a farm and a business of our own called Black Sheep Shelter. Part of the motivation behind the move was economic-we were tired of living pay check to pay check and felt that this was a business opportunity to provide us with a little more financial margin. The other motivating factor was we felt that our three children needed more attention than what we could provide them in our chaotic pace of life in town. Our dream is to establish a lifestyle where work and family time overlap, where we are producers of goods that meet real human needs, and where we can steward the soil and land for future generations.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "This Kiva loan helps a farmer who practices sustainable organic agriculture buy supplies to expand their farm.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1699823.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 76,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "trusteeName": "Nifty Hoops"
+            }
+        }
+    }
+}

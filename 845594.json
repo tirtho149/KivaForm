@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 845594,
+                "name": "Hayriniso",
+                "loanAmount": "3000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-02-27T19:00:03Z",
+                "disbursalDate": "2015-02-18T08:00:00Z",
+                "plannedExpirationDate": "2015-03-29T19:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to get home appliances.",
+                "description": "Hayriniso is a hardworking woman. She was born in 1966. She is living in a rural area. She is married. Hayriniso is an active, honest, confident and kind person. She has a business planting agricultural products and knows her activity well. She likes to work on the land. She plants wheat, cereals and potatoes. Additionally, she keeps livestock and trades in the domestic market. Each profit she spends for family expenditures. Hayriniso requested a 3000 USD loan for making her standard of living better and to get home appliances. She awaits your mercy.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/845594.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TJ",
+                        "name": "Tajikistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 116,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Appliances"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "IMON International"
+            }
+        }
+    }
+}

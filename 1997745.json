@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1997745,
+                "name": "Majlinda",
+                "loanAmount": "2500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-08-06T18:00:19Z",
+                "disbursalDate": "2020-07-10T07:00:00Z",
+                "plannedExpirationDate": "2020-09-20T18:00:19Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy some beehives so she will be able to provide a better income for her big family.",
+                "description": "Majlinda, who lives in northern Albania with her immediate family, is 53 years old and has five children, three of them schooling age, while two have started working. She and her husband practice mainly agricultural activities. <br /><br />They plant different vegetables, prepare \"raki,\" a traditional alcoholic beverage, and also have two cows, from which they sell the raw milk. <br /><br />Majlinda wants to add some beehives so she will be able to provide a better income for her big family and for this is asking Kiva lenders' support for the third time, after more than five years. She hopes she will find your financial support also this time and thanks you all in advance.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports women in a country where financing options are scarce.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1997745.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AL",
+                        "name": "Albania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 34,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beekeeping"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Agro & Social Fund"
+            }
+        }
+    }
+}

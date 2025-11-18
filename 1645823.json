@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1645823,
+                "name": "Thialy",
+                "loanAmount": "375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-11-17T22:40:04Z",
+                "disbursalDate": "2018-12-13T08:00:00Z",
+                "plannedExpirationDate": "2018-12-17T22:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase two hives to introduce honey in his cookies.",
+                "description": "Thialy is a young man living in a much-populated area of Haiti. He studied agricultural techniques. Recently he offered his service as an agent in the city council.<br /><br />Thialy would like to develop his entrepreneurial spirit more. He believes he has skills to launch a business. After a training on beekeeping, Thialy wants to purchase two hives to introduce honey into his cookies business in the future. A loan will allow Thialy to start his beekeeping activity. <br /><br />In the near future, he will use the honey to make bread. That would increase the marketing side of his future business.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides small and growing businesses in Haiti with access to capital.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1645823.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HT",
+                        "name": "Haiti"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Production/Sales"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Fonkoze - Zafèn"
+            }
+        }
+    }
+}

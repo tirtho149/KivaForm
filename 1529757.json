@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1529757,
+                "name": "Beatrice's Group",
+                "loanAmount": "875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-05-21T18:40:05Z",
+                "disbursalDate": "2018-04-16T07:00:00Z",
+                "plannedExpirationDate": "2018-06-20T18:40:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase cost efficient maize seeds and fertilizer for the coming harvesting season, as well as a solar light.",
+                "description": "Beatrice is 38 years old and has four children. She is a group leader, often described as a very experienced farmer, and is representing her group of 13 farmers in Teso District. Since joining One Acre Fund in 2015, Beatrice has noticed that she has been able to consistently feed her family.<br /><br />Beatrice described her harvest as very good last year, but believes she can have a better one this year by continuing to work with One Acre Fund. She is very excited to also be purchasing a solar light, apart from fertilizer and maize, because she will now be able to have light during dark hours for her children to be able to study. With the profits from this season’s harvest, she plans to send her children to school.<br /><br />With this loan, Beatrice’s Group will be able to plant a total of 8.5 acres of land and purchase a total of nine solar lights.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 13,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1529757.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 26,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 853527,
+                "name": "God Bless Group",
+                "loanAmount": "2000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-03-17T16:20:06Z",
+                "disbursalDate": "2015-03-03T08:00:00Z",
+                "plannedExpirationDate": "2015-04-16T16:20:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "To expend her mopane worm business.",
+                "description": "After six weeks of rain, the mopane worms cling to mopane trees in rural Gwanda which is situated in Southern Zimbabwe. Sinikiwe normally sells beans and dried kapenta, but during the worm-harvesting season, she joins other women and men in collecting the worms by the bucket full, selling them to locals. Mopane worms are popular with the local residents. It is from this kind of business that Sinikiwe has managed to single-handedly grow her business and fend for her three daughters.\r\n\r\nThe dried mopane worm industry is a growing industry. Some worms are exported to South Africa and Botswana. Sinikiwe is one of the small-scale exporters to South Africa. Realising an opportunity to further expand her business, she is taking a group loan from Thrive Microfinance with her friends. She has been able to employ two more women to help her in catching, drying, grading, and flavouring the mopane worms. Sinikiwe and her group, God Bless, hope that a loan from Kiva will help her supply a couple of restaurants and someday finish building her house.\r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Unique",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/853527.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "ZW",
+                        "name": "Zimbabwe"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 73,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Thrive Microfinance"
+            }
+        }
+    }
+}

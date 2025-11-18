@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1910846,
+                "name": "James' Group",
+                "loanAmount": "525.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-01-13T23:50:09Z",
+                "disbursalDate": "2020-01-28T08:00:00Z",
+                "plannedExpirationDate": "2020-02-12T23:50:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer for the cultivation of maize.",
+                "description": "James, pictured above, has been a farmer for four years, and is now proud to represent his group of 10 farmers in Mumias District. He is 32 years old, married, and has three children.<br /><br />James likes to think of himself as a very reliable person. He has been working with One Acre Fund since 2017 and decided to represent his group because he wanted to help more farmers. He says that being part of the One Acre Fund community has meant that he has been able to consistently feed his family. James plans to use the profits from this coming season to invest in a business.<br /><br />In total, James’ group will receive inputs to cultivate 5.75 acres of land. Given that some members of the group will also be purchasing a solar light, with this loan the group will also receive one solar light.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 10,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1910846.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1689943,
+                "name": "Emmanuel",
+                "loanAmount": "325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-01-20T14:00:05Z",
+                "disbursalDate": "2019-01-14T08:00:00Z",
+                "plannedExpirationDate": "2019-02-19T14:00:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy manure for his banana plantation in order to improve its productivity and income to educate his children.",
+                "description": "Emmanuel, 45, is married with 4 school-going children. Having been born in a humble family with little resources, he did not acquire education thus got involved in farming. <br /><br />Thanks to the lenders who funded his previous loan, Emmanuel managed to complete his house and the family's livelihood has greatly improved. <br /><br />Emmanuel has again approached UGAFODE for a loan of 1,200,000 UGX to buy fertilizers for his banana plantation so as to harvest quality output. He anticipates a good harvest that will attract buyers, thus earning income to support the family and also pay school fees for his children. <br /><br />Emmanuel is so hopeful that his standards of living will improve steadily, and that he can educate his children with this funding. He appreciates the continued support.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1689943.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

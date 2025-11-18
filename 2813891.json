@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2813891,
+                "name": "Xavier Miguel",
+                "loanAmount": "6000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-07-18T21:01:52Z",
+                "disbursalDate": "2024-08-01T14:08:14Z",
+                "plannedExpirationDate": "2024-08-27T14:24:05Z",
+                "distributionModel": "direct",
+                "use": "w/ completion of the farm: purchase of fencing, drinking troughs, feeders, food storage silo & nesting boxes.",
+                "description": "I was raised under the love of the countryside and agriculture under the real and unique passion that my grandparents taught me in the great importance that the agricultural field has for a family and a country. From a very young age I began to develop a passion for animals but more so for raising poultry (chickens, etc.) and what I could contribute to a community when I grew up.\r\n\r\nThe motivation to continue learning about the great benefits we have to produce birds, raise them their stage the importance of their care and even more their feeding for their development, even more I was motivated to be able to produce eggs for consumption and hear all these testimonies about how well they taste, how well they fall, how well they feel to each individual person with their conditions and the benefit they have achieved thanks to the food we give to these birds. We love them as more than a business bird - we give them their highest and best quality of life.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Biz Durable Asset",
+                    "#Latinx/Hispanic-Owned Business",
+                    "#BIPOC-owned Business",
+                    "#CommunityImpact",
+                    "#Agriculture"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports a small business owner with 0%-interest, zero-fee capital.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2813891.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PR",
+                        "name": "Puerto Rico"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 90,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "trusteeName": "No Trustee Endorsement"
+            }
+        }
+    }
+}

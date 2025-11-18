@@ -1,0 +1,49 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 720756,
+                "name": "Pedro Miguel",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2014-06-15T15:20:02Z",
+                "disbursalDate": "2014-05-07T07:00:00Z",
+                "plannedExpirationDate": "2014-07-15T15:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a fridge.",
+                "description": "Pedro is very grateful to Kiva lenders for their support in enabling him to buy a fridge. He currently does not have one which means that he cannot store items of food properly. The fridge will improve his family's quality of life, which will allow him to continue working as a farm labourer and to earn an income which will enable him to make progress and achieve his big ambition: \"to provide a decent life for his family and to complete building work on his house\".",
+                "tags": [
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/720756.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Appliances"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Caja Rural Señor de Luren"
+            }
+        }
+    }
+}

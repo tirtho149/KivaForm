@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1711055,
+                "name": "Anderson Fernando",
+                "loanAmount": "1000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-02-26T04:30:03Z",
+                "disbursalDate": "2019-02-20T08:00:00Z",
+                "plannedExpirationDate": "2019-03-28T03:30:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy calves to raise.",
+                "description": "Anderson is a young man from Colombia. He is 23 years old and lives with his parents who work in the field in different agricultural activities. They instilled him with the work and responsibility; thanks to them, today he works raising livestock. In that way he is responsible for his son, managing to give him a pension every month. <br /><br />Anderson would like to add other calves to his business and for this reason he went to Vision Fund Bank to request the assistance of a loan to be able to realize his goal to increase the number of his livestock.  <br /><br />He hopes to have economic stability so that he can start his own home alongside his son.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Single",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It aims to reach vulnerable refugee populations in an isolated region.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1711055.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 36,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cattle"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Ecuador"
+            }
+        }
+    }
+}

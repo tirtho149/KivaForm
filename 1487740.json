@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1487740,
+                "name": "Sonia",
+                "loanAmount": "1775.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-03-16T15:00:04Z",
+                "disbursalDate": "2018-02-21T08:00:00Z",
+                "plannedExpirationDate": "2018-04-15T15:00:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase equipment and supplies for growing and selling organic cacao. She is hoping to improve her family's quality of life with the income from her project.",
+                "description": "Sonia has worked for three years in the cultivation and production of organic-based cacao products. She has received diverse training in growing techniques and the management and processing of cacao. So she decided to begin to develop products, such as chocolates, wine, and cacao ice creams, which she sells at businesses in her community and at fairs for organic farmers. In addition, she makes her own organic fertilizers that she uses on her plants.<br /><br />With the loan, she will purchase molds, machines to grind cacao, and raw materials for her project. She wants her business to grow so that it allows her to give better opportunities to her daughter.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports women to start their own agricultural projects.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1487740.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CR",
+                        "name": "Costa Rica"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 61,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Production/Sales"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "EDESA"
+            }
+        }
+    }
+}

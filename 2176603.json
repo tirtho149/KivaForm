@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2176603,
+                "name": "Pavlina",
+                "loanAmount": "4550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-05-27T16:20:14Z",
+                "disbursalDate": "2021-05-19T07:00:00Z",
+                "plannedExpirationDate": "2021-06-26T16:20:14Z",
+                "distributionModel": "fieldPartner",
+                "use": "to build a small lake to grow fish.",
+                "description": "Pavlina is a 61-year-old woman from Buda village in the Calarasi region of Moldova. She is a widow from a very young age, but she did not remarry, wanting to dedicate all her time to raising her children. Her children are now older and married and have their own families. Pavlina and her family planted an orchard of plums and walnuts. Now, near the orchard, she wants to build a small lake to grow fish and spend time in nature with the whole family.<br /><br />The construction of the lake requires an investment that Pavlina does not have. Her children help her but the amount is too big to start the work. Not having the necessary amount of money, Pavlina applied for a Kiva loan. As a result, she will build the lake and spend time and old age in peace, in nature.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Widowed",
+                    "#Elderly",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It enables those living in rural areas to grow their businesses at a lower interest rate.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2176603.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MD",
+                        "name": "Moldova"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 164,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fishing"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "OCN Prima Finantare SRL"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 782481,
+                "name": "Juana De La Cruz",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-10-30T22:20:02Z",
+                "disbursalDate": "2014-09-30T07:00:00Z",
+                "plannedExpirationDate": "2014-11-29T22:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase cement, sand, gravel, galvanized sheeting, pillars, iron, etc., in order to repair and expand the covered walkway, and cement the floor of her house.",
+                "description": "Juana is 51 years old, and she lives in her own house with her son and her two grandchildren, ages 13 and 10.  Juana sells a variety of clothing and she also cultivates corn, which allows her to earn a living for her family.  \r\n\r\nBecause she wants to improve her living conditions, she is requesting this loan from FUSAI in order to repair and expand the covered walkway of her home.  She also wants to improve the floor of the house.  \r\n\r\nWith the requested amount, she will purchase cement, sand, gravel, galvanized sheeting, pillars, iron, and similar items.\r\n\r\n",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/782481.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 18,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Housing Expenses"
+                },
+                "sector": {
+                    "name": "Housing"
+                },
+                "partnerName": "Apoyo Integral"
+            }
+        }
+    }
+}

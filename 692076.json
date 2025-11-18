@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 692076,
+                "name": "Deggo Group",
+                "loanAmount": "2125.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-04-17T20:50:12Z",
+                "disbursalDate": "2014-03-13T07:00:00Z",
+                "plannedExpirationDate": "2014-05-17T20:50:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy grains and resources for truck farming.",
+                "description": "The DEGGO group, whose president is Seynabou, is made up of 10 people. They all live in the same village and are in the same business, which is truck farming. The president is raising her hand in the photo. She is a married mother. At 45 years old, Seynabou has more than 5 years of experience in this business. She is seeking this loan to buy grains and resources to grow eggplants and onions. Seynabou helps her husband in managing her family’s expenses. She leaves her house at 8am not to return before 7pm. And if the institution continues to help her, she will be able to farm more hectares in the fields and thus be able to save money.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 10,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/692076.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SN",
+                        "name": "Senegal"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 62,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UIMCEC"
+            }
+        }
+    }
+}

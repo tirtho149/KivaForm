@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2453178,
+                "name": "John Fredy",
+                "loanAmount": "200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-10-04T20:10:17Z",
+                "disbursalDate": "2022-08-27T07:00:00Z",
+                "plannedExpirationDate": "2022-11-08T21:10:17Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulch and fertilizers.",
+                "description": "John is a \"warrior of many battles\" who, despite adversities, never has given up on his dreams of improving the living conditions of his loved ones, and buying a house in the municipality of Cañasgordas. John, age 23, is single. He works growing coffee, an activity that was born of economic necessity and which he learned empirically. <br /><br />He is requesting a loan to buy mulch and fertilizers. This will permit him to have better production from his crops. This investment will help him to have the capacity to meet customer demand.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Single",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps internally-displaced people in Colombia rebuild and sustain their livelihoods.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2453178.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 7,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Interactuar"
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 771547,
+                "name": "M. Irfan",
+                "loanAmount": "450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-09-24T00:40:03Z",
+                "disbursalDate": "2014-09-08T07:00:00Z",
+                "plannedExpirationDate": "2014-10-24T00:40:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "To set up an irrigation system for his rice field.",
+                "description": "M. Irfan is 32 and lives in Gujrat, Pakistan. He is a responsible father of three children. He is a farmer by profession and owner of large areas of cultivation land. He cultivates seasonal crops on his land. Mostly he likes to cultivate rice. His land has no canal system for watering, but rice needs a lot of water to survive. So he has to arrange another source for his crop irrigation. Now he has decided to irrigate his land by a tube well system. For this purpose he has to bear some additional cost. Therefore M. Irfan has requested a loan from KIVA’s field partner, BRAC Pakistan.\r\nHe is very thankful to Kiva and its partner BRAC Pakistan.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/771547.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PK",
+                        "name": "Pakistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 18,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "BRAC Pakistan"
+            }
+        }
+    }
+}

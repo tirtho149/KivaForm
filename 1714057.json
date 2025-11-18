@@ -1,0 +1,57 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1714057,
+                "name": "Luis Bayardo",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-03-01T04:50:05Z",
+                "disbursalDate": "2019-02-18T08:00:00Z",
+                "plannedExpirationDate": "2019-03-31T03:50:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy disinfectants and organic fertilizers.",
+                "description": "Luis is a humble man, 51 years old, divorced and the father of a five year old girl. He lives in a small house together with his parents. <br /><br />Luis' primary income source is farming, an undertaking he has performed for more than 10 years, using the favorable terrain of the region where he lives as the warm climate allows his tomatoes more time to develop and sweeten. He spends all his time in his greenhouse, which is the reason why he has had good harvests even though sometimes the market prices are unfavorable.<br /><br />Luis needs to buy disinfectants and organic fertilizers for his tomato greenhouse, and that's why he is requesting for help to be able to acquire these supplies. In this way he can take care of his crops, giving him the possibility of increasing his income.",
+                "tags": [
+                    "volunteer_pick",
+                    "volunteer_like",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Single",
+                    "#Single Parent",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It aims to reach vulnerable refugee populations in an isolated region.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1714057.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 29,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Ecuador"
+            }
+        }
+    }
+}

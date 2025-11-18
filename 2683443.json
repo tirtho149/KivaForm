@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2683443,
+                "name": "Donakhol",
+                "loanAmount": "375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-11-25T06:00:06Z",
+                "disbursalDate": "2023-11-15T08:00:00Z",
+                "plannedExpirationDate": "2023-12-30T06:00:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy compost and minerals to improve her land.",
+                "description": "Donakhol is hardworking, active and helpful. She was born in 1968 in Tursunzade, Tajikistan. She has a big family ─ married and the caring mother of seven.<br /><br />For more than a decade, she's farmed and earns a good income. Her earnings pay daily expenses.<br /><br />She's asking for a loan to buy compost and minerals for her land to improve it. Donakhol hopes for your support because with your help she can reap a good harvest.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports low-income female farmers while minimizing interest payments.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2683443.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TJ",
+                        "name": "Tajikistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "IMON International"
+            }
+        }
+    }
+}

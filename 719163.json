@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 719163,
+                "name": "Kimet",
+                "loanAmount": "2250.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-06-07T00:00:14Z",
+                "disbursalDate": "2014-05-20T07:00:00Z",
+                "plannedExpirationDate": "2014-07-07T00:00:14Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a trailer and plug for his agricultural tractor.",
+                "description": "Kimet is a villager who wants to buy a trailer and plug for his agricultural tractor. \r\n\r\nKimet is married and is a father of two; he is in his early 60s. Agriculture has been his practice by choice now for very long time, according to him. Here  is what he said during his interview with the Branch Assistant:  “I love nature, food, doing physical work and also I love independence. So, this type of activity, has given me all of these. And I am very happy doing agriculture.” \r\n\r\nKimet plants and sells in large quantities mostly potatoes and barley. He has a dairy cow to cover for his family’s dairy needs and also he sells apples from his own orchards. \r\n",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Parent",
+                    "#Inspiring Story",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/719163.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AL",
+                        "name": "Albania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 65,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Agro & Social Fund"
+            }
+        }
+    }
+}

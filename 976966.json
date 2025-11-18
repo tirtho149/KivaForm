@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 976966,
+                "name": "Karlen",
+                "loanAmount": "3000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-11-13T08:50:05Z",
+                "disbursalDate": "2015-10-12T07:00:00Z",
+                "plannedExpirationDate": "2015-12-13T08:50:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for 23 colonies of bees, 15 bees, and forage for feeding his livestock, so he can get more honey to sell to customers.",
+                "description": "An experienced farmer from Goris town, Karlen lives there with his wife, who is his support and muse. For more than eight years, Karlen has specialized in keeping livestock. He currently keeps two calves, two piglets, hens, and 35 colonies of bees.<br /><br />On nearby arable land, Karlen also cultivates haricot and potatoes, as well as growing walnuts and pear trees. Karlen specializes in honey production and sales. The main family income comes from that part of the business, and Karlen wants to develop it. <br /><br />He is asking for this loan to purchase 23 colonies of bees, 15 bees, and forage for feeding his livestock, so he can get more honey to sell to customers. He hopes to receive lenders' support and faith and develop his agribusiness, so that his wife will have better living conditions.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Elderly",
+                    "#Interesting Photo",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/976966.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 101,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "SEF International"
+            }
+        }
+    }
+}

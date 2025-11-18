@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2401337,
+                "name": "Sreyleab",
+                "loanAmount": "750.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-06-28T11:00:14Z",
+                "disbursalDate": "2022-06-17T07:00:00Z",
+                "plannedExpirationDate": "2022-08-02T11:00:14Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more phone and phone accessories to sell in her store.",
+                "description": "Sreyleab is 27 years old and is a married woman with two children. She and her husband are a phone seller. She has been running this business for 10 years. <br /><br />Sreyleab will use this loan to buy more phone and phone accessories to sell in her store. Her goals are to get more income from it, renovate her house and send her children to school in the future. <br /><br />More competitors is her major challenge.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Supporting Family",
+                    "#Biz Durable Asset",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides entrepreneurs with resources to increase income and improve their living conditions",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2401337.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 17,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Phone Accessories"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Chamroeun Microfinance Plc"
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2006130,
+                "name": "Edison Patricio",
+                "loanAmount": "2000.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2020-08-24T13:40:10Z",
+                "disbursalDate": "2020-08-18T07:00:00Z",
+                "plannedExpirationDate": "2020-10-08T13:40:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase compost, fertilizer and other agricultural supplies.",
+                "description": "Patricio is a happily married farmer who lives with his spouse, who assists with his work of selling fertilizers locally. His children attend the school in the community. They live on a farm located in the mountains where most of the population makes a living through farming. They have taken advantage of the opportunity to work in agriculture, and they are very dedicated. <br /><br />He dreams of having his own home and of paying for his children’s education. <br /><br />For this reason, he would like to receive a loan to purchase compost, fertilizers and other agricultural supplies. This will allow him to increase his merchandise and improve his sales and therefore, his profitability.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It aims to reach vulnerable refugee populations in an isolated region.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2006130.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 6,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Ecuador"
+            }
+        }
+    }
+}

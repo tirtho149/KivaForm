@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1806002,
+                "name": "'Aunofo",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-07-28T09:50:18Z",
+                "disbursalDate": "2019-07-19T07:00:00Z",
+                "plannedExpirationDate": "2019-08-27T09:50:18Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy pandanus for her weaving business.",
+                "description": "'Aunofo is a mother of three, from the island of Ha'apai. Her husband is a farmer, and they live in their own home. <br /><br />Her business is weaving, and she is a member of weaving group in their village. There are ten of them altogether who conduct the weaving. Their weaving runs every day except for Sunday. They weave lots of mats and ta'ovala in different sizes and types. 'Aunofo sells her products to family overseas, hoping to get good money from it. This is the main source of income for her family. <br /><br />Her business is running very actively. She is hoping to use her loan money to buy more pandanus for her weaving. Her vision is for her children to finish their education and have a better life in the future, through the help of her business.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Schooling",
+                    "#Fabrics"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women with credit in a country where alternative financing is extremely scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1806002.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TO",
+                        "name": "Tonga"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Weaving"
+                },
+                "sector": {
+                    "name": "Arts"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Tonga"
+            }
+        }
+    }
+}

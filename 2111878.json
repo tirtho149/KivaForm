@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2111878,
+                "name": "Laisa",
+                "loanAmount": "1200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-02-27T09:50:21Z",
+                "disbursalDate": "2021-02-19T08:00:00Z",
+                "plannedExpirationDate": "2021-04-09T00:04:31Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy building materials for shelter, layer birds, their cages and feed.",
+                "description": "Nakawakawa lays along the path that Tropical Cyclone Yasa trudged in December 2020. With damaged houses and infrastructure, communications were limited and the everyday routines of the villagers were sabotaged and all these unfortunate events were unforeseen.<br /><br />Surviving a natural disaster and its aftermath can be stressful, but Fijians are resilient people who know how to smile through hardships. Laisa and her family have made a recovery plan and hope to navigate their way out financially. They’ve invested in their farming business as the primary need is to keep people’s strengths and spirits up and as a people that love to work communally, eating together will do a lot of good psychologically and physically.<br /><br />Laisa is hoping to secure a loan that will enable her to buy her layer hens and their cages, some solar lights and their feed. With the government's help, her fellow villagers have been receiving food and water rations, and some engineers from the military have started reconstruction of important infrastructure. She will also need to buy some building materials to provide adequate shelter for her family, as they have been living in an evacuation center for over a month now.<br /><br />By granting Laisa a loan, she will rebuild her life and be a beacon of hope to others around her.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women with credit in a country where alternative financing is extremely scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2111878.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "FJ",
+                        "name": "Fiji"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 26,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Poultry"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Fiji"
+            }
+        }
+    }
+}

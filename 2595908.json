@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2595908,
+                "name": "Federico Antonio",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-06-23T07:10:14Z",
+                "disbursalDate": "2023-06-09T07:00:00Z",
+                "plannedExpirationDate": "2023-07-28T07:10:14Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy manure, minerals, fertilisers, and pesticides to increase production and avoid disease.",
+                "description": "This young man, Federico, has a lot of experience working the land. Federico recalls that he learned this trade following instructions from his parents. Once his father died, Federico took charge of the crops. Since then, he has been able to diversify with melons and to increase his income and improve his quality of life.<br /><br />Federico has knocked on MiCredito's doors in order to applying for a Kiva loan to buy manure, minerals, fertilisers, and pesticides to increase production and avoid disease. Federico's goal is to sow crops on more land.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The repayments are aligned with harvest season.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2595908.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "MiCredito"
+            }
+        }
+    }
+}

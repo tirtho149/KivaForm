@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2887446,
+                "name": "Abdreim",
+                "loanAmount": "4050.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-11-23T23:13:10Z",
+                "disbursalDate": "2024-11-06T08:00:00Z",
+                "plannedExpirationDate": "2024-12-28T23:13:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase natural fertilizer.",
+                "description": "Abdreim, a 60-year-old farmer, is a remarkable individual dedicated to agricultural excellence. With a 13-hectare plot of fertile land, he specializes in cultivating pumpkins and corn, yielding up to 100 tons of produce per season. Over the years, he has become a significant supplier of agricultural crops, serving numerous communities in the region.<br /><br />From inheriting a small plot at the age of 25 to building a thriving farm, Abdreim's journey reflects hard work and commitment to his craft. <br /><br />Recently, he decided to invest in natural fertilizer and minerals to enrich his soil's productivity while maintaining sustainability, ensuring a bountiful and eco-friendly harvest in the coming year. Abdreim envisions continuous growth and development in his farming business. His goal is to provide quality produce to the community while securing a prosperous future for his family and his farm.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The loan extends access to financial services for those living in rural areas.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2887446.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KZ",
+                        "name": "Kazakhstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 212,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Asian Credit Fund LLC"
+            }
+        }
+    }
+}

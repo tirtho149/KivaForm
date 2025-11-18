@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2293397,
+                "name": "Meerim",
+                "loanAmount": "1200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-12-17T23:10:07Z",
+                "disbursalDate": "2021-12-08T08:00:00Z",
+                "plannedExpirationDate": "2022-01-31T23:10:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase cattle to increase income from cattle breeding.",
+                "description": "Meerim has successfully repaid her loan and used the funds as intended. She is very grateful to the Kiva Fund and everyone who helped her get funding. Today, her farm has eight cows, 40 sheep, and six horses. <br /><br />Meerim has turned to Bai Tushum Bank once again for a loan of 100,000 KGS to purchase cattle to increase her income from fattening them and selling organic meat. Meerim plans to invest the income generated from the loan in further developering her agriculture business.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Repeat Borrower",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports organic farming and includes a lower interest rate.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2293397.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 35,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cattle"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

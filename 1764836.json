@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1764836,
+                "name": "Consciente Group",
+                "loanAmount": "2125.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2019-05-21T14:50:07Z",
+                "disbursalDate": "2019-05-13T07:00:00Z",
+                "plannedExpirationDate": "2019-06-20T14:50:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy perfumes and makeup.",
+                "description": "Debora is the group leader; she is in a pink shirt. She works selling cosmetics and lingerie at home, and this is her sole source of income. She dreams of opening a store in her neighborhood. The loan will be to buy perfumes and makeup.<br />The group would like to thank the investors, as the loan helps them in improving their businesses and quality of life.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Single",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 4,
+                "whySpecial": "This is one of few affordable credit options for low-income borrowers in São Paulo, Brazil.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1764836.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BR",
+                        "name": "Brazil"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 37,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cosmetics Sales"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Banco do Povo Crédito Solidario"
+            }
+        }
+    }
+}

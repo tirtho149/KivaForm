@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1074303,
+                "name": "Narine",
+                "loanAmount": "2100.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-05-28T02:50:07Z",
+                "disbursalDate": "2016-05-12T07:00:00Z",
+                "plannedExpirationDate": "2016-06-27T02:50:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for a truck to transport honey to the markets.",
+                "description": "This is Narine, a 53-year-old farmer from Okhtar village. Narine has been into beekeeping for more than a decade and knows the finest details on how to produce and gather the best quality honey. She owns 30 beehives and dreams of expanding. \r\n\r\nNarine lives with her husband and son, who constantly help her with the bees. They are mainly responsible for producing honey for their neighbors, relatives and different markets in their region. The lack of comfortable vehicle to transport the honey is tough, according to Narine. So she applied for this loan to pay for a truck to transport honey to the markets. This will reduce costs and will give Narine a chance to increase the number of beehives in her farm.\r\n\r\nNarine is very grateful for your attention and is looking forward to your warm response. ",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Elderly",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It enables female farmers to improve their livelihoods without additional risk.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1074303.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 69,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Transportation"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "SEF International"
+            }
+        }
+    }
+}

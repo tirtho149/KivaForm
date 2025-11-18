@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1816517,
+                "name": "Anabertha",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-08-15T16:30:21Z",
+                "disbursalDate": "2019-07-24T07:00:00Z",
+                "plannedExpirationDate": "2019-09-14T16:30:21Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more electronics goods to stock her store and gain more customers.",
+                "description": "Anabertha is 39 years old. She is a modest and hard-working woman with a very good understanding and lots of experience in the electronics business. She has her own business which she has run for many years now. Anabertha's store is located in a very good place where many people come to buy goods every day. Running the business has made her independent because she can be responsible for herself and also help support her family. <br /><br />She has previously borrowed and repaid all of the loan on time. Now she would like another loan of $400 from KIF to help improve her general store. She plans to use this loan to buy additional supplies of electronics goods to stock up her store in order to gain more customers. As a result of this investment. Anabertha hopes to run a bigger business in the future. She wants to thank lenders for the opportunity.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides entrepreneurs in underserved communities with the means to grow their businesses.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1816517.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TL",
+                        "name": "Timor-Leste"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Electronics Sales"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Kaebauk"
+            }
+        }
+    }
+}

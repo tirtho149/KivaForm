@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1040893,
+                "name": "Abraham's Group",
+                "loanAmount": "575.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-03-23T17:30:02Z",
+                "disbursalDate": "2016-04-02T07:00:00Z",
+                "plannedExpirationDate": "2016-04-22T17:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer to improve harvests of maize.",
+                "description": "Pictured above is Abraham, who, as a group leader, is representing his group formed by 12 farmers in Webuye District, Kenya. He is married and is a father to 4 children, known by his community as a very friendly person.<br /><br />Initially, Abraham joined One Acre Fund in 2009 because he wanted to have access to quality training and acquire new farming methods. Since he joined the program he says that his life has improved, especially because he has had more profits from each harvest. He used part of the profit he made to purchase a cow. With the profits from the coming harvesting season, Abraham plans to send his children to school.<br /><br />Between the 12 farmers in Abraham's Group, a total of 3.5 acres of land will be planted using the maize seeds and fertilizer received with the loan. Additionally, some of the farmers in the group will be purchasing a solar light so, with this loan, the group will also receive a total of 7 solar lights.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Trees",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 12,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1040893.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

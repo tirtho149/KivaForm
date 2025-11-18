@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2762250,
+                "name": "Lida",
+                "loanAmount": "75.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-04-19T08:00:25Z",
+                "disbursalDate": "2024-03-22T07:00:00Z",
+                "plannedExpirationDate": "2024-05-24T08:00:25Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a solar lamp.",
+                "description": "Lida works hard to support her five children. She is married and has a tailoring business in the Philippines. Lida has requested a PHP 4,000 loan through NWTF to buy a solar lamp. She is getting the solar lamp because she wants to have backup light in case of emergency. Lida is aware that by using the solar lamp, she is not only saving money; she is also helping the environment and reducing health and hazard risks to her family.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Health and Sanitation",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It gives people access to efficient products that limit energy consumption and boost overall income levels.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2762250.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 3,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Energy"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

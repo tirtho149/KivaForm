@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1147657,
+                "name": "Saisamorn",
+                "loanAmount": "875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-09-09T11:40:04Z",
+                "disbursalDate": "2016-10-31T07:00:00Z",
+                "plannedExpirationDate": "2016-10-09T11:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase organic fertilizers and seeds for organic rice farming.",
+                "description": "Mr. Saisamorn is a 57-year-old organic rice farmer from Thailand. Initially, he cultivated traditional rice farming by using chemicals and ended up suffering with inflammatory skin conditions, caused by being exposed to chemicals in his own farmland. As a result, he started doing organic rice farming 17 years ago. With the power of nature, not only did he recover from his bad skin conditions, but also his living condition gets better. His farmland now has high biodiversity where he can enjoy the clean environment and fresh air.  \nHe has 3 children who are all passionate in doing organic rice farming like him. However, they can grow organic rice only once a year due to inefficient irrigation system, especially, in the Northeastern part of Thailand, where the condition of the soil is very poor. Moreover, because of his 9-acre of land is at a lower level from other land, this causes flooding in his land several times in the past. \nSaisamorn wants a loan to purchase organic fertilizers and seeds for organic rice farming in order to improve his paddy rice production to become higher yield and generate more income. His dream is to have no debt as he believes doing organic farming is the simplest solution for healthier and happier life for his family.\n",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It encourages organic farming in the poorest rural areas of Thailand.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1147657.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TH",
+                        "name": "Thailand"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 34,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Siam Organic"
+            }
+        }
+    }
+}

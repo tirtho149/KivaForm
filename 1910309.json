@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1910309,
+                "name": "Jacqueline Edith",
+                "loanAmount": "650.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-01-13T14:20:22Z",
+                "disbursalDate": "2019-12-11T08:00:00Z",
+                "plannedExpirationDate": "2020-02-12T14:20:22Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy bundles of clothes and agricultural supplies for the coffee crop.",
+                "description": "Jacqueline is a hard-working and dedicated 29 year old woman.  She has managed to get ahead with great effort and dedication.  She has worked in the field of agriculture ever since she was little.  She currently grows coffee and beans.  She also sells used clothes as a way of bringing home the daily bread given that she has three children.<br /><br />She is requesting a loan from Kiva together with MiCredito that will allow her to buy bundles of clothes and agricultural supplies for the coffee crop.  Her goal for the future is to buy a new piece of land.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It includes access to preventative healthcare services.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1910309.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 7,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Retail"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "MiCredito"
+            }
+        }
+    }
+}

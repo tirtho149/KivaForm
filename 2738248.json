@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2738248,
+                "name": "Egor",
+                "loanAmount": "1125.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-03-04T22:40:18Z",
+                "disbursalDate": "2024-02-20T08:00:00Z",
+                "plannedExpirationDate": "2024-04-08T21:40:18Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy sugar for bees.",
+                "description": "This radiant man's name is Egor. He is 38 years old and married. He has a secondary education. By nature, Yegor is a calm, hardworking, and honest person. Egor and his family live in an area that is perfect for farming. Egor is actively involved in beekeeping; now he has 67 boxes of bee colonies on his farm. To develop his farm, he asks for support from the KIVA Foundation in the amount of 100,000 soms (KGS) to purchase sugar for the bees. Income will help improve the family’s material well-being and improve their living conditions.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The borrower receives a lower interest rate to fund their agriculture activities.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2738248.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 29,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beekeeping"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

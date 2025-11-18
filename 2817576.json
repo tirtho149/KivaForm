@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2817576,
+                "name": "Ediber",
+                "loanAmount": "1225.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-07-28T15:46:24Z",
+                "disbursalDate": "2024-06-20T07:00:00Z",
+                "plannedExpirationDate": "2024-09-01T15:46:24Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase organic fertilizers to boost the production of his crops.",
+                "description": "Ediber is a young farmer from Piendamó, Cauca, with 28 years of experience. He owns a three-hectare plot where he has planted over 15,000 coffee plants, which he fertilizes with homemade inputs, diligently caring for his fields to ensure optimal growth and health of his crops.<br /><br />Ediber lives with his wife and stepdaughter in a house that his wife bought several years ago. His wife supports his agricultural activities, helping him with crop processing.<br /><br />A loan of $5,005,514 COP allows Ediber to purchase organic fertilizers that will enable the sustainable growth of his crops.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "Loan will be use to finance borrowers motorbikes purchase",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2817576.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 37,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Services"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "FINAMIGA UNI2"
+            }
+        }
+    }
+}

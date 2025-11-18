@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1049062,
+                "name": "Tu Sida Group",
+                "loanAmount": "1375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-05-04T23:50:08Z",
+                "disbursalDate": "2016-03-10T08:00:00Z",
+                "plannedExpirationDate": "2016-06-03T23:50:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy 15 sheep to sell.",
+                "description": "Boureima is 50 years old, married, and the father of four children. He has been selling livestock for five years and needs this loan to buy 15 sheep to sell.<br /><br />He is known because of his experience, and he is also respected and welcoming to his clients. On top of this, his prices are are lower and more affordable to all. This is why his business does well.<br /><br />After his sales, he will have profits that will allow him to save and take care of his family and also continue his business. He is on his first loan with ACFIME and will work to make his repayments on time.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Elderly",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 4,
+                "whySpecial": "It empowers people in an underserved area to grow their businesses.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1049062.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BF",
+                        "name": "Burkina Faso"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Animal Sales"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Agence Communautaire pour le Financement de la Micro Entreprise (ACFIME)"
+            }
+        }
+    }
+}

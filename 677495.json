@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 677495,
+                "name": "Shahnoza",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-03-03T07:50:01Z",
+                "disbursalDate": "2014-02-19T08:00:00Z",
+                "plannedExpirationDate": "2014-04-02T07:50:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "To buy furniture for her household.",
+                "description": "Shahnoza is 23 years old. She is married and has two children, aged 2 and 4 years old.\r\n\r\nShe has been busy growing agricultural products - vegetables and crops. She began her business three years ago. She earns additional income from animal husbandry. Shahnoza’s husband helps her with managing the business. \r\n\r\nShahnoza wants to improve her living conditions. She is asking for a loan of 2,300 TJS to buy furniture for her household. She awaits your support. ",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/677495.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TJ",
+                        "name": "Tajikistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Consumer Goods"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "IMON International"
+            }
+        }
+    }
+}

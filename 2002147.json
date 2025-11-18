@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2002147,
+                "name": "Pedro Jose",
+                "loanAmount": "850.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-08-16T19:40:11Z",
+                "disbursalDate": "2020-07-14T07:00:00Z",
+                "plannedExpirationDate": "2020-09-30T19:40:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy manure, minerals, fertilizers and fungicides.",
+                "description": "Pedro lives in the country and takes advantage of each opportunity that presents itself. For 25 years he has made a living by growing a variety of vegetables to provide for family expenses. He learned this valuable trade when he was very young helping his father work in the fields. Now he is helped by his sons and he feels very proud to have them at his side. <br />He has returned to MiCrédito and KIVA with the idea of taking care of his fields in order to reap a good harvest. He is applying for a loan which he plans to use to buy manure, minerals, fertilizers and fungicides. He hopes to become known in all the markets in the country.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The repayments are aligned with harvest season.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2002147.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 30,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "MiCredito"
+            }
+        }
+    }
+}

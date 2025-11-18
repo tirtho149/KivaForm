@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1410828,
+                "name": "Gabriela",
+                "loanAmount": "8000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-11-13T18:00:05Z",
+                "disbursalDate": "2018-01-05T08:00:00Z",
+                "plannedExpirationDate": "2017-12-13T18:00:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to create a video documenting Manos del Uruguay's 50 year history employing more than 200 rural women.",
+                "description": "Gabriela is part of Manos del Uruguay, one of the oldest weaving cooperatives in the world that works with more than 200 rural Uruguayan women. Gabriela and other Manos artisans create handwoven clothing and accessories using traditional techniques, natural Uruguayan wool, hand-spun yarns, and natural dyes. Gabriela's techniques and materials are entangled in her roots, inspired by traditions and people who gave birth to her country. \n\nIn 2018, Manos del Uruguay will celebrate 50 years employing Uruguayan women through traditional weaving and spinning techniques. Gabriela will use a loan of $8,000 to help create a video documenting Mano's tradition. This documentary will tell the story of Manos weavers and encourage future weavers to continue learning traditional crafts to maintain the culture and heritage of a country. The documentary will also help Gabriela market her handcrafted products, meet new customers, and share the traditions of Uruguay. ",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Unique",
+                    "#Fabrics",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports artisan organizations that have an impact beyond a single artisan.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1410828.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UY",
+                        "name": "Uruguay"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 276,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Weaving"
+                },
+                "sector": {
+                    "name": "Arts"
+                },
+                "partnerName": "Artisan Alliance at The Aspen Institute"
+            }
+        }
+    }
+}

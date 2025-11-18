@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1066755,
+                "name": "Shamistan",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2016-05-12T03:00:02Z",
+                "disbursalDate": "2016-04-20T07:00:00Z",
+                "plannedExpirationDate": "2016-06-11T03:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy sheep for fattening up and subsequent resale.",
+                "description": "Shamistan is a 22 years old refugee. Shamistan is living in the refugee settlement called Bilasuvar is south part of the country. He resides with his father and mother. Shamistan has a college education and uses this knowledge in the daily farming activities. He has studied agricultural subjects. To provide good income for his family, he is involved in agriculture. <br /><br />He started his business 2 years ago and has good experience in it. He has 2 cows and 14 sheep. He raises calves, fattens them and then takes their meat to the local bazaar. He keeps these animals in his own land. There is a big demand for meat in Azerbaijan. People consume a lot of meat. Most of the traditional dishes like kebabs, kufta and rice consist of meat. <br /><br />Shamistan has requested a loan in the amount of 1200 AZN to buy sheep for fattening up and subsequent resale. Shamistan intends to channel his earnings toward developing his business. He hopes that Kiva lenders will help him.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Single",
+                    "#Refugee",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps people who have been displaced from their homes by conflict.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1066755.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AZ",
+                        "name": "Azerbaijan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 7,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Animal Sales"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Aqroinvest Credit Union"
+            }
+        }
+    }
+}

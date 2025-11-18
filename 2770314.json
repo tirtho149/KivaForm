@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2770314,
+                "name": "Fanampisoa",
+                "loanAmount": "175.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-04-27T00:00:29Z",
+                "disbursalDate": "2024-03-28T07:00:00Z",
+                "plannedExpirationDate": "2024-06-01T00:00:29Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a solar kit.",
+                "description": "Fanampisoa  lives in the Bongo Itasy region.  She wants to take out a loan to be able to buy a solar kit.  She chose a solar product to support her agricultural endeavors.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It gives rural households in Madagascar access to solar home systems.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2770314.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MG",
+                        "name": "Madagascar"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 18,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Energy"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Baobab+ Madagascar"
+            }
+        }
+    }
+}

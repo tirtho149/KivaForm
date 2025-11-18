@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2265479,
+                "name": "Elham",
+                "loanAmount": "1150.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-10-25T22:00:08Z",
+                "disbursalDate": "2021-10-20T07:00:00Z",
+                "plannedExpirationDate": "2021-12-09T23:00:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizer for her plants to help them grow to sell her customers strong plants that will survive.",
+                "description": "Elham began her business from a passion for greenery. She found that added color to life. She decided she wants to market them to others. <br /><br />Her business is a home garden that is flourishing. When others come to buy from her she pairs them with one of her plants. Every plant has a place in her heart. For the house it becomes a throbbing life on the premises. <br /><br />A loan will help her get fertilizer and help her plants grow. Bigger plants have a better chance of living. <br /><br />She wants to make sure she sells her customers a lasting companion. Even in a conflict zone there is still the color green.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Unique"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It assists individuals who have been affected by the Syrian conflict.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2265479.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "JO",
+                        "name": "Jordan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 36,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Florist"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "National Microfinance Bank"
+            }
+        }
+    }
+}

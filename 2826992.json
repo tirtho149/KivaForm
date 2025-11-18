@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2826992,
+                "name": "Diomar",
+                "loanAmount": "925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-08-07T08:30:18Z",
+                "disbursalDate": "2024-07-08T07:00:00Z",
+                "plannedExpirationDate": "2024-09-11T08:30:18Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase fresh merchandise that will optimize the production of her stand at the market.",
+                "description": "Diomar is a friendly merchant from Popayan, Cauca, with over four years of experience. She operates a stand at the local plaza, where she offers a wide range of fresh fruits and vegetables sourced from local farmers, ensuring the freshness of her products and supporting the regional economy by promoting sustainable trade.<br /><br />Diomar is a single mother who lives with her two children in a house she purchased several years ago. Her children attend the local school, and Diomar is committed to supporting them through her business.<br /><br />A loan of 3,797,871 COP allows Diomar to purchase new merchandise for her stand. This investment will help her expand her product range, attract more customers, and increase her sales.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Single",
+                    "#Single Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "Working Capital Loan",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2826992.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 33,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "FINAMIGA UNI2"
+            }
+        }
+    }
+}

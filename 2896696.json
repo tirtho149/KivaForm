@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2896696,
+                "name": "Jane",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-12-10T15:10:19Z",
+                "disbursalDate": "2024-12-09T08:00:00Z",
+                "plannedExpirationDate": "2025-01-14T15:10:19Z",
+                "distributionModel": "fieldPartner",
+                "use": "to acquire farm inputs, including fertilizers, high-quality seeds and farm chemicals, all of which are essential to boost her farm yields.",
+                "description": "Jane is a dedicated smallholder farmer from Eldoret, married, and she is passionate about her work. With a few years of farming experience, she has learned the ins and outs of agriculture, but the challenges of limited resources have made it difficult for her to maximize her farm’s potential. Jane has faced numerous obstacles, including poor soil fertility and pest infestations, which have affected her yields.<br /><br />She is now seeking a loan to procure vital farm inputs such as fertilizers, quality seeds, and farm chemicals to improve her production. Jane is committed to investing in her farm to enhance her family's livelihood. With the right resources, she believes she can significantly increase her harvests and provide a better future for her family. <br /><br />Jane's determination and hard work make her a deserving candidate for this loan, as it will empower her to reach her farming goals and uplift her community.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals, farm inputs and farming equipment.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2896696.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

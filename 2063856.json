@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2063856,
+                "name": "Renante",
+                "loanAmount": "325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-12-04T18:40:03Z",
+                "disbursalDate": "2020-10-30T07:00:00Z",
+                "plannedExpirationDate": "2021-01-18T18:40:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "in part to pay for the maintenance of his tricycle and in part to buy seaweed and plastic straw.",
+                "description": "Renante is a tricycle driver who lives in the province of Iloilo. He is 51 years old and has one dependent. He has worked hard through for many years to meet the needs of his family by driving his tricycle. Aside from his tricycle service, Renante also runs a seaweed farm.<br /><br />Renante asks for loan of PHP 15,000.  This will be used in part to pay for the maintenance of his tricycle. The rest of the loan will be used to buy seaweed and the plastic straw that is used to tie the seaweed,<br /><br />He aspires to augment this livelihood in the future and become more successful.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides training and capital for this borrower.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2063856.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 7,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Transportation"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "Community Economic Ventures, Inc. (CEVI)"
+            }
+        }
+    }
+}

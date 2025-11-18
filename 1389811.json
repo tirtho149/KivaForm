@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1389811,
+                "name": "Ana's Group",
+                "loanAmount": "1375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-10-04T19:30:03Z",
+                "disbursalDate": "2017-11-01T07:00:00Z",
+                "plannedExpirationDate": "2017-11-03T19:30:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer for the cultivation of maize.",
+                "description": "Ana, pictured above, has been a farmer for 9 years, and is now proud to represent her group of 16 farmers in Kilolo North District. She is 30 years old, married and has 3 children.<br /><br />Ana likes to think of herself as a very hardworking individual. She has been working alongside One Acre Fund since 2015 and decided to represent her group because she likes being a leader. She says that being part of the One Acre Fund community has meant that she has been able to consistently feed her family. Ana plans to use the profits from this coming season to buy a goat.<br /><br />In total, Ana’s Group will receive inputs to cultivate 14.5 acres of land. Given that some members of the group will also be purchasing a solar light, with this loan, the group will also receive a total of 7 solar lights.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 16,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1389811.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TZ",
+                        "name": "Tanzania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 30,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

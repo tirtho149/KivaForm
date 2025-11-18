@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 642670,
+                "name": "Elijah",
+                "loanAmount": "600.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-12-07T17:10:03Z",
+                "disbursalDate": "2013-11-15T08:00:00Z",
+                "plannedExpirationDate": "2014-02-05T17:10:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mobile accessories.",
+                "description": "Elijah is from Nyandarua South. He is 41 years old and married with three children who are between the ages of 2 and 12 years.\r\n\r\nElijah has a farming business that he has been doing for many years and has applied for his sixth loan which he intends to use to buy some mobile accessories to boost his secondary business. He is running a mobile business alongside farming. \r\n\r\nElijah hopes to expand his business in the near future.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/642670.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 21,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Phone Accessories"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "VisionFund Kenya"
+            }
+        }
+    }
+}

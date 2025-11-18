@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1678395,
+                "name": "Julius",
+                "loanAmount": "975.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-12-30T20:50:05Z",
+                "disbursalDate": "2018-11-29T08:00:00Z",
+                "plannedExpirationDate": "2019-01-29T20:50:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to invest in clean energy technology for his farm.",
+                "description": "Julius is worried about the bad impact the chemical fertilizers have on the quality of his vegetables. Moreover, he is conscious that the fossil fuels are an excessive waste of money that he could invest in its production or dedicated to the well-being of his family.<br /><br />He decided to purchase a Biodigester that will considerably reduce his carbon footprint by transforming his cows manure into renewable energy and biofertilizer augmenting considerably higher yields.<br /><br />Having an organic farm is an added value for selling, it gives farmers a label of ensuring fresh and healthy products.<br /><br />This loan represents 66% of the full price of the biodigester; the remaining part was covered by a cash down payment and a government subsidy.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Biz Durable Asset",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It saves farmers money by transforming waste into biogas and organic fertilizer.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1678395.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 28,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Energy"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "Sistema.bio"
+            }
+        }
+    }
+}

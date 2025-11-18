@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1945593,
+                "name": "Gerlie",
+                "loanAmount": "300.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-03-17T20:01:03Z",
+                "disbursalDate": "2020-02-26T08:00:00Z",
+                "plannedExpirationDate": "2020-04-16T20:01:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy additional nipa to sell.",
+                "description": "Gerlie is a married woman with seven children. She is a very hardworking entrepreneur. Gerlie is 38 years old and five of her children are still in school.<br /><br />Gerlie has a business buying and selling nipa in the Philippines. She has been in this business for five years.<br /><br />Gerlie requested a PHP 15,000 loan through NWTF to buy additional nipa to sell. In the future, she would like to save enough money that she can afford to send her children to college.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps this borrower grow their business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1945593.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 4,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Products Sales"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

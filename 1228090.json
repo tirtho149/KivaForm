@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1228090,
+                "name": "Senghon Group",
+                "loanAmount": "2000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-01-28T15:00:02Z",
+                "disbursalDate": "2017-01-06T08:00:00Z",
+                "plannedExpirationDate": "2017-02-27T15:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase natural fertilizer and insecticides.",
+                "description": "Senghon, 49, is a widowed mother of three children who lives in Kratie Province, Cambodia. She is a hardworking mother who has to work to support the family living alone. She has been cultivating rice and working as a laborer for others for a wage for the past seven years and typically makes around $7.50 USD per day.<br /><br />This group of four members is led by Senghon, who is pictured first on the right. (The small baby in the picture is the child of her fellow group member.) She will use her loan share to purchase natural fertilizer and insecticides for her farm. <br /><br />She sees that these purchases will allow her to increase her crop yields and increase her family profits. In the future, she wants to to grow cashews and help her children to attend university.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Widowed",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 4,
+                "whySpecial": "It provides add-on training services on financial management, agriculture and child protection.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1228090.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 71,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Phillip Bank"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 876480,
+                "name": "Twekambe Group",
+                "loanAmount": "2000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-05-03T02:00:03Z",
+                "disbursalDate": "2015-04-14T07:00:00Z",
+                "plannedExpirationDate": "2015-06-02T02:00:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to boost his banana trade.",
+                "description": "Twekambe is new group located in Nyakahita- Isingiro district. It’s comprised of women and men who have changed their homes through cooperation and have managed to improve their standard of living via working together. Some of these people have been in business for over 6 years. They purchase their stock in Mbarara and are selling them to Isingiro people; everything is consumed. Others are in agriculture.  They have applied for different loan amounts within the group. \r\n\r\nKeleton will use his loan funds for banana trading. He will buy bunches of bananas that he will sell in fingers. This will increase his sales and profits since he has customers who can not afford a bunch but can buy a few banana fingers.  \r\n\r\nThe group's prime target is to expand their shops and mulch their gardens and get enough money to cater for their families and improve on their plantations; also to send their children to good schools. But they are limited by capital and lack of funds to enable them to achieve their dreams and compete with other people in the area who have similar problems. \r\n\r\n\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Schooling",
+                    "#Repeat Borrower",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/876480.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

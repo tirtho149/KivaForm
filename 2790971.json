@@ -1,0 +1,49 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2790971,
+                "name": "Nancy",
+                "loanAmount": "175.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-06-05T18:23:30Z",
+                "disbursalDate": "2024-05-31T07:00:00Z",
+                "plannedExpirationDate": "2024-07-10T18:23:30Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase modern farm inputs such as certified seeds and organic fertilizers in order to improve the quality of her output.",
+                "description": "Amidst the lush fields of Kapcherop, Nancy, a married smallholder farmer, radiates dedication and perseverance in her agricultural pursuits. With valuable experience garnered over a few years of tending to her farm, Nancy has honed her skills in sustainable farming practices, demonstrating a deep-rooted understanding of crop cultivation techniques.<br /><br />As a married farmer in Kapcherop, Nancy acknowledges the importance of investing in her farm to secure a thriving future for her family. Seeking a loan to acquire modern farm inputs like certified seeds and high-nutrient fertilizers, she aims to enhance crop production and elevate the quality of her yield. This strategic decision underscores Nancy's unwavering commitment to optimizing productivity on her farm, highlighting her determination and forward-thinking approach towards achieving success in agriculture. Supporting Nancy's loan application presents an opportunity to empower a diligent farmer motivated by a resolute resolve to excel and thrive in her farming journey.",
+                "tags": [
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals, farm inputs and farming equipment.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2790971.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 5,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

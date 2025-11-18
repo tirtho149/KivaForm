@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1692708,
+                "name": "Encauchados",
+                "loanAmount": "39950.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-01-23T19:00:03Z",
+                "disbursalDate": "2019-03-20T07:00:00Z",
+                "plannedExpirationDate": "2019-02-22T19:00:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "provide 400 indigenous people in the Brazilian Amazon with sustainable rubber harvesting training and employment that will double their annual incomes.",
+                "description": "The Amazon rainforest offers many ways to generate a livelihood without destroying it, yet many people looking to earn money turn to illegal deforestation. In the Brazilian state of Para, communities cultivate açai for eight months/year and then turn to wood and palm heart logging during the offseason to sustain themselves. These practices, unfortunately, are quickly destroying the Amazon, which has already lost terrain as large as France.\n\nEncauchados is a social enterprise that processes and commercializes the rubber bought from an indigenous cooperative of 128 people. The rubber is produced into home and fashion products, such as trivets and footwear, made of rubber compost mixed with acai fiber.  Both the rubber and the açai are biodiverse products that thrive only when the plants around them are also sustained. Since the producers walk for many hours a day to cover their production area, they also monitor the prevalence of illegal logging.\n\nYour loan will provide 400 indigenous people from the Amazon with a reliable source of income that will double their annual earnings. By lending to Encauchados, you will help to expand the cooperative and (1) to develop its commercial activities to increase sales (2) to fund working capital necessary to increase production and suppliers of rubber, and (3) to hire a Manager to oversee operations, employee development, and sales.\n\nIn doing so, the communities will also be conserving the Amazon rainforest, proving that businesses need not endanger the environment to generate a profit.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Unique",
+                    "#Job Creator",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports businesses that are too big for microfinance but too small for banks.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1692708.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BR",
+                        "name": "Brazil"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 1208,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Arts"
+                },
+                "sector": {
+                    "name": "Arts"
+                },
+                "partnerName": "NESsT"
+            }
+        }
+    }
+}

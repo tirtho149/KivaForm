@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 716038,
+                "name": "Kleant",
+                "loanAmount": "2450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-05-30T04:50:02Z",
+                "disbursalDate": "2014-05-23T07:00:00Z",
+                "plannedExpirationDate": "2014-06-29T04:50:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy 40 sheep.",
+                "description": "Kleant wants to add 40 sheep to his existing herd and 250,000 Albanian lek will help him achieve this goal.\r\n\r\nKleant is a 30-year-old recently married man; he’s photographed here with a plow pulled by donkeys. Kindly note that even though some villagers have all the means to do the plowing with modern machines, some of these villagers prefer to do it all traditionally, firstly for the sake of producing all organic agricultural products and secondly to save some money. Kleant is mostly focused on planting corn, oats and wheat; vetch and fodder for animals; and beans. He also works in construction; according to him, he keeps himself busy all the time.\r\n\r\nKleant lives in a little town not far from the city of Korca; the town was industrial under the Communist era, but since the collapse it doesn’t have any touch of that industrialism. No plants or factories are functioning anymore.  \r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Unique",
+                    "#Interesting Photo"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/716038.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AL",
+                        "name": "Albania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 95,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Agro & Social Fund"
+            }
+        }
+    }
+}

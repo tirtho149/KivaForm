@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 675719,
+                "name": "Lucas",
+                "loanAmount": "350.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-03-28T18:30:03Z",
+                "disbursalDate": "2014-02-14T08:00:00Z",
+                "plannedExpirationDate": "2014-04-27T18:30:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase products like batteries, phone chargers, etc.",
+                "description": "Lucas is thirty one years old, married to Mary, and a father of two children. He repairs mobile phones, has a car wash business, and recently he does crop farming.He has been in these businesses for seven years now and gets a monthly income of fifteen thousand shillings.\n\nThis will be Lucas second loan with Vision Fund Kenya, and he plans to use the entire loan to buy products like batteries, phone chargers, etc. In the future, he wants to be a prosperous business man.",
+                "tags": [
+                    "volunteer_pick",
+                    "volunteer_like",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/675719.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Phone Repair"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "VisionFund Kenya"
+            }
+        }
+    }
+}

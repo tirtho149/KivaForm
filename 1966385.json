@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1966385,
+                "name": "Aaron",
+                "loanAmount": "15000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-05-26T17:29:32Z",
+                "disbursalDate": "2020-06-15T22:16:48Z",
+                "plannedExpirationDate": "2020-07-16T18:54:20Z",
+                "distributionModel": "direct",
+                "use": "us to purchase smart devices that monitor honey bee health.",
+                "description": "I am a social enterpreneur that started a non-profit teaching music classes to kids in residential treatment centers. I gave a TEDx talk in Madrid, was a Shuttleworth Fellow charged with building open source urban farming technology, and I'm the co-founder of OSBeehives, a company building a network of citizen scientists working to reduce honey bee population decline.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Unique",
+                    "#Biz Durable Asset",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports a business striving for a more sustainable future.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1966385.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 452,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Technology"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "trusteeName": "Colorado Lending Source"
+            }
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1544648,
+                "name": "Gemma",
+                "loanAmount": "1000.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2018-06-10T00:30:04Z",
+                "disbursalDate": "2018-05-28T07:00:00Z",
+                "plannedExpirationDate": "2018-07-10T00:30:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy farm inputs, fertilizers and pesticides, to help this 70-year-old granny improve her crop production and support her grandchildren's education.",
+                "description": "Presented here is this enterprising woman, Gemma, who is a granny (pictured in her house). She is a blessed woman, who has been on the face of planet Earth for 70 years. <br /><br />Gemma is famous in her village and known to be a very caring mother to her grandchildren. She has been able to give a good foundation to her grandchildren by sending them to school, from the youngest to the eldest. <br /><br />Gemma has been practicing organic farming for 10 years. Due to continuous cropping, the nutrients in her soil have been depleted. This problem, together with attacks from weeds and pests, has lowered the quality of her farm produce. So she is humbly seeking a loan to buy farm inputs, including fertilizers, pesticides and herbicides, to use on her farm to change the current situation. <br /><br />Through this loan, Gemma will be assured of a bumper harvest this season, which will mean more profits and income, so she will be able to expand her enterprise. Gemma hopes you will consider her appeal, as it would mean a lot to her and her family.<br /><br />Kindly lend to this granny who is 70 years old!",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Schooling",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals and farming equipment.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1544648.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 27,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2119128,
+                "name": "Jael  Isaias",
+                "loanAmount": "1050.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-03-01T18:30:03Z",
+                "disbursalDate": "2021-03-25T07:00:00Z",
+                "plannedExpirationDate": "2021-03-31T17:30:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilisers and manure.",
+                "description": "Jael lives in San Antonio de Oriente hamlet with his family. He makes a living in farming and growing coffee, thereby earning his main source of income. <br /><br />Jael grows corn, coffee and bananas that are of good quality because he looks after them well. He sells the products at an excellent price. Jael is very responsible with his crops and he likes to look after them very well. <br /><br />Jael is applying for this loan in order to buy fertilisers and manure for his crops and therefore grow a very good yield.<br /><br />Jael is very happy with the friendliness and good service from Prisma Honduras and Kiva. He is very grateful for this loan.<br /><br />Jael's dream is to have a good yield.<br /> <br />Trojes, Honduras; February 2021",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It has a below-market interest rate and is repaid at harvest, when farmers can more easily repay.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2119128.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HN",
+                        "name": "Honduras"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 41,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Prisma Honduras"
+            }
+        }
+    }
+}

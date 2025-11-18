@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 627972,
+                "name": "Danijela",
+                "loanAmount": "2725.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-11-07T08:20:02Z",
+                "disbursalDate": "2013-10-16T07:00:00Z",
+                "plannedExpirationDate": "2014-01-06T08:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "To expand her stable.",
+                "description": "Danijela is the mother of four children between the ages of 18 and 24 years old and lives in a small minority community in Kosovo. While her husband receives a pension, Danijela works in a primary school doing administration work. In order to increase their income, she and her husband also have worked in agriculture for a long time, based on family tradition. They own cows and pigs, as well as plant corn and wheat on their land. Danijela uses the cow’s milk for her family and also sells the milk and other dairy products in her neighborhood. She is a very hard worker who wants to have a better life for her family and is therefore requesting a loan to expand her stable and eventually increase the number of cows and pigs she owns. Knowing that this is a Kiva loan, she wants to thank all the lenders for their support. ",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/627972.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "XK",
+                        "name": "Kosovo"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 95,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "KosInvest"
+            }
+        }
+    }
+}

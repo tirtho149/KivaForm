@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1995116,
+                "name": "Jeramie",
+                "loanAmount": "325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-08-17T14:52:26Z",
+                "disbursalDate": "2020-07-27T07:00:00Z",
+                "plannedExpirationDate": "2020-10-01T14:52:25Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seaweed and other materials for her business.",
+                "description": "Jeramie is 24 years old and married with two children.<br /><br />She earns a living by farming seaweed in the Philippines. She is borrowing PHP 15,000 through NWTF to buy seaweed and other materials for her business.<br /><br />She earns additional income from furniture making.<br /><br />She is working tirelessly toward the attainment of her dream: to save enough money so she could afford to send her children to college.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps this borrower grow their business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1995116.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Aquaculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

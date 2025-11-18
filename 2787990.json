@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2787990,
+                "name": "Dilbari",
+                "loanAmount": "1875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-05-31T14:33:26Z",
+                "disbursalDate": "2024-05-29T07:00:00Z",
+                "plannedExpirationDate": "2024-07-05T14:33:25Z",
+                "distributionModel": "fieldPartner",
+                "use": "to cultivate her land and sow seeds.",
+                "description": "The Jomi region has very large fields where the residents of the region engage in farming. Our heroine is named Dilbari – she was born and lives in this wonderful place. She has a family that consists of her husband, his parents, and three lovely children. Dilbari is a hardworking, kind woman. She does not have a higher education, and thus it was hard for her to find a job and earn a living. <br /><br />Undeterred, Dilbari decided to open a new farming business. To start, Dilbari needs to rent land and buy seeds to grow different types of vegetables. This way, Dilbari will be able to harvest the crops and sell them at the local market. As a result, she will be able to help her family live in prosperity. At this time, Dilbari does not have the money and she is seeking support from you. Help her, please. Dilbari hopes for your support!",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps a vulnerable person start a new business.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2787990.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TJ",
+                        "name": "Tajikistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 129,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Humo"
+            }
+        }
+    }
+}

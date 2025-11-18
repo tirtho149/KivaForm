@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1835455,
+                "name": "Jean-Cedier",
+                "loanAmount": "375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-09-15T05:40:08Z",
+                "disbursalDate": "2019-10-14T07:00:00Z",
+                "plannedExpirationDate": "2019-10-15T05:40:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a smoker, beekeeping equipment, and a beekeeping mask.",
+                "description": "Jean-Cedier is 36 years old and has hand-on farming experience.  Agriculture is considered to be the cornerstone of his community in southern Haiti.  Almost all of the population earn their living from farming activities.  <br /><br />Since the beekeeping sector is favorable, Jean-Cedier would like to begin this activity in his garden.  He is used to selling bottled honey, but he has always been fearful of going near bees due to the lack of adequate equipment.  <br /><br />Thanks to the training he received, Jean-Cedier is now ready to raise bees.  Today he is requesting a loan to buy a smoker, beekeeping equipment, and a beekeeping mask.  With this loan, he will be able to support himself financially, as well as seven dependents.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides small and growing businesses in Haiti with access to capital.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1835455.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HT",
+                        "name": "Haiti"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beekeeping"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Fonkoze - Zafèn"
+            }
+        }
+    }
+}

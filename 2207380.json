@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2207380,
+                "name": "Natalia",
+                "loanAmount": "3050.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-07-15T07:00:23Z",
+                "disbursalDate": "2021-07-07T07:00:00Z",
+                "plannedExpirationDate": "2021-08-14T07:00:23Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a cistern to store water to develop her agriculture business.",
+                "description": "Natalia is a 42-year-old woman from Balanul Nou village, Riscani region of Moldova. She is married and has a large and united family. Together with her husband Vasile, she developed a small business in the growing of vegetables in the open field. Natalia is passionate about her business, a craft she learned from her parents. In order for the production process to take place according to the standards, Natalia wants to renovate the irrigation system. Because this year she had other investments such as the purchase of the pump, Natalia does not have the necessary financial resources for it.<br /><br />And not having enough money, she decided to apply for a loan from Kiva sources to buy a cistern to store water. As a result, Natalia will continue to develop her agriculture business and will have the opportunity to ensure her family with a source of food and income and to provide a decent living for the family.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Biz Durable Asset",
+                    "#Technology",
+                    "#Repair Renew Replace"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It enables those living in rural areas to grow their businesses at a lower interest rate.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2207380.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MD",
+                        "name": "Moldova"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 110,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "OCN Prima Finantare SRL"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1974737,
+                "name": "Basem",
+                "loanAmount": "1250.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-06-21T11:00:06Z",
+                "disbursalDate": "2020-06-16T07:00:00Z",
+                "plannedExpirationDate": "2020-08-05T11:00:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizers and potato seeds to cultivate it in the new season.",
+                "description": "Basem is 32-years-old, married and has two little kids. He is financially responsible for his siblings after the death of his mother. His father remarried and left his children without money so, Basem takes charge of them. He has agricultural land and cultivates it with potatoes. <br /><br />He is requesting a loan to buy fertilizers and potato seeds to cultivate in the new season. He hopes to increase his income and cover all the needs of his family and his siblings. He prays to end this current situation soon.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "This loan provides previously unbanked farmers with access to finance.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1974737.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EG",
+                        "name": "Egypt"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 38,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Together Association for Development and Environment (TADE)"
+            }
+        }
+    }
+}

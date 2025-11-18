@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 684030,
+                "name": "Daniel",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-03-21T20:30:01Z",
+                "disbursalDate": "2014-03-11T07:00:00Z",
+                "plannedExpirationDate": "2014-04-20T20:30:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a motorcycle to be able to go to various markets to sell coca leaves.",
+                "description": "Daniel is married, has 6 children, and his parents live with him and his family in the community of Tipampa in a house made of brick and cement that counts on light, water, and a drainage system. Daniel works in coca leaf agriculture, which is a job that leaves him very exhausted. Given the conditions of the climate, Daniel is susceptible to losing his harvest. Daniel is the only source of income for his household and needs this loan to buy a motorcycle that will allow him to transport himself to different markets to sell his product. ",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/684030.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 56,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Motorcycle Transport"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "IMPRO"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1110767,
+                "name": "Khalaf",
+                "loanAmount": "1175.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-07-10T20:20:06Z",
+                "disbursalDate": "2016-06-20T07:00:00Z",
+                "plannedExpirationDate": "2016-08-09T20:20:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more raw materials to make cleaning materials then resell it again.",
+                "description": "Khalaf is 44-year-old lives in Swaileh and married man with six children. Khalaf is a responsible, ‎welcoming and pleasant man and he is working hard to provide the best life for his family. <br /><br />He started working as peddler selling cleaning materials using his van. He has applied for a loan in order to improve his ‎business and buy new products to sell to increase his income. Please help Khalaf to meet his goals; he ‎needs your support.‎",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Fabrics",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It empowers people in a country with limited economic opportunities.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1110767.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "JO",
+                        "name": "Jordan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 42,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Traveling Sales"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "National Microfinance Bank"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 684957,
+                "name": "Gualberto",
+                "loanAmount": "1275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-03-23T17:30:02Z",
+                "disbursalDate": "2014-02-14T08:00:00Z",
+                "plannedExpirationDate": "2014-04-22T17:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a variety of fruits and vegetables to sell.",
+                "description": "Gualberto is 38 years old and is married to Sra. Daniela.  They live in the city of Itá.  His business involves selling fruits and vegetables.  <br /><br />Gualberto says that he currently has a plot where he plants melons and tomatoes.  He also has a vehicle that he uses to transport his products.  In addition, he provides cargo transport services.  Gualberto is a hardworking client who has made many sacrifices in order to get ahead.  He strives to provide better living conditions for his family.  <br /><br />Sr. Gualberto is requesting a loan so that he can invest in the purchase of various fruits and vegetables.  This will enable him to restock his business, which gives him a way of improving his living conditions.",
+                "tags": [
+                    "volunteer_pick",
+                    "volunteer_like",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/684957.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PY",
+                        "name": "Paraguay"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 46,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Fundación Paraguaya"
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2007271,
+                "name": "Jose Jesus",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-08-26T19:20:25Z",
+                "disbursalDate": "2020-07-24T07:00:00Z",
+                "plannedExpirationDate": "2020-10-10T19:20:25Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy minerals, foliage, urea, organic fertiliser.",
+                "description": "José is a man who loves life in the country because he grew up there. This man knows agriculture, he started a business with his brother, and with the profits he obtained he decided to work independently. Now, thanks to his good management, he has 1 hectare of onion cultivation and 1 hectare of mixed corn with beans. He wants to continue growing.<br /><br />José has approached the closest MiCrèdito office to request a KIVA loan with which he plans to buy minerals, foliage, urea, and organic fertiliser. With these products he will ensure that he has a good production. José wants to become a recognised micro-entrepreneur within the agricultural union.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The repayments are aligned with harvest season.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2007271.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "MiCredito"
+            }
+        }
+    }
+}

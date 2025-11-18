@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2627220,
+                "name": "Dzomba Group",
+                "loanAmount": "4150.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-08-11T21:00:18Z",
+                "disbursalDate": "2023-08-11T07:00:00Z",
+                "plannedExpirationDate": "2023-09-15T21:00:18Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a solar powered surface water pump.",
+                "description": "Henry is a 42-year-old man who is married to a beautiful wife. He has three children, ages 12, 9, and 5. Having grown up in a village where the livelihood is predominantly dependent on agriculture, Henry has a lot of experience in farming activities. He grows crops such as maize, groundnuts, soya beans, and many others. The crops grown are mostly for home use, and sometimes he sells to local markets for income to support his family. <br /><br />Because his farming activities largely depend on seasonal rains, crop production is usually low. Hence, Henry finds it difficult to support his family adequately. His children are growing and need much support, especially with education. His 12-year-old child will soon start secondary education, and he needs to support him with school fees. <br /><br />Recently Henry teamed up with other village members who share similar farming challenges. They formed a farming club to get a solar irrigation pump from FIFAD on loan. Henry and his club members believe that irrigation farming will help them increase crop production per year and thus increase their income. <br /><br />Irrigation farming, using a solar pump, will allow them to cultivate three times a year, and the produce will be enough for food and income to support their families. <br /><br />In the picture, he is standing second from the left side with a hand raised.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Biz Durable Asset",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 9,
+                "whySpecial": "It helps increase the productivity and income of smallholder farmers in Malawi.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2627220.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MW",
+                        "name": "Malawi"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 125,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FISD Finance for Agriculture Development (FIFAD)"
+            }
+        }
+    }
+}

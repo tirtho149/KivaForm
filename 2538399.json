@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2538399,
+                "name": "Franklin Jonathan",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-03-15T05:40:16Z",
+                "disbursalDate": "2023-02-28T08:00:00Z",
+                "plannedExpirationDate": "2023-04-19T05:40:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay manual labor for upkeep and maintenance of the farmland on which he grows his crops.",
+                "description": "Franklin is 23 years of age, studied until the ninth grade at school, and is single.<br /><br />Franklin engages in agriculture. He plants basic grains on a plot of land that is 5 kilometers from his house, and he gets there by walking. He is also a bricklayer.<br /><br />He will use this loan to pay manual labor for upkeep and maintenance of the farmland on which he grows his crops.<br /><br />Franklin hopes to obtain good harvests and to sell them at a very good price.",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Single",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It enables farmers to plant basic grains to feed their families.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2538399.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 29,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

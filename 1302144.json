@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1302144,
+                "name": "José Fausto",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-05-24T14:40:04Z",
+                "disbursalDate": "2017-05-04T07:00:00Z",
+                "plannedExpirationDate": "2017-06-23T14:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more fruit and vegetables to sell as well as to buy manure for his crops.",
+                "description": "José went to school until the seventh form. He is married and has seven children, three of whom still go to school, while the others already work.<br />His wife sells fruit and vegetables.<br />José has been in that same trade for over ten years. A family member taught him.<br />He also grows basic grains such as maize and broad beans.<br />He sells fruit and vegetables door-to-door. He works every day with the help of his wife and children.<br />He needs the loan to buy more fruit and vegetables to sell as well as to buy manure for his crops.<br />He dreams of increasing his income, for his family’s sake. He aims at expanding his business and saving in order to help his children carve out a better life for themselves.",
+                "tags": [
+                    "volunteer_pick",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It gives opportunity to families living in high risk areas of El Salvador.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1302144.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

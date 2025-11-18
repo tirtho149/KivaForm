@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1140965,
+                "name": "San Pedro Group",
+                "loanAmount": "3050.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-08-31T01:30:02Z",
+                "disbursalDate": "2016-07-26T07:00:00Z",
+                "plannedExpirationDate": "2016-09-30T01:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy various products to sell, like vegetables, fruits, baked goods, meats, canned goods, assorted beverages, and other products.",
+                "description": "The San Pedro group formed in Curuguaty city, an area that is difficult to access. It is where the members of this group have remote companies, where they struggle to be able to improve themselves and give the best to their families. <br /><br />One of the members, Marta, has a modest food store in which she works every day. She states that her work day starts very early in the morning since she has many customers. She is a very hardworking and enterprising woman who takes great pains to be able to give a better quality of life to her family. <br /><br />She is requesting this loan to be able to buy vegetables, fruits, baked goods, meats, canned goods, assorted beverages, and other products. In this way she will be able to continue selling as she has been.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 15,
+                "whySpecial": "It’s designed for rural areas with high levels of crime and social conflict.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1140965.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PY",
+                        "name": "Paraguay"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 56,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Retail"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Fundación Paraguaya"
+            }
+        }
+    }
+}

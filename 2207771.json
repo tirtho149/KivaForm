@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2207771,
+                "name": "Nancy",
+                "loanAmount": "475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-07-15T17:00:10Z",
+                "disbursalDate": "2021-07-14T07:00:00Z",
+                "plannedExpirationDate": "2021-08-14T17:00:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase modern tools and inputs such as certified seeds and organic fertilizers.",
+                "description": "Nancy, 42, is a dedicated mother to her four children, all school going. With the responsibilities of supporting her family being entirely on her hands, Nancy injects  efforts to ensure her children never go to bed hungry. Every early morning she wakes up, prepares her children for school, and later attends to her daily farming chores (weeding, planting, irrigating, and milking).<br /><br />In the modern world, agriculture has become exceedingly dynamic, therefore, requiring that the kind of inputs used in the sector today be upgraded. On this note, there is a need to use improved farming inputs for effective production. These include high quality seeds and nutrient-rich fertilizer. Nancy has learned that Juhudi Kilimo has intervened in the activities of rural, smallholder farmers and is giving them financial support in the form of loans to enable them to access income generating assets, as well as farming inputs. Nancy says she will use this loan to purchase farm inputs, such as high quality seeds and nutrient-rich fertilizer, which she will use on her farm to boost her yields.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals, farm inputs and farming equipment.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2207771.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

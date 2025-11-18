@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1027356,
+                "name": "Centrine's Group",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-02-28T04:10:09Z",
+                "disbursalDate": "2016-02-25T08:00:00Z",
+                "plannedExpirationDate": "2016-03-29T04:10:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hybrid seeds and fertilizer to improve harvests of maize.",
+                "description": "Centrine, featured in the above picture, is representing her farming group formed by 16 farmers in Teso District, Kenya. She is 42 years old and a married mother of 10 children, often described as a very hardworking individual. <br /><br />Although Centrine has been a farmer for more than 20 years, she is new to One Acre Fund and decided to join this year, because she really wanted to have access to quality training and acquire new farming methods. Even though she is new to the program, Centrine wanted to represent her group because she wanted to help more farmers. With the profits earned from this season’s harvest, Centrine hopes to be able to buy a cow.<br /><br />With this loan, the group will receive farming inputs to plant a total of 6.25 acres of land. They will also receive a total of 10 solar lights, as, even though Centrine decided not to, some of the farmers in the group will be purchasing a solar light as part of their loan package.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 16,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1027356.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1969364,
+                "name": "Voke",
+                "loanAmount": "750.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-06-05T06:40:02Z",
+                "disbursalDate": "2020-05-22T07:00:00Z",
+                "plannedExpirationDate": "2020-07-20T06:40:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy taro roots, banana tubes, wheelbarrows, rakes, shovels, water tanks, and hand gloves.",
+                "description": "Voke is a 29-year-old mother with 4 children. She runs a small business of selling taro and banana in her village to earn a living. She has been doing this for more than 2 years to earn a living. Voke needs a loan to buy taro roots, banana tubes, wheelbarrows, rakes, shovels, water tanks, and hand gloves to help her run the business. She hopes to use her profit to expand her business and provide for her family needs. She became a member of SPBD in 2019.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women with credit in a country where alternative financing is extremely scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1969364.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "WS",
+                        "name": "Samoa"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Samoa"
+            }
+        }
+    }
+}

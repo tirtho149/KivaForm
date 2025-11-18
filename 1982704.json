@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1982704,
+                "name": "Paulo",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-07-09T01:40:10Z",
+                "disbursalDate": "2020-06-26T07:00:00Z",
+                "plannedExpirationDate": "2020-08-23T01:40:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more manure, fertilizer and some new farming equipment in order to increase his farming productivity.",
+                "description": "Paulo is a humble and hardworking young man. He is 20 years old and he is a farmer in his village. <br /><br />Most of the time, Paulo's daily work involves planting and looking after his vegetables. After the vegetables are grown, he usually harvests them then transports them to local markets to sell. He has been growing and selling vegetables for many years now with his own working capital. <br /><br />Paulo is requesting a loan of $700 from KIF to help with his farming business. Every day he is busy with farming because he makes a living from it. Paulo will used this loan  to buy more manure, fertilizer and some new farming equipment in order to increase his farming productivity.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides entrepreneurs in underserved communities with the means to grow their businesses.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1982704.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TL",
+                        "name": "Timor-Leste"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Kaebauk"
+            }
+        }
+    }
+}

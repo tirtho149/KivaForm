@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1992449,
+                "name": "Moises",
+                "loanAmount": "3000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-07-26T20:00:26Z",
+                "disbursalDate": "2020-08-24T07:00:00Z",
+                "plannedExpirationDate": "2020-09-09T20:00:26Z",
+                "distributionModel": "fieldPartner",
+                "use": "to expand his small plantain, cassava and otoe plantation in historically excluded indigenous territories.",
+                "description": "Moises is a young and proactive farmer from the indigenous community of La Peñita, located in the eastern region of Darien in Panama. He’s always worked in agriculture, following his family legacy and knowledge, he has learnt how to plant different vegetables which have been key to providing for his family.<br /><br />Moises started with a small lot where he has planted plantains, cassava and “otoe” which is a variety of sweet potato. His produce has had a stable demand in the last 5 years.<br /><br />Recently, the demand for his produce has increased due to the transit of around 3,000 migrants from Africa, Asia and Latin America that are crossing through Panama to North America. His community is located by the river where most nearby communities and migrants travel through, this has benefited his sales considerably as he now provides food for this population in transit.<br /><br />Moises has rented a larger lot where he is planning to expand his production. With this loan, Moises wants to buy seeds, provide temporary jobs to young people in his community, buy equipment to improve his productivity as all the planting and harvesting is done by hand without any agricultural equipment.<br /><br />Thank you for helping young entrepreneurs that have been historically excluded from basic financial services in indigenous territories!",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Job Creator",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps the people of a historically disadvantaged community access financial services.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1992449.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PA",
+                        "name": "Panama"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 107,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Global Brigades Inc."
+            }
+        }
+    }
+}

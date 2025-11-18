@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1063513,
+                "name": "Latafat",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-05-05T11:40:02Z",
+                "disbursalDate": "2016-05-26T07:00:00Z",
+                "plannedExpirationDate": "2016-06-04T11:40:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase two milking cows.",
+                "description": "Latafat is a 48-year-old married woman, who has three children. She is an Internally Displaced Person (IDP) and lives in Bilasuvar IDP Settlement. \r\n\r\nLatafat has been breeding cattle and cows for the past 20 years. She was a housewife, but her husband is unemployed, and her business helps to cover family needs. Latafat usually buys small calves, raises and fattens them for 5-6 months, and then resells them for a profitable price in the livestock bazaar. Her monthly income is 120 AZN, and this business is the only source of financial income in her family. \r\n\r\nMeat is in very high demand in Azerbaijan, and people use it in everyday dishes, like pilau and dolma. Latafat also keeps milking cows for personal use and for selling milk to neighbors. She wants to expand her business and improve the life conditions of her family. \r\n\r\nShe applied for a loan of 1200 AZN. She plans to purchase two milking cows with her loan funds. This will be her second loan, and she has a good credit history.\r\n\r\n",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Refugee"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps people who have been displaced from their homes by conflict.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1063513.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AZ",
+                        "name": "Azerbaijan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 19,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Aqroinvest Credit Union"
+            }
+        }
+    }
+}

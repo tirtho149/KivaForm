@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1353941,
+                "name": "Shermatboi",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-08-13T03:50:03Z",
+                "disbursalDate": "2017-07-10T07:00:00Z",
+                "plannedExpirationDate": "2017-09-12T03:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to repair his tractor in order to continue his business.",
+                "description": "Shermatboi is from a remote village. He is 36 years old. Shermatboi is married and has two children. Shermatboi's wife and children are very wonderful. He cares for his family. Shermatboi works as a tractor driver. He tills the land and receives pay for his work. In this way, Shermatboi provides for his family. <br /><br />Not long ago his tractor broke down, and Shermatboi was very worried. He urgently needs to repair his tractor, since this is his main source of income. This loan is very important to Shermatboi. He believes that you will offer him help, and thanks you in advance.<br /><br />Shermatboi is a returning borrower and has a positive credit history. He is asking for a loan for the fifth time through Kiva’s field partner IMON.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Biz Durable Asset",
+                    "#Repair Renew Replace"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It reaches rural populations with less access to opportunity.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1353941.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TJ",
+                        "name": "Tajikistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Services"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "IMON International"
+            }
+        }
+    }
+}

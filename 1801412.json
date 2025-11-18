@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1801412,
+                "name": "Juan Carlos",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-07-25T12:30:04Z",
+                "disbursalDate": "2019-06-19T07:00:00Z",
+                "plannedExpirationDate": "2019-08-24T12:30:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy wood to make bee hives and to plant crops.",
+                "description": "Juan is a hard-working person with a big heart which has been strengthened with the humility and sensibility that distinguish the inhabitants of the municipality of Ovejas (Sucre).  He is in a relationship and has no children.<br /><br />He will use the loa to buy wood to make bee hives and to plant crops.  Thanks to this loan, the economy and quality of life of his family will improve as his income will increase.<br /><br /><br />If you want to know more about the entrepreneurs and the loans from Interactuar, you can join the Lending Team called: “Friends of Interactuar Colombia”: http://www.kiva.org/team/interactuar_colombia.\"",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Repeat Borrower",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps internally-displaced people in Colombia rebuild and sustain their livelihoods.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1801412.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beekeeping"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Interactuar"
+            }
+        }
+    }
+}

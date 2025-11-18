@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1951228,
+                "name": "Anarkul",
+                "loanAmount": "2475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-04-02T04:20:10Z",
+                "disbursalDate": "2020-03-20T07:00:00Z",
+                "plannedExpirationDate": "2020-05-17T04:20:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy dairy cows to increase her headcount of cattle and sales of organic milk.",
+                "description": "Anarkul successfully repaid her earlier loan, and she is grateful to the Kiva Foundation and to everybody who helped her with her financing. Her farm today has 4 cows, 28 sheep, and 5 horses, as well as a land share of 3.63 hectares where she grows potatoes, barley, clover, apples, and apricots. <br /><br />In order to further develop her business, she once again applied to the bank \"Bai-Tushum\" for a loan in the amount of 200,000 som (KGS) to buy dairy cattle, with the goal of increasing her sales of organic milk and income from livestock breeding. Anarkul plans to invest the proceeds from the loan into the further development of her farm.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Elderly",
+                    "#Repeat Borrower",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports organic farming and includes a lower interest rate.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1951228.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 83,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Dairy"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

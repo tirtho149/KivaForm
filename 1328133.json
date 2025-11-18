@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1328133,
+                "name": "Luis Antonio",
+                "loanAmount": "1400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-06-28T22:00:04Z",
+                "disbursalDate": "2017-06-22T07:00:00Z",
+                "plannedExpirationDate": "2017-07-28T22:00:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "invest in his potato crop.",
+                "description": "Antonio is 37 years old.  He is in a common-law marriage with a live-in partner and has a 13-year-old daughter who is in school.  Antonio has vision problems, but this has not stopped him from fighting to move his humble household forwards.  He makes a living raising animals and growing produce such as potatoes and corn.  <br /><br />He is requesting a loan to invest in his potato crop so that he can improve his crop and have a better income to cover his family's needs and his eye treatment.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Health and Sanitation"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It aims to reach vulnerable refugee populations in an isolated region.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1328133.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 39,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Ecuador"
+            }
+        }
+    }
+}

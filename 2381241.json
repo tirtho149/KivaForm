@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2381241,
+                "name": "Lina",
+                "loanAmount": "300.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-05-26T16:30:12Z",
+                "disbursalDate": "2022-05-13T07:00:00Z",
+                "plannedExpirationDate": "2022-06-30T16:30:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for farming materials, transport fares and market space to transport and sell copra.",
+                "description": "Lina is a 39 year-old married woman with four children. She lives with her husband and children in Darom Village, Wewak, ESP. Lina is described by her family and friends as an enthusiastic self employed individual who is honest and kind. <br /><br />Lina's parents are subsistence farmers and she has been involved in the business of farming of buying, growing and selling of cocoa, vanilla beans and copra.<br /><br />This businesses have sustained her as a child growing up into adulthood. She learnt from her parents and continued this business with her small family of 6. She likes the activities for the daily income that it brings. <br /><br />Copra business is one of the businesses she is striving to support and grow and expand in the next few years. Owning a very large cocoa fermentary and purchasing a copra dryer are 2 of her major goals she wishes to achieve in the next 5 years.<br /><br />She has the support of her husband and children to meet daily assistance to ensure their business is up and running. Despite many challenges faced over the years, she is determined and needs a loan to pay for the farming materials, logistics and purchase more cocoa and vanilla beans in addition to the copra business. <br /><br />Your loan will help her achieve her goals.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It improves market access and livelihoods for rural farmers.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2381241.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PG",
+                        "name": "Papua New Guinea"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Women's Micro Bank (WMB)"
+            }
+        }
+    }
+}

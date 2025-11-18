@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 767126,
+                "name": "Mukaddas",
+                "loanAmount": "825.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-09-15T22:00:01Z",
+                "disbursalDate": "2014-09-04T07:00:00Z",
+                "plannedExpirationDate": "2014-10-15T22:00:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy almonds for resale, as a source of income.",
+                "description": "Mukaddaslivers in Qubadijon, a region in the southwest [of Tajikistan]. This region  is located in the valley in the Kafirnigan river. The southern part of the region borders with Afganistan; the state border is formed by the Pyanzh river.The climate in the region is continental: the change of seasons is relatively mild and imperceptible; there is practically no winter in the full sense of the word.\r\n\r\nMukaddas lives in one of the villages of this region together with her family. Her husband is a construction foreman. Mukaddas does not have children yet; she is already 35 years old. At present Mukaddas would like to dedicate her efforts to a new business. She plans to launch a business buying and reselling almonds. Since she lacks the starting capital, she has applied for a loan. By starting a new business, Mukaddas will be able to increase the family budget and improve her life conditions.",
+                "tags": [
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/767126.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TJ",
+                        "name": "Tajikistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 29,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Production/Sales"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Humo"
+            }
+        }
+    }
+}

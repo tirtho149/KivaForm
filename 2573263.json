@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2573263,
+                "name": "Tsetsegmaa",
+                "loanAmount": "875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-05-03T08:40:16Z",
+                "disbursalDate": "2023-04-19T07:00:00Z",
+                "plannedExpirationDate": "2023-06-07T08:40:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy various vegetables and pickled vegetables.",
+                "description": "Tsetsegmaa is an experienced, self-employed entrepreneur. She's 66 years old and lives in the city center with her husband. She's a good communicator dealing with the public. She didn't want to sit back at home after retirement, so she started her own business.<br /><br />She was interested in agriculture, so Tsetsegmaa decided to grow vegetables to sell herself. She has a vegetable stand in a large shopping mall. Since it's been more than a decade since she started this business, she's attracted a lot of regular customers. More than 15 people visit each day. They're very happy because they're buying organic vegetables grown in healthy soil.<br /><br />She's very happy to have started her own business because she's been able to increase her income and work flexible hours. Her husband supports her a lot.<br /><br />She requested a loan to expand her business. She'll use it to buy various vegetables and pickled vegetables. Tsetsegmaa is working diligently every day to further expand her business.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "This loan will support the creation of new businesses and self-employment in poor communities.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2573263.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MN",
+                        "name": "Mongolia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 32,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "VisionFund Mongolia"
+            }
+        }
+    }
+}

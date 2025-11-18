@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1941922,
+                "name": "Jose",
+                "loanAmount": "450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-03-07T21:30:10Z",
+                "disbursalDate": "2020-02-17T08:00:00Z",
+                "plannedExpirationDate": "2020-04-06T20:30:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase protective screens and a greenhouse, and to rent a machine for preparing the land.",
+                "description": "Jose has been a farmer for more than 40 years. He lives on a small farm in the region of Campinas, where he works and sustains his household. He is married and has a son who also helps him with the harvesting and planting. <br /><br />He supplies manioc, peppers, zucchinis, jiló [scarlet eggplant], and other vegetables to small supermarkets in the region. His produce is organic, and he does not use any chemical product that could harm the crop.<br /><br />This loan will help him to purchase protective screens and a greenhouse, and to rent a machine for preparing the land. Jose is very dedicated; and through his work and knowledge in the area of agriculture, he helps other people with his experience.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "This is one of few affordable credit options for low-income borrowers in São Paulo, Brazil.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1941922.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BR",
+                        "name": "Brazil"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 17,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Banco do Povo Crédito Solidario"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 877987,
+                "name": "Tagoneswa Group",
+                "loanAmount": "1250.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-05-22T23:40:04Z",
+                "disbursalDate": "2015-03-30T07:00:00Z",
+                "plannedExpirationDate": "2015-06-21T23:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "To increase her stock of broilers.",
+                "description": "The Tagoneswa group recently joined the Thrive programme and consists of five women who are in different income generating projects but who know each other well and share the same business philosophy of hard work and forming a close knit group that provides mutual support.\n\nPumuzani is the chairlady of Tagoneswa group from Highfields in Harare. She started business as a gateside tomatoes vendor after her husband stopped working. Her small business grew to a small vegetable stall also selling snacks and refreshments at the local market. The small profits she was making enabled her to support her small family and apply for a passport. After the acquisition of her passport, Pumuzani added cross-border trading to her business. After hearing about Thrive, Pumuzani and her friends formed Tagoneswa group. They joined the Thrive programme and benefited a lot from the training made available to them. She believes that what she has learnt will make her a better businesswoman.\n\nWith her Kiva loan, Pumuzani is looking forward to growing her cross-border business and increasing her chicken batches from 100 at a time to 200 chickens. \n",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/877987.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "ZW",
+                        "name": "Zimbabwe"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 35,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Poultry"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Thrive Microfinance"
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 731583,
+                "name": "Arif",
+                "loanAmount": "1025.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-07-03T00:00:05Z",
+                "disbursalDate": "2014-06-10T07:00:00Z",
+                "plannedExpirationDate": "2014-08-02T00:00:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "For his daughter's wedding party.",
+                "description": "Arif is 43 years old, married and has three children. He works on a farm which he inherited from his parents.\r\n\r\nArif is applying for loan of AZN 800 to pay for his child’s wedding party. His eldest child, a daughter, is getting married and he wants to organize a cheery wedding in according with our cultural traditions.\r\n\r\nIn the future, he hopes that he can purchase more farmland to expand business and help his other two children's dreams and plans.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/731583.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AZ",
+                        "name": "Azerbaijan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 19,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Wedding Expenses"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "VisionFund AzerCredit"
+            }
+        }
+    }
+}

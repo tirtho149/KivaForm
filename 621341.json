@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 621341,
+                "name": "Felomina",
+                "loanAmount": "1400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-10-24T21:20:02Z",
+                "disbursalDate": "2013-09-20T07:00:00Z",
+                "plannedExpirationDate": "2013-11-23T21:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase an organic fertilizer for the farm.",
+                "description": "Felomina is married to a retired soldier who is working now on their own farm to earn a living. For more than ten years, she helped him in order to expand and improve the farm to be able to provide for the needs of her only child. She borrowed  from GDMPC micro-credit to purchase an organic fertilizer for the farm. She planned with her husband to cultivate all the vacant lot and plant bananas for sale. She hopes to improve the general living of the family in the near future.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/621341.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 42,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Gata Daku Multi-purpose Cooperative (GDMPC)"
+            }
+        }
+    }
+}

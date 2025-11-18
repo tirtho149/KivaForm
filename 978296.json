@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 978296,
+                "name": "Sunday",
+                "loanAmount": "225.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-11-16T05:10:03Z",
+                "disbursalDate": "2015-12-07T08:00:00Z",
+                "plannedExpirationDate": "2015-12-16T05:10:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to eliminating pressure to sell maize for low prices at harvest.",
+                "description": "Sunday is a maize farmer and a Babban Gona member. Anticipating a good harvest this season, Sunday has the opportunity to attain yields of up to 8 metric tonnes of maize per hectare of land, 5.5 times that of the average Nigerian maize farmer. <br /><br />Before joining Babban Gona, Sunday would have had to sell his maize at harvest, a period when maize prices are at their lowest in the market, to meet his immediate cash needs such as food and clothing. Thanks to Babban Gona’s support Sunday can store his maize and sell it at a future date for up to 37% higher than the market price at harvest. <br /><br />As a Babban Gona member, Sunday will benefit from marketing support that could see him generate earnings of up to $2,000 per hectare of land. <br /><br />Sunday is thankful that he now has the opportunity to improve the life of his children and family and looks forward to using his additional earnings to acquire more land to put into the Babban Gona program.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/978296.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NG",
+                        "name": "Nigeria"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 7,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Expenses"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Babban Gona Farmers Organization"
+            }
+        }
+    }
+}

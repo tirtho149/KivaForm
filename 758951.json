@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 758951,
+                "name": "Unidos Para Progresar 2 Group",
+                "loanAmount": "3150.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-08-28T23:20:01Z",
+                "disbursalDate": "2014-07-30T07:00:00Z",
+                "plannedExpirationDate": "2014-09-27T23:20:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to grow cacao trees and to buy cacao for processing.",
+                "description": "Altagracia is the group coordinator for Unidos Para Progresar 2. This group is located in the city of Hato Mayor. Her home is a compound for herself, her husband, and their two children. She lives with her husband in their simple rural home.<br /><br />Altagracia has successfully completed eight years of loans with Esperanza, and this is her 16th loan. She sells cacao, to people who produce chocolate and other products. She would like to continue expanding her business, by increasing her inventory. This would enable her to satisfy more customers and sell a larger quantity. She will use this loan to grow more cacao trees and to purchase cacao, dry and process it.  She will sell it to customers that need this product.<br /><br />Altagracia says she enjoys doing business, and her most important dream is to produce enough income to provide for all of her family's needs and to buy some land to grow more cacao trees. She has been saving her profits since she started her business, with her first Esperanza loan. She thanks you all for your support!",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/758951.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "DO",
+                        "name": "Dominican Republic"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 106,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Esperanza International Dominican Republic"
+            }
+        }
+    }
+}

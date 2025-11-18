@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 973823,
+                "name": "Soney",
+                "loanAmount": "1000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-11-06T13:10:05Z",
+                "disbursalDate": "2015-10-07T07:00:00Z",
+                "plannedExpirationDate": "2015-12-06T13:10:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "To buy organic fertilizer in order to increase productivity of her crop yields.",
+                "description": "Soney is 27 years old and married. From Tbaung Khmum province, she has a dependent son under the age of school. To support a living, she and her husband have been growing cassava and rice for years. Pests and diseases are challenges to her farming business. <br /><br />Soney is a fifth cycle borrower with VisionFund. Past loans have enabled her to renovate her old house and to buy household supplies. <br /><br />She is going to use her loan to buy organic fertilizer and organic pesticide, and to pay for labor's fees. <br /><br />She hopes that she can generate more income to expand her cassava farmland and to send her son to school.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/973823.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 34,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Cambodia"
+            }
+        }
+    }
+}

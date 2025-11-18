@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 852295,
+                "name": "Nema",
+                "loanAmount": "575.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-03-14T03:40:05Z",
+                "disbursalDate": "2015-03-04T08:00:00Z",
+                "plannedExpirationDate": "2015-04-13T03:40:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase additional spare parts for the maintenance of her motorcycle.",
+                "description": "Nema is a hardworking entrepreneur who has a motorcycle transport business in the Philippines. \r\n\r\nShe is borrowing PHP 25,000 through NWTF to purchase additional spare parts for the maintenance of her motorcycle transport business.\r\n\r\nNema has been in this business for 11 years. Nema earns more income from pig fattening and rice retailing.\r\n\r\nShe successfully repaid her previous loan and now she has requested another loan to further build her businesses.\r\n\r\nNema has been sustaining her business activities through her own efforts with the help of the loans from NWTF. She dreams of saving money to expand her business in the future.\r\n",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Elderly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/852295.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 4,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Motorcycle Transport"
+                },
+                "sector": {
+                    "name": "Transportation"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

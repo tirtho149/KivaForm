@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2205090,
+                "name": "Kemny Jocaryn",
+                "loanAmount": "700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-07-12T02:20:11Z",
+                "disbursalDate": "2021-07-31T07:00:00Z",
+                "plannedExpirationDate": "2021-08-11T02:20:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy supplies such as calcium, zinc, boron, etc. to improve his coffee trees' nutrition.",
+                "description": "Kemny is 30 years old and has good principles. He manages a 4.5-hectare farm of which 1.4 hectares are used to grow coffee. He manages it according to the criteria set forth in the FLO certification. He lives in a faraway community in northern Nicaragua where he lives with his wife and son.<br /><br />As a child he did some work on his parents' farm and now he faces a new challenge every year with his own farm. He will use the loan to buy supplies such as calcium, zinc, boron, etc. to improve his coffee trees' nutrition.<br /><br />This is the first loan he processes through PAC.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It allows farmers to plant trees needed to shade coffee plants.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2205090.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 20,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "PAC"
+            }
+        }
+    }
+}

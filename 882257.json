@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 882257,
+                "name": "Evenecer Group",
+                "loanAmount": "1075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-05-16T11:00:02Z",
+                "disbursalDate": "2015-04-21T07:00:00Z",
+                "plannedExpirationDate": "2015-06-15T11:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy and sell live pigs.",
+                "description": "The loan group Evenecer is comprised of 8 members, 7 women and 1 man. They are mothers and fathers and are responsible for 20 children, all of them minors. They are from Sauce, a place that is known for its dairy products, curds and cheese. They all know one another and they have various economic activities with which they fight to move forward  and grow their respective businesses so that they can offer their children a better future. \r\nThanks to her desire to get ahead, the coordinator is Sobeida and her business is buying and selling live pigs. Her business is located at her home and she spends 8 hours a day working at it. The goal of the loan is to have working capital and to supply her business by buying a batch of live pigs so that, in the near future, she will have better profits. The Evenecer group is grateful for the help that the Kiva lenders offer to people who have scarce resources and to poor countries like Nicaragua so that they can have dignified work.\r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 8,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/882257.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 3,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pigs"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Fundación León 2000"
+            }
+        }
+    }
+}

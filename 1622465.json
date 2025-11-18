@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1622465,
+                "name": "Aya",
+                "loanAmount": "1075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-10-11T04:00:03Z",
+                "disbursalDate": "2018-09-10T07:00:00Z",
+                "plannedExpirationDate": "2018-11-10T05:00:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay her tuition fees for her bachelor's degree in Agronomy.",
+                "description": "Aya is a 21-year-old single Lebanese woman who lives with her parents and one sibling. Her father is the main income provider in the family; he works hard to fulfill the family's needs, while she is focusing on her studies. <br /><br />With the help of her father and a lot of effort, she was able to finish high school and continue her education at the university to study Agronomy. However, her father’s income is not enough to cover her tuition fees, therefore, Aya started her own business. She cultivates a small plot of land near her house with flowers and plants and sells her harvests to the neighbors. <br /><br />Today, Aya is requesting a loan from Kiva partner to pay her tuition fees for her Agronomy bachelor's degree. She  hopes to enlarge her agricultural nursery and enhance her way of living.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Schooling",
+                    "#Female Education"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides low-income students with access to higher education funding.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1622465.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "LB",
+                        "name": "Lebanon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 43,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Higher education costs"
+                },
+                "sector": {
+                    "name": "Education"
+                },
+                "partnerName": "Vitas - Lebanon"
+            }
+        }
+    }
+}

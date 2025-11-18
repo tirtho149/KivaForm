@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2727001,
+                "name": "Hillary",
+                "loanAmount": "525.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-02-15T14:00:19Z",
+                "disbursalDate": "2024-02-05T08:00:00Z",
+                "plannedExpirationDate": "2024-03-21T13:00:19Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for the purchase of manure and mulches.",
+                "description": "Hillary is from Kyaburere parish, Bugangari subcounty.  He is a repeat client with Ugafode.  He deals in banana and coffee farming.  Unfortunately, Hillary is challenged with not having enough working capital to buy Agro-inputs, such as mulches and manure.  These inputs would improve his plantation productivity and therefore increase his production and sales, allowing him to generate more income.  <br /><br />Hillary is requesting a loan to buy those Agro-inputs to enhance his plantations.  He is thankful to Ugafode and Kiva for the support,",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2727001.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 19,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

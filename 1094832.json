@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1094832,
+                "name": "Kwadwo",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-06-14T00:00:06Z",
+                "disbursalDate": "2016-06-06T07:00:00Z",
+                "plannedExpirationDate": "2016-07-14T00:00:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for palm seedlings.",
+                "description": "Kwadwo has finished repaying his previous Kiva loan. The loan was useful to him.. Therefore, he want to secure more loans from Kiva to expand his organic palm oil business for a good life.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It encourages the usage of raw material from organic and fair-trade sources.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1094832.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GH",
+                        "name": "Ghana"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 16,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Dr. Bronner's / Serendipalm"
+            }
+        }
+    }
+}

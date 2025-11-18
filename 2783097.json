@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2783097,
+                "name": "Adelina",
+                "loanAmount": "175.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-05-25T16:47:03Z",
+                "disbursalDate": "2024-04-25T07:00:00Z",
+                "plannedExpirationDate": "2024-06-29T16:47:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase additional materials like fishing nets, bamboo logs, etc. for the maintenance of her crab culture business.",
+                "description": "Adelina is a hardworking entrepreneur who has a fish vending business in the Philippines. Adelina requested a 10,000 PHP loan through NWTF to purchase additional materials like fishing nets, bamboo logs, etc. for the maintenance of her crab culture business. Adelina has been sustaining her business activities through her own efforts and with the help of the loans from NWTF. She dreams of saving enough to provide a secure future for her family.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps this borrower grow their business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2783097.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PH",
+                        "name": "Philippines"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 6,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fish Selling"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Negros Women for Tomorrow Foundation (NWTF)"
+            }
+        }
+    }
+}

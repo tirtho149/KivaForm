@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1362513,
+                "name": "Aziza",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-09-01T05:10:03Z",
+                "disbursalDate": "2017-07-25T07:00:00Z",
+                "plannedExpirationDate": "2017-10-01T05:10:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mineral fertilizers and pay laborers for their work.",
+                "description": "Aziza is 26 years old and lives with her child in Dj. Rasulov, Tajikistan. She was born into a family of farmers and has a farm on a small plot of land. She has been farming for six years and she is manages her business alone. She has rented a plot of land two hectares in area and sows a crop of potatoes, cucumbers, maize, and corn. <br /><br />Aziza has taken out and successfully repaid a previous loan through Kiva's field partner IMON International and has a positive credit history. She has now applied for a 7,000 TJS loan to buy mineral fertilizers and pay laborers for their work. She will mix the fertilizers in with the soil to improve the quality of her crops. <br /><br />Aziza hopes to get a good harvest next season. She awaits your support and mercy.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Single Parent",
+                    "#Repeat Borrower",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports the well being of women and their families.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1362513.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TJ",
+                        "name": "Tajikistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 32,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farm Supplies"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "IMON International"
+            }
+        }
+    }
+}

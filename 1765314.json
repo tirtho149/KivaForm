@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1765314,
+                "name": "Alex",
+                "loanAmount": "600.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2019-05-21T23:00:11Z",
+                "disbursalDate": "2019-05-03T07:00:00Z",
+                "plannedExpirationDate": "2019-06-20T23:00:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizers and mulch for his farm to have better yields.",
+                "description": "Alex is married with three children, two of whom attend school. He does farming, mainly banana growing as his main source of income. Given that farming is a seasonal business, he saved up some money that he invested in a small bar to supplement his income.<br /><br />He works from Monday to Sunday. Alex is a true hard worker who struggles tirelessly to make his dream of having his own home and living a dignified life a reality. <br /><br />He is asking for a loan to invest in his farming business to buy fertilizers and mulch. Alex is positive that he will have a good harvest, which will bring in more income for the family's survival.<br /><br />Alex appreciates the support.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1765314.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

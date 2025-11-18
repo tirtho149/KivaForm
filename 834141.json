@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 834141,
+                "name": "Chozvo Group 9",
+                "loanAmount": "775.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-02-03T23:50:05Z",
+                "disbursalDate": "2015-03-31T07:00:00Z",
+                "plannedExpirationDate": "2015-03-05T23:50:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "To pay for farming inputs to increase maize crops yields.",
+                "description": "Chozvo 9 are a proud group of 14 farmers who cultivate maize in Catandica, Mozambique. All group members were born and live in the Chozvo area. The group sells its crop at a fair price to Empresa de Comercialização Agricola Lda (ECA), a local agribusiness which both acts as a buyer and provides the farmers with quality farming inputs and technical advice. An investment by AgDevCo has allowed ECA to purchase a state-of-the-art maize mill, designed for use in rural areas, so it can process the farmers’ crop before selling it on. The group in total farms 14.5 hectares of land. All farming is done manually. The farmers require finance to purchase vital farming inputs - all of them purchase seed and some choose to also purchase fertilizer. \n\nAccess to a group loan of 26,060 Meticais (776 USD) equates to an average of 1,861 Meticais (55 USD) per participant- enough for the farmers to purchase from ECA the inputs they need. Farming conditions in the area are extremely tough with only intermittent rainfall. However, since becoming participants on the Chozvo scheme all the farmers report life becoming easier. They can afford good quality fertilizer, which is purchased from ECA. The farmers’ crops are also bought by ECA every week - they come to their farms so the participants do not need to walk long distances to find a market for their crops. Since ECA’s arrival into their community, and with access to funds to purchase the necessary inputs, the farmers have seen their yields and incomes increasing threefold. This is allowing them to invest in their farms, buy motorbikes and send their children to school.  ",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 14,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/834141.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MZ",
+                        "name": "Mozambique"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 28,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "AgDevCo"
+            }
+        }
+    }
+}

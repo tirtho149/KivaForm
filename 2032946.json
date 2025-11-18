@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2032946,
+                "name": "Na Tau 37 Group",
+                "loanAmount": "3350.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-10-13T00:50:08Z",
+                "disbursalDate": "2020-09-28T07:00:00Z",
+                "plannedExpirationDate": "2020-11-27T01:50:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fingerlings.",
+                "description": "Married very early, Ms. Xien, 37 years old, is a Thai ethnic woman who has two children: the son is in seventh grade and the daughter is already married. <br /><br />Her family lives in a small house on stilts in a poor village in Dien Bien province.<br /><br />Her husband sells fish and is the main income generator for the family. She does some work to generate additional income such as growing rice and seaweed and raising fish, pigs, chickens and ducks. <br /><br />Due to difficult circumstances since she was a child, she was unable to go to school, so she always works hard to earn money to pay for her child's school fees; she hopes that her children have a better future than her. <br /><br />Therefore, she decided to get a loan from the Anh Chi Em program to invest in buying fingerlings to expand production and husbandry and to improve the family economy. <br /><br />She hopes that with her two years of experience in fish farming and technical support from the Anh Chi Em program staff, the investment will be successful and profitable to cover the children's school fees and home remodeling.<br /><br />In the picture, she stands at the first from the right.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Schooling"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 8,
+                "whySpecial": "It provides financial and other support to families living in vulnerable communities.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2032946.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "VN",
+                        "name": "Vietnam"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 89,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Aquaculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Entrepreneurs du Monde - Anh Chi Em"
+            }
+        }
+    }
+}

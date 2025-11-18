@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2286468,
+                "name": "Abigael",
+                "loanAmount": "625.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-12-01T05:20:19Z",
+                "disbursalDate": "2021-11-26T08:00:00Z",
+                "plannedExpirationDate": "2022-01-15T05:20:19Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy farm inputs, such as certified quality seed and organic manure/ fertilizer, to improve her crop farming.",
+                "description": "Hello, Kiva community! Meet Abigael (age 30), a hardworking, determined woman, and a great achiever. She is a rural smallholder farmer from the Eldoret area of Kenya. Her family's main revenue source is crop farming. However, she also participates in some side businesses to complement her meager income from crop farming.<br /><br />The biggest problem that farmers from her village face is the huge discrepancy in their access to agricultural inputs, resulting in the fact that farmers' output and earnings are below what they could be. Juhudi Kilimo has partnered with Kiva to provide financial services to smallholder farmers around Kenya. Through these financial services, farmers like Abigael can take out loans and purchase farm inputs.<br /><br />Abigael is humbly seeking a loan to buy farm inputs such as fertilizer and high-quality seeds. Your loan will enable her to improve her production, through the use of quality farm inputs. Abigael’s competitive advantage in the market will be evident after she receives this loan.<br /><br />Through this intervention, she will be able to afford food for her loving family. She thanks Kiva lenders for their kindness.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals, farm inputs and farming equipment.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2286468.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 17,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

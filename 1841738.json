@@ -1,0 +1,49 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1841738,
+                "name": "Javan",
+                "loanAmount": "150.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-09-28T16:40:32Z",
+                "disbursalDate": "2019-09-16T07:00:00Z",
+                "plannedExpirationDate": "2019-10-28T16:40:32Z",
+                "distributionModel": "fieldPartner",
+                "use": "to access premium seeds and high-quality fertilizer for one acre of maize, in addition to advice and insurance, optimizing for increased productivity and profits.",
+                "description": "Javan is a 31-year-old maize farmer in Kabuoch South/Pala, Kenya. He historically struggles to access credit for high-quality seeds and fertilizer, which compromises the quality of his harvest. <br /><br />Javan is excited to have access to high-quality inputs, advice and insurance from an Apollo Agriculture loan, to increase his yields.<br /><br />With this bundled package, Javan expects higher profits this season, which he hopes to invest back into his farm in subsequent seasons.",
+                "tags": [
+                    "#Sustainable Ag"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps maize farmers in Kenya to increase their income and provide for their families.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1841738.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 5,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Apollo Agriculture"
+            }
+        }
+    }
+}

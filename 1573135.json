@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1573135,
+                "name": "Ghalia",
+                "loanAmount": "1175.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-07-24T14:50:03Z",
+                "disbursalDate": "2018-07-19T07:00:00Z",
+                "plannedExpirationDate": "2018-08-23T14:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy medicine for her bees so she will have honey to sell and make an income.",
+                "description": "Ghalia depends on an unusual trade for an income: She keeps bees for their honey. <br /><br />She hopes to produce enough honey to cover the markets around her. She is hardworking and ambitious. She faces financial difficulties in buying medicine for the bees and is asking for a loan to secure it. <br /><br />She is working on the growth of her business, which will be able to guarantee her an income to live from.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Refugee",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It empowers people in a country with limited economic opportunities.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1573135.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "JO",
+                        "name": "Jordan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 39,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beekeeping"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "National Microfinance Bank"
+            }
+        }
+    }
+}

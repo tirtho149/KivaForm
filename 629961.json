@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 629961,
+                "name": "Edilson Francisco",
+                "loanAmount": "375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-11-12T13:10:02Z",
+                "disbursalDate": "2013-10-11T07:00:00Z",
+                "plannedExpirationDate": "2014-01-11T13:10:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "buy fruit and vegetables to sell.",
+                "description": "Edilson Francisco is 51 years old and lives with his family in the settlement of Pan de Azucar, a rural zone of Oyotun district. The local population cultivates cotton and rice and raises and sells small farm animals. The town is just 2 hours from the city of Chiclayo on Peru's north coast.\r\n\r\nEdilson, with his family, operates a small general store in his home. He has requested a loan of 1,000 new sols to purchase general groceries, fruit, and vegetables, in order to offer his customers more variety.  With this purchase, he will generate additional income for his family.\r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/629961.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Retail"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Edpyme Alternativa"
+            }
+        }
+    }
+}

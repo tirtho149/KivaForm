@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1096318,
+                "name": "Francis Edgardo",
+                "loanAmount": "2225.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-06-10T19:10:06Z",
+                "disbursalDate": "2016-08-31T07:00:00Z",
+                "plannedExpirationDate": "2016-07-10T19:10:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy poles, passion fruit plants, fertilizers and other necessary materials for the production of passion fruit.",
+                "description": "Francis is conducting several activities to diversify his income, in order not to depend purely on coffee revenues, so that his family has more opportunities. Currently, he is producing organic tomatoes and coffee, but he wants to have a greater diversification.<br /><br />Francis wants to start a project for the production of passion fruit. He sells the harvested product through COCAFCAL, of which he is a member. This crop is very novel as the passion fruit crop generates very good yields and also provides jobs for people. <br /><br />Francis is applying for a loan to start cultivating passion fruit as soon as possible. He thinks that the sooner they have new sources of income, the less vulnerable their finances will be to a price decline for any of the products he sells.<br /><br />A loan will help Francis to have different sources of income and thus will allow him to give better opportunities to his family.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Job Creator",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It trains farmers to grow new produce like passion fruit.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1096318.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HN",
+                        "name": "Honduras"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 86,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "COCAFCAL"
+            }
+        }
+    }
+}

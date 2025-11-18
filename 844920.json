@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 844920,
+                "name": "Hmaw Ei Village Group-2",
+                "loanAmount": "4675.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-02-26T15:20:06Z",
+                "disbursalDate": "2015-01-24T08:00:00Z",
+                "plannedExpirationDate": "2015-03-28T15:20:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to help the Hmaw Ei Group-2 members purchase ducks as well as high-quality feed.",
+                "description": "This community is located in the Hmaw Ei Village of the Myanmar Ayeyarwaddy Delta region and group 2 consists of five CBO (Community Based Organization) members overseeing a group of twenty-four village customers. The loan will help some group members to purchase high-quality feeds, costing $200 that feed 100 ducks for a month, while other group members will use the funds to purchase ducks. Raising ducks has become one of the main income sources in these villages.\r\n\r\nHmaw Ei Village has a population of over four hundred, many of whom either focus on livestock raising, farming, or both. Of those farming, some families plant seasonal or yearly fruits and vegetables such as betel, coconuts and bananas. These vegetables are sold to nearby markets or villages. For additional income, the villagers also raise non-duck livestock such as pigs and chickens.\r\n\r\nPictured above are the CBO members from Hmaw Ei Group 2, named Thein, Aye, Khin, Aye M and Soe. Thein, first from right in the photo, is forty years old and married with four children. He and his wife are proud of their children, one is a secondary student, one will start primary school next year, and the remaining two children are older and help the family on the farm. Thein and his family have been raising livestock for the past three years. In addition to ducks, the family also raises pigs as a source of savings. The funds from Kiva will help Thein's family purchase ducks that will boost the family's income from more duck eggs and greater proceeds from sales of full-grown ducks.\r\n",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/844920.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MM",
+                        "name": "Myanmar (Burma)"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 178,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Poultry"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Proximity Designs"
+            }
+        }
+    }
+}

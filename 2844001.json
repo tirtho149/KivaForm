@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2844001,
+                "name": "Gueu Gildas",
+                "loanAmount": "4075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-09-06T14:13:01Z",
+                "disbursalDate": "2024-08-21T07:00:00Z",
+                "plannedExpirationDate": "2024-10-11T14:13:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to sell fresh products.",
+                "description": "Gueu Gildas is a 29-year-old salesman.<br />Gueu Gildas lives in Ivory Coast with his wife and 2 children.<br />Gueu Gildas is requesting a loan to buy a solar freezer in order to develop his business by increasing the volume of fish he sells.<br />Having a solar freezer will also allow Gueu Gildas to reduce his electricity consumption.<br />Gueu Gildas is therefore planning to sell more in order to expand his shop.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It gives households and businesses in rural Cote d'Ivoire access to solar powered refrigerators.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2844001.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CI",
+                        "name": "Cote D'Ivoire"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 351,
+                    "values": []
+                },
+                "activity": {
+                    "name": "General Store"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "Baobab+ Côte d'Ivoire"
+            }
+        }
+    }
+}

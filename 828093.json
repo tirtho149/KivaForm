@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 828093,
+                "name": "Miguel",
+                "loanAmount": "525.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-01-15T08:10:01Z",
+                "disbursalDate": "2014-12-19T08:00:00Z",
+                "plannedExpirationDate": "2015-02-14T08:10:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a 12 m3 Sistema Biobolsa biodigester.",
+                "description": "Miguel is a Mexican dairy farmer who lives from selling his cows' milk and cultivating corn. \r\n\r\nAs the size of his herd was growing, it became increasingly difficult to manage their manure. Miguel used to pile it up outside his farm, where it was smelling bad, attracting flies and contaminating underground water sources. He also used to spend an important part of his income on the purchase of LP gas to cook and heat water in the house, as well as chemical fertilizers for his field. By investing in his biodigester, he is transforming these two operational challenges into an opportunity to become more self-sufficient. Indeed, he will be able to produce his own biogas and organic fertilizer by inputting his cows' waste in the biodigester, thereby also treating the waste. As he generates savings through the displacement of LP gas and chemical fertilizers, Miguel plans to buy more cows and a tractor. He also wants to improve the infrastructure on his farm and to save money to be able to send his children to university in the future (the youngest one is pictured with Miguel). Through the investment in the biodigester, Miguel's farm will become more cost-effective, productive and sustainable.\r\n\r\nThis loan represents 20% of the total cost of the biodigester, the remaining part being covered by a government subsidy.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/828093.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MX",
+                        "name": "Mexico"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 21,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Sistema.bio"
+            }
+        }
+    }
+}

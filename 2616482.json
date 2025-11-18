@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2616482,
+                "name": "Hojibobo",
+                "loanAmount": "1375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-07-26T02:30:06Z",
+                "disbursalDate": "2023-07-18T07:00:00Z",
+                "plannedExpirationDate": "2023-08-30T02:30:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to expand his business to improve his family's well-being.",
+                "description": "This bright man is Hojibobo, age 29 and married with two children. He has a specialist higher education and is a kind and responsive person. He's been working in animal husbandry and agriculture for a decade as the primary source of income for his family.<br /><br />He has everything needed to keep livestock on his property. Thanks to his hard work, he has a growing farm with several cows. Thanks to the cows, he sells organic milk every day.<br /><br />He's asking for a loan from Kiva partner IMON to purchase two cattle to expand his business and improve his family's material well-being. Hojibobo awaits your help.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports low-income female farmers while minimizing interest payments.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2616482.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TJ",
+                        "name": "Tajikistan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 63,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Dairy"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "IMON International"
+            }
+        }
+    }
+}

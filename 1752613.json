@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1752613,
+                "name": "Justo",
+                "loanAmount": "525.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-05-02T21:30:10Z",
+                "disbursalDate": "2019-04-24T07:00:00Z",
+                "plannedExpirationDate": "2019-06-01T21:30:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to construct a water tank.",
+                "description": "Justo works growing coffee and has years of experience doing this. His children help him with the daily work. <br />He is requesting a loan to buy materials to construct a water tank which he will use to store water for his crops. This will enable him to improve his family's living conditions, guaranteeing then drinking water for various activities.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Health and Sanitation",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps borrowers to invest in sanitation facilities to improve the health of their families.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1752613.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Construction"
+                },
+                "sector": {
+                    "name": "Construction"
+                },
+                "partnerName": "Aldea Global"
+            }
+        }
+    }
+}

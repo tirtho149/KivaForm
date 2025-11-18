@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2784770,
+                "name": "Nahum",
+                "loanAmount": "775.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-05-27T23:57:55Z",
+                "disbursalDate": "2024-04-23T07:00:00Z",
+                "plannedExpirationDate": "2024-07-01T23:57:54Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a biodigester to power her farm and home with her cows' manure.",
+                "description": "Nahum is a farmer who calls Uasin Gishu home. Nahum  has 4 children. Her goal is to increase the income from her farm to have savings for her children. She will do this by transforming her cows' waste into renewable energy and organic fertilizer to save money and improve the productivity of her farm.<br /><br />Nahum is investing in a Sistema Biobolsa biodigester to treat her cow manure by removing flies and bad smells while avoiding contamination of underground water sources. She will replace expensive LP gas with clean and renewable energy (biogas) and eliminate chemical fertilizers. This will save money and displace fossil-fuel-based inputs. At the same time, the yield of her vegetable field will improve naturally as she starts applying the organic fertilizer, nourishing the soil in a sustainable manner.<br /><br />This loan represents 100% of the price of the biodigester.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It saves farmers money by transforming waste into biogas and organic fertilizer.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2784770.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 51,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Energy"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "Sistema.bio"
+            }
+        }
+    }
+}

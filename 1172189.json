@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1172189,
+                "name": "Racha",
+                "loanAmount": "1025.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2016-10-29T23:10:08Z",
+                "disbursalDate": "2016-09-28T07:00:00Z",
+                "plannedExpirationDate": "2016-11-29T00:10:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy additional beauty equipment and products to support her beauty business.",
+                "description": "Racha, a single Lebanese woman, lives with her parents and her brother in an owned apartment in Beirut. She is in her early 20s and established her own beauty salon one year ago in a rented apartment. <br /><br />For the first time, Racha is asking for a 1,543,658 Lebanese pound loan from Kiva partner Ibdaa. She needs to buy additional beauty equipment and products for her salon. <br /><br />Racha has a certification in this domain, she is professional, has a lot of clients and aims always to develop, expand and grow her business. <br /><br />This young lady is looking to support her business in order to increase her income, and thus her profit, and have the chance to save money and help her parents with the housing expenses.",
+                "tags": [
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Single"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It doesn’t require a guarantor, reaching underserved women in Lebanon.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1172189.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "LB",
+                        "name": "Lebanon"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beauty Salon"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "Ibdaa Microfinance"
+            }
+        }
+    }
+}

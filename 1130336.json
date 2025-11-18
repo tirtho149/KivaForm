@@ -1,0 +1,57 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1130336,
+                "name": "Lidia",
+                "loanAmount": "2050.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-08-11T02:50:03Z",
+                "disbursalDate": "2016-08-05T07:00:00Z",
+                "plannedExpirationDate": "2016-09-10T02:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy straw wholesale to complete outstanding orders.",
+                "description": "Lidia is a 38 year old woman. She is single and doesn't have any children. Her business is making mattresses out of straw. Her business is located in the town of Batallas, an abandoned rural area, where the population is vulnerable and ignored by public and private organizations.<br />Lidia enjoys her life together with her parents. They live in their own home constructed of adobe. Sher inherited her business of making straw mattresses from her parents. Her day begins at 6:00 in the morning, supervising the arrival of the straw. She collects it and transports it by donkey to her workshop where she has bags that she has previously sown by hand. \"I need to gather straw to rely on as a constant work material and be able to continue providing mattresses to my customers\" she comments. <br />Her business is successful because of the low cost of her product. The advantage of her business is that she can sell the mattresses wholesale or retail. The disadvantage is the lack of large quantities of straw. <br />Her dream is to build her own home. She wants to buy straw wholesale. This is her first loan with the institution in the 8 years that she has been in this business. <br />It is for these reasons that Lidia is requesting a loan: to buy straw wholesale to complete outstanding orders.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Single",
+                    "#Job Creator",
+                    "#Supporting Family",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It reaches rural borrowers in remote regions.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1130336.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 70,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Crafts"
+                },
+                "sector": {
+                    "name": "Arts"
+                },
+                "partnerName": "Emprender"
+            }
+        }
+    }
+}

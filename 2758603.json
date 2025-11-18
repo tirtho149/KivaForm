@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2758603,
+                "name": "Katiuska Guadalupe",
+                "loanAmount": "2075.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-04-18T15:00:11Z",
+                "disbursalDate": "2024-03-25T07:00:00Z",
+                "plannedExpirationDate": "2024-05-23T15:00:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy fertilizers, insecticides, and pig feed to improve her production.",
+                "description": "Katiuska Guadalupe is 27 years old, separated, and has 2 children, one is 8 years old and the other 9 months old. They live in the parish of Ayacucho of the Santa Ana canton, a place known for its farming activities and hardworking people dedicated to the field and animal farming. <br /><br />She is a persistent woman who looks for a way to gain her own incomes and support her children all by herself, since she is father and mother at the same time. Despite all the difficulties of country living due to the lack of basic services, such as education, medicines, and others, she fights to give her children all that they need. <br /><br />She works in farming and rearing pigs along with her family. She has several hectares of cacao, a crop she hopes to improve genetically and thus improve the quality of her production. She uses natural watering systems, as well as organic fertilizers and insecticides to protect the environment and have very good harvests.<br /><br />The loan will be used to buy fertilizers, insecticides, and pig feed to improve her production.",
+                "tags": [
+                    "volunteer_like",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Single Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps farmers adapt to a changing climate.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2758603.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 94,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pigs"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Fundación ESPOIR"
+            }
+        }
+    }
+}

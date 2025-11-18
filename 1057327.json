@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1057327,
+                "name": "Mushegh",
+                "loanAmount": "1000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-04-24T23:40:03Z",
+                "disbursalDate": "2016-03-23T07:00:00Z",
+                "plannedExpirationDate": "2016-05-24T23:40:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to quickly repair his tractor, so not to lose any orders of work from his village farmers, as well as income for his family.",
+                "description": "In the frontier village Vazashen of Tavush region lives Mushegh with his wife, two children and his parents. None of the family members are employed and their main occupation is farming and agriculture. Several years ago Mushegh managed to buy a tractor, and now on it he works by orders in his village doing different agricultural works. The family’s main income is from Mushegh’s work, and also from the sale of their land’s harvest such as persimmons, figs, apples, strawberries and also honey. <br /><br />Mushegh now has a very important problem to solve as soon as it is possible. His tractor is out of order and he asks for this Kiva loan in order to repair it quickly, so not to lose any orders of work from his village farmers, as well as income for his family.",
+                "tags": [
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Schooling",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides young entrepreneurs with resources to start or grow a business.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1057327.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 40,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Services"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "Nor Horizon"
+            }
+        }
+    }
+}

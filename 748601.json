@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 748601,
+                "name": "Juan Manuel",
+                "loanAmount": "4550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2014-08-04T17:30:04Z",
+                "disbursalDate": "2014-08-04T07:00:00Z",
+                "plannedExpirationDate": "2014-09-03T17:30:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy milk to make cotija cheese.",
+                "description": "Juan Manuel (third from the left), along with his partners Daniel (last), Rosaura (second), and Jose Juan (First) own the cheese-making factory “El Triunfo”. They all know each other since Juan Manuel attended middle school with Rosaura. Daniel is married to Juan Manuel’s sister, and Jose Juan is Juan Manuel’s father. They all live in Pijijiapan, Chiapas. After everyone worked separately in different cheese factories, they decided that they had all the tools and knowledge to start their very own company. Juan Manuel would be in charge of transportation and sales, Daniel and Jose Juan would provide the factory with milk and product supervision. Finally, Rosaura would be in charge of account keeping and management. Their vision for their company is to be the first cheese factory to offer cheese made exclusively with milk from the local sustainable silvopastoral farms. This loan will allow Manuel and his partners buy enough milk to produce a good inventory of Cotija cheese during rainy season, when the price of milk is low, and then sell it during the winter season. With this loan, Juan Manuel will be able to fund the beginning of their long term vision of making “Queseria El Triunfo” the first the sustainable cheese making factory in Pijijiapan.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Unique",
+                    "#Interesting Photo",
+                    "#Job Creator"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/748601.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MX",
+                        "name": "Mexico"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 159,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cheese Making"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "El Buen Socio"
+            }
+        }
+    }
+}

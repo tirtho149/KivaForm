@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1742180,
+                "name": "Anush",
+                "loanAmount": "1100.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2019-04-10T12:00:10Z",
+                "disbursalDate": "2019-03-11T07:00:00Z",
+                "plannedExpirationDate": "2019-05-10T12:00:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase high-quality forage and therefore access the market with better products and increase the income from sales.",
+                "description": "Meet Anush again!<br /><br />Anush lives with her husband in Goris town. For more than 21 years, agriculture has been their main activity. On their farm, they mainly keep cows and heifers. They put all their efforts to sustain the farm and have good productivity levels. <br /><br />With the help of her husband, Anush trades the agri-products in the nearby villages; this is their main income source. Thus, they always search for ways to develop the farm.<br /><br />Having this in mind Anush, applied for financial support. With the provided loan she plans to purchase high-quality forage. <br /><br />This will surely help to access the market with better products and increase the income from sales. <br /><br />Anush and her husband are full of hope to reach the desired outcome and change their living.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Elderly",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps female farmers in Armenia grow their farms and support their families.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1742180.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 20,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cattle"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "SEF International"
+            }
+        }
+    }
+}

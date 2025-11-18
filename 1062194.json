@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1062194,
+                "name": "Famille Bugoye Group",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-05-03T14:40:05Z",
+                "disbursalDate": "2016-04-01T07:00:00Z",
+                "plannedExpirationDate": "2016-06-07T14:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for planting out, hoeing, irrigation, and the purchase of fertilizer, vitamins and insecticide.",
+                "description": "It was his father who taught him, and Marco has four years experience of growing rice. He attaches much importance with a view to family achievements. Insufficient means, the presence of rats, and acid rain are the principal obstacles in his business. However, he plans to get as much benefit as possible from his collaboration with PAIDEK to increase his production and improve his living conditions.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 2,
+                "whySpecial": "It serves farmers in very isolated areas.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1062194.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CD",
+                        "name": "Congo (DRC)"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 13,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Programme d'Appui aux Initiatives de Développement Economique au Kivu (PAIDEK)"
+            }
+        }
+    }
+}

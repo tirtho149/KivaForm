@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2786597,
+                "name": "Jose Jaime",
+                "loanAmount": "2000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-06-02T22:26:50Z",
+                "disbursalDate": "2024-05-22T07:00:00Z",
+                "plannedExpirationDate": "2024-07-07T22:26:50Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy nursery covers, humus, vermiculite, bulbs, seeds and seedlings.",
+                "description": "José is 42 years old, married and has no dependent children, he has his own home in the Rocafuerte sector. He does not have higher education, he only has primary education. Based on a lot of work and effort he managed to gather capital to start a project that he had thought about for some years, so 5 years ago he started with his flower cultivation enterprise.<br /><br />Today José needs financial support to increase the variety of flowers he sells and thus be more competitive in the market. With this loan he will buy nursery covers, humus, vermiculite, bulbs, seeds and seedlings. His objective is to build a new greenhouse and increase the production of edible, ornamentals as well as medicinal plants. José aspires to generate enough economic stability to improve his home and build a place to sell the plants.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It aims to reach vulnerable refugee populations in an isolated region.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2786597.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 143,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Flowers"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Ecuador"
+            }
+        }
+    }
+}

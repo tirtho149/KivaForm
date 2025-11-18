@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1225111,
+                "name": "Jackson's Group",
+                "loanAmount": "550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-01-27T19:40:05Z",
+                "disbursalDate": "2017-02-01T08:00:00Z",
+                "plannedExpirationDate": "2017-02-26T19:40:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase two solar lights and gain access to cost efficient hybrid seeds and fertilizer for maize cultivation.",
+                "description": "Jackson is a 48-year-old proud father of 5 children. He is a group leader, often described as a very reliable person, and is representing his group of 8 farmers in Matete District. Since joining One Acre Fund in 2015, Jackson has noticed that he has been able to consistently feed his family.\n\nJackson described his harvest as poor due to bad weather conditions last year, but believes he can have a better one this year by continuing to work with One Acre Fund. He is very excited to also be purchasing two solar lights, apart from fertilizer and maize, because he will now be able to reduce the consumption of paraffin fuel and therefore save more money. With the profits from this season’s harvest, he plans to buy a cow.\n\nWith this loan, Jackson’s Group will be able to plant a total of 4.25 acres of land and purchase a total of 7 solar lights.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 8,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1225111.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

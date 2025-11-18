@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2690664,
+                "name": "Odette",
+                "loanAmount": "200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-12-19T01:42:24Z",
+                "disbursalDate": "2023-11-08T08:00:00Z",
+                "plannedExpirationDate": "2024-01-23T01:42:24Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy bean seeds and organic manure.",
+                "description": "Odette thanks her lenders for their support. Her previous loan was a success. She was able to increase the family's savings with her earnings. She will use the money from this new loan to grow beans. She will buy bean seeds and organic manure with the money from the loan. She will take good care of her crop. After a few months, she will sell her harvest at the city market and will continue to save her earnings. She plans to buy land in the future.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Single Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps the poorest of the poor in Madagascar to improve their lives.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2690664.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MG",
+                        "name": "Madagascar"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Vahatra"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1108457,
+                "name": "Ana Cedy",
+                "loanAmount": "1100.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-07-01T05:40:03Z",
+                "disbursalDate": "2016-06-20T07:00:00Z",
+                "plannedExpirationDate": "2016-07-31T05:40:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy coffee seedlings.",
+                "description": "Ana Cedy is 53 years old, married and lives with her husband. With her loan, she intends to purchase coffee seedlings so that they become well adapted to the soil conditions. She will also buy some fertilizer to apply to the crops. Additionally, she will perform some cultural practices such as soil conservation by creating leveled channels to minimize erosion due to rainwater, especially in steeper areas. <br /><br />With these new working practices, she expects to meet the goal of having a healthier plantation with more fertile soil and therefore a better harvest. With the purchase of these suitable products, she will have a better quality product to offer the consumer. <br /><br />It is the first loan that she has received from FUDECOSUR. She had not obtained other loans in State banks, but FUDECOSUR has provided the loan with better terms and a much lower rate of interest.",
+                "tags": [
+                    "user_favorite",
+                    "#First Loan",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It reaches rural borrowers that are considered too risky for traditional banks.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1108457.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CR",
+                        "name": "Costa Rica"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 43,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FUDECOSUR"
+            }
+        }
+    }
+}

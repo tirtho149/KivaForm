@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1876332,
+                "name": "Shem's Group",
+                "loanAmount": "375.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-11-15T01:40:15Z",
+                "disbursalDate": "2020-01-15T08:00:00Z",
+                "plannedExpirationDate": "2019-12-15T01:40:15Z",
+                "distributionModel": "fieldPartner",
+                "use": "to gain access to cost efficient hybrid seeds and fertilizer for maize cultivation.",
+                "description": "This season is not the first that Shem is working alongside One Acre Fund. He has been a member for a year now, having joined the program in 2019. Although he is the only person featured in the above picture, he is representing his group of 4 farmers in Wanging ombe District, Tanzania.<br /><br />Shem is often described by his community as a very experienced farmer and decided to be the one to represent his group because he likes being a leader. Like many of his fellow farmers, Shem decided he wanted to be part of the One Acre Fund community in order to get the best quality fertilizer and hybrid seeds and hopes to use the profits from this year’s harvest to repair his home.<br /><br />This loan will not only help Shem but the whole group, who will receive maize seeds and fertilizer to plant a total of 5 acres of land.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 4,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1876332.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TZ",
+                        "name": "Tanzania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

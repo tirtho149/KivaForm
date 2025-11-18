@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1177908,
+                "name": "Bartolo",
+                "loanAmount": "1350.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-11-02T03:00:02Z",
+                "disbursalDate": "2016-10-07T07:00:00Z",
+                "plannedExpirationDate": "2016-12-02T04:00:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy bees from abroad.",
+                "description": "Bartolo is kind, responsible and disciplined. He lives with his wife and 6 children, ages 3 through 21. As a father, he wants to provide the best for his family, making sure they don't miss anything. In order to make a living, he's been a bee keeper for over 25 years. He has a good production of honey which is really profitable, and he also has a second job as a seasonal worker. He is asking for this loan to buy bees from abroad to produce better quality honey, and therefore, doubling his products, increasing sales and, in time, profits.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports rural agriculturalists in the highlands of Guatemala.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1177908.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GT",
+                        "name": "Guatemala"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 50,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Manufacturing"
+                },
+                "sector": {
+                    "name": "Manufacturing"
+                },
+                "partnerName": "ADICLA"
+            }
+        }
+    }
+}

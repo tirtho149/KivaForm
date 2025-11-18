@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2475521,
+                "name": "Betty",
+                "loanAmount": "300.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-11-10T03:40:05Z",
+                "disbursalDate": "2022-11-04T07:00:00Z",
+                "plannedExpirationDate": "2022-12-15T03:40:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase hair braids weaves, oil and shampoo and hopes that this will help her expand her salon shop.",
+                "description": "Betty is 37 years old. She is married with one child. She has had a retail business and a beauty salon for the past eight years selling beauty products, hair braids to his clients earning KES 55,000 a month. <br /><br />She has applied for her second loan to finance her business. She will be using the loan to purchase hair braids weaves, oil and shampoo and hopes this will help her expand her salon shop to accommodate more clients and the youths she is training. <br /><br />Her hopes and dreams for the future are to own a leading salon and beauty products shop in her community.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides financial services and education in deep rural areas.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2475521.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beauty Salon"
+                },
+                "sector": {
+                    "name": "Services"
+                },
+                "partnerName": "VisionFund Kenya"
+            }
+        }
+    }
+}

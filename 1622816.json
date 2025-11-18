@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1622816,
+                "name": "Feliciano",
+                "loanAmount": "600.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-10-13T19:00:05Z",
+                "disbursalDate": "2018-09-25T07:00:00Z",
+                "plannedExpirationDate": "2018-11-12T20:00:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy farming supplies.",
+                "description": "Feliciano is 47 years old and married to Barbara. The couple lives in Betanzos, a rocky area in Potosi department. The couple lives in a property that they own. They built it to raise their children, who themselves have now left their home town to have their own families. <br /><br />Feliciano has been a farmer for 26 years, having learned the trade from his parents. Feliciano grows potatoes, as per local tradition. he and his wife work from early in the morning, five days per week. They sell their goods at the weekends at local markets or in Potosi city, depending on supply and demand.<br /><br />This is Feliciano's second loan from Fundación Sartawi. He will use it to buy organic manure and seeds to start sowing for the new season.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers smooth their income and protect against the effects of climate change.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1622816.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 20,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Sembrar Sartawi"
+            }
+        }
+    }
+}

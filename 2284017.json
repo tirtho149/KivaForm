@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2284017,
+                "name": "Nathan",
+                "loanAmount": "850.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-12-17T20:10:44Z",
+                "disbursalDate": "2021-11-08T08:00:00Z",
+                "plannedExpirationDate": "2022-01-31T20:10:44Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulch.",
+                "description": "Nathan is a repeat client from Nyabondo. He thanks Kiva for always bailing him out on financial needs. He is a renown farmer growing bananas for sell on a large scale. <br /><br />His customers are lorry drivers who sell products in several markets around the country. He has managed to corner the market due to his good quality products. <br /><br />He is therefore seeking a loan to buy mulch to control soil erosion which is reduces soil quality. He hopes to continue serving his customers with the best as always. Thank you funders.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2284017.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 30,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

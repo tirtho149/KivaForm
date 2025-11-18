@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1301180,
+                "name": "Nagy",
+                "loanAmount": "400.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-05-25T05:40:02Z",
+                "disbursalDate": "2017-05-08T07:00:00Z",
+                "plannedExpirationDate": "2017-06-24T05:40:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy some grocery products such as rice, oil, sweets and pasta.",
+                "description": "Nagy is married and has one daughter. He is financially responsible for his aging parents and has a small grocery store business. <br /><br />He is requesting this loan to buy some grocery products such as rice, oil, sweets and pasta to meet the demand of his customers during Ramadan and feast season.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It contributes to sustainable development in a community with high unemployment.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1301180.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EG",
+                        "name": "Egypt"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 16,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Grocery Store"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Together Association for Development and Environment (TADE)"
+            }
+        }
+    }
+}

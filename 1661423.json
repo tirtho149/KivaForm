@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1661423,
+                "name": "Pedro Jose",
+                "loanAmount": "1700.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-12-11T21:10:03Z",
+                "disbursalDate": "2019-01-12T08:00:00Z",
+                "plannedExpirationDate": "2019-01-10T21:10:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy organic inputs for his production.",
+                "description": "Pedro is 64 years old. He is married and has three children. He lives in  Buenavista, Casma (Perú) and grows organic mangos. <br /><br />Pedro needs USD 1,700.00 as a loan to buy fertilizers for his land to increase the production of mangos. With the income, he will improve his family home.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps farmers convert to organic methods and scale their organic farms.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1661423.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 44,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Fairtrasa Peru S.A."
+            }
+        }
+    }
+}

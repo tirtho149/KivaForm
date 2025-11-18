@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1824867,
+                "name": "24 De Julio Group",
+                "loanAmount": "6050.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-08-31T04:40:13Z",
+                "disbursalDate": "2019-07-28T07:00:00Z",
+                "plannedExpirationDate": "2019-09-30T04:40:13Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy supplies.",
+                "description": "In the city of Portoviejo, which was affected by the earthquake of April 16, the city is rich in the production of greens, beans, and tropical fruits for domestic consumption. This loan group is formed by 12 members, 10 women and 2 men. The group meets in one of the member's homes every 15 days. <br /><br />Maria Karina is the president of the group. She's 45 years old, is a lawyer, has no children, and lives with her parents. For several years, to help her elderly parents who don't work, Maria Karina has ran a small store in her home, where she sells a great variety of products including rice, sugar, oils, detergents, beans, vegetables, and fruits. She works every day from 6:00 AM to 8:00 PM, and sometimes even later. She works as a lawyer when her services are requested. <br /><br />With this new loan she will buy supplies to offer in her small store. Her dream is that her mother will be healthy and that her business will continue growing.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Single",
+                    "#Unique"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 12,
+                "whySpecial": "It is accompanied by useful, real-life business training.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1824867.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 14,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Grocery Store"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Fundación ESPOIR"
+            }
+        }
+    }
+}

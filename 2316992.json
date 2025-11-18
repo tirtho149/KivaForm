@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2316992,
+                "name": "Risa",
+                "loanAmount": "725.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-02-07T09:30:13Z",
+                "disbursalDate": "2022-01-12T08:00:00Z",
+                "plannedExpirationDate": "2022-03-14T08:30:13Z",
+                "distributionModel": "fieldPartner",
+                "use": "to support Risa to buy more farm inputs such as fertilizers and manure to boost his production.",
+                "description": "Risa is 48 years old. He is happily married to his wife who is a business lady. He and his wife have both been blessed with two children whom they are raising. His children are 6 and 5 years old and look up to him for their needs. Risa is a farmer who enjoys growing his crops. He advises consumers to know where and how their vegetables are grown for a healthy lifestyle. In this regard, Risa strives to ensure that his methods of farming are not harmful to one's health. Through his business, he has created employment for casual laborers who assist him as well as suppliers and other businessmen with whom they collaborate. His previous loan was used to buy farm inputs to boost his production and he was able to comfortably pay it back. Risa is kindly requesting another loan to do the same and continue growing his farm and profits. His dream is to educate both his children very well through his farm. Risa thanks all lenders for believing in him as he commits to successfully repaying his loan on time through the profits he makes.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase supplies and agricultural equipment.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2316992.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 16,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "ECLOF Kenya"
+            }
+        }
+    }
+}

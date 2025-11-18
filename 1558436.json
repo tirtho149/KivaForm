@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1558436,
+                "name": "Ronald",
+                "loanAmount": "775.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-06-30T15:00:05Z",
+                "disbursalDate": "2018-06-14T07:00:00Z",
+                "plannedExpirationDate": "2018-07-30T15:00:05Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulching materials for his banana plantation.",
+                "description": "Ronald is requesting financial assistance to buy mulching materials for his banana plantation. Ronald was born in the year 1988. He is a married man with 2 children living in Kyenjojo, Uganda. Due to the high quality banana buds which were supplied in his area by the  National Agricultural Advisory program  (NAADS), he started up a banana plantation alongside his maize and beans. Ronald has  8 years experience in the business and he hopes to expand his plantation and be the leading matooke supplier in his area. However, he says his plantation is sometimes affected by drought and he little capital to maintain it. Therefore, he needs this loan to mitigate drought through proper mulching.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It targets extremely rural populations.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1558436.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 26,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Aquaculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "HOFOKAM"
+            }
+        }
+    }
+}

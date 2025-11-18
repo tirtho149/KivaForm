@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 622214,
+                "name": "Rosa Del Carmen",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-10-21T17:30:02Z",
+                "disbursalDate": "2013-10-09T07:00:00Z",
+                "plannedExpirationDate": "2013-11-20T17:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy wire mesh and cement posts to build a fence providing security to her property and her family.",
+                "description": " \r\n\r\nRosa is 46 years old. She lives in her own house with her husband and two children. Together with her husband she makes a living planting corn and beans. Rosa also works on a coffee plantation seeding and fertilizing the plants. The most important thing for her is the security of her family so she wants to build  a wall around the perimeter of her house. Rosa is requesting a loan from FUSAI to invest in the purchase of wire mesh and cement posts in order to safeguard her few possessions and her family.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/622214.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 14,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Housing Expenses"
+                },
+                "sector": {
+                    "name": "Housing"
+                },
+                "partnerName": "Apoyo Integral"
+            }
+        }
+    }
+}

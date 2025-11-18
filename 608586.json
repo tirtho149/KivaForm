@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 608586,
+                "name": "Jeikhun",
+                "loanAmount": "1875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-09-23T13:40:07Z",
+                "disbursalDate": "2013-08-21T07:00:00Z",
+                "plannedExpirationDate": "2013-10-23T13:40:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase four calves.",
+                "description": "Jeikhun is a 26-year-old married man. He lives with his large family: wife, parents, and grandparents in the Gardabani district in eastern Georgia. His grandparents are provided with a retirement pension. \r\n\r\nThe family has been running an agricultural business for five years. Specifically, they grow trees and from the trees they make brooms to sell. \r\n\r\nJeikhun decided to diversify the business and raise calves to sell. He requested a loan several times but his attempts were rejected. The start up program, a joint initiative between Kiva and MFO Credo, gave him a chance to get a loan of 3,100 Gel. With this credit, Jeikhun will purchase four calves, raise them, and sell them in his district. The increased income will help him to the cover expenses of his family.",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/608586.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GE",
+                        "name": "Georgia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 68,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cattle"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Credo"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2493379,
+                "name": "Yafesi",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-01-17T23:00:06Z",
+                "disbursalDate": "2022-11-18T08:00:00Z",
+                "plannedExpirationDate": "2023-02-21T23:00:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulch and manure.",
+                "description": "Yafesi is thirty-two years old, married, and blessed with two children. He lives in Ntunga-Rubirizi District, dealing both in banana farming and motorcycle spare parts. <br /><br />Yafesi has a loan to buy mulch and manure for his banana garden. His challenge is lack of land for expansion due to overpopulation. He hopes to improve his yield with the boost from the loan.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2493379.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 61,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

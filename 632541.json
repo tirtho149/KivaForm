@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 632541,
+                "name": "Jose Antonio",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-11-17T18:20:02Z",
+                "disbursalDate": "2013-10-14T07:00:00Z",
+                "plannedExpirationDate": "2014-01-16T18:20:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay for the construction of his house.",
+                "description": "Sr. José Antonio is 21 years old, single, and lives in the community of Aguirre in the town of Sacaba.  He is a farmer who cultivates a plot of land that he inherited from his parents.  José Antonio grows potatoes, oca (a tuber produced in the Andes), and beans.  He rotates his crops and also has experience in this line of work.  <br /><br />José Antonio currently lives at his parents' house, so he is requesting a loan so that he can build a home of his own.  This will allow him to become independent.",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Single"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/632541.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 55,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Personal Housing Expenses"
+                },
+                "sector": {
+                    "name": "Housing"
+                },
+                "partnerName": "CIDRE"
+            }
+        }
+    }
+}

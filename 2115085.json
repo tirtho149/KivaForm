@@ -1,0 +1,57 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2115085,
+                "name": "Responsables De Linda Vista Group",
+                "loanAmount": "1050.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-03-01T13:10:07Z",
+                "disbursalDate": "2021-02-22T08:00:00Z",
+                "plannedExpirationDate": "2021-03-31T12:10:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy compost, foliar treatments, insecticides, etc.",
+                "description": "Brenda is 24 years old. She began to work in agriculture six years ago, raising principally coffee and basic grains. She did this work when she left her parents' [home] to form her own family. After she separated from her husband, she acquired a job as a teacher, and the salary covered her agricultural expenses. She has 2 manzanas [about 3.5 acres] of coffee that she inherited.<br /><br />She is again applying to FUNDENUSE for a loan with Kiva funds to buy compost and foliar treatments to maintain her coffee crop.<br /><br />With the previous loan, she was able to obtain very good production in her harvests because of the opportune application of the supplies.<br /><br />Her goal is to build her own house and buy lands for planting coffee and expand her property.<br /><br />She belongs to the solidarity group  \"Responsables de linda vista\" along with Keylin and José, who also work in agriculture.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Single",
+                    "#Single Parent",
+                    "#Schooling",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 3,
+                "whySpecial": "It helps farmers manage their cash flows and provide access to health insurance.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2115085.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "NI",
+                        "name": "Nicaragua"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 27,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "FUNDENUSE"
+            }
+        }
+    }
+}

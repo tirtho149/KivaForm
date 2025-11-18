@@ -1,0 +1,57 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1723116,
+                "name": "Florence's Group",
+                "loanAmount": "625.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-03-13T05:10:08Z",
+                "disbursalDate": "2019-02-28T08:00:00Z",
+                "plannedExpirationDate": "2019-04-12T05:10:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a solar light and hybrid seeds and fertilizer for the cultivation of maize.",
+                "description": "Florence's Group is formed by 10 farmers in Kakamega B (North) District and is being represented by Florence, who is the group leader pictured above. She is 39 years old and has five children. Florence has been a farmer for 20 years and is often referred to as a very reliable person.<br /><br />Florence isn’t new to One Acre Fund; she actually joined the program in 2016 and has since noticed her life has changed, especially in the sense that she has been able to consistently feed her family ever since. This year, Florence will not only get fertilizer and maize seeds as part of her loan but will also purchase a solar light. She is very excited about this addition because now she will be able to have light during dark hours for her children to be able to study.<br /><br />Using this loan, Florence's Group will purchase a total of eight solar lights and use the farming inputs received to plant a total of two acres.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling",
+                    "#Repeat Borrower",
+                    "#Technology"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 10,
+                "whySpecial": "It supports smallholder farmers to purchase seeds and solar lanterns.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1723116.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 25,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "One Acre Fund"
+            }
+        }
+    }
+}

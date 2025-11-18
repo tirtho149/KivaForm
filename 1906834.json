@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1906834,
+                "name": "Mujeres Organizadas Group",
+                "loanAmount": "2925.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-01-06T18:40:02Z",
+                "disbursalDate": "2019-12-07T08:00:00Z",
+                "plannedExpirationDate": "2020-02-20T18:40:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "Brenda would like to buy fertilizer, insecticide and seeds.",
+                "description": "The Friendship Bridge Agricultural Credit and Training program has been designed to teach women new farming techniques which will lead to increased yield and income. Brenda, the Secretary of the Friendship Bridge Trust Bank “Mujeres Organizadas” is a farmer and grows celetry, cabbage and lettuce on a small plot of land. She is the young married mother of 2 children (1,9). Although she only had 2 years of formal education, Brenda understands the tremendous importance of a good education and wants her children to graduate from high school. She is requesting her 2nd KIVVA loan to buy fertilizer, insecticide and seeds. Some of her income is earmarked for the education of her children.\n\nAlthough Brenda and her 6 friends in the Trust Bank have little or no formal education, they have opportunities for learning and empowerment at their monthly meetings. After making loan payments, the ladies participate in educational trainings, designed by a Facilitator, who uses role playing, games, pictures and diagrams to share the information. Topics are timely and include an aspect of 4 subjects: business, health, family, women. Every other month, the women have access to basic health care services delivered by a traveling nurse. They can have blood pressure checks, PAP smears and access to family planning methods. The combination of loans, education and health care is called “Microcredit Plus”.\n\nThank you, KIVA investors, for the essential role you play in the lives of these ladies!!\n",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Schooling",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 7,
+                "whySpecial": "Clients receive in-depth trainings on business, health, over-indebtedness, and self-esteem.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1906834.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GT",
+                        "name": "Guatemala"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 81,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Friendship Bridge"
+            }
+        }
+    }
+}

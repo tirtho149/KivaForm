@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2412967,
+                "name": "Hawa",
+                "loanAmount": "275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-08-08T06:30:12Z",
+                "disbursalDate": "2022-07-08T07:00:00Z",
+                "plannedExpirationDate": "2022-09-12T06:30:12Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy medicated seedlings for replanting and manure.",
+                "description": "Hawa is a resident of Bugo cell and married with six kids. She is a business woman and a farmer dealing in coffee production and crafts making. <br /><br />Hawa is a very hardworking woman and her aim is to increase her coffee production since she has gotten supply tenders from bulk buyers.<br /><br />She is seeking a loan to buy medicated seedlings and manure for soil nutrition so she can be able to grow more coffee for harvesting and resell. Thank you funders.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers to increase productivity and their income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2412967.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 11,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

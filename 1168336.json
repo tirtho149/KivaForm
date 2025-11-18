@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1168336,
+                "name": "Estefania Del Rocio",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-10-16T15:40:04Z",
+                "disbursalDate": "2016-09-23T07:00:00Z",
+                "plannedExpirationDate": "2016-11-15T16:40:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more products for her retail business selling fresh and salted fish, and to give maintenance to her coffee farm.",
+                "description": "Estefanía lives in Sector México, a small farming community in the district of Santa Rosa, Peru. Estefanía, age 23, lives with her two small children. For the last 3 years she’s had her own business selling fresh and salted fish. Her wish is to make her business grow. <br /><br />She started generating incomes with her coffee production, but in order to expand her business she needs money to buy more fish and give maintenance to her coffee farm. With the money that she’ll earn from her new products, she will increase her capital and be able to put a larger business in the district of Santa Rosa, where she wants to build her house since she is currently living with her mom, a person that gives her a lot of support.  <br /><br />A loan to Estefanía will give her the opportunity to increase her business. Thanks to her knowledge, aspirations and entrepreneurial attitude she is ready to succeed. She knows that this loan is very important not just to provide for her family, but to have better opportunities to grow as a business. She is thankful to Norandino for giving her the possibility of getting this loan.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps a woman entrepreneur grow her business and stabilize her income.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1168336.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "PE",
+                        "name": "Peru"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 32,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fish Selling"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Norandino"
+            }
+        }
+    }
+}

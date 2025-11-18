@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1733303,
+                "name": "Abizerwa Cb Group",
+                "loanAmount": "5550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2019-03-30T16:50:03Z",
+                "disbursalDate": "2019-03-12T07:00:00Z",
+                "plannedExpirationDate": "2019-04-29T16:50:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy more cattle to sell at the market to meet customer demand.",
+                "description": "Greetings from Rwanda! This is Abizerwa CB, a group of entrepreneurs who own different businesses. The group’s name translates to “trusted people” in English. <br /><br />Catherine is 61 years old and is the group’s proud representative. She sells cattle at the local market and has been running this business for the past 25 years. <br /><br />Catherine has requested this loan to buy more cattle to sell at the market to meet customer demand. Catherine hopes that the extra income from this loan will allow her to improve her standard of living. <br /><br />In the future, Catherine plans to see her business grow, and send all her children to school. She thanks you for your support.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Elderly",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 10,
+                "whySpecial": "It provides financial opportunities to riskier Rwandan entrepreneurs who rely on social collateral.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1733303.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "RW",
+                        "name": "Rwanda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 187,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Animal Sales"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Urwego Bank"
+            }
+        }
+    }
+}

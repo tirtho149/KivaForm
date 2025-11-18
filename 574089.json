@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 574089,
+                "name": "Juan Ricardo",
+                "loanAmount": "1875.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-06-21T22:50:04Z",
+                "disbursalDate": "2013-05-28T07:00:00Z",
+                "plannedExpirationDate": "2013-07-21T22:50:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to build flower beds, to plant, and to buy supplies.",
+                "description": "Juan, age 22, has demonstrated that motivation is the crucial element to success. He cultivates flowers for a living, an activity that he learned from his parents and grandparents in the place where he now lives. This young man now sees an opportunity to expand his business, so he is requesting a loan which he will invest in building flower beds, in planting, and in the purchase of supplies in order to start a new crop of hydrangeas.\r\nWith this investment, Juan hopes to increase his production and improve the quality of his product, with the goal of being able to export it.\r\n",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Unique"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/574089.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 56,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Flowers"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Interactuar"
+            }
+        }
+    }
+}

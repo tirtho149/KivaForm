@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2686215,
+                "name": "Celia Marciana",
+                "loanAmount": "1000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-11-30T18:30:21Z",
+                "disbursalDate": "2023-10-24T07:00:00Z",
+                "plannedExpirationDate": "2024-01-04T18:30:21Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a cacao plants, organic compost, fertilizer, and to hire workers for the optimal care of the crops.",
+                "description": "Celia is 27 years old, lives with her husband and children in the Comunidad Balsareño, in the San Lorenzo canton, Esmeralda province.<br /><br />Celia is a very hard-working mother who, since she was 18 years old, has worked in agriculture and small-livestock raising. Celia, with her husband, goes out every morning to feed their chicks and pigs, as well as to till their land. That is currently their main source of income, which helps with their personal expenses, to help out with the family finances.<br /><br />Celia is requesting a loan to buy a cacao plants, organic compost, fertilizer, and to hire workers for the optimal care of the crops and to have a quality product and sell it at a good price in the market.<br /><br />Finally, Celia is very grateful for the support she has received.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Job Creator",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It focuses on the poorest one-fifth of the population with no access to financial services.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2686215.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 24,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa de Ahorro y Crédito Mujeres Unidas (CACMU)"
+            }
+        }
+    }
+}

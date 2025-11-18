@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2467727,
+                "name": "Denis",
+                "loanAmount": "275.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2022-11-17T21:42:11Z",
+                "disbursalDate": "2022-10-12T07:00:00Z",
+                "plannedExpirationDate": "2022-12-22T21:42:11Z",
+                "distributionModel": "fieldPartner",
+                "use": "buy mulch and manure for his coffee and banana plantation.",
+                "description": "Denis, aged 27 years old, is married with 2 children. <br /><br />He needs a loan of UGX 1,000,000 to buy mulch and manure for his coffee and banana plantation to improve productivity and earn more income. <br /><br />He is a resident of Rutunguru Kagarama Kajara Ntungamo",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Parent",
+                    "#Supporting Family",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It targets rural populations.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2467727.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 9,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

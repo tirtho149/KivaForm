@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 565041,
+                "name": "Genadi",
+                "loanAmount": "2150.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2013-05-27T12:20:01Z",
+                "disbursalDate": "2013-05-21T07:00:00Z",
+                "plannedExpirationDate": "2013-06-26T12:20:01Z",
+                "distributionModel": "fieldPartner",
+                "use": "To purchase inventory to open a pub.",
+                "description": "Genadi, who is 40 years old, lives in the small village of Akho with his wife and two sons, ages 8 and 13. Genadi has requested a loan from local financial institutions several times so he can start a family business. However, he has not met with success. His loan requests were rejected because of his low income and his family’s poor living conditions. \r\n\r\nThe family owns a vineyard and a plot of agricultural land, where fruits and vegetables are grown. They also have a milk cow. Genadi’s wife milks the cow every day to produce dairy products. From the harvested grapes, Genadi makes wine. The family sells the wine, harvested products and dairy products to the villagers and at the local markets. \r\n\r\nGenadi has requested a loan from Credo to start a family business. Genadi has now been approved for a loan within the framework of a new joint initiative between Kiva and Credo. The start-up loan program provides business start-up loans to rural poor people who do not have access to credit products. These rural poor people are regarded as “high risk borrowers” because of their low income. \r\n\r\nWith his loan, Genadi will purchase inventory to open a pub. He already has a commercial space to use as a bar. Genadi will purchase all the needed materials and inventory and his wife will work there. This will enable the family to generate additional income. This new business initiative, financed with the Kiva start-up loan, will significantly improve the family's living conditions. \r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Unique"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/565041.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GE",
+                        "name": "Georgia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 66,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Pub"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Credo"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1394181,
+                "name": "Pina",
+                "loanAmount": "1100.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-10-11T23:50:02Z",
+                "disbursalDate": "2017-09-21T07:00:00Z",
+                "plannedExpirationDate": "2017-11-11T00:50:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a water tank, chemicals, soil, and a rake.",
+                "description": "Pina is a 50-year-old married woman with 4 children. She owns a plantation where she grows kava(ava) that she sells in her community or at the market to earn a living. She has 3 years of experience with this business. Pina is a Samoan citizen. She works very hard to satisfy her customers. Every day, except for Sunday, she travels to the market by bus to sell her kava(ava) and to nearby shops. <br /><br />Pina needs a loan to purchase more equipment (a water tank, chemicals, soil, and a rake) to help take her business to the next level. Her dream is to one day be able to buy her own vehicle to help her deliver her business and send her children to school. She became a member of SPBD in 2015.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Elderly",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women with credit in a country where alternative financing is extremely scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1394181.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "WS",
+                        "name": "Samoa"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 26,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Samoa"
+            }
+        }
+    }
+}

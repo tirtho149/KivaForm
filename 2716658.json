@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2716658,
+                "name": "John",
+                "loanAmount": "900.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-02-23T20:30:18Z",
+                "disbursalDate": "2023-12-30T08:00:00Z",
+                "plannedExpirationDate": "2024-03-29T19:30:18Z",
+                "distributionModel": "fieldPartner",
+                "use": "to invest in clean energy technology for his farm.",
+                "description": "John is worried about the bad impact from the daily manure produced by his 7 cows. It is a huge problem for John‘s farm. First of all, it attracts many flies and other insects. Then, the harmful pathogen contained contaminates the floor, pollutes the water and pollutes the air, emitting greenhouse gases.<br /><br />He heard about the biodigester concept that permits him to “digest” the manure, recycling it into energy (biogas) and eco-friendly fertilizer (biol). This biodigester is a cost-effective opportunity for John and his family.<br /><br />He decided to invest in a Sistema Biobolsa to reduce his carbon footprint and to save the large space normally dedicated to stock the manure. <br /><br />This loan represents 100% of the price of the biodigester.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Health and Sanitation",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It saves farmers money by transforming waste into biogas and organic fertilizer.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2716658.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 3,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Sistema.bio"
+            }
+        }
+    }
+}

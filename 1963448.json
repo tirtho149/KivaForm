@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1963448,
+                "name": "Groupe Sikumingi",
+                "loanAmount": "200.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-05-04T13:20:09Z",
+                "disbursalDate": "2020-04-21T07:00:00Z",
+                "plannedExpirationDate": "2020-06-18T13:20:09Z",
+                "distributionModel": "fieldPartner",
+                "use": "to rent a sugar cane field.",
+                "description": "The loan that Françoise just finished was very useful to her as it helped her to invest in farming and contributed to small improvements in her family's living conditions. This most recent loan will be allocated towards renting a field of sugar cane to increase profitability and improve her family's living conditions.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Repeat Borrower",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 2,
+                "whySpecial": "It supports women who escaped violence in other parts of DRC.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1963448.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CD",
+                        "name": "Congo (DRC)"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 6,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Programme d'Appui aux Initiatives de Développement Economique au Kivu (PAIDEK)"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1620846,
+                "name": "Aleksan",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2018-10-15T04:20:06Z",
+                "disbursalDate": "2018-09-06T07:00:00Z",
+                "plannedExpirationDate": "2018-11-14T05:20:06Z",
+                "distributionModel": "fieldPartner",
+                "use": "to build a greenhouse fort vegetable cultivation, with the great hope of having more income for his family.",
+                "description": "This is the second loan for 38-year-old Aleksan, who lives in the frontier village, Berkaber, of the Tavush region, with his father, wife and children. Aleksan is a military man and he confessed his salary is not enough to meet his family's needs. Aleksan and his family members are engaged in farming. <br /><br />He has cows, calves, chickens and a lot of bee hives on his farm. Aleksan also has a plot of land where he cultivates vegetables. Alekasan sells vegetables, fruits, meat, eggs and honey from his farm at regional food markets. It is a good way to earn income. <br /><br />With the help of a former loan, Aleksan has a small greenhouse. He says that it was a great idea because it helps him cultivate vegetables during the cold season. So he has decided to build a second polyethylene greenhouse on his plot of land, which will help him to earn more profit.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Repeat Borrower",
+                    "#Supporting Family",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It reaches rural populations with less access to opportunity.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1620846.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AM",
+                        "name": "Armenia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 45,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Nor Horizon"
+            }
+        }
+    }
+}

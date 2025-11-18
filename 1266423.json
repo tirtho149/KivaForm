@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1266423,
+                "name": "Tolaro Global",
+                "loanAmount": "50000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-04-04T07:30:08Z",
+                "disbursalDate": "2017-02-22T08:00:00Z",
+                "plannedExpirationDate": "2017-05-04T07:30:08Z",
+                "distributionModel": "fieldPartner",
+                "use": "to add value and jobs to the local economy by starting a new factory to roast and pack cashew nuts.",
+                "description": "<a href=\"http://agpowerbenin.com/\"> Tolaro Global </a> is a cashew nut processing business based in Parakou, a small town in Northern Benin. Founded in 2010, Tolaro sources raw cashew nuts directly from local farmers and transforms them into processed cashew kernels for export. It is the first factory in Africa to receive the African Cashew Alliance quality seal (an industry-accepted mark that confirms compliance with international standards of quality, food safety and social and labor standards). Today, Tolaro employs more than 400 Beninese men and women with formal salary jobs and sources its cashews from over 7,000 smallholder farmers in the region, for whom the business also provides technical training to increase cashew yields and incomes.\n\nAfter more than six years of operations and thanks to a solid client base, Tolaro now has the opportunity to grow by transforming larger quantities of raw cashew nuts, which is conducive to more employment, as cashew processing remains a largely manual process. However, in order to achieve this target, Tolaro needs more working capital financing ahead of the season and to purchase cashews during the harvest period.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Unique",
+                    "#Job Creator",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It creates employment through social enterprises that often struggle to find funding.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1266423.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BJ",
+                        "name": "Benin"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 1519,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "MCE Social Capital"
+            }
+        }
+    }
+}

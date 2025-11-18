@@ -1,0 +1,59 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 973056,
+                "name": "Viergelie",
+                "loanAmount": "950.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-11-15T09:50:04Z",
+                "disbursalDate": "2015-10-16T07:00:00Z",
+                "plannedExpirationDate": "2015-12-15T09:50:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy wire and bags of cement.",
+                "description": "Viergelie is 47 years old and a widow. She lives in the town of Delmas with her two children. She has been selling construction materials for 12 years.<br /><br />She has a small warehouse at her home where she sells cement, chains, PVC [pipe], etc. She does very well with this business.<br /><br />To avoid gaps in her stock and a loss of customers, Viergelie is using micro-loans to renew her stock when needed.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Widowed",
+                    "#Parent",
+                    "#Single Parent",
+                    "#Unique",
+                    "#Health and Sanitation",
+                    "#Repeat Borrower",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/973056.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "HT",
+                        "name": "Haiti"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 33,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Construction Supplies"
+                },
+                "sector": {
+                    "name": "Construction"
+                },
+                "partnerName": "Palmis Mikwofinans Sosyal"
+            }
+        }
+    }
+}

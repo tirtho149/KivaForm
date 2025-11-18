@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2018573,
+                "name": "Sokha",
+                "loanAmount": "750.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-09-17T01:20:18Z",
+                "disbursalDate": "2020-09-10T07:00:00Z",
+                "plannedExpirationDate": "2020-11-01T01:20:18Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy vegetable seeds and fertilizer to support her farming business.",
+                "description": "Sokha is 57 years old, married, and is the mother of a child. She is a farmer who plants and sells vegetables as shown in the picture. Her husband raises and sells pigs. She has been running this business for 1.6 years.<br /><br />Sokha has applied for a $750 USD loan through Kiva's field partner Chamroeun to buy vegetable seeds and fertilizer to support her farming business. Using the loan, she will be able to earn more income to continue her business as well as support her family's living standards. She hopes that she can grow her business, renovate her home, and send her child to school. <br /><br />Her main challenges are more competitors and the fluctuation in the price of vegetables.",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides entrepreneurs with resources to increase income and improve their living conditions",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2018573.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 23,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Fruits & Vegetables"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "Chamroeun Microfinance Plc"
+            }
+        }
+    }
+}

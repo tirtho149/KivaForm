@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 893528,
+                "name": "Silvano",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-05-31T22:00:04Z",
+                "disbursalDate": "2015-05-19T07:00:00Z",
+                "plannedExpirationDate": "2015-06-30T22:00:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to use the loan to pay for land for construction.",
+                "description": "Silvano deals in cocoa farming and selling which is supplemented by banana growing for income generation. He started farming in 1990 to raise income to support his family’s increasing demands. His family wants to buy more land and build a family house. Hence, he is requesting a loan to pay for land for construction. Silvano’s business is affected by unpredictable changes in weather and high labor costs hindering his returns.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan",
+                    "#Elderly",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/893528.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Property"
+                },
+                "sector": {
+                    "name": "Housing"
+                },
+                "partnerName": "HOFOKAM"
+            }
+        }
+    }
+}

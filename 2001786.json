@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2001786,
+                "name": "Amet",
+                "loanAmount": "1775.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-08-14T16:50:10Z",
+                "disbursalDate": "2020-08-07T07:00:00Z",
+                "plannedExpirationDate": "2020-09-28T16:50:10Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy new equipment to take care of the bees.",
+                "description": "Amet is 42 years old, married man and a father of three children in ages between six and ten years old. <br /><br />Since he was a child he worked as a beekeeper helping his father, after his father died he started to take care more seriously about the activity of beekeeping. Now the only income for his family is this activity which his wife and his older son are involved in. Taking care of and selling honey in local markets to the private consumer. He is satisfied with income that they are earning. <br /><br />Amet has applied for a Kiva loan to buy new equipment to take care of the bees. He is thankful for all Kiva lenders for the support.",
+                "tags": [
+                    "volunteer_pick",
+                    "volunteer_like",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports the social and economic well being of low-income families.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2001786.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "XK",
+                        "name": "Kosovo"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 47,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Beekeeping"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "KosInvest"
+            }
+        }
+    }
+}

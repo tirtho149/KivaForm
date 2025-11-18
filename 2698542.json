@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2698542,
+                "name": "Samson",
+                "loanAmount": "1325.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-12-18T19:40:57Z",
+                "disbursalDate": "2023-12-05T08:00:00Z",
+                "plannedExpirationDate": "2024-01-22T19:40:57Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy mulch, manure, and fertilizers.",
+                "description": "Samson is married  with 5 school going children, he is a resident of katahooka.  He has always face the challenge of loss of soil fertility, soil erosion . \n\nHe has requested for funds to buy mulches , manure and fertilizers to increase on his yields. He believes he can achieve this with the support from funders.\n\nThank you Funders.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps refugees in Uganda rebuild and sustain their livelihoods.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2698542.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 65,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

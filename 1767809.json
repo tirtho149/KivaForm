@@ -1,0 +1,55 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1767809,
+                "name": "Aizat",
+                "loanAmount": "2150.00",
+                "paidAmount": "0.00",
+                "status": "expired",
+                "fundraisingDate": "2019-05-30T13:50:23Z",
+                "disbursalDate": "2019-04-29T07:00:00Z",
+                "plannedExpirationDate": "2019-06-29T13:50:23Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy some cows to increase her income from cattle breeding.",
+                "description": "Aizat, 27, is married and has 3 children. She has a vocational technical education, knows agricultural techniques and is good at managing money. She has been engaged in livestock breeding since 2010. Through her hard work, she owns 2 cows, 45 sheep, 11 horses and a 2.48-ha plot of irrigated land where she grows clover. <br /><br />Planning to expand her farming business, Aizat is requesting 150,000 KGS from Bai Tushum Bank. She would like to buy some cows to increase her income from cattle breeding.  Aizat plans to reinvest the profits, invest in her children's education and build a house.",
+                "tags": [
+                    "volunteer_pick",
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Schooling",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "The borrower receives a rebate on the interest rate if all repayments are made on time.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1767809.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 24,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Cattle"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Bai Tushum Bank"
+            }
+        }
+    }
+}

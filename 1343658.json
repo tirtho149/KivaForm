@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1343658,
+                "name": "Anabel",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-07-25T14:10:07Z",
+                "disbursalDate": "2017-07-12T07:00:00Z",
+                "plannedExpirationDate": "2017-08-24T14:10:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy pigs and chickens to raise them and later sell them.",
+                "description": "Anabel studied until second grade. Her life partner makes a living in agriculture and they have two children who do not yet attend school.<br /><br />Anabel makes a living with domestic tasks, raising pigs and chickens, and making bedrolls. Through her work, she is able to support the costs of their home.<br /><br />The funding will be used to buy pigs and chickens to raise them and later sell.<br /><br />Her dreams are to have everything she needs in her house and to support her children so that they can one day be professionals.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It helps rural farmers and fishermen, while teaching sustainable agricultural practices.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1343658.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 15,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Animal Sales"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

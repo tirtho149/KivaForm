@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1372222,
+                "name": "Thiamjan",
+                "loanAmount": "7850.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-09-30T12:20:03Z",
+                "disbursalDate": "2017-08-19T07:00:00Z",
+                "plannedExpirationDate": "2017-10-30T12:20:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy chicken and feed.",
+                "description": "Thiamjan has an organic chicken farm in her native northern Thailand. She is now in her mid 30s.  <br /><br />She is a member of the Akha tribe in Chiang Rai, Thailand, one of several different ethnic groups who make their homes across the mountain ranges of southern China, Laos, Burma, Vietnam, and Thailand. <br /><br />For her entire life, she has grown vegetables on family land in the mountains near her home. But because the prices of her farm goods go up and down, her income is very unpredictable, and is rarely enough to support her family. <br /><br />She will buy 700 egg-laying hens to raise on her farmland. Selling the eggs she gets every day can potentially triple the income she makes currently. <br /><br />Her egg farm will give her and her family a monthly source of cash for their lives, which she plans to use to spend for daily life, her children's education and clear the family's debt.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Animals",
+                    "#Parent",
+                    "#Schooling",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It supports vulnerable hill tribe communities in the northern region of Thailand.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1372222.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TH",
+                        "name": "Thailand"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 279,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Poultry"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Hilltribe Organics Limited"
+            }
+        }
+    }
+}

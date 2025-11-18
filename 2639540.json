@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2639540,
+                "name": "Unaloto",
+                "loanAmount": "425.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-09-03T08:10:24Z",
+                "disbursalDate": "2023-08-23T07:00:00Z",
+                "plannedExpirationDate": "2023-10-08T08:10:24Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy chemicals and fertilizers for her plantation.",
+                "description": "Unaloto and her husband run a plantation business, where they grow mulberries and sell out at the local market. They grow crops only for family consumption, while focusing on growing mulberries and selling them. They have only one daughter and she is in high school. Her school fees are paid from the business income. Some of the women in their village buy the mulberries from them. It is a good source of income for Unaloto. <br /><br />In the future, she is hoping to learn the skills of making tapas, so she can join a group and make tapas. Unaloto applied for this loan to buy chemicals and fertilizers for their plantation.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women with credit in a country where alternative financing is extremely scarce.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2639540.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "TO",
+                        "name": "Tonga"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 12,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Tonga"
+            }
+        }
+    }
+}

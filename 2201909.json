@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2201909,
+                "name": "Susan",
+                "loanAmount": "475.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2021-07-05T15:20:16Z",
+                "disbursalDate": "2021-07-02T07:00:00Z",
+                "plannedExpirationDate": "2021-08-04T15:20:16Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy farm inputs such as certified quality fertilizer to improve her farming and eventually, through increased profits, improve her standard of living.",
+                "description": "Susan has a farm where she grows crops and raises livestock. She is 41 years old, married and a loving mother to three adorable children. She never had a formal education to a level that could earn her a white-collar job; however, she is content with the farming lifestyle. <br /><br />The Nyahururu area is a favorable one for farming, so she is seeking a 50,000 KES loan through Kiva's field partner Juhudi Kilimo. She will use it to buy farm inputs such as certified quality fertilizer to improve her farming and eventually, through increased profits, improve her standard of living. <br /><br />Being a woman and accessing funds in Kenya, especially around her home area, is very challenging. She feels relieved knowing there are institutions such as Kiva and the wonderful lenders who help hardworking women like her. She is always working to improve her family’s living conditions, but her biggest dreams are to become independent and support her parents and children by herself, and to buy a home. Susan is thankful to Kiva lenders in advance!",
+                "tags": [
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It finances smallholder farmers to purchase dairy cows, chickens, cereals, farm inputs and farming equipment.",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2201909.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 10,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Juhudi Kilimo"
+            }
+        }
+    }
+}

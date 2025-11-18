@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 632160,
+                "name": "Babirye",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-11-15T22:40:03Z",
+                "disbursalDate": "2013-10-18T07:00:00Z",
+                "plannedExpirationDate": "2014-01-14T22:40:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "To buy items to sell (sugar, soap, rice).",
+                "description": "Babirye, together with the husband, operate a retail shop in a rural trading center where they sell all household use items, like soap, salt, and sugar (to mention but a few). She is hard working and resilient.\r\n\r\nShe does small scale agriculture to supplement the income and also to put food on the table. \r\n\r\nThey thank Ugafode for giving them a helping hand and supporting their venture. \r\n\r\nIn the photograph is Babirye and her husband.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Interesting Photo"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/632160.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "UG",
+                        "name": "Uganda"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 30,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Retail"
+                },
+                "sector": {
+                    "name": "Retail"
+                },
+                "partnerName": "UGAFODE Microfinance"
+            }
+        }
+    }
+}

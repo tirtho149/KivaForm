@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1168315,
+                "name": "José Mauricio",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2016-10-16T11:30:02Z",
+                "disbursalDate": "2016-10-12T07:00:00Z",
+                "plannedExpirationDate": "2016-11-15T12:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase manure for the corn crop and, so, get an excellent harvest.",
+                "description": "José is 19 years old, studied up to the 4th grade of primary school, is single, and does not have children. He lives with his mother and grandmother and supports them economically. <br /><br />José is a very enterprising young man, he works selling milk, since he milks two cows. In addition, he grows corn to sell. He has approximately 10 years of experience in this work and learned it from his grandfather. The place he cultivates is 3 km from his house, he travels by foot and works from 6:00 to 11:00 am. <br /><br />José needs the support of a loan to purchase manure for the corn crop and, so, get an excellent harvest. <br /><br />He is a very visionary young man, he hopes to support his family so that they get ahead and to make good use of his earnings from his work.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Single",
+                    "#Supporting Family"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It targets young unemployed individuals to receive business training.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1168315.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SV",
+                        "name": "El Salvador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 17,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "CrediCampo"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2536696,
+                "name": "Davaasuren",
+                "loanAmount": "850.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-03-09T20:40:26Z",
+                "disbursalDate": "2023-02-07T08:00:00Z",
+                "plannedExpirationDate": "2023-04-13T19:40:26Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy vegetable seeds and repair and improve her machinery.",
+                "description": "Davaasuren is an entrepreneur who is working hard to expand her business. She is 46 years old and lives in a rural area with her husband. She is hardworking and diligent and started growing vegetables to meet her family's needs. This work has now developed into a business. <br /><br />Davaasuren has been growing vegetables for fifteen years and selling them for four years. She grows cabbage on three hectares and strives to deliver healthy vegetables grown in healthy soil without additional chemical ingredients. When she finally enjoys the results of her months of hard work, she is very happy. She brings her grown vegetables to the city and sells them in large markets. <br /><br />Davaasuren also employs 4-5 employees. The difficulties she faces include changes in vegetable prices and finding cellars in which to store her vegetables. The planting season will be here soon, so she has requested this loan to buy vegetable seeds and repair and improve her machinery. Davaasuren wants to expand her business in the future and build a leading company in the field of agriculture.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Unique"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "This loan will support the creation of new businesses and self-employment in poor communities.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2536696.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "MN",
+                        "name": "Mongolia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 31,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Production/Sales"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "VisionFund Mongolia"
+            }
+        }
+    }
+}

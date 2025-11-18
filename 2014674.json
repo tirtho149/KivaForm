@@ -1,0 +1,56 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2014674,
+                "name": "Talitiga",
+                "loanAmount": "1175.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2020-09-10T14:50:04Z",
+                "disbursalDate": "2020-08-28T07:00:00Z",
+                "plannedExpirationDate": "2020-10-25T14:50:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy a banana tube, taro roots, wheelbarrow, water tank, hand gloves, rake, shovel, chemicals.",
+                "description": "Talitiga is 47 years old with seven children. She operates a business selling banana and taro in her community to earn a living. She has been doing this for more than 2 years. Talitiga has requested a loan to buy a banana tube, taro roots, wheelbarrow, water tank, hand gloves, rake, shovel, and chemicals to assist her to run the business. She joined SPBD in 2015 and hopes to use her business profit to expand her business.",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Biz Durable Asset",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "It provides women with credit in a country where alternative financing is extremely scarce.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2014674.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "WS",
+                        "name": "Samoa"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 36,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Samoa"
+            }
+        }
+    }
+}

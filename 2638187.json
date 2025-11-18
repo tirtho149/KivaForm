@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2638187,
+                "name": "Sandra",
+                "loanAmount": "1550.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2023-09-01T16:23:17Z",
+                "disbursalDate": "2023-07-29T07:00:00Z",
+                "plannedExpirationDate": "2023-10-06T16:23:17Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase a motorcycle that will enhance her mobility between her crops and the local town.",
+                "description": "Sandra Patricia is an optimistic farmer who has been harvesting for more than 20 years in Suaza, Huila. She currently manages a two-and-a-half-hectare farm inherited from her father, where she cultivates over 11,000 coffee plants of three different varieties. Additionally, Sandra also cultivates plantains, which provide protection to her coffee crops, especially during harsh weather months.<br /><br />Sandra lives with her husband and two of her three children in a house they built five kilometers from her farm. Her husband and children are her main support, helping her with the daily tasks of the crops.<br /><br />Sandra is seeking a loan of 6,337,759 COP to purchase a motorcycle. This asset will improve her mobility through Cauca’s harsh roads, enhancing the efficiency of her agricultural activities.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Unique",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "Loan will be use to finance borrowers motorbikes purchase",
+                "hasCurrencyExchangeLossLenders": true,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2638187.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "CO",
+                        "name": "Colombia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 37,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Vehicle"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "FINAMIGA UNI2"
+            }
+        }
+    }
+}

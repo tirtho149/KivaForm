@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1346345,
+                "name": "Anonymous",
+                "loanAmount": "200.00",
+                "paidAmount": "0.00",
+                "status": "refunded",
+                "fundraisingDate": "2017-08-03T03:30:07Z",
+                "disbursalDate": "2017-09-28T07:00:00Z",
+                "plannedExpirationDate": "2017-09-02T03:30:07Z",
+                "distributionModel": "fieldPartner",
+                "use": "",
+                "description": "",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Parent",
+                    "#Schooling",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1346345.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SN",
+                        "name": "Senegal"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 7,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "MEC APROVAG"
+            }
+        }
+    }
+}

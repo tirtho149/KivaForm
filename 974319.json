@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 974319,
+                "name": "Luis Alberto",
+                "loanAmount": "1000.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-11-12T17:30:03Z",
+                "disbursalDate": "2015-10-19T07:00:00Z",
+                "plannedExpirationDate": "2015-12-12T17:30:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy seeds, chemical and organic fertilizers, animals, potatoes, barley, and wheat.",
+                "description": "Luis has six children. He lives with them and with his partner in the city of Guaranda.<br /><br />Luis grows potatoes, corn, and wheat. He also raises cattle. He is requesting a loan to buy seeds, chemical and organic fertilizers, animals, potatoes, barley, and wheat.<br /><br />The thing he likes the most is spending time with his children, and he loves the city's carnival. He is a very responsible man towards his family.",
+                "tags": [
+                    "volunteer_pick",
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Parent",
+                    "#Repeat Borrower"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/974319.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "EC",
+                        "name": "Ecuador"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 37,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Livestock"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Cooperativa San Jose"
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 921036,
+                "name": "Khern's Group",
+                "loanAmount": "500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-07-25T18:30:04Z",
+                "disbursalDate": "2015-06-25T07:00:00Z",
+                "plannedExpirationDate": "2015-08-24T18:30:04Z",
+                "distributionModel": "fieldPartner",
+                "use": "to pay the plowing fee, buy cassava seeds, and organic fertilizer.",
+                "description": "Khern is a 29-year0old married woman with two pre-school children.  She is a local farmer living in the Kam Rieng district of Battambang province,  She has grown rice and cassava  for ten years. Sometimes, she works for others for a fee to supplement income. \r\n\r\nHer cassava grows slowly and she lacks the capital to improve its growth. She leads a group of two to get a loan.  This is her first time with VisionFund (Kiva’s partner). She will spend her loan to pay the plowing fee, buy cassava seeds, and buy organic fertilizer. She hopes that she can earn more income to renovate her house so that her family members can live comfortably.",
+                "tags": [
+                    "#First Loan",
+                    "#Sustainable Ag",
+                    "#Parent"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 2,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/921036.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 18,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "VisionFund Cambodia"
+            }
+        }
+    }
+}

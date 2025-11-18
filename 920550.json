@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 920550,
+                "name": "Dila",
+                "loanAmount": "800.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-07-24T19:30:03Z",
+                "disbursalDate": "2015-07-14T07:00:00Z",
+                "plannedExpirationDate": "2015-08-23T19:30:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "to build a stable for the pigs and a henhouse.",
+                "description": "This is Dila feeding one of the adorable piglets with cucumber skins!\r\nDila is in her late fifties and is a rural mother of three, with 25 the oldest and 17 the youngest.  The loan that she is requesting from you will be used to build a stable for the pigs and to build a henhouse. She’s got some land around her house where she has planted around 50 olive groves, plums, persimmons and grapevines and sells fruits and other products such as olive oil and pickled olives and homemade red wine. In addition to this, she’s got about 60 chickens from which she sells eggs and of course, one saw, selling about 20 piglets a year. Her husband makes an income of $220/month. \r\n",
+                "tags": [
+                    "user_favorite",
+                    "#Woman-Owned Business",
+                    "#Sustainable Ag",
+                    "#Animals",
+                    "#Parent",
+                    "#Biz Durable Asset"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/920550.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "AL",
+                        "name": "Albania"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 28,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Construction Supplies"
+                },
+                "sector": {
+                    "name": "Construction"
+                },
+                "partnerName": "Agro & Social Fund"
+            }
+        }
+    }
+}

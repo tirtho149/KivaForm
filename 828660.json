@@ -1,0 +1,52 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 828660,
+                "name": "Than's Group",
+                "loanAmount": "1450.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-01-17T00:20:03Z",
+                "disbursalDate": "2014-12-19T08:00:00Z",
+                "plannedExpirationDate": "2015-02-16T00:20:03Z",
+                "distributionModel": "fieldPartner",
+                "use": "To build a decent latrine.",
+                "description": "Living in a rural area in Kampong Thom province, Than is 54 years old and a father of six dependent children. He earns an income to support his family by rice farming and cassava growing. He earns additional income by selling grocery items. He has been involved with these businesses for ages and they earn him about 7,700 KHR per day. \r\n\r\nFor Than, this is his second cycle with VisionFund (Kiva’s partner) and he has fully repaid his past loan. In a group of fourteen members, he is the group leader. He will spend his entire loan portion to build a decent latrine. He hopes that with this new latrine, he can improve his families health.\r\n",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Elderly",
+                    "#Parent",
+                    "#Health and Sanitation"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 14,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/828660.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "KH",
+                        "name": "Cambodia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 35,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Home Appliances"
+                },
+                "sector": {
+                    "name": "Personal Use"
+                },
+                "partnerName": "VisionFund Cambodia"
+            }
+        }
+    }
+}

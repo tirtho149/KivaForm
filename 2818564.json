@@ -1,0 +1,54 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 2818564,
+                "name": "Theresa",
+                "loanAmount": "625.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2024-08-18T19:45:40Z",
+                "disbursalDate": "2024-07-18T07:00:00Z",
+                "plannedExpirationDate": "2024-09-22T19:45:40Z",
+                "distributionModel": "fieldPartner",
+                "use": "to purchase trays, foils , and baby seaweed to grow.",
+                "description": "Theresa wants to thank her Kiva lenders for their support with her previous loan, which enabled her to purchase additional goods for her general store business.<br /><br />She has paid off her loan and requested a new loan to pay for trays, foils , and baby seaweed to grow for her food marketing business to earn additional income.<br /><br />She will use her profits to meet her family's financial needs and grow her business.",
+                "tags": [
+                    "user_favorite",
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Repeat Borrower",
+                    "#Repair Renew Replace"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "Its goal is to reach financially excluded and underserved people.",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/2818564.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "SB",
+                        "name": "Solomon Islands"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 22,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Food Market"
+                },
+                "sector": {
+                    "name": "Food"
+                },
+                "partnerName": "South Pacific Business Development (SPBD) - Solomon Islands"
+            }
+        }
+    }
+}

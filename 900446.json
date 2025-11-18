@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 900446,
+                "name": "Benedicta",
+                "loanAmount": "1500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2015-06-23T10:30:02Z",
+                "disbursalDate": "2015-05-13T07:00:00Z",
+                "plannedExpirationDate": "2015-07-23T10:30:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy organic fertilizer, potato seed and agrochemical products to increase her production and improve her income.",
+                "description": "Benedicta and her husband live in Cochabamba chapare province. She is 27 years old and married. Both are economically independent. They are dedicated to farming, planting potato, peppers and pumpkin. To sell their products, they use a consolidated market. Currently, she is requesting a loan to buy organic fertilizer, potato seed and agrochemical products since she invested her savings in the purchase of cattle and she does not have the money to make these purchases. With this, she will be able to increase her production and improve her income to change her family's living standards.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Interesting Photo"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/900446.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "BO",
+                        "name": "Bolivia"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 55,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Agriculture"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "CIDRE"
+            }
+        }
+    }
+}

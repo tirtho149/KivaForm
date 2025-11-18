@@ -1,0 +1,50 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 644247,
+                "name": "Shanda Udye Group",
+                "loanAmount": "2500.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2013-12-11T21:50:02Z",
+                "disbursalDate": "2013-12-09T08:00:00Z",
+                "plannedExpirationDate": "2014-02-09T21:50:02Z",
+                "distributionModel": "fieldPartner",
+                "use": "to buy tomato seeds and fertilizers.",
+                "description": "Lovemore is the leader of Shanda Udye Group. He is 47 years old, married, and has five children, ages 28, 26, 24,19 and 13 years respectively. The youngest is still attending primary education. \r\n\r\nHe is into farming in rural Chipinge in south eastern part of Zimbabwe. He has been in the business for eight years and sells tomatoes at the local market. He also earns extra income from his grinding mill business. \r\n\r\nHe intends to purchase some farming inputs, such as tomato seeds and fertilizers. He says that the extra income from this loan will help sustain his business, and in future, he will purchase the inputs on his own.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Vegan"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 5,
+                "whySpecial": null,
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/644247.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "ZW",
+                        "name": "Zimbabwe"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 95,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Microcred Zimbabwe"
+            }
+        }
+    }
+}

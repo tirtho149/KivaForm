@@ -1,0 +1,53 @@
+{
+    "data": {
+        "lend": {
+            "loan": {
+                "id": 1275988,
+                "name": "Dickson",
+                "loanAmount": "100.00",
+                "paidAmount": "0.00",
+                "status": "funded",
+                "fundraisingDate": "2017-04-22T05:40:14Z",
+                "disbursalDate": "2017-03-15T07:00:00Z",
+                "plannedExpirationDate": "2017-05-22T05:40:13Z",
+                "distributionModel": "fieldPartner",
+                "use": "to hire labor for weeding and pruning his oil palm field.",
+                "description": "Dickson is an organic and fair trade certified oil palm farmer who lives in Akim-Abaam in the Kwaebibirem District of the Eastern Region of Ghana, West Africa. He is 48 years old and married with four Children. Two of his children are still in Senior High School, and the others are in their Tertiary level and basic level of education. <br /><br />Dickson believes organic oil palm is sustainable and helps develop his community through job creation and infrastructural fair trade projects. For this reason, he wants to secure a Kiva Microloan so that he can weed and prune his oil palm fields for higher yields and more income.",
+                "tags": [
+                    "#Sustainable Ag",
+                    "#Eco-friendly",
+                    "#Vegan",
+                    "#Parent",
+                    "#Trees"
+                ],
+                "matchRatio": null,
+                "isMatchable": false,
+                "borrowerCount": 1,
+                "whySpecial": "To fund the creation of seasonal employment",
+                "hasCurrencyExchangeLossLenders": false,
+                "matchingText": "",
+                "image": {
+                    "url": "1360kivaImages/1275988.jpg"
+                },
+                "video": null,
+                "geocode": {
+                    "country": {
+                        "isoCode": "GH",
+                        "name": "Ghana"
+                    }
+                },
+                "lenders": {
+                    "totalCount": 4,
+                    "values": []
+                },
+                "activity": {
+                    "name": "Farming"
+                },
+                "sector": {
+                    "name": "Agriculture"
+                },
+                "partnerName": "Dr. Bronner's / Serendipalm"
+            }
+        }
+    }
+}
