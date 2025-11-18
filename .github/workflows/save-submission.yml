@@ -1,0 +1,31 @@
+name: Save Form Submission
+
+on:
+  repository_dispatch:
+    types: [form_submission]
+
+jobs:
+  save-submission:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Create submissions directory
+        run: mkdir -p submissions
+      
+      - name: Save submission data
+        run: |
+          TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+          echo '${{ toJson(github.event.client_payload) }}' > submissions/submission_${TIMESTAMP}.json
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add submissions/
+          git commit -m "Add form submission $(date +%Y-%m-%d_%H:%M:%S)" || echo "No changes to commit"
+          git push
